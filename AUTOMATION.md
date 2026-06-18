@@ -8,7 +8,9 @@ the workflow uses the built-in `GITHUB_TOKEN`.
 ## What the job does
 
 1. Loads hand-curated roles from `roles.json` (e.g., Ellipsis Labs).
-2. Fetches public lists (`vanshb03/New-Grad-2027`, `SimplifyJobs/New-Grad-Positions`).
+2. Fetches public lists (5 sources: `vanshb03/New-Grad-2027`,
+   `SimplifyJobs/New-Grad-Positions`, `zapplyjobs/New-Grad-Jobs-2026`,
+   `ambicuity/New-Grad-Jobs`, `jobright-ai/2026-Software-Engineer-New-Grad`).
 3. Keeps **only** roles that are **strictly 2027** *and* **SWE / AI-ML / Full-Stack**
    *and* international-student-friendly (drops 🛂 no-sponsorship, 🇺🇸 citizen-only, 🔒 closed).
 4. Regenerates the table in `README.md` and commits it **only when content changed**
@@ -40,6 +42,22 @@ DRY_RUN=1 python update_tracker.py   # writes README.md locally, no commit
 
 Edit `roles.json`, then commit/push. The next run merges it with the
 auto-fetched roles (de-duplicated by URL).
+
+## Run history
+
+Every execution appends one row to [`fetch_history.csv`](fetch_history.csv):
+
+| Column | Meaning |
+| --- | --- |
+| `fetched_at_utc` | When the run fetched the sources (ISO-8601, UTC) |
+| `total_listings` | Roles in the README after merge + de-dupe |
+| `seed_listings` | Hand-curated roles from `roles.json` |
+| `matched_from_sources` | Strictly-2027 matches pulled from the source lists |
+| `rows_scanned` | Total source table rows examined that run |
+| `sources_ok` | Which sources fetched successfully (`;`-separated) |
+| `readme_updated` | Whether the README content actually changed |
+
+The file is created automatically on the first run.
 
 ## Cost
 
