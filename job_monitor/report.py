@@ -133,19 +133,19 @@ def build_new_report(
 def digest_table(jobs: list[Job]) -> str:
     """Markdown table for the GitHub issue digest."""
     lines = [
-        "| Company | Title | Location | Score | Sponsorship | Key reason | Apply |",
-        "| --- | --- | --- | :---: | --- | --- | --- |",
+        "| Apply | Company | Title | Location | Score | Sponsorship | Key reason |",
+        "| --- | --- | --- | --- | :---: | --- | --- |",
     ]
     for job in jobs:
         reason = job.sponsorship_evidence or job.score_explanation
         lines.append(
+            f"| [Apply]({job.application_url}) "
             f"| {md_escape(job.company)} "
             f"| {md_escape(job.title)} "
             f"| {md_escape(truncate(job.location, 60))} "
             f"| {job.overall_score} "
             f"| {_SPONSOR_BADGE.get(job.sponsorship_classification, job.sponsorship_classification)} "
-            f"| {md_escape(truncate(reason, 160))} "
-            f"| [Apply]({job.application_url}) |"
+            f"| {md_escape(truncate(reason, 160))} |"
         )
     return "\n".join(lines)
 
@@ -154,11 +154,12 @@ def _jobs_table(jobs: list[Job]) -> list[str]:
     if not jobs:
         return ["_None right now._"]
     lines = [
-        "| Company | Title | Location | Score | Sponsorship | Evidence | Why this score | Posted | Apply |",
-        "| --- | --- | --- | :---: | --- | --- | --- | --- | --- |",
+        "| Apply | Company | Title | Location | Score | Sponsorship | Evidence | Why this score | Posted |",
+        "| --- | --- | --- | --- | :---: | --- | --- | --- | --- |",
     ]
     for job in jobs:
         lines.append(
+            f"| [Apply]({job.application_url}) "
             f"| {md_escape(job.company)} "
             f"| {md_escape(job.title)} "
             f"| {md_escape(truncate(job.location, 60))} "
@@ -166,8 +167,7 @@ def _jobs_table(jobs: list[Job]) -> list[str]:
             f"| {_SPONSOR_BADGE.get(job.sponsorship_classification, job.sponsorship_classification)} "
             f"| {md_escape(truncate(job.sponsorship_evidence, 180)) or '—'} "
             f"| {md_escape(truncate(job.score_explanation, 220))} "
-            f"| {job.date_posted or '—'} "
-            f"| [Apply]({job.application_url}) |"
+            f"| {job.date_posted or '—'} |"
         )
     return lines
 

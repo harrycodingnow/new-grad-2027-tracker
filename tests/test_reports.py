@@ -101,4 +101,11 @@ def test_digest_table_truncates_and_links():
     long_evidence = "sponsorship " * 40
     md = digest_table([job(sponsorship_evidence=long_evidence)])
     assert "[Apply](https://example.test/jobs/1)" in md
+    assert md.startswith("| Apply | Company |")
     assert "…" in md  # evidence truncated
+
+
+def test_jobs_table_puts_apply_first(filters):
+    md = build_new_report([job()], filters, priorities={}, now=NOW)
+    assert "| Apply | Company | Title |" in md
+    assert "| [Apply](https://example.test/jobs/1) | ExampleCorp |" in md
