@@ -4,7 +4,6 @@ Two modes:
 
 1. Presets — `source_identifier` selects a built-in fetcher for well-known
    public career APIs:
-       microsoft                          Microsoft GCS search API
        amazon                             amazon.jobs search.json
        google                             careers.google.com API
        uber                               uber.com careers API
@@ -12,7 +11,9 @@ Two modes:
        oracle                             Oracle HCM recruiting API
        salesforce                         careers.salesforce.com API
        smartrecruiters:{company}          SmartRecruiters public postings API
-       eightfold:{host}:{domain}          Eightfold-hosted career sites
+
+Eightfold-hosted sites use the dedicated `eightfold` adapter (PCSX API); the
+legacy /api/apply/v2/jobs preset was removed when tenants migrated to PCSX.
 
 2. Generic — `adapter_config` describes the request, pagination, and dot-path
    field mappings (see README "Adding a company"). Placeholders {offset},
@@ -84,64 +85,6 @@ class JsonAdapter(Adapter):
     # ------------------------------------------------------------- presets
     def _queries(self) -> list[str]:
         return list(self.company.adapter_config.get("queries") or DEFAULT_QUERIES)
-
-    def _fetch_microsoft(self) -> list[Job]:
-        base = "https://gcsservices.careers.microsoft.com/search/api/v1"
-        found: dict[str, dict] = {}
-        for query in self._queries():
-            for page in range(1, int(self.company.adapter_config.get("max_pages", 3)) + 1):
-                params = {
-                    "q": query,
-                    "lc": "United States",
-                    "l": "en_us",
-                    "pg": page,
-                    "pgSz": 20,
-                    "o": "Recent",
-                    "flt": "true",
-                }
-                data = self.client.get_json(f"{base}/search", params=params)
-                jobs = dig(data, "operationResult.result.jobs")
-                if jobs is None:
-                    raise StructureChangedError(f"{self.company.name}: unexpected GCS response")
-                for item in jobs:
-                    job_id = str(item.get("jobId", ""))
-                    if job_id:
-                        found.setdefault(job_id, item)
-                if len(jobs) < 20:
-                    break
-
-        out: list[Job] = []
-        details_fetched = 0
-        for job_id, item in found.items():
-            props = item.get("properties") or {}
-            job = self.new_job(
-                source_job_id=job_id,
-                title=item.get("title", "") or "",
-                location=as_text(props.get("locations") or props.get("primaryLocation")),
-                country="United States",
-                description=strip_html(props.get("description", "") or ""),
-                employment_type=props.get("employmentType", "") or "",
-                application_url=f"https://jobs.careers.microsoft.com/global/en/job/{job_id}/",
-                source_url=f"https://jobs.careers.microsoft.com/global/en/job/{job_id}/",
-                date_posted=(item.get("postingDate") or "")[:10],
-            )
-            if self.title_prefilter(job.title) and details_fetched < self.detail_fetch_cap:
-                details_fetched += 1
-                try:
-                    detail = self.client.get_json(f"{base}/job/{job_id}", params={"lang": "en_us"})
-                    result = dig(detail, "operationResult.result") or {}
-                    text_parts = [
-                        strip_html(result.get(k, "") or "")
-                        for k in ("description", "qualifications", "responsibilities")
-                    ]
-                    job.description = " ".join(p for p in text_parts if p) or job.description
-                    job.requirements = strip_html(result.get("qualifications", "") or "")
-                except Exception as exc:
-                    log.warning(
-                        "%s: detail fetch failed for %s: %s", self.company.name, job_id, exc
-                    )
-            out.append(job)
-        return out
 
     def _fetch_amazon(self) -> list[Job]:
         found: dict[str, dict] = {}
@@ -378,69 +321,6 @@ class JsonAdapter(Adapter):
             out.append(job)
         return out
 
-    def _fetch_eightfold(self) -> list[Job]:
-        parts = self.company.source_identifier.split(":")
-        if len(parts) != 3:
-            raise InvalidConfigError(f"{self.company.name}: use eightfold:{{host}}:{{domain}}")
-        _, host, domain = parts
-        base = f"https://{host}/api/apply/v2/jobs"
-        found: dict[str, dict] = {}
-        for query in self._queries():
-            start = 0
-            for _ in range(int(self.company.adapter_config.get("max_pages", 3))):
-                params = {
-                    "domain": domain,
-                    "query": query,
-                    "location": "United States",
-                    "start": start,
-                    "num": 10,
-                    "sort_by": "timestamp",
-                }
-                data = self.client.get_json(base, params=params)
-                positions = data.get("positions")
-                if positions is None:
-                    raise StructureChangedError(
-                        f"{self.company.name}: unexpected eightfold response"
-                    )
-                for item in positions:
-                    key = str(item.get("id", ""))
-                    if key:
-                        found.setdefault(key, item)
-                start += 10
-                if start >= int(data.get("count", 0)) or not positions:
-                    break
-
-        out: list[Job] = []
-        details_fetched = 0
-        for key, item in found.items():
-            url = (
-                item.get("canonicalPositionUrl")
-                or f"https://{host}/careers?pid={key}&domain={domain}"
-            )
-            job = self.new_job(
-                source_job_id=key,
-                title=item.get("name", "") or "",
-                location=as_text(item.get("locations") or item.get("location")),
-                department=item.get("department", "") or "",
-                description=strip_html(item.get("job_description", "") or ""),
-                application_url=url,
-                source_url=url,
-                date_posted=_epoch_date(item.get("t_create")),
-            )
-            if (
-                not job.description
-                and self.title_prefilter(job.title)
-                and details_fetched < self.detail_fetch_cap
-            ):
-                details_fetched += 1
-                try:
-                    detail = self.client.get_json(f"{base}/{key}", params={"domain": domain})
-                    job.description = strip_html(dig(detail, "job_description") or "")
-                except Exception as exc:
-                    log.warning("%s: detail fetch failed for %s: %s", self.company.name, key, exc)
-            out.append(job)
-        return out
-
     def _fetch_oracle(self) -> list[Job]:
         base = (
             "https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/"
@@ -596,15 +476,6 @@ def _substitute(body: Any, subs: dict[str, Any]) -> Any:
         formatted = body.format(**subs)
         return int(formatted) if formatted.isdigit() and body.strip("{}") in subs else formatted
     return body
-
-
-def _epoch_date(value: Any) -> str:
-    from datetime import UTC, datetime
-
-    try:
-        return datetime.fromtimestamp(float(value), tz=UTC).date().isoformat()
-    except (TypeError, ValueError):
-        return ""
 
 
 def _us_date(value: str) -> str:

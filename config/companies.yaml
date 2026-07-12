@@ -5,7 +5,7 @@
 #   enabled           set false to skip the company
 #   priority          1 = highest, used for sorting reports
 #   careers_url       human-facing careers page
-#   source_type       greenhouse | lever | ashby | workday | json | jsonld | html | playwright | unresolved
+#   source_type       greenhouse | lever | ashby | workday | eightfold | json | jsonld | html | playwright | unresolved
 #   source_identifier adapter-specific identifier (board token, workday host/tenant/site,
 #                     json preset such as smartrecruiters:{company})
 #   locations         terms used to keep only matching locations (word-boundary match, US focus)
@@ -29,16 +29,16 @@ companies:
   - name: Microsoft
     enabled: true
     priority: 1
-    careers_url: https://careers.microsoft.com/
-    source_type: json
-    source_identifier: microsoft
+    careers_url: https://apply.careers.microsoft.com/careers?domain=microsoft.com
+    source_type: eightfold
+    source_identifier: apply.careers.microsoft.com/microsoft.com
     <<: *us
     adapter_config:
       queries: ["software engineer", "graduate", "machine learning engineer"]
     notes: >-
-      Public GCS search API. VALIDATION PENDING: endpoint was unreachable from the
-      (non-US) validation network on 2026-07-12; expected to work from US-based
-      GitHub runners — confirm via the first Actions run / source_health.json.
+      Migrated to Eightfold PCSX (validated 2026-07-13); the old GCS search API
+      (gcsservices.careers.microsoft.com) is dead — its cert no longer matches
+      and the path 404s even ignoring TLS.
 
   - name: Amazon
     enabled: true
@@ -64,16 +64,15 @@ companies:
     notes: "Workday CXS API (validated 2026-07-12, ~2000 US postings)."
 
   - name: Qualcomm
-    enabled: false
+    enabled: true
     priority: 1
     careers_url: https://careers.qualcomm.com/
-    source_type: unresolved
-    source_identifier: ""
+    source_type: eightfold
+    source_identifier: careers.qualcomm.com/qualcomm.com
     <<: *us
     notes: >-
-      UNRESOLVED (2026-07-12): careers.qualcomm.com is Eightfold-hosted but the
-      public jobs API returns 403 "Not authorized"; old Workday tenant is not
-      public. Check manually.
+      Eightfold PCSX API (validated 2026-07-13). The legacy /api/apply/v2/jobs
+      endpoint still 403s ("Not authorized for PCSX").
 
   - name: Google
     enabled: false
@@ -337,15 +336,13 @@ companies:
     notes: "Workday CXS API (validated 2026-07-12, ~1800 postings)."
 
   - name: Lam Research
-    enabled: false
+    enabled: true
     priority: 3
     careers_url: https://careers.lamresearch.com/
-    source_type: unresolved
-    source_identifier: ""
+    source_type: eightfold
+    source_identifier: careers.lamresearch.com/lamresearch.com
     <<: *us
-    notes: >-
-      UNRESOLVED (2026-07-12): Eightfold-hosted site; public jobs API returns
-      403 "Not authorized". Check manually.
+    notes: "Eightfold PCSX API (validated 2026-07-13)."
 
   - name: KLA
     enabled: true
@@ -488,15 +485,13 @@ companies:
     notes: "UNRESOLVED: Phenom-hosted site without a stable public JSON API. Check manually."
 
   - name: Morgan Stanley
-    enabled: false
+    enabled: true
     priority: 2
     careers_url: https://www.morganstanley.com/careers
-    source_type: unresolved
-    source_identifier: ""
+    source_type: eightfold
+    source_identifier: morganstanley.eightfold.ai/morganstanley.com
     <<: *us
-    notes: >-
-      UNRESOLVED (2026-07-12): morganstanley.eightfold.ai public jobs API
-      returns 403 "Not authorized". Check manually.
+    notes: "Eightfold PCSX API (validated 2026-07-13)."
 
   - name: Visa
     enabled: false
@@ -520,12 +515,10 @@ companies:
     notes: "Workday CXS API (validated 2026-07-12, 532 postings)."
 
   - name: PayPal
-    enabled: false
+    enabled: true
     priority: 2
     careers_url: https://careers.pypl.com/
-    source_type: unresolved
-    source_identifier: ""
+    source_type: eightfold
+    source_identifier: paypal.eightfold.ai/paypal.com
     <<: *us
-    notes: >-
-      UNRESOLVED (2026-07-12): paypal.eightfold.ai public jobs API returns 403
-      "Not authorized". Check manually.
+    notes: "Eightfold PCSX API (validated 2026-07-13)."

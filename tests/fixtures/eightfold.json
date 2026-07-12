@@ -1,0 +1,51 @@
+{
+  "search": {
+    "status": 200,
+    "error": {"message": "", "body": ""},
+    "data": {
+      "count": 2,
+      "sortBy": "timestamp",
+      "positions": [
+        {
+          "id": 1970393556640555,
+          "displayJobId": "200014796",
+          "name": "Software Engineer, New Grad (2027)",
+          "locations": ["United States, Washington, Redmond"],
+          "standardizedLocations": ["Redmond, WA, US"],
+          "postedTs": 1782086400,
+          "department": "Software Engineering",
+          "creationTs": 1781481600,
+          "workLocationOption": "onsite",
+          "atsJobId": "200014796",
+          "positionUrl": "/careers/job/1970393556640555"
+        },
+        {
+          "id": 1970393556640999,
+          "displayJobId": "200014999",
+          "name": "Principal Software Engineering Manager",
+          "locations": ["United States, Washington, Redmond"],
+          "standardizedLocations": ["Redmond, WA, US"],
+          "postedTs": 1781481600,
+          "department": "Software Engineering",
+          "creationTs": 1781481600,
+          "workLocationOption": "remote",
+          "atsJobId": "200014999",
+          "positionUrl": "/careers/job/1970393556640999"
+        }
+      ]
+    }
+  },
+  "details": {
+    "status": 200,
+    "error": {"message": "", "body": ""},
+    "data": {
+      "id": 1970393556640555,
+      "displayJobId": "200014796",
+      "name": "Software Engineer, New Grad (2027)",
+      "location": "United States, Washington, Redmond",
+      "jobDescription": "<b>Overview</b><p>Join us as a new grad. Visa sponsorship available for this role.</p>",
+      "efcustomTextEmploymentType": ["Full-Time"],
+      "publicUrl": "https://apply.careers.example.com/careers/job/1970393556640555"
+    }
+  }
+}

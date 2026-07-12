@@ -7,6 +7,7 @@ from ..errors import UnsupportedSourceError
 from ..http import HttpClient
 from .ashby import AshbyAdapter
 from .base import Adapter, TitlePrefilter
+from .eightfold import EightfoldAdapter
 from .greenhouse import GreenhouseAdapter
 from .html_page import HtmlAdapter
 from .json_endpoint import JsonAdapter
@@ -16,6 +17,7 @@ from .playwright_page import PlaywrightAdapter
 from .workday import WorkdayAdapter
 
 _ADAPTERS: dict[str, type[Adapter]] = {
+    "eightfold": EightfoldAdapter,
     "greenhouse": GreenhouseAdapter,
     "lever": LeverAdapter,
     "ashby": AshbyAdapter,

@@ -5,6 +5,7 @@ from __future__ import annotations
 import pytest
 
 from job_monitor.adapters.ashby import AshbyAdapter
+from job_monitor.adapters.eightfold import EightfoldAdapter
 from job_monitor.adapters.greenhouse import GreenhouseAdapter
 from job_monitor.adapters.html_page import HtmlAdapter
 from job_monitor.adapters.json_endpoint import JsonAdapter, dig
@@ -61,6 +62,54 @@ def test_ashby_parsing():
     assert "Chicago, IL" in job.location and "New York, NY" in job.location
     assert job.date_posted == "2026-07-05"
     assert "Immigration sponsorship available" in job.description
+
+
+def test_eightfold_parsing():
+    fixture = load_fixture("eightfold.json")
+    client = FakeClient(
+        routes={
+            "api/pcsx/search": fixture["search"],
+            "api/pcsx/position_details": fixture["details"],
+        }
+    )
+    company = make_company(
+        source_type="eightfold",
+        source_identifier="apply.careers.example.com/example.com",
+    )
+
+    def new_grad_only(title: str) -> bool:
+        return "New Grad" in title
+
+    jobs = EightfoldAdapter(company, client, title_prefilter=new_grad_only).fetch()
+    assert len(jobs) == 2
+    by_id = {j.source_job_id: j for j in jobs}
+
+    job = by_id["200014796"]
+    assert job.title == "Software Engineer, New Grad (2027)"
+    assert job.source_type == "eightfold"
+    assert job.date_posted == "2026-06-22"
+    assert job.workplace_type == "onsite"
+    assert job.employment_type == "Full-Time"
+    assert job.application_url == "https://apply.careers.example.com/careers/job/1970393556640555"
+    assert "Visa sponsorship available" in job.description
+    assert "<" not in job.description  # HTML stripped
+
+    # Prefiltered-out title: listed without a detail fetch.
+    manager = by_id["200014999"]
+    assert manager.date_posted == "2026-06-15"
+    assert manager.description == ""
+    detail_calls = [u for u in client.calls if "position_details" in u]
+    assert len(detail_calls) == 1
+
+
+def test_eightfold_tenant_error_is_structure_change():
+    payload = {"status": "failure", "errorCode": None, "errorMsg": "Tenant not identified"}
+    client = FakeClient(routes={"api/pcsx/search": payload})
+    company = make_company(
+        source_type="eightfold", source_identifier="careers.example.com/example.com"
+    )
+    with pytest.raises(StructureChangedError):
+        EightfoldAdapter(company, client).fetch()
 
 
 def test_jsonld_parsing():

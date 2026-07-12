@@ -11,6 +11,7 @@ import yaml
 CONFIG_DIR = Path(__file__).resolve().parent.parent / "config"
 
 VALID_SOURCE_TYPES = {
+    "eightfold",
     "greenhouse",
     "lever",
     "ashby",
