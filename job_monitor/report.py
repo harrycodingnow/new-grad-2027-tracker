@@ -154,8 +154,8 @@ def _jobs_table(jobs: list[Job]) -> list[str]:
     if not jobs:
         return ["_None right now._"]
     lines = [
-        "| Apply | Company | Title | Location | Score | Sponsorship | Evidence | Why this score | Posted |",
-        "| --- | --- | --- | --- | :---: | --- | --- | --- | --- |",
+        "| Apply | Company | Title | Location | Sponsorship | Posted |",
+        "| --- | --- | --- | --- | --- | --- |",
     ]
     for job in jobs:
         lines.append(
@@ -163,10 +163,7 @@ def _jobs_table(jobs: list[Job]) -> list[str]:
             f"| {md_escape(job.company)} "
             f"| {md_escape(job.title)} "
             f"| {md_escape(truncate(job.location, 60))} "
-            f"| {job.overall_score} "
             f"| {_SPONSOR_BADGE.get(job.sponsorship_classification, job.sponsorship_classification)} "
-            f"| {md_escape(truncate(job.sponsorship_evidence, 180)) or '—'} "
-            f"| {md_escape(truncate(job.score_explanation, 220))} "
             f"| {job.date_posted or '—'} |"
         )
     return lines

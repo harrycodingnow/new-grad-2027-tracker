@@ -109,3 +109,6 @@ def test_jobs_table_puts_apply_first(filters):
     md = build_new_report([job()], filters, priorities={}, now=NOW)
     assert "| Apply | Company | Title |" in md
     assert "| [Apply](https://example.test/jobs/1) | ExampleCorp |" in md
+    assert "| Score |" not in md
+    assert "| Evidence |" not in md
+    assert "| Why this score |" not in md
