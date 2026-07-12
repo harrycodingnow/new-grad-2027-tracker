@@ -1,0 +1,54 @@
+{
+  "jobs": [
+    {
+      "id": 4011001,
+      "title": "Software Engineer, New Grad (2027)",
+      "updated_at": "2026-07-01T12:00:00-04:00",
+      "first_published": "2026-06-28T09:00:00-04:00",
+      "absolute_url": "https://boards.greenhouse.io/examplecorp/jobs/4011001?gh_src=abc123",
+      "location": { "name": "New York, NY" },
+      "departments": [{ "id": 1, "name": "Engineering" }],
+      "content": "&lt;div&gt;&lt;p&gt;We are hiring new graduates (class of 2027) to build backend systems in Python and TypeScript on AWS.&lt;/p&gt;&lt;p&gt;Visa sponsorship available for this role, including H-1B sponsorship and STEM OPT accepted.&lt;/p&gt;&lt;/div&gt;"
+    },
+    {
+      "id": 4011002,
+      "title": "Senior Software Engineer, Platform",
+      "updated_at": "2026-07-02T12:00:00-04:00",
+      "first_published": "2026-05-11T09:00:00-04:00",
+      "absolute_url": "https://boards.greenhouse.io/examplecorp/jobs/4011002",
+      "location": { "name": "San Francisco, CA" },
+      "departments": [{ "id": 1, "name": "Engineering" }],
+      "content": "&lt;p&gt;8+ years of experience required. We are unable to sponsor visas for this position.&lt;/p&gt;"
+    },
+    {
+      "id": 4011003,
+      "title": "Machine Learning Engineer, Early Career",
+      "updated_at": "2026-07-03T12:00:00-04:00",
+      "first_published": "2026-07-03T09:00:00-04:00",
+      "absolute_url": "https://boards.greenhouse.io/examplecorp/jobs/4011003",
+      "location": { "name": "Seattle, WA" },
+      "departments": [{ "id": 2, "name": "AI Platform" }],
+      "content": "&lt;p&gt;Join our LLM evaluation team. Experience with Python, RAG pipelines and distributed systems is a plus. Employment is contingent on your ability to work in the United States; this role is not eligible for visa sponsorship now or in the future.&lt;/p&gt;"
+    },
+    {
+      "id": 4011004,
+      "title": "Defense Systems Software Engineer I",
+      "updated_at": "2026-07-03T12:00:00-04:00",
+      "first_published": "2026-07-01T09:00:00-04:00",
+      "absolute_url": "https://boards.greenhouse.io/examplecorp/jobs/4011004",
+      "location": { "name": "Arlington, VA" },
+      "departments": [{ "id": 3, "name": "Defense" }],
+      "content": "&lt;p&gt;Entry level engineers welcome. Active security clearance required; U.S. citizenship is required due to ITAR restrictions.&lt;/p&gt;"
+    },
+    {
+      "id": 4011005,
+      "title": "Data Engineer, University Graduate",
+      "updated_at": "2026-07-04T12:00:00-04:00",
+      "first_published": "2026-07-02T09:00:00-04:00",
+      "absolute_url": "https://boards.greenhouse.io/examplecorp/jobs/4011005",
+      "location": { "name": "London, United Kingdom" },
+      "departments": [{ "id": 1, "name": "Engineering" }],
+      "content": "&lt;p&gt;Build data pipelines with SQL and Python in our London office.&lt;/p&gt;"
+    }
+  ]
+}

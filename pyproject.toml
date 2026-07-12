@@ -1,0 +1,40 @@
+[project]
+name = "job-monitor"
+version = "1.0.0"
+description = "Automated monitor for US new-grad software jobs relevant to an international student (May 2027 / Dec 2026 graduation, F-1 OPT/STEM OPT)."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+dependencies = [
+    "requests>=2.32,<3",
+    "PyYAML>=6.0,<7",
+    "beautifulsoup4>=4.12,<5",
+]
+
+[project.optional-dependencies]
+browser = ["playwright>=1.45"]
+dev = [
+    "pytest>=8.2",
+    "ruff>=0.5",
+    "pre-commit>=3.7",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["job_monitor*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "C4", "SIM", "RUF"]
+ignore = ["E501", "SIM108", "SIM105", "RUF001", "C408"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = ["ignore::DeprecationWarning"]

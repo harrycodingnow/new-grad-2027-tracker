@@ -1,0 +1,87 @@
+name: Job monitor
+
+on:
+  schedule:
+    # Four times a day, off the top of the hour to avoid the GitHub cron rush.
+    - cron: "23 2 * * *"
+    - cron: "23 8 * * *"
+    - cron: "23 14 * * *"
+    - cron: "23 20 * * *"
+  workflow_dispatch:
+    inputs:
+      companies:
+        description: "Space-separated company names to run (empty = all)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  issues: write
+
+# Never let two runs interleave commits / data writes.
+concurrency:
+  group: job-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Get the latest commit even if a previous run just pushed.
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.lock
+
+      - name: Install locked dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.lock
+          pip install -e . --no-deps
+
+      - name: Lint
+        run: ruff check job_monitor tests
+
+      - name: Tests (offline)
+        run: pytest
+
+      - name: Run monitor
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          ARGS=""
+          for c in ${{ inputs.companies || '' }}; do ARGS="$ARGS --company $c"; done
+          python -m job_monitor $ARGS 2> >(tee monitor.log >&2)
+
+      - name: Commit updated data
+        run: |
+          git config user.name "job-monitor-bot"
+          git config user.email "job-monitor-bot@users.noreply.github.com"
+          git add data docs/data ACTIVE_JOBS.md NEW_JOBS.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(jobs): update monitored openings [skip ci]"
+            git pull --rebase origin ${{ github.ref_name }}
+            git push origin HEAD:${{ github.ref_name }}
+          fi
+
+      - name: Upload logs and source health on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: monitor-failure-${{ github.run_id }}
+          path: |
+            monitor.log
+            data/source_health.json
+          if-no-files-found: ignore
+          retention-days: 14

@@ -1,5 +1,25 @@
+# Python
 __pycache__/
-*.pyc
-.env
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
 .venv/
 venv/
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Environment / secrets
+.env
+
+# Logs and local scratch
+*.log
+logs/
+.DS_Store
+
+# Playwright browser downloads
+.playwright/

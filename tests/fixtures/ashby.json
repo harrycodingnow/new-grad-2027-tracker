@@ -1,0 +1,41 @@
+{
+  "apiVersion": "1",
+  "jobs": [
+    {
+      "id": "e1f2a3b4-0001",
+      "title": "Full-Stack Engineer (Entry Level)",
+      "location": "Chicago, IL",
+      "secondaryLocations": [{ "location": "New York, NY" }],
+      "department": "Product Engineering",
+      "team": "Growth",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "isRemote": false,
+      "publishedAt": "2026-07-05T00:00:00.000Z",
+      "jobUrl": "https://jobs.ashbyhq.com/examplecorp/e1f2a3b4-0001",
+      "applyUrl": "https://jobs.ashbyhq.com/examplecorp/e1f2a3b4-0001/application",
+      "descriptionHtml": "<p>TypeScript + React + Node. Immigration sponsorship available: we support work visa and green-card processes.</p>"
+    },
+    {
+      "id": "e1f2a3b4-0002",
+      "title": "Staff Infrastructure Engineer",
+      "location": "Remote - US",
+      "secondaryLocations": [],
+      "department": "Infrastructure",
+      "employmentType": "FullTime",
+      "isListed": true,
+      "isRemote": true,
+      "publishedAt": "2026-06-01T00:00:00.000Z",
+      "jobUrl": "https://jobs.ashbyhq.com/examplecorp/e1f2a3b4-0002",
+      "applyUrl": "https://jobs.ashbyhq.com/examplecorp/e1f2a3b4-0002/application",
+      "descriptionHtml": "<p>10+ years required.</p>"
+    },
+    {
+      "id": "e1f2a3b4-0003",
+      "title": "Unlisted Role",
+      "isListed": false,
+      "location": "Nowhere",
+      "descriptionHtml": "<p>hidden</p>"
+    }
+  ]
+}

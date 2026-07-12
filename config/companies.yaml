@@ -1,0 +1,531 @@
+# Monitored companies.
+#
+# Fields:
+#   name              display name (must be unique)
+#   enabled           set false to skip the company
+#   priority          1 = highest, used for sorting reports
+#   careers_url       human-facing careers page
+#   source_type       greenhouse | lever | ashby | workday | json | jsonld | html | playwright | unresolved
+#   source_identifier adapter-specific identifier (board token, workday host/tenant/site,
+#                     json preset such as smartrecruiters:{company})
+#   locations         terms used to keep only matching locations (word-boundary match, US focus)
+#   notes             free text; live-validation status is recorded here
+#   adapter_config    optional extra configuration (queries, max_pages, selectors, ...)
+#
+# source_type: unresolved marks companies whose public source could not be
+# discovered or collected responsibly (JS-only portals, restricted APIs,
+# blocked crawlers). They are skipped at runtime and reported as unsupported
+# in source health so they stay visible. Do NOT guess identifiers — validate
+# with `python -m job_monitor validate-sources` before enabling.
+#
+# Live validation last run 2026-07-12 from a non-US network; see README
+# "Company support" for the per-company table.
+
+defaults: &us
+  locations: ["United States", "US", "USA", "Remote - US", "US Remote", "Remote, US", "New York", "NYC", "San Francisco", "Seattle", "Austin", "Chicago", "Boston", "Bellevue", "Sunnyvale", "Mountain View", "Santa Clara", "San Jose", "San Diego", "Redmond", "Denver", "Atlanta", "Houston", "Dallas", "Portland", "Los Angeles", "Palo Alto", "Menlo Park", "Cupertino", "Irvine", "Phoenix", "Raleigh", "Durham", "Boise", "Folsom", "Hillsboro", "Fort Collins", "Cambridge", "Pittsburgh", "Madison", "Ann Arbor", "Salt Lake City", "Reston", "Arlington", "Washington", "Miami", "Nashville", "Minneapolis", "Charlotte", "Columbus", "Detroit", "Philadelphia", "Jersey City", "Greenwich", "Stamford", "United States of America"]
+
+companies:
+  # ---------------------------------------------------------------- priority 1
+  - name: Microsoft
+    enabled: true
+    priority: 1
+    careers_url: https://careers.microsoft.com/
+    source_type: json
+    source_identifier: microsoft
+    <<: *us
+    adapter_config:
+      queries: ["software engineer", "graduate", "machine learning engineer"]
+    notes: >-
+      Public GCS search API. VALIDATION PENDING: endpoint was unreachable from the
+      (non-US) validation network on 2026-07-12; expected to work from US-based
+      GitHub runners — confirm via the first Actions run / source_health.json.
+
+  - name: Amazon
+    enabled: true
+    priority: 1
+    careers_url: https://www.amazon.jobs/
+    source_type: json
+    source_identifier: amazon
+    <<: *us
+    adapter_config:
+      queries: ["software development engineer", "software engineer", "data engineer"]
+    notes: >-
+      Covers Amazon and AWS via the public amazon.jobs search.json API
+      (validated 2026-07-12). Note: base_query uses strict matching, so queries
+      are broad role names and the title gate does the narrowing.
+
+  - name: NVIDIA
+    enabled: true
+    priority: 1
+    careers_url: https://www.nvidia.com/en-us/about-nvidia/careers/
+    source_type: workday
+    source_identifier: nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite
+    <<: *us
+    notes: "Workday CXS API (validated 2026-07-12, ~2000 US postings)."
+
+  - name: Qualcomm
+    enabled: false
+    priority: 1
+    careers_url: https://careers.qualcomm.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): careers.qualcomm.com is Eightfold-hosted but the
+      public jobs API returns 403 "Not authorized"; old Workday tenant is not
+      public. Check manually.
+
+  - name: Google
+    enabled: false
+    priority: 1
+    careers_url: https://www.google.com/about/careers/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): the former careers.google.com/api/v3/search API
+      returns 404; current site has no public JSON API. Check manually.
+
+  - name: Meta
+    enabled: false
+    priority: 1
+    careers_url: https://www.metacareers.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED: metacareers.com uses an authenticated GraphQL endpoint; no
+      stable public JSON source. Check manually.
+
+  - name: Apple
+    enabled: false
+    priority: 1
+    careers_url: https://jobs.apple.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED: jobs.apple.com search API requires per-session CSRF tokens;
+      not collected responsibly without a browser session. Check manually.
+
+  - name: Cisco
+    enabled: false
+    priority: 1
+    careers_url: https://jobs.cisco.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): jobs.cisco.com migrated to a Phenom-hosted,
+      JavaScript-rendered portal; the old HTML search results are gone. Could be
+      revisited with the playwright adapter if desired.
+
+  - name: Uber
+    enabled: true
+    priority: 1
+    careers_url: https://www.uber.com/us/en/careers/
+    source_type: json
+    source_identifier: uber
+    <<: *us
+    adapter_config:
+      queries: ["software engineer", "engineer graduate"]
+    notes: "Public careers API (POST loadSearchJobsResults; validated 2026-07-12)."
+
+  # ------------------------------------------ AI, data, enterprise (priority 2)
+  - name: Databricks
+    enabled: true
+    priority: 2
+    careers_url: https://www.databricks.com/company/careers
+    source_type: greenhouse
+    source_identifier: databricks
+    <<: *us
+    notes: "Greenhouse board API (validated 2026-07-12, 786 postings)."
+
+  - name: Snowflake
+    enabled: false
+    priority: 2
+    careers_url: https://careers.snowflake.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): Eightfold-hosted site; public jobs API responds
+      "Tenant not identified". Check manually.
+
+  - name: Bloomberg
+    enabled: false
+    priority: 2
+    careers_url: https://careers.bloomberg.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): careers.bloomberg.com has no public JSON API and
+      redirects non-browser clients. Check manually.
+
+  - name: Stripe
+    enabled: true
+    priority: 2
+    careers_url: https://stripe.com/jobs
+    source_type: greenhouse
+    source_identifier: stripe
+    <<: *us
+    notes: "Greenhouse board API (validated 2026-07-12, 511 postings)."
+
+  - name: MongoDB
+    enabled: true
+    priority: 2
+    careers_url: https://www.mongodb.com/careers
+    source_type: greenhouse
+    source_identifier: mongodb
+    <<: *us
+    notes: "Greenhouse board API (validated 2026-07-12, 387 postings)."
+
+  - name: Confluent
+    enabled: false
+    priority: 2
+    careers_url: https://careers.confluent.io/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): careers.confluent.io is a JS app with no
+      detectable public ATS API (their old Greenhouse board 404s). Check manually.
+
+  - name: Cloudflare
+    enabled: true
+    priority: 2
+    careers_url: https://www.cloudflare.com/careers/
+    source_type: greenhouse
+    source_identifier: cloudflare
+    <<: *us
+    notes: "Greenhouse board API (validated 2026-07-12, 249 postings)."
+
+  - name: Oracle
+    enabled: true
+    priority: 2
+    careers_url: https://careers.oracle.com/
+    source_type: json
+    source_identifier: oracle
+    <<: *us
+    adapter_config:
+      queries: ["graduate software engineer", "software developer 2027"]
+    notes: "Oracle HCM public recruiting API (validated 2026-07-12)."
+
+  - name: Salesforce
+    enabled: false
+    priority: 2
+    careers_url: https://careers.salesforce.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): careers.salesforce.com/api/jobs returns 404; no
+      public JSON API found. Check manually.
+
+  - name: Adobe
+    enabled: true
+    priority: 2
+    careers_url: https://careers.adobe.com/
+    source_type: workday
+    source_identifier: adobe.wd5.myworkdayjobs.com/adobe/external_experienced
+    <<: *us
+    notes: "Workday CXS API (validated 2026-07-12, 605 postings)."
+
+  - name: ServiceNow
+    enabled: true
+    priority: 2
+    careers_url: https://careers.servicenow.com/
+    source_type: json
+    source_identifier: smartrecruiters:servicenow
+    <<: *us
+    notes: "SmartRecruiters public postings API (validated 2026-07-12, 418 postings)."
+
+  - name: SAP
+    enabled: false
+    priority: 2
+    careers_url: https://jobs.sap.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED: SuccessFactors career site without a public JSON API. Check
+      manually.
+
+  - name: Workday
+    enabled: true
+    priority: 2
+    careers_url: https://www.workday.com/en-us/company/careers/
+    source_type: workday
+    source_identifier: workday.wd5.myworkdayjobs.com/workday/Workday
+    <<: *us
+    notes: "Workday CXS API (validated 2026-07-12, 174 postings)."
+
+  - name: LinkedIn
+    enabled: false
+    priority: 2
+    careers_url: https://careers.linkedin.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: "UNRESOLVED: LinkedIn career pages disallow automated access. Check manually."
+
+  - name: Intuit
+    enabled: false
+    priority: 2
+    careers_url: https://jobs.intuit.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: "UNRESOLVED: Phenom-hosted site without a stable public JSON API. Check manually."
+
+  # ------------------------------------------- semiconductor / EDA (priority 3)
+  - name: AMD
+    enabled: false
+    priority: 3
+    careers_url: https://careers.amd.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): careers.amd.com is Phenom-hosted (JS-rendered);
+      the old Workday tenant is not public. Check manually.
+
+  - name: Intel
+    enabled: true
+    priority: 3
+    careers_url: https://jobs.intel.com/
+    source_type: workday
+    source_identifier: intel.wd1.myworkdayjobs.com/intel/External
+    <<: *us
+    notes: "Workday CXS API (validated 2026-07-12, 612 postings)."
+
+  - name: Broadcom
+    enabled: true
+    priority: 3
+    careers_url: https://www.broadcom.com/company/careers
+    source_type: workday
+    source_identifier: broadcom.wd1.myworkdayjobs.com/broadcom/External_Career
+    <<: *us
+    notes: "Workday CXS API (validated 2026-07-12, 273 postings)."
+
+  - name: Marvell
+    enabled: true
+    priority: 3
+    careers_url: https://careers.marvell.com/
+    source_type: workday
+    source_identifier: marvell.wd1.myworkdayjobs.com/marvell/MarvellCareers
+    <<: *us
+    notes: "Workday CXS API (validated 2026-07-12, 582 postings)."
+
+  - name: Micron
+    enabled: true
+    priority: 3
+    careers_url: https://careers.micron.com/
+    source_type: workday
+    source_identifier: micron.wd1.myworkdayjobs.com/micron/External
+    <<: *us
+    notes: "Workday CXS API (validated 2026-07-12, ~2700 postings)."
+
+  - name: Applied Materials
+    enabled: true
+    priority: 3
+    careers_url: https://careers.appliedmaterials.com/
+    source_type: workday
+    source_identifier: amat.wd1.myworkdayjobs.com/amat/External
+    <<: *us
+    notes: "Workday CXS API (validated 2026-07-12, ~1800 postings)."
+
+  - name: Lam Research
+    enabled: false
+    priority: 3
+    careers_url: https://careers.lamresearch.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): Eightfold-hosted site; public jobs API returns
+      403 "Not authorized". Check manually.
+
+  - name: KLA
+    enabled: true
+    priority: 3
+    careers_url: https://www.kla.com/careers
+    source_type: workday
+    source_identifier: kla.wd1.myworkdayjobs.com/kla/Search
+    <<: *us
+    notes: "Workday CXS API (validated 2026-07-12, 891 postings)."
+
+  - name: ASML
+    enabled: false
+    priority: 3
+    careers_url: https://www.asml.com/en/careers
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): asml.com careers uses a custom search without a
+      public JSON API; Workday tenant not public. Check manually (US roles are
+      mostly Wilton CT / San Diego).
+
+  - name: Synopsys
+    enabled: false
+    priority: 3
+    careers_url: https://careers.synopsys.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): careers.synopsys.com redirects to an
+      Eightfold-hosted app whose public API is restricted. Check manually.
+
+  - name: Cadence
+    enabled: true
+    priority: 3
+    careers_url: https://www.cadence.com/en_US/home/careers.html
+    source_type: workday
+    source_identifier: cadence.wd1.myworkdayjobs.com/cadence/External_Careers
+    <<: *us
+    notes: "Workday CXS API (validated 2026-07-12, 562 postings)."
+
+  - name: TSMC
+    enabled: false
+    priority: 3
+    careers_url: https://careers.tsmc.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED: custom careers portal without a public JSON API. Check
+      manually (TSMC Arizona postings).
+
+  # --------------------------------------- quant trading / fintech (priority 2)
+  - name: Optiver
+    enabled: true
+    priority: 2
+    careers_url: https://optiver.com/working-at-optiver/career-opportunities/
+    source_type: greenhouse
+    source_identifier: optiverus
+    <<: *us
+    notes: "Greenhouse board API, US board (validated 2026-07-12, 192 postings)."
+
+  - name: IMC
+    enabled: true
+    priority: 2
+    careers_url: https://careers.imc.com/
+    source_type: greenhouse
+    source_identifier: imc
+    <<: *us
+    notes: "Greenhouse board API (validated 2026-07-12, 157 postings)."
+
+  - name: DRW
+    enabled: true
+    priority: 2
+    careers_url: https://www.drw.com/careers
+    source_type: greenhouse
+    source_identifier: drweng
+    <<: *us
+    notes: "Greenhouse board API (validated 2026-07-12, 139 postings)."
+
+  - name: Hudson River Trading
+    enabled: true
+    priority: 2
+    careers_url: https://www.hudsonrivertrading.com/careers/
+    source_type: greenhouse
+    source_identifier: wehrtyou
+    <<: *us
+    notes: "Greenhouse board API (validated 2026-07-12, 72 postings)."
+
+  - name: Two Sigma
+    enabled: false
+    priority: 2
+    careers_url: https://careers.twosigma.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): Avature-hosted, JavaScript-rendered search (old
+      Greenhouse board 404s). Could be revisited with the playwright adapter.
+
+  - name: Citadel
+    enabled: false
+    priority: 2
+    careers_url: https://www.citadel.com/careers/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): citadel.com blocks automated clients (403) and
+      the old Greenhouse board 404s. Not bypassing; check manually.
+
+  - name: Jane Street
+    enabled: true
+    priority: 2
+    careers_url: https://www.janestreet.com/join-jane-street/
+    source_type: json
+    source_identifier: janestreet
+    <<: *us
+    notes: "Public jobs JSON feed (validated 2026-07-12)."
+
+  - name: Goldman Sachs
+    enabled: false
+    priority: 2
+    careers_url: https://higher.gs.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): higher.gs.com uses a private API. Campus roles
+      are posted at higher.gs.com/campus; check manually.
+
+  - name: BlackRock
+    enabled: false
+    priority: 2
+    careers_url: https://careers.blackrock.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: "UNRESOLVED: Phenom-hosted site without a stable public JSON API. Check manually."
+
+  - name: Morgan Stanley
+    enabled: false
+    priority: 2
+    careers_url: https://www.morganstanley.com/careers
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): morganstanley.eightfold.ai public jobs API
+      returns 403 "Not authorized". Check manually.
+
+  - name: Visa
+    enabled: false
+    priority: 2
+    careers_url: https://corporate.visa.com/en/jobs
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): the SmartRecruiters board "visa" exists but holds
+      only 2 postings (not the main careers feed); corporate.visa.com/jobs has no
+      public JSON API. Check manually.
+
+  - name: Mastercard
+    enabled: true
+    priority: 2
+    careers_url: https://careers.mastercard.com/
+    source_type: workday
+    source_identifier: mastercard.wd1.myworkdayjobs.com/mastercard/CorporateCareers
+    <<: *us
+    notes: "Workday CXS API (validated 2026-07-12, 532 postings)."
+
+  - name: PayPal
+    enabled: false
+    priority: 2
+    careers_url: https://careers.pypl.com/
+    source_type: unresolved
+    source_identifier: ""
+    <<: *us
+    notes: >-
+      UNRESOLVED (2026-07-12): paypal.eightfold.ai public jobs API returns 403
+      "Not authorized". Check manually.

@@ -1,0 +1,72 @@
+# Candidate profile used for scoring and filtering.
+# Edit this file (not the code) to change who the monitor searches for.
+
+graduation:
+  primary: "2027-05"          # May 2027
+  early_option: "2026-12"     # potential early graduation, December 2026
+  class_years: [2026, 2027]   # graduation years considered compatible
+
+work_authorization:
+  status: "F-1 international student"
+  expected: ["post-completion OPT", "STEM OPT"]
+  future_need: ["H-1B or other employment sponsorship"]
+
+target_country: "United States"
+
+roles:
+  primary:
+    - Software Engineer
+    - Backend Engineer
+    - Full-Stack Engineer
+    - Platform Engineer
+    - Infrastructure Engineer
+    - Machine Learning Engineer
+    - AI Engineer
+    - Data Engineer
+    - Data Scientist
+    - Applied Scientist
+    - Research Engineer
+    - Developer Tools Engineer
+  secondary:
+    - DevOps Engineer
+    - Cloud Engineer
+    - Technical Program Engineer   # only when strongly technical
+
+include_internships: false
+
+# Preferred seniority markers (new-grad friendly)
+preferred_levels:
+  - new grad
+  - new graduate
+  - university graduate
+  - entry-level
+  - early career
+  - early in career
+  - associate
+  - engineer i
+  - campus
+  - graduate
+
+skills:
+  - Python
+  - TypeScript
+  - JavaScript
+  - "C#"
+  - SQL
+  - backend
+  - API
+  - cloud
+  - Azure
+  - AWS
+  - LLM
+  - AI
+  - RAG
+  - retrieval-augmented
+  - evaluation
+  - data pipeline
+  - ETL
+  - automation
+  - distributed systems
+  - microservices
+  - Kubernetes
+  - machine learning

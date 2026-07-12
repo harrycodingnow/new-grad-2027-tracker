@@ -1,0 +1,187 @@
+# All include/exclude terms, sponsorship language, scoring weights and
+# thresholds used by the monitor. Terms are matched case-insensitively on
+# word boundaries.
+
+title_filters:
+  # A job passes the title gate when it matches at least one `include_level`
+  # term (new-grad signal) OR one `include_role` family, and no `exclude` term.
+  include_level:
+    - new grad
+    - new graduate
+    - university graduate
+    - university grad
+    - graduate
+    - early career
+    - early in career
+    - entry level
+    - entry-level
+    - campus
+    - software engineer i
+    - engineer i
+    - engineer 1
+    - swe i
+    - associate software engineer
+    - associate engineer
+    - junior software engineer
+    - junior engineer
+    - "2027"
+    - "2026"
+  include_role:
+    - software engineer
+    - software developer
+    - software development engineer
+    - sde
+    - backend engineer
+    - back-end engineer
+    - full stack
+    - full-stack
+    - fullstack
+    - platform engineer
+    - infrastructure engineer
+    - machine learning engineer
+    - ml engineer
+    - ai engineer
+    - artificial intelligence engineer
+    - data engineer
+    - data scientist
+    - applied scientist
+    - research engineer
+    - developer tools
+    - devops engineer
+    - cloud engineer
+    - site reliability engineer
+    - member of technical staff
+  # Matched on word boundaries: "sr" excludes "Sr. Engineer" but not "srt".
+  exclude:
+    - senior
+    - sr
+    - staff
+    - principal
+    - lead
+    - manager
+    - director
+    - architect
+    - distinguished
+    - vice president
+    - vp
+    - head of
+    - fellow
+    - intern
+    - internship
+    - co-op
+    - coop
+    - apprentice
+    - postdoc
+    - contractor
+    - ii
+    - iii
+    - iv
+    - engineer 2
+    - engineer 3
+    - engineer 4
+    - swe 2
+    - swe 3
+
+# Roles are NOT auto-rejected for containing "2026"; graduation compatibility
+# is classified separately and explained.
+graduation:
+  compatible_years: [2026, 2027]
+  incompatible_years: [2024, 2025]
+
+sponsorship:
+  positive:
+    - visa sponsorship available
+    - visa sponsorship is available
+    - immigration sponsorship available
+    - offers visa sponsorship
+    - offer visa sponsorship
+    - provides sponsorship
+    - provide visa sponsorship
+    - will sponsor
+    - h-1b sponsorship
+    - h1b sponsorship
+    - sponsorship considered
+    - open to sponsorship
+    - sponsorship may be available
+    - eligible for sponsorship
+    - international candidates welcome
+    - international students are welcome
+    - opt accepted
+    - opt candidates
+    - stem opt accepted
+    - stem opt eligible
+    - cpt/opt
+    - f-1 opt
+    - support work visa
+    - support visa
+    - support immigration
+    - immigration support
+    - relocation and immigration
+  weak_positive:
+    - sponsorship
+    - work visa
+  negative:
+    - no current or future sponsorship
+    - not offer sponsorship
+    - not provide sponsorship
+    - no visa sponsorship
+    - without sponsorship now or in the future
+    - will not sponsor
+    - unable to sponsor
+    - cannot sponsor
+    - not able to sponsor
+    - no immigration sponsorship
+    - sponsorship is not available
+    - sponsorship not available
+    - not open to opt
+    - not eligible for opt
+    - not eligible for h-1b
+    - unrestricted work authorization
+    - without the need for sponsorship
+    - without the need for visa sponsorship
+    - without sponsorship
+    - must not require sponsorship
+    - not require sponsorship
+    - not require visa sponsorship
+    - not require current or future sponsorship
+    - now or in the future
+  ineligible:
+    - u.s. citizen only
+    - us citizen only
+    - u.s. citizenship is required
+    - us citizenship is required
+    - u.s. citizenship required
+    - must be a u.s. citizen
+    - must be a us citizen
+    - permanent resident only
+    - citizen or permanent resident
+    - green card holder
+    - u.s. person required
+    - us persons only
+    - u.s. persons
+    - security clearance required
+    - active clearance
+    - active security clearance
+    - ability to obtain a security clearance
+    - ts/sci
+    - itar
+
+scoring:
+  weights:
+    role_skills: 35
+    graduation: 20
+    sponsorship: 25
+    location: 10
+    recency: 10
+  thresholds:
+    excellent: 80
+    strong: 65
+    possible: 50
+  # New jobs scoring >= digest_min_score trigger the GitHub issue digest.
+  digest_min_score: 65
+  recency_full_days: 7      # full recency points when posted within N days
+  recency_zero_days: 60     # zero recency points when older than N days
+
+lifecycle:
+  # Runs a job may be missing from its source before it is archived as closed.
+  archive_after_missing_runs: 3

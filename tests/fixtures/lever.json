@@ -1,0 +1,28 @@
+[
+  {
+    "id": "aaaa-bbbb-cccc-0001",
+    "text": "Backend Engineer - New Grad",
+    "createdAt": 1782000000000,
+    "hostedUrl": "https://jobs.lever.co/examplecorp/aaaa-bbbb-cccc-0001",
+    "applyUrl": "https://jobs.lever.co/examplecorp/aaaa-bbbb-cccc-0001/apply",
+    "categories": { "commitment": "Full-time", "location": "Austin, TX", "team": "Core Services" },
+    "country": "US",
+    "workplaceType": "hybrid",
+    "descriptionPlain": "Build APIs in Python and Go. We welcome candidates on F-1 OPT and offer H-1B sponsorship for this role.",
+    "lists": [
+      {
+        "text": "Requirements",
+        "content": "<li>BS in CS graduating in 2027</li><li>SQL and cloud experience</li>"
+      }
+    ]
+  },
+  {
+    "id": "aaaa-bbbb-cccc-0002",
+    "text": "Engineering Manager, Payments",
+    "createdAt": 1781000000000,
+    "hostedUrl": "https://jobs.lever.co/examplecorp/aaaa-bbbb-cccc-0002",
+    "categories": { "commitment": "Full-time", "location": "Remote - US", "team": "Payments" },
+    "country": "US",
+    "descriptionPlain": "Lead a team of 8 engineers."
+  }
+]
