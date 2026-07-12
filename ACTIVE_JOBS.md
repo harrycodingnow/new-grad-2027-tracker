@@ -1,17 +1,17 @@
 # Active Job Matches
 
-_Last updated: **2026-07-12 22:03 UTC** (2026-07-13 06:03 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-07-12 22:10 UTC** (2026-07-13 06:10 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
 ## Summary
 
-- **Active jobs tracked:** 296
-- **Recommended (not disqualified):** 270
+- **Active jobs tracked:** 295
+- **Recommended (not disqualified):** 269
 - **Companies checked successfully:** 29
 - **Failed sources:** 0
 - **Unresolved/disabled sources:** 20
-- Matches — excellent: 4, strong: 164, possible: 102, low priority: 0
+- Matches — excellent: 4, strong: 164, possible: 101, low priority: 0
 
 ## Source problems
 
@@ -244,7 +244,6 @@ _Last updated: **2026-07-12 22:03 UTC** (2026-07-13 06:03 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10458375/software-development-engineer-aws-iam-identity-center-unified-signin-and-sessions) | Amazon | Software Development Engineer - AWS IAM Identity Center, Unified SignIn and Sessions | Seattle, Washington, USA | ⚪ unclear | 2026-06-24 |
 | [Apply](https://www.amazon.jobs/en/jobs/10456720/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-06-23 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=7983456) | Stripe | Machine Learning Engineer, Payment Intelligence | Seattle | ⚪ unclear | 2026-06-23 |
-| [Apply](https://www.amazon.jobs/en/jobs/10455099/software-development-engineer-one-mhs-software-controls-and-science) | Amazon | Software Development Engineer, One MHS - Software, Controls, and Science | Bellevue, Washington, USA | ⚪ unclear | 2026-06-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10455464/software-development-engineer-aws-cryptography-transport-libraries) | Amazon | Software Development Engineer - AWS Cryptography, Transport libraries | Seattle, Washington, USA | ⚪ unclear | 2026-06-22 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R168026) | Adobe | Software Development Engineer | San Jose | ⚪ unclear | 2026-06-12 |
 | [Apply](https://www.amazon.jobs/en/jobs/10439144/data-engineer-amazon-ads) | Amazon | Data Engineer, Amazon Ads | New York, New York, USA | ⚪ unclear | 2026-06-03 |

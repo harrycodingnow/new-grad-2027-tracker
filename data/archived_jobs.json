@@ -1,5 +1,44 @@
 {
-  "generated_at": "2026-07-12T22:03:09Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-07-12T22:10:56Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "amazon-10455099",
+      "source_job_id": "10455099",
+      "company": "Amazon",
+      "title": "Software Development Engineer, One MHS - Software, Controls, and Science",
+      "location": "Bellevue, Washington, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Software Development",
+      "employment_type": "full-time",
+      "description": "Are you passionate about advancing automated material handling systems? Do you thrive on solving complex automation challenges through collaborative innovation? If you're excited about seeing your work transform modern robotics and material handling operations, you'll be a perfect fit at Software Controls and Science (SCS). We are a team of innovative problem-solvers dedicated to revolutionizing warehouse automation through innovative solutions at Amazon's scale. This dynamic team develops and maintains tools for automating the deployment, management, and monitoring of complex material handling systems, including conveyor networks, work cells, and industrial control systems. We are seeking a passionate Software Development Engineer to innovate in building Human Machine Interfacing Platforms to join the SCS team within the Amazon Fulfillment Technologies Robotics organization. Amazon’s Operations Technology teams are the technical engines that support Amazon’s mission of being Earth’s most customer-centric company. We build the software and services that touch every Amazon customer globally and innovate solutions for logistics, supply chain optimization, and transportation. If you are a software development engineer with a creative flare, problem-solving skills, exposure to various technologies such as Machine Learning and/or Controls Programming, we want to talk with you. For additional information on Operations Technology: https://www.amazon.jobs/en/business_categories/operations-technology Key job responsibilities - Design and implement scalable backend services and APIs to support system visualization platforms - Develop tooling for performance monitoring, testing, and deployment automation - Collaborate with Front End Engineers and UX designers to create integrated solutions - Implement secure and efficient data processing systems for industrial control systems - Create and maintain documentation for backend services and APIs - Participate in code reviews and contribute to technical design discussions A day in the life Amazon offers a full range of benefits that support you and eligible family members, including domestic partners and their children. Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment. The benefits that generally apply to regular, full-time employees include: 1. Medical, Dental, and Vision Coverage 2. Maternity and Parental Leave Options 3. Paid Time Off (PTO) 4. 401(k) Plan If you are not sure that every qualification on the list above describes you exactly, we'd still love to hear from you! At Amazon, we value people with unique backgrounds, experiences, and skillsets. If you’re passionate about this role and want to make an impact on a global scale, please apply! About the team We solve complex problems and invent for almost every aspect of fulfillment. We work with ambiguity and large problems, and work in a startup-like environment. Our robotics teams around the world are driving improvements in the safety and autonomy of our worldwide operations. We re-imagine what now looks like. - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent - Knowledge of SCADA systems and industrial protocols Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, TX, Austin - 143,700.00 - 194,400.00 USD annually USA, VA, Arlington - 143,700.00 - 194,400.00 USD annually USA, WA, Bellevue - 143,700.00 - 194,400.00 USD annually",
+      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems",
+      "application_url": "https://www.amazon.jobs/en/jobs/10455099/software-development-engineer-one-mhs-software-controls-and-science",
+      "source_url": "https://www.amazon.jobs/en/jobs/10455099/software-development-engineer-one-mhs-software-controls-and-science",
+      "source_type": "json",
+      "date_posted": "2026-06-22",
+      "first_seen": "2026-07-12T09:09:27Z",
+      "last_seen": "2026-07-12T09:09:27Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 75,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 63,
+      "matched_keywords": [
+        "automation",
+        "backend",
+        "machine learning",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 26/35 (title matched filter terms; skills: backend, automation, machine learning) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Bellevue, Washington, USA) · recency 8/10 (posted 20d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 3,
+      "announced": false
+    }
+  ]
 }
