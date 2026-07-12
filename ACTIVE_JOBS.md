@@ -1,17 +1,17 @@
 # Active Job Matches
 
-_Last updated: **2026-07-12 15:21 UTC** (2026-07-12 23:21 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-07-12 21:14 UTC** (2026-07-13 05:14 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
 ## Summary
 
-- **Active jobs tracked:** 328
-- **Recommended (not disqualified):** 313
+- **Active jobs tracked:** 330
+- **Recommended (not disqualified):** 315
 - **Companies checked successfully:** 24
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 24
-- Matches — excellent: 4, strong: 145, possible: 164, low priority: 0
+- Matches — excellent: 4, strong: 147, possible: 164, low priority: 0
 
 ## Source problems
 
@@ -77,6 +77,7 @@ _Last updated: **2026-07-12 15:21 UTC** (2026-07-12 23:21 Asia/Taipei) — auto-
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971) | NVIDIA | ASIC Floorplan Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-29 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer---Smart-Network-Devices--New-College-Grad-2026_JR2020535) | NVIDIA | Compiler Engineer - Smart Network Devices- New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10456612/software-development-engineer-amazon-quick) | Amazon | Software Development Engineer, Amazon Quick | Santa Clara, California, USA | ⚪ unclear | 2026-06-23 |
+| [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002) | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | Remote - United Kingdom | ⚪ unclear | 2026-07-12 |
 | [Apply](https://www.amazon.jobs/en/jobs/10470225/software-development-engineer-aws-security-communications) | Amazon | Software Development Engineer, AWS Security Communications | Herndon, Virginia, USA | ⚪ unclear | 2026-07-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10466638/software-development-engineer-silicon-development-infrastructure) | Amazon | Software Development Engineer - Silicon Development Infrastructure | Austin, Texas, USA | ⚪ unclear | 2026-07-06 |
 | [Apply](https://www.amazon.jobs/en/jobs/10464995/software-development-engineer-prime-video) | Amazon | Software Development Engineer, Prime Video | New York, New York, USA | ⚪ unclear | 2026-07-02 |
@@ -171,6 +172,7 @@ _Last updated: **2026-07-12 15:21 UTC** (2026-07-12 23:21 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10461823/sde-amazon-connect-aws-ai-voice-apps-aws-amazon-connect) | Amazon | SDE Amazon Connect (AWS) - AI Voice Apps, AWS Amazon Connect | Seattle, Washington, USA | ⚪ unclear | 2026-06-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10452792/software-development-engineer-open-data-analytics-engines) | Amazon | Software Development Engineer, Open Data Analytics - Engines | Arlington, Virginia, USA | ⚪ unclear | 2026-06-18 |
 | [Apply](https://www.amazon.jobs/en/jobs/10442471/software-development-engineer-data-platform-fauna) | Amazon | Software Development Engineer, Data Platform , Fauna | New York, New York, USA | ⚪ unclear | 2026-06-08 |
+| [Apply](https://www.amazon.jobs/en/jobs/10471870/software-development-engineer-ads-ai-core-infra) | Amazon | Software Development Engineer, Ads AI Core Infra | Seattle, Washington, USA | ⚪ unclear | 2026-07-12 |
 | [Apply](https://www.amazon.jobs/en/jobs/10471748/software-development-engineer-amazon-optics) | Amazon | Software Development Engineer, Amazon Optics | Annapolis Junction, Maryland, USA | ⚪ unclear | 2026-07-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10471474/software-development-engineer-consumer-domains) | Amazon | Software Development Engineer, Consumer Domains | Newark, New Jersey, USA | ⚪ unclear | 2026-07-10 |
 | [Apply](https://www.amazon.jobs/en/jobs/10471636/software-development-engineer-s3-keystone) | Amazon | Software Development Engineer, S3 Keystone | Seattle, Washington, USA | ⚪ unclear | 2026-07-10 |
