@@ -75,6 +75,26 @@ def test_full_run_writes_all_outputs(tmp_path, monkeypatch):
         assert j["first_seen"] == first_seen[j["job_id"]]
 
 
+def test_min_posted_date_gate(tmp_path):
+    from job_monitor.models import Job
+
+    runner = offline_runner(tmp_path, FakeClient())
+    runner.config.filters.setdefault("lifecycle", {})["min_posted_date"] = "2026-06-01"
+    company = make_company()
+
+    def job(date_posted):
+        return Job(
+            company="ExampleCorp",
+            title="Software Engineer, New Grad (2027)",
+            location="New York, NY",
+            date_posted=date_posted,
+            application_url="https://example.test/apply",
+        )
+
+    kept = runner.process_jobs(company, [job("2026-05-31"), job("2026-06-01"), job("")])
+    assert [j.date_posted for j in kept] == ["2026-06-01", ""]
+
+
 def test_dry_run_writes_nothing(tmp_path, monkeypatch):
     monkeypatch.delenv("GITHUB_TOKEN", raising=False)
     client = FakeClient(routes={"boards-api.greenhouse.io": load_fixture("greenhouse.json")})

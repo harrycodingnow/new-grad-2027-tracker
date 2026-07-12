@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T21:14:07Z",
+  "generated_at": "2026-07-12T21:42:55Z",
   "count": 2,
   "jobs": [
     {
@@ -18,8 +18,8 @@
       "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
       "source_type": "greenhouse",
       "date_posted": "2026-07-12",
-      "first_seen": "2026-07-12T21:14:04Z",
-      "last_seen": "2026-07-12T21:14:04Z",
+      "first_seen": "2026-07-12T21:42:55Z",
+      "last_seen": "2026-07-12T21:42:55Z",
       "status": "active",
       "graduation_match": "unspecified",
       "role_match_score": 90,
@@ -41,7 +41,7 @@
       "disqualified": false,
       "disqualify_reason": "",
       "consecutive_missing": 0,
-      "announced": true
+      "announced": false
     },
     {
       "job_id": "amazon-10471870",
@@ -59,8 +59,8 @@
       "source_url": "https://www.amazon.jobs/en/jobs/10471870/software-development-engineer-ads-ai-core-infra",
       "source_type": "json",
       "date_posted": "2026-07-12",
-      "first_seen": "2026-07-12T21:14:04Z",
-      "last_seen": "2026-07-12T21:14:04Z",
+      "first_seen": "2026-07-12T21:42:55Z",
+      "last_seen": "2026-07-12T21:42:55Z",
       "status": "active",
       "graduation_match": "unspecified",
       "role_match_score": 75,
@@ -79,7 +79,7 @@
       "disqualified": false,
       "disqualify_reason": "",
       "consecutive_missing": 0,
-      "announced": true
+      "announced": false
     }
   ]
 }

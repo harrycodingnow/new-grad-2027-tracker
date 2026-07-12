@@ -1,17 +1,17 @@
 # Active Job Matches
 
-_Last updated: **2026-07-12 21:14 UTC** (2026-07-13 05:14 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-07-12 21:42 UTC** (2026-07-13 05:42 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
 ## Summary
 
-- **Active jobs tracked:** 330
-- **Recommended (not disqualified):** 315
+- **Active jobs tracked:** 249
+- **Recommended (not disqualified):** 236
 - **Companies checked successfully:** 24
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 24
-- Matches — excellent: 4, strong: 147, possible: 164, low priority: 0
+- Matches — excellent: 4, strong: 144, possible: 88, low priority: 0
 
 ## Source problems
 
@@ -138,7 +138,6 @@ _Last updated: **2026-07-12 21:14 UTC** (2026-07-13 05:14 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10449267/data-engineer-prime-video-gss-planning-strategy) | Amazon | Data Engineer, Prime Video - GSS Planning & Strategy | Seattle, Washington, USA | ⚪ unclear | 2026-06-15 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-ASIC-Verification-Engineer---New-College-Grad-2026_JR2015202-1) | NVIDIA | SoC ASIC Verification Engineer – New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-12 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) | NVIDIA | Research Scientist, Generative AI for Physical AI - PhD New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-12 |
-| [Apply](https://jobs.smartrecruiters.com/servicenow/744000107369741) | ServiceNow | Associate Software Engineer, Core Infrastructure - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-02-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10471823/software-development-engineer-aws-guardduty) | Amazon | Software Development Engineer, AWS GuardDuty | Seattle, Washington, USA | ⚪ unclear | 2026-07-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10471194/software-development-engineer-sponsored-products-and-brands) | Amazon | Software Development Engineer, Sponsored Products and Brands | Palo Alto, California, USA | ⚪ unclear | 2026-07-10 |
 | [Apply](https://www.amazon.jobs/en/jobs/10471624/software-development-engineer-aws-proactive-security) | Amazon | Software Development Engineer, AWS Proactive Security | Herndon, Virginia, USA | ⚪ unclear | 2026-07-10 |
@@ -158,8 +157,6 @@ _Last updated: **2026-07-12 21:14 UTC** (2026-07-13 05:14 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10459103/software-development-engineer-open-data-analytics-fundamentals-team) | Amazon | Software Development Engineer, Open Data Analytics Fundamentals Team | Redmond, Washington, USA | ⚪ unclear | 2026-06-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10456168/software-development-engineer-measurement-ad-tech-and-data-science-mads) | Amazon | Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS) | Boulder, Colorado, USA | ⚪ unclear | 2026-06-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10457117/software-development-engineer-ads-ai-core-infra-aci) | Amazon | Software Development Engineer, Ads AI Core Infra (ACI) | New York, New York, USA | ⚪ unclear | 2026-06-23 |
-| [Apply](https://www.mongodb.com/careers/job/?gh_jid=7523834) | MongoDB | Software Engineer, Data Migration | California; Oregon; Washington | ⚪ unclear | 2026-05-27 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7133986) | Hudson River Trading | Algorithm Developer (Quant Researcher) – 2026 PhDs | London, United Kingdom; New York, NY, United States; Singap… | ⚪ unclear | 2025-08-07 |
 | [Apply](https://www.amazon.jobs/en/jobs/10465169/software-engineer-programming-foundations-asbx) | Amazon | Software Engineer, Programming Foundations, ASBX | Seattle, Washington, USA | ⚪ unclear | 2026-07-02 |
 | [Apply](https://www.amazon.jobs/en/jobs/10463551/software-development-engineer-amazon-connect-customer-connectors-mobile) | Amazon | Software Development Engineer, Amazon Connect Customer - Connectors & Mobile | Seattle, Washington, USA | ⚪ unclear | 2026-07-01 |
 | [Apply](https://www.amazon.jobs/en/jobs/10464369/software-development-engineer-agentic-workspaces) | Amazon | Software Development Engineer, Agentic WorkSpaces | Seattle, Washington, USA | ⚪ unclear | 2026-07-01 |
@@ -217,8 +214,6 @@ _Last updated: **2026-07-12 21:14 UTC** (2026-07-13 05:14 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10444729/data-engineer-partner-experience) | Amazon | Data Engineer, Partner Experience | Seattle, Washington, USA | ⚪ unclear | 2026-06-10 |
 | [Apply](https://www.amazon.jobs/en/jobs/10445126/software-development-engineer-big-data-aws-elastic-mapreduce-emr) | Amazon | Software Development Engineer – Big Data, AWS Elastic MapReduce (EMR) | Redmond, Washington, USA | ⚪ unclear | 2026-06-10 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4880741101) | IMC | Prosperity 2026 - Role Interest Form | Chicago, United States | ⚪ unclear | 2026-06-02 |
-| [Apply](https://jobs.smartrecruiters.com/servicenow/744000128997739) | ServiceNow | Software Engineer, Agentic AI Systems - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-05-28 |
-| [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4682071101) | IMC | Software Engineer – AI Powered Engineering | Chicago, United States | 🟡 possibly supported | 2025-09-26 |
 | [Apply](https://www.amazon.jobs/en/jobs/10471619/software-development-engineer-amazon-optics) | Amazon | Software Development Engineer, Amazon Optics | Herndon, Virginia, USA | ⚪ unclear | 2026-07-10 |
 | [Apply](https://www.amazon.jobs/en/jobs/10470561/software-development-engineer-ad-performance-delivery) | Amazon | Software Development Engineer, Ad Performance & Delivery | New York, New York, USA | ⚪ unclear | 2026-07-09 |
 | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/339469) | Oracle | Infrastructure Engineer | United States | ⚪ unclear | 2026-07-09 |
@@ -237,7 +232,6 @@ _Last updated: **2026-07-12 21:14 UTC** (2026-07-13 05:14 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10455464/software-development-engineer-aws-cryptography-transport-libraries) | Amazon | Software Development Engineer - AWS Cryptography, Transport libraries | Seattle, Washington, USA | ⚪ unclear | 2026-06-22 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R168026) | Adobe | Software Development Engineer | San Jose | ⚪ unclear | 2026-06-12 |
 | [Apply](https://www.amazon.jobs/en/jobs/10439144/data-engineer-amazon-ads) | Amazon | Data Engineer, Amazon Ads | New York, New York, USA | ⚪ unclear | 2026-06-03 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7938794) | Hudson River Trading | Site Reliability Engineer - Enterprise Technology | New York, NY, United States | ⚪ unclear | 2026-05-18 |
 | [Apply](https://www.amazon.jobs/en/jobs/10469951/software-development-engineer-customer-service-security-capabilities-engineering-cs-sce) | Amazon | Software Development Engineer  , Customer Service Security Capabilities Engineering (CS-SCE) | Seattle, Washington, USA | ⚪ unclear | 2026-07-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10469048/software-development-engineer-amazon-leo-for-government) | Amazon | Software Development Engineer, Amazon Leo for Government | Sunnyvale, California, USA | ⚪ unclear | 2026-07-08 |
 | [Apply](https://www.amazon.jobs/en/jobs/10469054/software-development-engineer-amazon-leo-for-government) | Amazon | Software Development Engineer, Amazon Leo for Government | Sunnyvale, California, USA | ⚪ unclear | 2026-07-08 |
@@ -255,11 +249,6 @@ _Last updated: **2026-07-12 21:14 UTC** (2026-07-13 05:14 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10454040/software-development-engineer-infrastructure-security) | Amazon | Software Development Engineer, Infrastructure Security | Minneapolis, Minnesota, USA | ⚪ unclear | 2026-06-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10454356/software-development-engineer-big-data-aws-elastic-mapreduce-emr-emr-eks) | Amazon | Software Development Engineer – Big Data, AWS Elastic MapReduce (EMR), EMR EKS | East Palo Alto, California, USA | ⚪ unclear | 2026-06-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10453305/software-development-engineer-apache-flink-engineer-amazon-managed-service-for-apache-flink) | Amazon | Software Development Engineer - Apache Flink Engineer, Amazon Managed Service for Apache Flink | Seattle, Washington, USA | ⚪ unclear | 2026-06-18 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7942728) | DRW | Software Engineer - Risk | Chicago, New York | ⚪ unclear | 2026-05-29 |
-| [Apply](https://www.amazon.jobs/en/jobs/10433473/software-development-engineer-aws-glue) | Amazon | Software Development Engineer, AWS Glue | Bellevue, Washington, USA | ⚪ unclear | 2026-05-28 |
-| [Apply](https://www.amazon.jobs/en/jobs/10433475/software-development-engineer-aws-glue) | Amazon | Software Development Engineer, AWS Glue | Bellevue, Washington, USA | ⚪ unclear | 2026-05-28 |
-| [Apply](https://jobs.smartrecruiters.com/servicenow/744000125181170) | ServiceNow | Machine Learning Engineer, GAI Search Platform - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-05-07 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7761694) | Stripe | Software Engineer, Product Security Data Platforms | Seattle | ⚪ unclear | 2026-03-31 |
 | [Apply](https://www.amazon.jobs/en/jobs/10461773/software-development-engineer-health-wellness-health-tech) | Amazon | Software Development Engineer, Health & Wellness, Health Tech | Seattle, Washington, USA | ⚪ unclear | 2026-06-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10460255/software-development-engineer-nitro-ssd) | Amazon | Software Development Engineer, Nitro SSD | Seattle, Washington, USA | ⚪ unclear | 2026-06-26 |
 | [Apply](https://www.amazon.jobs/en/jobs/10458640/software-development-engineer-prime-video-sports-and-linear) | Amazon | Software Development Engineer, Prime Video Sports and Linear | Seattle, Washington, USA | ⚪ unclear | 2026-06-25 |
@@ -273,34 +262,20 @@ _Last updated: **2026-07-12 21:14 UTC** (2026-07-13 05:14 Asia/Taipei) — auto-
 | [Apply](https://stripe.com/jobs/search?gh_jid=8003382) | Stripe | Full-Stack Engineer | San Francisco | ⚪ unclear | 2026-06-15 |
 | [Apply](https://www.amazon.jobs/en/jobs/10440874/software-development-engineer-open-data-analytics-engines) | Amazon | Software Development Engineer, Open Data Analytics - Engines | Redmond, Washington, USA | ⚪ unclear | 2026-06-05 |
 | [Apply](https://www.amazon.jobs/en/jobs/10437831/software-development-engineer-data-platform-prime-video-personalization-discovery) | Amazon | Software Development Engineer,  Data Platform, Prime Video Personalization & Discovery | New York, New York, USA | ⚪ unclear | 2026-06-02 |
-| [Apply](https://jobs.smartrecruiters.com/servicenow/744000126417779) | ServiceNow | Software Engineer, Agentic AI Systems - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-05-13 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7462541) | Hudson River Trading | Fullstack Developer | Chicago, Illinois, United States; London, United Kingdom; N… | ⚪ unclear | 2025-12-11 |
-| [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002) | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | Remote - India | ⚪ unclear | 2025-07-31 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8229056002/) | Jane Street | Campus Recruiter, Machine Learning and Quantitative Research | NYC | ⚪ unclear | — |
 | [Apply](https://www.amazon.jobs/en/jobs/10469556/software-development-engineer-fire-tv) | Amazon | Software Development Engineer, Fire TV | Sunnyvale, California, USA | ⚪ unclear | 2026-07-09 |
 | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/339587) | Oracle | Software Developer 4 | Nashville, TN, United States | ⚪ unclear | 2026-07-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10458163/software-development-engineer-vendor-experience) | Amazon | Software Development Engineer, Vendor Experience | Seattle, Washington, USA | ⚪ unclear | 2026-06-24 |
 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002) | Databricks | Software Engineer, Web Products | Mountain View, California | ⚪ unclear | 2026-06-23 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=7991636) | Stripe | Software Engineer | Seattle | ⚪ unclear | 2026-06-08 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7938792) | Hudson River Trading | Site Reliability Engineer, Storage - Enterprise Technology | New York, NY, United States | ⚪ unclear | 2026-05-18 |
-| [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4845173101) | IMC | Connect with us at ICLR 2026! | Amsterdam, Netherlands; Chicago, United States; Hong Kong,… | ⚪ unclear | 2026-04-19 |
-| [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4809645101) | IMC | ISCA 2026 | United States | ⚪ unclear | 2026-03-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10464358/software-development-engineer-global-tax-services-data) | Amazon | Software Development Engineer, Global Tax Services - Data | Seattle, Washington, USA | ⚪ unclear | 2026-07-01 |
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8003321) | DRW | Equities Data Engineer | Chicago, New York | ⚪ unclear | 2026-06-12 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7972584) | Hudson River Trading | AI Research Engineer, Pre-Training | London, United Kingdom; New York, NY, United States | ⚪ unclear | 2026-06-01 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7972593) | Hudson River Trading | AI Research Engineer, Inference | London, United Kingdom; New York, NY, United States | ⚪ unclear | 2026-06-01 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583957) | Hudson River Trading | Software Engineer - AI Tools | Chicago, Illinois, United States; New York, NY, United Stat… | ⚪ unclear | 2026-02-02 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7462961) | Stripe | Infrastructure Engineer, Privy | New York | ⚪ unclear | 2026-01-02 |
-| [Apply](https://www.mongodb.com/careers/job/?gh_jid=7311666) | MongoDB | Software Engineer, Code Generation | California; Colorado; Montana; Nevada; New Mexico; Oregon;… | ⚪ unclear | 2025-12-22 |
-| [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002) | Databricks | Software Engineer - GenAI inference | San Francisco, California | ⚪ unclear | 2025-10-08 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=6567253) | Stripe | Backend Engineer, Core Tech, Canada | Toronto, CAN-Remote | ⚪ unclear | 2025-05-20 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=6042172) | Stripe | Backend Engineer, Core Technology | US-Remote, Chicago, Seattle, San Francisco | ⚪ unclear | 2024-06-14 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8345570002/) | Jane Street | Campus Recruiter, Technology | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8448713002/) | Jane Street | Campus Recruiter, Early Careers Partnerships & Initiatives | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8613910002/) | Jane Street | Cybersecurity Analyst: New Grad | NYC | ⚪ unclear | — |
 | [Apply](https://www.optiver.com/join-us/jobs/8576683002/?gh_jid=8576683002) | Optiver | Software Engineer - Trading Strategies | Chicago, Illinois, United States | ⚪ unclear | 2026-06-26 |
-| [Apply](https://www.amazon.jobs/en/jobs/10433603/software-development-engineer-amazon-data-firehose) | Amazon | Software Development Engineer, Amazon Data Firehose | East Palo Alto, California, USA | ⚪ unclear | 2026-05-28 |
-| [Apply](https://jobs.smartrecruiters.com/servicenow/744000129017632) | ServiceNow | Machine Learning Engineer, GAI Search Relevance - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-05-28 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/4274288002/) | Jane Street | Software Engineer | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/6558007002/) | Jane Street | Data Engineer | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8594541002/) | Jane Street | Software Engineer | NYC | ⚪ unclear | — |
@@ -310,18 +285,6 @@ _Last updated: **2026-07-12 21:14 UTC** (2026-07-13 05:14 Asia/Taipei) — auto-
 | [Apply](https://www.uber.com/global/en/careers/list/160135/) | Uber | Software Engineer | Sunnyvale, Santa Clara | ⚪ unclear | 2026-06-20 |
 | [Apply](https://www.uber.com/global/en/careers/list/160137/) | Uber | Software Engineer | San Francisco, San Francisco | ⚪ unclear | 2026-06-20 |
 | [Apply](https://www.uber.com/global/en/careers/list/160141/) | Uber | Software Engineer | Seattle, King | ⚪ unclear | 2026-06-20 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7926966) | Stripe | Software Engineer | New York, NY | ⚪ unclear | 2026-05-21 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7798233) | Hudson River Trading | Software Engineer - Enterprise Technology | New York, NY, United States | ⚪ unclear | 2026-04-09 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7696484) | DRW | Platform Engineer, C/FICCO | Chicago | ⚪ unclear | 2026-03-10 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7232592) | Stripe | Backend Engineer, Payments and Risk | US | ⚪ unclear | 2026-02-03 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013) | Hudson River Trading | Software Engineer - Python | Chicago, Illinois, United States; London, United Kingdom; N… | ⚪ unclear | 2026-02-02 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583922) | Hudson River Trading | Research Engineer | London, United Kingdom; New York, NY, United States | ⚪ unclear | 2026-02-02 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7277110) | Stripe | Software Engineer, Bridge | San Francisco, NY, Seattle | ⚪ unclear | 2025-11-20 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7235875) | Stripe | Backend Engineer, Privy | NYC-Privy | ⚪ unclear | 2025-09-11 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703954) | Hudson River Trading | Software Engineer - Distributed Compute | London, United Kingdom; New York, NY, United States | ⚪ unclear | 2025-04-04 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/6586001) | DRW | AI Engineer | Chicago | ⚪ unclear | 2025-02-03 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/6586065) | DRW | AI Engineer | New York City | ⚪ unclear | 2025-02-03 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=6163230) | Stripe | Backend Engineer, Payments and Risk | US | ⚪ unclear | 2024-08-08 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/6184529002/) | Jane Street | Front End Software Engineer | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/6485460002/) | Jane Street | Machine Learning Engineer | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8419303002/) | Jane Street | Software Engineer | NYC | ⚪ unclear | — |
@@ -329,48 +292,6 @@ _Last updated: **2026-07-12 21:14 UTC** (2026-07-13 05:14 Asia/Taipei) — auto-
 | [Apply](https://www.janestreet.com/join-jane-street/position/8599644002/) | Jane Street | Software Engineer | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8611307002/) | Jane Street | Machine Learning Engineer | NYC | ⚪ unclear | — |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000130592199) | ServiceNow | Agentic Search Infrastructure Engineer - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-06-05 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7952048) | Stripe | Machine Learning Engineer, Capital Underwriting | US | ⚪ unclear | 2026-05-27 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7922832) | Stripe | Software Engineer | Seattle, WA | ⚪ unclear | 2026-05-22 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7921972) | DRW | Site Reliability Engineer - Algorithmic Trading | Chicago | ⚪ unclear | 2026-05-14 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7908923) | Stripe | Software Engineer, Balance Abstraction | Seattle, WA | ⚪ unclear | 2026-05-08 |
-| [Apply](https://www.optiver.com/join-us/jobs/8521326002/?gh_jid=8521326002) | Optiver | Software Engineer | Austin, Texas, United States | ⚪ unclear | 2026-04-24 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7826765) | Stripe | Backend Engineer, AI Security | New York, San Francisco, Seattle, or Remote (US/Canada) | ⚪ unclear | 2026-04-20 |
-| [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002) | Databricks | Systems PhD - Software Engineer | Mountain View, California; San Francisco, California | ⚪ unclear | 2026-03-26 |
-| [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002) | Databricks | Systems PhD - Software Engineer | Bellevue, Washington; Seattle, Washington | ⚪ unclear | 2026-03-26 |
-| [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4713602101) | IMC | Hardware Machine Learning Engineer | Chicago, United States; New York, United States | ⚪ unclear | 2026-02-13 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7610947) | Hudson River Trading | Software Engineer - GPU reliability | New York, NY, United States | ⚪ unclear | 2026-02-12 |
-| [Apply](https://www.optiver.com/join-us/jobs/8405287002/?gh_jid=8405287002) | Optiver | Machine Learning Research Engineer | New York, New York | ⚪ unclear | 2026-02-05 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583953) | Hudson River Trading | Software Engineer - Treasury Infrastructure | New York, NY, United States | ⚪ unclear | 2026-02-02 |
-| [Apply](https://www.optiver.com/join-us/jobs/8377049002/?gh_jid=8377049002) | Optiver | Software Engineer - ORP | Austin, Texas, United States | ⚪ unclear | 2026-01-15 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7091959) | Stripe | Fullstack Engineer, Privy | NYC-Privy, US-Remote | ⚪ unclear | 2025-08-04 |
-| [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4439297101) | IMC | Data Engineer | Chicago, United States | ⚪ unclear | 2025-06-10 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703952) | Hudson River Trading | Software Engineer - Distributed Systems (Storage/Databases) | New York, NY, United States | ⚪ unclear | 2025-04-04 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/7604415002/) | Jane Street | Software Engineer / Writer | NYC | ⚪ unclear | — |
-| [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101) | IMC | Software Engineer, Early Career | Chicago, United States | ⚪ unclear | 2025-04-17 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7826761) | Stripe | Software Engineer, Security Analytics Infrastructure | US - Remote | ⚪ unclear | 2026-04-20 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7797373) | DRW | Software Engineer - Cumberland/FICCO Tools Engineering | Chicago | ⚪ unclear | 2026-04-09 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7743648) | DRW | Software Engineer, Research – Cumberland Systematic | New York City | ⚪ unclear | 2026-03-23 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7728094) | DRW | Software Engineer - Cumberland/FICCO Tools Engineering | New York City | ⚪ unclear | 2026-03-17 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7713717) | DRW | Software Engineer - Cumberland/FICCO Tools Engineering | Greenwich | ⚪ unclear | 2026-03-16 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7561710) | DRW | Software Engineer, Market Data - Cumberland | Chicago | ⚪ unclear | 2026-01-26 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7563830) | DRW | Software Engineer, Market Data - Cumberland | New York City | ⚪ unclear | 2026-01-26 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=7507904) | Stripe | Software Engineer - Smart Contract, Bridge | San Francisco or New York | ⚪ unclear | 2025-12-31 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7421010) | DRW | Data Engineer, Cumberland/FICCO | Chicago | ⚪ unclear | 2025-12-02 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7392396) | DRW | Software Engineer, Cumberland/FICCO Tools Engineering | New York City | ⚪ unclear | 2025-11-12 |
-| [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7392942) | Hudson River Trading | Software Engineer – C++ | Austin, TX, United States; Chicago, Illinois, United States… | ⚪ unclear | 2025-11-12 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7283668) | DRW | Software Engineer, Research – Cumberland Systematic | Chicago | ⚪ unclear | 2025-09-30 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7288315) | DRW | Software Engineer, Cumberland/FICCO Tools Engineering | Greenwich | ⚪ unclear | 2025-09-30 |
-| [Apply](https://www.optiver.com/join-us/jobs/7929993002/?gh_jid=7929993002) | Optiver | Software Engineer – Hardware Development | Austin, Texas, United States | ⚪ unclear | 2025-04-10 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7913994) | DRW | DevOps Engineer | Chicago, Austin | ⚪ unclear | 2026-05-13 |
-| [Apply](https://www.optiver.com/join-us/jobs/8523853002/?gh_jid=8523853002) | Optiver | Software Engineer - Quantitative Development | Chicago, Illinois, United States | ⚪ unclear | 2026-04-24 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7728142) | DRW | Software Engineer - Prediction Markets (Python) | New York City | ⚪ unclear | 2026-03-17 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7713854) | DRW | Software Engineer - Prediction Markets (Python) | Chicago | ⚪ unclear | 2026-03-12 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7545859) | DRW | Python Software Engineer, Trading Platform | Chicago, New York | ⚪ unclear | 2026-01-16 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7377915) | DRW | Research Engineer (FICCO) | Chicago | ⚪ unclear | 2025-11-05 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/7097016) | DRW | Research Engineer (FICCO) | Greenwich | ⚪ unclear | 2025-07-23 |
-| [Apply](https://job-boards.greenhouse.io/drweng/jobs/6973885) | DRW | Research Engineer | New York City | ⚪ unclear | 2025-06-16 |
-| [Apply](https://www.optiver.com/join-us/jobs/7930026002/?gh_jid=7930026002) | Optiver | Software Engineer – Hardware Research | Austin, Texas, United States | ⚪ unclear | 2025-04-08 |
-| [Apply](https://www.optiver.com/join-us/jobs/8521354002/?gh_jid=8521354002) | Optiver | Software Engineer - Equities/ETFs | New York, New York | ⚪ unclear | 2026-04-24 |
-| [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4673650101) | IMC | C++ Software Engineer | Chicago, United States; New York, United States | ⚪ unclear | 2025-09-12 |
 
 _0 lower-priority matches and any disqualified postings are in [data/active_jobs.json](data/active_jobs.json) / [data/active_jobs.csv](data/active_jobs.csv)._

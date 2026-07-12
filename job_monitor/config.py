@@ -77,6 +77,11 @@ class Config:
     def archive_after_missing_runs(self) -> int:
         return int(self.filters.get("lifecycle", {}).get("archive_after_missing_runs", 3))
 
+    @property
+    def min_posted_date(self) -> str:
+        """ISO date; postings dated before it are dropped. Empty = no gate."""
+        return str(self.filters.get("lifecycle", {}).get("min_posted_date", "") or "")
+
 
 def _load_yaml(path: Path) -> Any:
     with open(path, encoding="utf-8") as fh:

@@ -185,3 +185,7 @@ scoring:
 lifecycle:
   # Runs a job may be missing from its source before it is archived as closed.
   archive_after_missing_runs: 3
+  # Postings dated strictly before this ISO date are dropped at fetch time and
+  # never enter the dataset. Postings with no known date are kept (recency
+  # scoring already penalizes stale ones).
+  min_posted_date: "2026-06-01"

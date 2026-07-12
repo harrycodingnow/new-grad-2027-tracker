@@ -98,6 +98,9 @@ class Runner:
             job.application_url = job.application_url.strip()
             if not location_matches(job, company.locations):
                 continue
+            min_posted = self.config.min_posted_date
+            if min_posted and job.date_posted and job.date_posted[:10] < min_posted:
+                continue
             if not job.country:
                 job.country = "United States"
             decision = self.title_filter.evaluate(job.title)
@@ -212,6 +215,8 @@ class Runner:
         (root / "ACTIVE_JOBS.md").write_text(active_md, encoding="utf-8")
         new_md = report.build_new_report(result.new, self.config.filters, self.priorities)
         (root / "NEW_JOBS.md").write_text(new_md, encoding="utf-8")
+        # README mirrors the new-jobs report so the repo landing page stays fresh.
+        (root / "README.md").write_text(new_md, encoding="utf-8")
         store.mirror_to_docs(d, root / "docs" / "data")
 
     # ------------------------------------------------------------ validation
