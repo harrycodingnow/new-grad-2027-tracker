@@ -18,7 +18,7 @@
 # in source health so they stay visible. Do NOT guess identifiers — validate
 # with `python -m job_monitor validate-sources` before enabling.
 #
-# Live validation last run 2026-07-12 from a non-US network; see README
+# Live validation last run 2026-07-13 from a non-US network; see README
 # "Company support" for the per-company table.
 
 defaults: &us
@@ -117,7 +117,7 @@ companies:
     notes: >-
       UNRESOLVED (2026-07-12): jobs.cisco.com migrated to a Phenom-hosted,
       JavaScript-rendered portal; the old HTML search results are gone. Could be
-      revisited with the playwright adapter if desired.
+      revisited with the playwright adapter if desired. Re-checked 2026-07-13: still no public API.
 
   - name: Uber
     enabled: true
@@ -149,7 +149,7 @@ companies:
     <<: *us
     notes: >-
       UNRESOLVED (2026-07-12): Eightfold-hosted site; public jobs API responds
-      "Tenant not identified". Check manually.
+      "Tenant not identified". Check manually. Re-checked 2026-07-13: still no public API.
 
   - name: Bloomberg
     enabled: false
@@ -160,7 +160,7 @@ companies:
     <<: *us
     notes: >-
       UNRESOLVED (2026-07-12): careers.bloomberg.com has no public JSON API and
-      redirects non-browser clients. Check manually.
+      redirects non-browser clients. Check manually. Re-checked 2026-07-13: still no public API.
 
   - name: Stripe
     enabled: true
@@ -181,15 +181,15 @@ companies:
     notes: "Greenhouse board API (validated 2026-07-12, 387 postings)."
 
   - name: Confluent
-    enabled: false
+    enabled: true
     priority: 2
     careers_url: https://careers.confluent.io/
-    source_type: unresolved
-    source_identifier: ""
+    source_type: ashby
+    source_identifier: confluent
     <<: *us
     notes: >-
-      UNRESOLVED (2026-07-12): careers.confluent.io is a JS app with no
-      detectable public ATS API (their old Greenhouse board 404s). Check manually.
+      Ashby job board API (validated 2026-07-13); replaced the 404ing
+      Greenhouse board.
 
   - name: Cloudflare
     enabled: true
@@ -212,15 +212,15 @@ companies:
     notes: "Oracle HCM public recruiting API (validated 2026-07-12)."
 
   - name: Salesforce
-    enabled: false
+    enabled: true
     priority: 2
     careers_url: https://careers.salesforce.com/
-    source_type: unresolved
-    source_identifier: ""
+    source_type: workday
+    source_identifier: salesforce.wd12.myworkdayjobs.com/salesforce/External_Career_Site
     <<: *us
     notes: >-
-      UNRESOLVED (2026-07-12): careers.salesforce.com/api/jobs returns 404; no
-      public JSON API found. Check manually.
+      Workday CXS API (validated 2026-07-13, 530 postings); careers.salesforce.com
+      itself has no public JSON API.
 
   - name: Adobe
     enabled: true
@@ -249,7 +249,7 @@ companies:
     <<: *us
     notes: >-
       UNRESOLVED: SuccessFactors career site without a public JSON API. Check
-      manually.
+      manually. Re-checked 2026-07-13: still no public API.
 
   - name: Workday
     enabled: true
@@ -276,7 +276,7 @@ companies:
     source_type: unresolved
     source_identifier: ""
     <<: *us
-    notes: "UNRESOLVED: Phenom-hosted site without a stable public JSON API. Check manually."
+    notes: "UNRESOLVED: Phenom-hosted site without a stable public JSON API. Check manually. Re-checked 2026-07-13: still no public API."
 
   # ------------------------------------------- semiconductor / EDA (priority 3)
   - name: AMD
@@ -288,7 +288,7 @@ companies:
     <<: *us
     notes: >-
       UNRESOLVED (2026-07-12): careers.amd.com is Phenom-hosted (JS-rendered);
-      the old Workday tenant is not public. Check manually.
+      the old Workday tenant is not public. Check manually. Re-checked 2026-07-13: still no public API.
 
   - name: Intel
     enabled: true
@@ -442,7 +442,7 @@ companies:
     <<: *us
     notes: >-
       UNRESOLVED (2026-07-12): Avature-hosted, JavaScript-rendered search (old
-      Greenhouse board 404s). Could be revisited with the playwright adapter.
+      Greenhouse board 404s). Could be revisited with the playwright adapter. Re-checked 2026-07-13: still no public API.
 
   - name: Citadel
     enabled: false
@@ -482,7 +482,7 @@ companies:
     source_type: unresolved
     source_identifier: ""
     <<: *us
-    notes: "UNRESOLVED: Phenom-hosted site without a stable public JSON API. Check manually."
+    notes: "UNRESOLVED: Phenom-hosted site without a stable public JSON API. Check manually. Re-checked 2026-07-13: still no public API."
 
   - name: Morgan Stanley
     enabled: true
@@ -503,7 +503,7 @@ companies:
     notes: >-
       UNRESOLVED (2026-07-12): the SmartRecruiters board "visa" exists but holds
       only 2 postings (not the main careers feed); corporate.visa.com/jobs has no
-      public JSON API. Check manually.
+      public JSON API. Check manually. Re-checked 2026-07-13: still no public API.
 
   - name: Mastercard
     enabled: true
