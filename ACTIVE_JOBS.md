@@ -1,42 +1,8 @@
 # Active Job Matches
 
-_Last updated: **2026-07-12 22:10 UTC** (2026-07-13 06:10 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-07-13 00:05 UTC** (2026-07-13 08:05 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
-
-## Summary
-
-- **Active jobs tracked:** 295
-- **Recommended (not disqualified):** 269
-- **Companies checked successfully:** 29
-- **Failed sources:** 0
-- **Unresolved/disabled sources:** 20
-- Matches — excellent: 4, strong: 164, possible: 101, low priority: 0
-
-## Source problems
-
-| Company | Status | Category | Detail |
-| --- | --- | --- | --- |
-| Google | skipped | unsupported | UNRESOLVED (2026-07-12): the former careers.google.com/api/v3/search API returns 404; current site has no public JSON API. Check manually. |
-| Meta | skipped | unsupported | UNRESOLVED: metacareers.com uses an authenticated GraphQL endpoint; no stable public JSON source. Check manually. |
-| Apple | skipped | unsupported | UNRESOLVED: jobs.apple.com search API requires per-session CSRF tokens; not collected responsibly without a browser session. Check manually. |
-| Cisco | skipped | unsupported | UNRESOLVED (2026-07-12): jobs.cisco.com migrated to a Phenom-hosted, JavaScript-rendered portal; the old HTML search results are gone. Coul… |
-| Snowflake | skipped | unsupported | UNRESOLVED (2026-07-12): Eightfold-hosted site; public jobs API responds "Tenant not identified". Check manually. |
-| Bloomberg | skipped | unsupported | UNRESOLVED (2026-07-12): careers.bloomberg.com has no public JSON API and redirects non-browser clients. Check manually. |
-| Confluent | skipped | unsupported | UNRESOLVED (2026-07-12): careers.confluent.io is a JS app with no detectable public ATS API (their old Greenhouse board 404s). Check manual… |
-| Salesforce | skipped | unsupported | UNRESOLVED (2026-07-12): careers.salesforce.com/api/jobs returns 404; no public JSON API found. Check manually. |
-| SAP | skipped | unsupported | UNRESOLVED: SuccessFactors career site without a public JSON API. Check manually. |
-| LinkedIn | skipped | unsupported | UNRESOLVED: LinkedIn career pages disallow automated access. Check manually. |
-| Intuit | skipped | unsupported | UNRESOLVED: Phenom-hosted site without a stable public JSON API. Check manually. |
-| AMD | skipped | unsupported | UNRESOLVED (2026-07-12): careers.amd.com is Phenom-hosted (JS-rendered); the old Workday tenant is not public. Check manually. |
-| ASML | skipped | unsupported | UNRESOLVED (2026-07-12): asml.com careers uses a custom search without a public JSON API; Workday tenant not public. Check manually (US rol… |
-| Synopsys | skipped | unsupported | UNRESOLVED (2026-07-12): careers.synopsys.com redirects to an Eightfold-hosted app whose public API is restricted. Check manually. |
-| TSMC | skipped | unsupported | UNRESOLVED: custom careers portal without a public JSON API. Check manually (TSMC Arizona postings). |
-| Two Sigma | skipped | unsupported | UNRESOLVED (2026-07-12): Avature-hosted, JavaScript-rendered search (old Greenhouse board 404s). Could be revisited with the playwright ada… |
-| Citadel | skipped | unsupported | UNRESOLVED (2026-07-12): citadel.com blocks automated clients (403) and the old Greenhouse board 404s. Not bypassing; check manually. |
-| Goldman Sachs | skipped | unsupported | UNRESOLVED (2026-07-12): higher.gs.com uses a private API. Campus roles are posted at higher.gs.com/campus; check manually. |
-| BlackRock | skipped | unsupported | UNRESOLVED: Phenom-hosted site without a stable public JSON API. Check manually. |
-| Visa | skipped | unsupported | UNRESOLVED (2026-07-12): the SmartRecruiters board "visa" exists but holds only 2 postings (not the main careers feed); corporate.visa.com/… |
 
 ## 🌟 Excellent matches (80–100)
 
@@ -321,5 +287,39 @@ _Last updated: **2026-07-12 22:10 UTC** (2026-07-13 06:10 Asia/Taipei) — auto-
 | [Apply](https://www.janestreet.com/join-jane-street/position/8611307002/) | Jane Street | Machine Learning Engineer | NYC | ⚪ unclear | — |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000130592199) | ServiceNow | Agentic Search Infrastructure Engineer - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-06-05 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/7604415002/) | Jane Street | Software Engineer / Writer | NYC | ⚪ unclear | — |
+
+## Summary
+
+- **Active jobs tracked:** 295
+- **Recommended (not disqualified):** 269
+- **Companies checked successfully:** 29
+- **Failed sources:** 0
+- **Unresolved/disabled sources:** 20
+- Matches — excellent: 4, strong: 164, possible: 101, low priority: 0
+
+## Source problems
+
+| Company | Status | Category | Detail |
+| --- | --- | --- | --- |
+| AMD | skipped | unsupported | UNRESOLVED (2026-07-12): careers.amd.com is Phenom-hosted (JS-rendered); the old Workday tenant is not public. Check manually. |
+| Apple | skipped | unsupported | UNRESOLVED: jobs.apple.com search API requires per-session CSRF tokens; not collected responsibly without a browser session. Check manually. |
+| ASML | skipped | unsupported | UNRESOLVED (2026-07-12): asml.com careers uses a custom search without a public JSON API; Workday tenant not public. Check manually (US rol… |
+| BlackRock | skipped | unsupported | UNRESOLVED: Phenom-hosted site without a stable public JSON API. Check manually. |
+| Bloomberg | skipped | unsupported | UNRESOLVED (2026-07-12): careers.bloomberg.com has no public JSON API and redirects non-browser clients. Check manually. |
+| Cisco | skipped | unsupported | UNRESOLVED (2026-07-12): jobs.cisco.com migrated to a Phenom-hosted, JavaScript-rendered portal; the old HTML search results are gone. Coul… |
+| Citadel | skipped | unsupported | UNRESOLVED (2026-07-12): citadel.com blocks automated clients (403) and the old Greenhouse board 404s. Not bypassing; check manually. |
+| Confluent | skipped | unsupported | UNRESOLVED (2026-07-12): careers.confluent.io is a JS app with no detectable public ATS API (their old Greenhouse board 404s). Check manual… |
+| Goldman Sachs | skipped | unsupported | UNRESOLVED (2026-07-12): higher.gs.com uses a private API. Campus roles are posted at higher.gs.com/campus; check manually. |
+| Google | skipped | unsupported | UNRESOLVED (2026-07-12): the former careers.google.com/api/v3/search API returns 404; current site has no public JSON API. Check manually. |
+| Intuit | skipped | unsupported | UNRESOLVED: Phenom-hosted site without a stable public JSON API. Check manually. |
+| LinkedIn | skipped | unsupported | UNRESOLVED: LinkedIn career pages disallow automated access. Check manually. |
+| Meta | skipped | unsupported | UNRESOLVED: metacareers.com uses an authenticated GraphQL endpoint; no stable public JSON source. Check manually. |
+| Salesforce | skipped | unsupported | UNRESOLVED (2026-07-12): careers.salesforce.com/api/jobs returns 404; no public JSON API found. Check manually. |
+| SAP | skipped | unsupported | UNRESOLVED: SuccessFactors career site without a public JSON API. Check manually. |
+| Snowflake | skipped | unsupported | UNRESOLVED (2026-07-12): Eightfold-hosted site; public jobs API responds "Tenant not identified". Check manually. |
+| Synopsys | skipped | unsupported | UNRESOLVED (2026-07-12): careers.synopsys.com redirects to an Eightfold-hosted app whose public API is restricted. Check manually. |
+| TSMC | skipped | unsupported | UNRESOLVED: custom careers portal without a public JSON API. Check manually (TSMC Arizona postings). |
+| Two Sigma | skipped | unsupported | UNRESOLVED (2026-07-12): Avature-hosted, JavaScript-rendered search (old Greenhouse board 404s). Could be revisited with the playwright ada… |
+| Visa | skipped | unsupported | UNRESOLVED (2026-07-12): the SmartRecruiters board "visa" exists but holds only 2 postings (not the main careers feed); corporate.visa.com/… |
 
 _0 lower-priority matches and any disqualified postings are in [data/active_jobs.json](data/active_jobs.json) / [data/active_jobs.csv](data/active_jobs.csv)._

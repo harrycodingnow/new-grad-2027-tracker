@@ -65,6 +65,18 @@ def build_active_report(
         "",
         DISCLAIMER,
         "",
+    ]
+
+    for band, heading in (
+        ("excellent", "## 🌟 Excellent matches (80–100)"),
+        ("strong", "## ✅ Strong matches (65–79)"),
+        ("possible", "## 🤔 Possible matches (50–64)"),
+    ):
+        lines += [heading, ""]
+        lines += _jobs_table(bands[band])
+        lines.append("")
+
+    lines += [
         "## Summary",
         "",
         f"- **Active jobs tracked:** {len(jobs)}",
@@ -85,15 +97,6 @@ def build_active_report(
                 f"| {md_escape(h.company)} | {h.status} | {h.error_category} "
                 f"| {md_escape(truncate(h.error_message, 140))} |"
             )
-        lines.append("")
-
-    for band, heading in (
-        ("excellent", "## 🌟 Excellent matches (80–100)"),
-        ("strong", "## ✅ Strong matches (65–79)"),
-        ("possible", "## 🤔 Possible matches (50–64)"),
-    ):
-        lines += [heading, ""]
-        lines += _jobs_table(bands[band])
         lines.append("")
 
     lines += [
