@@ -213,10 +213,11 @@ class Runner:
             result.active, health_rows, self.config.filters, self.priorities
         )
         (root / "ACTIVE_JOBS.md").write_text(active_md, encoding="utf-8")
+        # README mirrors the full active-jobs report so the repo landing page
+        # shows every discovered opening, not just the latest run's finds.
+        (root / "README.md").write_text(active_md, encoding="utf-8")
         new_md = report.build_new_report(result.new, self.config.filters, self.priorities)
         (root / "NEW_JOBS.md").write_text(new_md, encoding="utf-8")
-        # README mirrors the new-jobs report so the repo landing page stays fresh.
-        (root / "README.md").write_text(new_md, encoding="utf-8")
         store.mirror_to_docs(d, root / "docs" / "data")
 
     # ------------------------------------------------------------ validation
