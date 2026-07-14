@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-07-14 15:55 UTC** (2026-07-14 23:55 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-07-14 21:34 UTC** (2026-07-15 05:34 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -66,6 +66,7 @@ _Last updated: **2026-07-14 15:55 UTC** (2026-07-14 23:55 Asia/Taipei) — auto-
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971) | NVIDIA | ASIC Floorplan Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-29 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer---Smart-Network-Devices--New-College-Grad-2026_JR2020535) | NVIDIA | Compiler Engineer - Smart Network Devices- New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10456612/software-development-engineer-amazon-quick) | Amazon | Software Development Engineer, Amazon Quick | Santa Clara, California, USA | ⚪ unclear | 2026-06-23 |
+| [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Accelerator-SW-HW-Co-Design---New-College-Grad-2026_JR2011644) | NVIDIA | Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-14 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2026_JR2011787) | NVIDIA | ASIC Hardware Design Engineer - New College Grad 2026 | US, TX, Austin | ⚪ unclear | 2026-06-14 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-14 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signoff-Methodology-Engineer---New-College-Grad-2026_JR2014110) | NVIDIA | Signoff Methodology Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-14 |
@@ -205,7 +206,6 @@ _Last updated: **2026-07-14 15:55 UTC** (2026-07-14 23:55 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10464138/jr-software-development-engineer-santa-barbara-ca-jr-developer-program) | Amazon | Jr. Software Development Engineer - Santa Barbara, CA, Jr. Developer Program | Santa Barbara, California, USA | ⚪ unclear | 2026-07-01 |
 | [Apply](https://www.amazon.jobs/en/jobs/10461529/software-development-engineer-amazon-connect-entity-resolution) | Amazon | Software Development Engineer, Amazon Connect - Entity Resolution | Seattle, Washington, USA | ⚪ unclear | 2026-06-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10460002/software-development-engineer-perception-fauna) | Amazon | Software Development Engineer, Perception, Fauna | New York, New York, USA | ⚪ unclear | 2026-06-26 |
-| [Apply](https://www.amazon.jobs/en/jobs/10460208/software-development-engineer-amazon-software-builder-experience-asbx-genai-tools) | Amazon | Software Development Engineer, Amazon Software Builder Experience (ASBX) - GenAI Tools | Seattle, Washington, USA | ⚪ unclear | 2026-06-26 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549796478265) | Morgan Stanley | Associate, Software Engineer | Alpharetta, Georgia, United States of America | ⚪ unclear | 2026-06-26 |
 | [Apply](https://www.amazon.jobs/en/jobs/10458528/software-development-engineer-apache-flink-engineer-amazon-managed-service-for-apache-flink) | Amazon | Software Development Engineer - Apache Flink Engineer, Amazon Managed Service for Apache Flink | Seattle, Washington, USA | ⚪ unclear | 2026-06-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10457717/software-engineer-memberships) | Amazon | Software Engineer, Memberships | San Francisco, California, USA | ⚪ unclear | 2026-06-24 |
@@ -260,6 +260,7 @@ _Last updated: **2026-07-14 15:55 UTC** (2026-07-14 23:55 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10437831/software-development-engineer-data-platform-prime-video-personalization-discovery) | Amazon | Software Development Engineer,  Data Platform, Prime Video Personalization & Discovery | New York, New York, USA | ⚪ unclear | 2026-06-02 |
 | [Apply](https://www.amazon.jobs/en/jobs/10464358/software-development-engineer-global-tax-services-data) | Amazon | Software Development Engineer, Global Tax Services - Data | Seattle, Washington, USA | ⚪ unclear | 2026-07-01 |
 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002) | Databricks | Software Engineer, Web Products | Mountain View, California | ⚪ unclear | 2026-06-23 |
+| [Apply](https://www.uber.com/global/en/careers/list/156031/) | Uber | Software Engineer- Backend | New York, New York; San Francisco, San Francisco; Sunnyvale… | ⚪ unclear | 2026-06-19 |
 | [Apply](https://careers.qualcomm.com/careers/job/446704270279) | Qualcomm | DSP Applications Software Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-06-16 |
 | [Apply](https://careers.qualcomm.com/careers/job/446718053556) | Qualcomm | DSP Applications Software Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-06-16 |
 | [Apply](https://careers.qualcomm.com/careers/job/446718053531) | Qualcomm | DSP Applications Software Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-06-16 |
@@ -291,12 +292,12 @@ _Last updated: **2026-07-14 15:55 UTC** (2026-07-14 23:55 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 302
-- **Recommended (not disqualified):** 270
+- **Active jobs tracked:** 304
+- **Recommended (not disqualified):** 271
 - **Companies checked successfully:** 31
 - **Failed sources:** 0
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 165, possible: 101, low priority: 0
+- Matches — excellent: 4, strong: 166, possible: 101, low priority: 0
 
 ## Source problems
 
