@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T21:34:28Z",
+  "generated_at": "2026-07-15T05:18:18Z",
   "sources": [
     {
       "company": "Adobe",
       "source_type": "workday",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 110,
       "error_category": "ok",
@@ -15,8 +15,8 @@
     {
       "company": "Amazon",
       "source_type": "json",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 430,
       "error_category": "ok",
@@ -26,7 +26,7 @@
     {
       "company": "AMD",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -37,7 +37,7 @@
     {
       "company": "Apple",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -48,8 +48,8 @@
     {
       "company": "Applied Materials",
       "source_type": "workday",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 116,
       "error_category": "ok",
@@ -59,7 +59,7 @@
     {
       "company": "ASML",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -70,7 +70,7 @@
     {
       "company": "BlackRock",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -81,7 +81,7 @@
     {
       "company": "Bloomberg",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -92,8 +92,8 @@
     {
       "company": "Broadcom",
       "source_type": "workday",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 30,
       "error_category": "ok",
@@ -103,8 +103,8 @@
     {
       "company": "Cadence",
       "source_type": "workday",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 31,
       "error_category": "ok",
@@ -114,7 +114,7 @@
     {
       "company": "Cisco",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -125,7 +125,7 @@
     {
       "company": "Citadel",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -136,10 +136,10 @@
     {
       "company": "Cloudflare",
       "source_type": "greenhouse",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 262,
+      "jobs_fetched": 264,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -147,8 +147,8 @@
     {
       "company": "Confluent",
       "source_type": "ashby",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 32,
       "error_category": "ok",
@@ -158,10 +158,10 @@
     {
       "company": "Databricks",
       "source_type": "greenhouse",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 783,
+      "jobs_fetched": 785,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -169,8 +169,8 @@
     {
       "company": "DRW",
       "source_type": "greenhouse",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 166,
       "error_category": "ok",
@@ -180,7 +180,7 @@
     {
       "company": "Goldman Sachs",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -191,7 +191,7 @@
     {
       "company": "Google",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -202,8 +202,8 @@
     {
       "company": "Hudson River Trading",
       "source_type": "greenhouse",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 75,
       "error_category": "ok",
@@ -213,10 +213,10 @@
     {
       "company": "IMC",
       "source_type": "greenhouse",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 153,
+      "jobs_fetched": 154,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -224,8 +224,8 @@
     {
       "company": "Intel",
       "source_type": "workday",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 65,
       "error_category": "ok",
@@ -235,7 +235,7 @@
     {
       "company": "Intuit",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -246,8 +246,8 @@
     {
       "company": "Jane Street",
       "source_type": "json",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 97,
       "error_category": "ok",
@@ -257,8 +257,8 @@
     {
       "company": "KLA",
       "source_type": "workday",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 85,
       "error_category": "ok",
@@ -268,8 +268,8 @@
     {
       "company": "Lam Research",
       "source_type": "eightfold",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 244,
       "error_category": "ok",
@@ -279,7 +279,7 @@
     {
       "company": "LinkedIn",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -290,10 +290,10 @@
     {
       "company": "Marvell",
       "source_type": "workday",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 60,
+      "jobs_fetched": 61,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -301,10 +301,10 @@
     {
       "company": "Mastercard",
       "source_type": "workday",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 87,
+      "jobs_fetched": 86,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -312,7 +312,7 @@
     {
       "company": "Meta",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -323,8 +323,8 @@
     {
       "company": "Micron",
       "source_type": "workday",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 116,
       "error_category": "ok",
@@ -334,10 +334,10 @@
     {
       "company": "Microsoft",
       "source_type": "eightfold",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 327,
+      "jobs_fetched": 328,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -345,10 +345,10 @@
     {
       "company": "MongoDB",
       "source_type": "greenhouse",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 387,
+      "jobs_fetched": 388,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -356,10 +356,10 @@
     {
       "company": "Morgan Stanley",
       "source_type": "eightfold",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 81,
+      "jobs_fetched": 80,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -367,10 +367,10 @@
     {
       "company": "NVIDIA",
       "source_type": "workday",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 78,
+      "jobs_fetched": 79,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -378,10 +378,10 @@
     {
       "company": "Optiver",
       "source_type": "greenhouse",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 189,
+      "jobs_fetched": 190,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -389,10 +389,10 @@
     {
       "company": "Oracle",
       "source_type": "json",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 62,
+      "jobs_fetched": 60,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -400,8 +400,8 @@
     {
       "company": "PayPal",
       "source_type": "eightfold",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 66,
       "error_category": "ok",
@@ -411,10 +411,10 @@
     {
       "company": "Qualcomm",
       "source_type": "eightfold",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 340,
+      "jobs_fetched": 336,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -422,10 +422,10 @@
     {
       "company": "Salesforce",
       "source_type": "workday",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 147,
+      "jobs_fetched": 149,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -433,7 +433,7 @@
     {
       "company": "SAP",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -444,10 +444,10 @@
     {
       "company": "ServiceNow",
       "source_type": "json",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 233,
+      "jobs_fetched": 234,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -455,7 +455,7 @@
     {
       "company": "Snowflake",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -466,10 +466,10 @@
     {
       "company": "Stripe",
       "source_type": "greenhouse",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
-      "jobs_fetched": 519,
+      "jobs_fetched": 521,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -477,7 +477,7 @@
     {
       "company": "Synopsys",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -488,7 +488,7 @@
     {
       "company": "TSMC",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -499,7 +499,7 @@
     {
       "company": "Two Sigma",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -510,8 +510,8 @@
     {
       "company": "Uber",
       "source_type": "json",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 69,
       "error_category": "ok",
@@ -521,7 +521,7 @@
     {
       "company": "Visa",
       "source_type": "unresolved",
-      "last_attempt": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -532,8 +532,8 @@
     {
       "company": "Workday",
       "source_type": "workday",
-      "last_attempt": "2026-07-14T21:27:54Z",
-      "last_success": "2026-07-14T21:27:54Z",
+      "last_attempt": "2026-07-15T05:11:44Z",
+      "last_success": "2026-07-15T05:11:44Z",
       "status": "ok",
       "jobs_fetched": 31,
       "error_category": "ok",
