@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-07-18 09:55 UTC** (2026-07-18 17:55 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-07-18 15:24 UTC** (2026-07-18 23:24 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -150,8 +150,6 @@ _Last updated: **2026-07-18 09:55 UTC** (2026-07-18 17:55 Asia/Taipei) — auto-
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000134357159) | ServiceNow | Machine Learning Engineer, Agentic Application | Mountain View, CALIFORNIA | ⚪ unclear | 2026-06-26 |
 | [Apply](https://www.amazon.jobs/en/jobs/10459103/software-development-engineer-open-data-analytics-fundamentals-team) | Amazon | Software Development Engineer, Open Data Analytics Fundamentals Team | Redmond, Washington, USA | ⚪ unclear | 2026-06-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10477655/data-engineer-workforce-solutions-talent-mobility) | Amazon | Data Engineer, Workforce Solutions - Talent Mobility | Bellevue, Washington, USA | ⚪ unclear | 2026-07-17 |
-| [Apply](https://www.amazon.jobs/en/jobs/10476580/software-development-engineer-amazon-recruiting-tech) | Amazon | Software Development Engineer, Amazon Recruiting Tech | Seattle, Washington, USA | ⚪ unclear | 2026-07-16 |
-| [Apply](https://www.amazon.jobs/en/jobs/10476690/software-development-engineer-hiring-intelligence-science-experimentation-hirise) | Amazon | Software Development Engineer, Hiring Intelligence, Science & Experimentation (HIRISE) | Seattle, Washington, USA | ⚪ unclear | 2026-07-16 |
 | [Apply](https://www.amazon.jobs/en/jobs/10476913/software-development-engineer-device-os) | Amazon | Software Development Engineer, Device OS | Seattle, Washington, USA | ⚪ unclear | 2026-07-16 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000138178124) | ServiceNow | Machine Learning Engineer, GAI Search Relevance - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-07-16 |
 | [Apply](https://www.amazon.jobs/en/jobs/10474656/software-development-engineer-benchmarks) | Amazon | Software Development Engineer, Benchmarks | New York, New York, USA | ⚪ unclear | 2026-07-14 |
@@ -166,7 +164,6 @@ _Last updated: **2026-07-18 09:55 UTC** (2026-07-18 17:55 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10471636/software-development-engineer-s3-keystone) | Amazon | Software Development Engineer, S3 Keystone | Seattle, Washington, USA | ⚪ unclear | 2026-07-10 |
 | [Apply](https://www.amazon.jobs/en/jobs/10470084/software-development-engineer-amazon-ads-demand-tech-forecasting-and-guidance) | Amazon | Software Development Engineer, Amazon Ads Demand Tech, Forecasting and Guidance | Mountain View, California, USA | ⚪ unclear | 2026-07-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10470158/software-development-engineer-multi-region-journal) | Amazon | Software Development Engineer, Multi Region Journal | Seattle, Washington, USA | ⚪ unclear | 2026-07-09 |
-| [Apply](https://www.amazon.jobs/en/jobs/10470513/software-development-engineer-amazon-cloud-management-foundations) | Amazon | Software Development Engineer, Amazon Cloud Management Foundations | Seattle, Washington, USA | ⚪ unclear | 2026-07-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10470594/software-development-engineer-amazon-application-recovery-controller) | Amazon | Software Development Engineer, Amazon Application Recovery Controller | Seattle, Washington, USA | ⚪ unclear | 2026-07-09 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719653280) | Qualcomm | Software Engineer, Core AI Software | San Diego, California, United States of America | ⚪ unclear | 2026-07-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10465169/software-engineer-programming-foundations-asbx) | Amazon | Software Engineer, Programming Foundations, ASBX | Seattle, Washington, USA | ⚪ unclear | 2026-07-02 |
@@ -184,7 +181,6 @@ _Last updated: **2026-07-18 09:55 UTC** (2026-07-18 17:55 Asia/Taipei) — auto-
 
 | Apply | Company | Title | Location | Sponsorship | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Apply](https://www.amazon.jobs/en/jobs/10466626/software-development-engineer-aws-invoicing) | Amazon | Software Development Engineer, AWS Invoicing | Seattle, Washington, USA | ⚪ unclear | 2026-07-06 |
 | [Apply](https://www.amazon.jobs/en/jobs/10466701/software-development-engineer-developer-agents-and-experiences) | Amazon | Software Development Engineer, Developer Agents and Experiences | Seattle, Washington, USA | ⚪ unclear | 2026-07-06 |
 | [Apply](https://www.amazon.jobs/en/jobs/10466825/software-development-engineer-aws-partnerships) | Amazon | Software Development Engineer, AWS Partnerships | Seattle, Washington, USA | ⚪ unclear | 2026-07-06 |
 | [Apply](https://www.amazon.jobs/en/jobs/10466966/software-development-engineer-selection-economics-tech) | Amazon | Software Development Engineer, Selection Economics Tech | Seattle, Washington, USA | ⚪ unclear | 2026-07-06 |
@@ -258,7 +254,6 @@ _Last updated: **2026-07-18 09:55 UTC** (2026-07-18 17:55 Asia/Taipei) — auto-
 | [Apply](https://www.janestreet.com/join-jane-street/position/8345570002/) | Jane Street | Campus Recruiter, Technology | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8448713002/) | Jane Street | Campus Recruiter, Early Careers Partnerships & Initiatives | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8613910002/) | Jane Street | Cybersecurity Analyst: New Grad | NYC | ⚪ unclear | — |
-| [Apply](https://www.amazon.jobs/en/jobs/10464358/software-development-engineer-global-tax-services-data) | Amazon | Software Development Engineer, Global Tax Services - Data | Seattle, Washington, USA | ⚪ unclear | 2026-07-01 |
 | [Apply](https://careers.qualcomm.com/careers/job/446704270279) | Qualcomm | DSP Applications Software Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-06-16 |
 | [Apply](https://careers.qualcomm.com/careers/job/446718053556) | Qualcomm | DSP Applications Software Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-06-16 |
 | [Apply](https://careers.qualcomm.com/careers/job/446718053531) | Qualcomm | DSP Applications Software Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-06-16 |
@@ -281,12 +276,12 @@ _Last updated: **2026-07-18 09:55 UTC** (2026-07-18 17:55 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 303
-- **Recommended (not disqualified):** 260
+- **Active jobs tracked:** 298
+- **Recommended (not disqualified):** 255
 - **Companies checked successfully:** 31
 - **Failed sources:** 0
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 5, strong: 161, possible: 94, low priority: 0
+- Matches — excellent: 5, strong: 158, possible: 92, low priority: 0
 
 ## Source problems
 
