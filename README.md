@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-07-19 15:24 UTC** (2026-07-19 23:24 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-07-19 21:18 UTC** (2026-07-20 05:18 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -47,7 +47,6 @@ _Last updated: **2026-07-19 15:24 UTC** (2026-07-19 23:24 Asia/Taipei) — auto-
 | [Apply](https://careers.qualcomm.com/careers/job/446719766721) | Qualcomm | #Display Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-07-15 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719768617) | Qualcomm | #Software Engineer - WLAN | Santa Clara, California, United States of America | 🟡 possibly supported | 2026-07-15 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719744381) | Qualcomm | #Embedded Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-07-14 |
-| [Apply](https://www.amazon.jobs/en/jobs/10473193/software-development-engineer-aws-opensearch) | Amazon | Software Development Engineer, AWS OpenSearch | Austin, Texas, USA | ⚪ unclear | 2026-07-13 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309) | NVIDIA | ASIC Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-09 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837) | NVIDIA | Formal Verification Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-09 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640) | NVIDIA | ASIC Verification Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-07 |
@@ -214,7 +213,6 @@ _Last updated: **2026-07-19 15:24 UTC** (2026-07-19 23:24 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10476934/software-development-engineer-amazon-core-shopping-buy-for-me) | Amazon | Software Development Engineer, Amazon Core Shopping, Buy for Me | San Francisco, California, USA | ⚪ unclear | 2026-07-16 |
 | [Apply](https://careers.qualcomm.com/careers/job/446717394529) | Qualcomm | IOT Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-07-15 |
 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002) | Databricks | Software Engineer, Web Products | Mountain View, California | ⚪ unclear | 2026-07-15 |
-| [Apply](https://www.amazon.jobs/en/jobs/10473309/software-development-engineer-sponsored-products-and-brands) | Amazon | Software Development Engineer, Sponsored Products and Brands | New York, New York, USA | ⚪ unclear | 2026-07-14 |
 | [Apply](https://www.amazon.jobs/en/jobs/10464138/jr-software-development-engineer-santa-barbara-ca-jr-developer-program) | Amazon | Jr. Software Development Engineer - Santa Barbara, CA, Jr. Developer Program | Santa Barbara, California, USA | ⚪ unclear | 2026-07-01 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549796478265) | Morgan Stanley | Associate, Software Engineer | Alpharetta, Georgia, United States of America | ⚪ unclear | 2026-06-26 |
 | [Apply](https://www.amazon.jobs/en/jobs/10439144/data-engineer-amazon-ads) | Amazon | Data Engineer, Amazon Ads | New York, New York, USA | ⚪ unclear | 2026-06-03 |
@@ -277,12 +275,12 @@ _Last updated: **2026-07-19 15:24 UTC** (2026-07-19 23:24 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 299
-- **Recommended (not disqualified):** 256
+- **Active jobs tracked:** 297
+- **Recommended (not disqualified):** 254
 - **Companies checked successfully:** 31
 - **Failed sources:** 0
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 5, strong: 153, possible: 98, low priority: 0
+- Matches — excellent: 5, strong: 152, possible: 97, low priority: 0
 
 ## Source problems
 
