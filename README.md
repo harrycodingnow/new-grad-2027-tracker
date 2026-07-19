@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-07-19 10:08 UTC** (2026-07-19 18:08 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-07-19 15:24 UTC** (2026-07-19 23:24 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -44,7 +44,6 @@ _Last updated: **2026-07-19 10:08 UTC** (2026-07-19 18:08 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10476399/software-development-engineer-elastic-block-storage-ebs-capacity-optimization) | Amazon | Software Development Engineer, Elastic Block Storage (EBS), Capacity Optimization | Boston, Massachusetts, USA | ⚪ unclear | 2026-07-16 |
 | [Apply](https://www.amazon.jobs/en/jobs/10476787/software-development-engineer-ci-cd) | Amazon | Software Development Engineer - CI/CD | Austin, Texas, USA | ⚪ unclear | 2026-07-16 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000138174539) | ServiceNow | Machine Learning Engineer, GAI Search Platform - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-07-16 |
-| [Apply](https://www.amazon.jobs/en/jobs/10475911/software-development-engineer-aws) | Amazon | Software Development Engineer, AWS | Austin, Texas, USA | ⚪ unclear | 2026-07-15 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719766721) | Qualcomm | #Display Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-07-15 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719768617) | Qualcomm | #Software Engineer - WLAN | Santa Clara, California, United States of America | 🟡 possibly supported | 2026-07-15 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719744381) | Qualcomm | #Embedded Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-07-14 |
@@ -278,12 +277,12 @@ _Last updated: **2026-07-19 10:08 UTC** (2026-07-19 18:08 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 300
-- **Recommended (not disqualified):** 257
+- **Active jobs tracked:** 299
+- **Recommended (not disqualified):** 256
 - **Companies checked successfully:** 31
 - **Failed sources:** 0
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 5, strong: 154, possible: 98, low priority: 0
+- Matches — excellent: 5, strong: 153, possible: 98, low priority: 0
 
 ## Source problems
 
