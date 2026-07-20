@@ -1,5 +1,46 @@
 {
-  "generated_at": "2026-07-20T11:22:54Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-07-20T16:10:00Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "amazon-10478561",
+      "source_job_id": "10478561",
+      "company": "Amazon",
+      "title": "Software Development Engineer (L5), Perimeter Protection (Anti-DDoS), NFW",
+      "location": "Seattle, Washington, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Software Development",
+      "employment_type": "full-time",
+      "description": "AWS Perimeter Protection builds and operates services that safeguard customers' web applications from an ever-changing threat landscape. Our team has created industry-leading technologies that monitor and defend some of the largest distributed networks in the world. Yet it's still Day 1: we continue to innovate on behalf of our customers, developing new capabilities that make it simpler and more effective to protect their applications at scale. At AWS, you'll have the opportunity to raise the bar, developing brand new features for recently launched services that defend against evolving threats while providing customers with centralized management and visibility. Our team builds Layer 7 traffic inspection and rule evaluation engines to customer-facing AWS console experiences to globally distributed systems that filter billions of web requests daily, protecting applications from the most sophisticated attacks at internet scale. We are looking for talented, motivated and innovative software engineers to join a world-class team responsible for contributing to continued development and enhancement to AWS WAF in Seattle, Washington. Join us if … - You want to develop services that defend some of the Internet's largest businesses from bad actors and malicious requests. The problems we solve are complex and constantly evolving. - You care deeply about delighting customers and building high quality software. Our leadership principles (http://www.amazon.jobs/principles) empower us to act and challenge us never to accept the status quo. - You want to work in a fast-paced environment with a start-up atmosphere. We ship code every day! At AWS, you will play a leading role, influencing how we design, develop, build, deploy and support new services. To be successful, you must be able to research, innovate and create unique solutions. You'll interact with customers, gathering requirements, designing, implementing, testing and supporting the product operationally; soup to nuts. You will be expected to leverage your technical background and have a significant impact on the direction of new service development. The ideal candidate is passionate about distributed systems, brings strong analytical and communication skills, and thrives in a fast-paced, collaborative environment alongside highly technical engineering teams. Key job responsibilities - Design, develop, and maintain scalable distributed systems that power AWS WAF ensuring high availability and performance at global scale - Collaborate with cross-functional teams to gather customer requirements and translate them into technical designs and working software - Own the full software development lifecycle from design through deployment and operational support, including on-call responsibilities - Contribute to system architecture decisions and drive technical direction for new feature development - Write clean, maintainable, and well-tested code while participating in code reviews to maintain high engineering standards - Develop automation and tooling to improve operational efficiency, deployment velocity, and system reliability - Analyze and resolve complex production issues, performing root cause analysis and implementing preventive measures - Mentor junior engineers and contribute to a culture of technical excellence and continuous improvement About the team The Perimeter Protection team is responsible for building and operating AWS's suite of network security services — including AWS Shield, AWS WAF, AWS Firewall Manager, and Network Firewall. Our mission is to make it simple for customers to protect their applications and networks from threats at any scale. We operate with a startup mentality inside AWS: we move fast, ship frequently, and empower engineers to own their solutions end-to-end. Our culture values curiosity, customer obsession, and technical depth, and we celebrate bold ideas that push the boundaries of what's possible in cloud security. - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, WA, Seattle - 143,700.00 - 194,400.00 USD annually",
+      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language",
+      "application_url": "https://www.amazon.jobs/en/jobs/10478561/software-development-engineer-l5-perimeter-protection-anti-ddos-nfw",
+      "source_url": "https://www.amazon.jobs/en/jobs/10478561/software-development-engineer-l5-perimeter-protection-anti-ddos-nfw",
+      "source_type": "json",
+      "date_posted": "2026-07-20",
+      "first_seen": "2026-07-20T16:09:58Z",
+      "last_seen": "2026-07-20T16:09:58Z",
+      "status": "active",
+      "graduation_match": "unspecified",
+      "role_match_score": 85,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 69,
+      "matched_keywords": [
+        "automation",
+        "aws",
+        "cloud",
+        "distributed systems",
+        "evaluation",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 30/35 (title matched filter terms; skills: cloud, aws, evaluation, automation, distributed systems) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Seattle, Washington, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 0,
+      "announced": true
+    }
+  ]
 }
