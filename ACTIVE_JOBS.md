@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-07-23 16:10 UTC** (2026-07-24 00:10 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-07-23 21:38 UTC** (2026-07-24 05:38 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -84,6 +84,7 @@ _Last updated: **2026-07-23 16:10 UTC** (2026-07-24 00:10 Asia/Taipei) — auto-
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549797703474) | Morgan Stanley | AI / ML Engineer | New York, New York, United States of America | ⚪ unclear | 2026-06-24 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Software-Development-Engineer_R168187-1) | Adobe | Software Development Engineer | New York | ⚪ unclear | 2026-06-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10482153/software-development-engineer-agentic-workspaces) | Amazon | Software Development Engineer, Agentic Workspaces | Seattle, Washington, USA | ⚪ unclear | 2026-07-23 |
+| [Apply](https://www.amazon.jobs/en/jobs/10482591/sde-responsible-ai) | Amazon | SDE, Responsible AI | Seattle, Washington, USA | ⚪ unclear | 2026-07-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481445/data-engineer-decision-intelligence-technology) | Amazon | Data Engineer, Decision Intelligence Technology | Bellevue, Washington, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481970/software-development-engineer-rds-sql-server) | Amazon | Software Development Engineer, RDS SQL Server | Redmond, Washington, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Accelerated-Computing-Solutions-Analyst---Early-Career_2601165-1) | Marvell | Accelerated Computing Solutions Analyst - Early Career | Santa Clara, CA | ⚪ unclear | 2026-07-22 |
@@ -120,6 +121,7 @@ _Last updated: **2026-07-23 16:10 UTC** (2026-07-24 00:10 Asia/Taipei) — auto-
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-ASIC-Verification-Engineer---New-College-Grad-2026_JR2015202-1) | NVIDIA | SoC ASIC Verification Engineer – New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10449789/data-engineer-ww-ops-finance-s-a) | Amazon | Data Engineer, WW Ops Finance S&A | Bellevue, Washington, USA | ⚪ unclear | 2026-06-16 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549796692294) | Morgan Stanley | Data AI Engineer, Dir, P4 | New York, New York, United States of America | ⚪ unclear | 2026-06-15 |
+| [Apply](https://www.amazon.jobs/en/jobs/10482676/software-development-engineer-aws-apache-flink) | Amazon | Software Development Engineer, AWS Apache Flink | Seattle, Washington, USA | ⚪ unclear | 2026-07-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10480963/data-engineer-pv-prime-video-tv-tech) | Amazon | Data Engineer, PV Prime Video TV - Tech | New York, New York, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481056/software-development-engineer-neuron-foundation-tools) | Amazon | Software Development Engineer, Neuron Foundation Tools | Seattle, Washington, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481130/software-development-engineer-data-platform-prime-video-personalization-discovery) | Amazon | Software Development Engineer,  Data Platform, Prime Video Personalization & Discovery | Seattle, Washington, USA | ⚪ unclear | 2026-07-22 |
@@ -129,7 +131,6 @@ _Last updated: **2026-07-23 16:10 UTC** (2026-07-24 00:10 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10480764/software-development-engineer-ec2-ultraserver-delivery-team) | Amazon | Software Development Engineer, EC2 UltraServer Delivery Team | Seattle, Washington, USA | ⚪ unclear | 2026-07-21 |
 | [Apply](https://www.amazon.jobs/en/jobs/10479459/software-development-engineer-ec2-ultraserver-delivery-team) | Amazon | Software Development Engineer, EC2 UltraServer Delivery Team | Seattle, Washington, USA | ⚪ unclear | 2026-07-20 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4908708101) | IMC | Software Engineer - Risk Technology | Chicago, United States | ⚪ unclear | 2026-07-17 |
-| [Apply](https://www.amazon.jobs/en/jobs/10474916/machine-learning-engineer) | Amazon | Machine Learning Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-07-15 |
 | [Apply](https://www.amazon.jobs/en/jobs/10473723/software-development-engineer-agentic-workspaces) | Amazon | Software Development Engineer, Agentic WorkSpaces | Seattle, Washington, USA | ⚪ unclear | 2026-07-14 |
 | [Apply](https://www.amazon.jobs/en/jobs/10474672/software-development-engineer-amazon-brand-store) | Amazon | Software Development Engineer, Amazon Brand Store | Seattle, Washington, USA | ⚪ unclear | 2026-07-14 |
 | [Apply](https://www.amazon.jobs/en/jobs/10468947/software-development-engineer-developer-agents-and-experiences) | Amazon | Software Development Engineer, Developer Agents and Experiences | Seattle, Washington, USA | ⚪ unclear | 2026-07-08 |
@@ -151,13 +152,16 @@ _Last updated: **2026-07-23 16:10 UTC** (2026-07-24 00:10 Asia/Taipei) — auto-
 | [Apply](https://careers.qualcomm.com/careers/job/446719379528) | Qualcomm | #Software Engineer - Power and Limits Management | San Diego, California, United States of America | 🟡 possibly supported | 2026-06-26 |
 | [Apply](https://www.amazon.jobs/en/jobs/10455291/data-engineer-amazon-prime-video-product-analytics) | Amazon | Data Engineer, Amazon Prime Video Product Analytics | Seattle, Washington, USA | ⚪ unclear | 2026-06-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10449267/data-engineer-prime-video-gss-planning-strategy) | Amazon | Data Engineer, Prime Video - GSS Planning & Strategy | Seattle, Washington, USA | ⚪ unclear | 2026-06-15 |
+| [Apply](https://www.amazon.jobs/en/jobs/10482685/software-engineer-discovery) | Amazon | Software Engineer, Discovery | San Francisco, California, USA | ⚪ unclear | 2026-07-23 |
+| [Apply](https://www.amazon.jobs/en/jobs/10482841/software-development-engineer-fauna) | Amazon | Software Development Engineer, Fauna | New York, New York, USA | ⚪ unclear | 2026-07-23 |
+| [Apply](https://www.amazon.jobs/en/jobs/10482848/software-development-engineer-transit-gateway) | Amazon | Software Development Engineer, Transit Gateway | Herndon, Virginia, USA | ⚪ unclear | 2026-07-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481057/software-development-engineer-cv-test-infrastructure-annapurna-ml-cv-test-infrastructure) | Amazon | Software Development Engineer - CV Test Infrastructure, Annapurna ML, CV Test Infrastructure | Austin, Texas, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481467/software-development-engineer-core-shopping) | Amazon | Software Development Engineer, Core Shopping | Seattle, Washington, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481664/software-development-engineer-cloudfront) | Amazon | Software Development Engineer, CloudFront | Seattle, Washington, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481756/software-development-engineer-amazon-security-platform-engineering) | Amazon | Software Development Engineer, Amazon Security Platform Engineering | San Luis Obispo, California, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481995/software-development-engineer-aws-iam-identity-center-iam-identity-center-unified-signin-and-sessions) | Amazon | Software Development Engineer - AWS IAM Identity Center, IAM Identity Center - Unified SignIn and Sessions | Seattle, Washington, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10482000/software-development-engineer-aws-cognito) | Amazon | Software Development Engineer, AWS Cognito | Seattle, Washington, USA | ⚪ unclear | 2026-07-22 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=8080614) | Stripe | Data Scientist, Core Infrastructure | San Francisco | ⚪ unclear | 2026-07-22 |
+| [Apply](https://stripe.com/jobs/search?gh_jid=8080614) | Stripe | Data Scientist, Core Infrastructure | Seattle | ⚪ unclear | 2026-07-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10480782/software-development-engineer-devices-emerging-product) | Amazon | Software Development Engineer, Devices - Emerging Product | Sunnyvale, California, USA | ⚪ unclear | 2026-07-21 |
 | [Apply](https://www.amazon.jobs/en/jobs/10480784/software-development-engineer-devices-emerging-product) | Amazon | Software Development Engineer, Devices - Emerging Product | Sunnyvale, California, USA | ⚪ unclear | 2026-07-21 |
 | [Apply](https://www.amazon.jobs/en/jobs/10480924/software-development-engineer-devices-emerging-product) | Amazon | Software Development Engineer, Devices - Emerging Product | Sunnyvale, California, USA | ⚪ unclear | 2026-07-21 |
@@ -296,12 +300,12 @@ _Last updated: **2026-07-23 16:10 UTC** (2026-07-24 00:10 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 319
-- **Recommended (not disqualified):** 275
+- **Active jobs tracked:** 321
+- **Recommended (not disqualified):** 279
 - **Companies checked successfully:** 31
 - **Failed sources:** 0
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 166, possible: 105, low priority: 0
+- Matches — excellent: 4, strong: 170, possible: 105, low priority: 0
 
 ## Source problems
 
