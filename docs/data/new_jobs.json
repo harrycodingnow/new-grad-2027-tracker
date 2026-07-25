@@ -1,5 +1,45 @@
 {
-  "generated_at": "2026-07-25T10:08:26Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-07-25T15:38:56Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "amazon-10484052",
+      "source_job_id": "10484052",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Annapurna Labs, Elastic Collectives",
+      "location": "Cupertino, California, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Software Development",
+      "employment_type": "full-time",
+      "description": "We are seeking an experienced engineer to work on distributed AI/ML systems. This role involves working on collective operations - the fundamental operations that enable AI to scale across multiple accelerators & servers. Most of our stack is C/C++ and relatively low level, so solid knowledge of Linux, kernels, and performant code is important. Experience with embedded systems is valued, and experience with high-speed networking or HPC interconnects is valued highly. If you like solving hard problems, want to work with HPC and ML customers, iterate fast and deliver meaningful solutions at scale, then come join us! This truly is a role on the forefront of AI/ML, you’ll be working on features for the largest clusters, with the largest customers, for the largest AI models. The org you would be joining is Annapurna Labs, an integral part of AWS and develops hardware and software components that are critical building blocks for EC2 infrastructure. Every instance in EC2 is running some type of hardware designed in Annapurna Labs. We specialize in designing software, systems and chips that optimize the AWS customer experience. A day in the life Annapurna Labs, a crucial part of AWS, is responsible for developing hardware and software components for EC2 infrastructure. Our team focuses on building networking solutions that for Machine Learning (ML) and High-Performance Computing (HPC) workloads on AWS. We have mixed discipline orgs, you’d be working side by side with infrastructure experts, hardware engineers, RTL engineers, scientists & architects. Our workforce spans the globe and is truly international, you’ll find yourself working side by side with individuals from numerous countries. We take mentorship seriously, you can both expect senior mentorship and will be expected to mentor new and junior engineers. The pace is fast as we work on the latest advancements of AI/ML, but we take the time to bond as a team and enjoy the successes. We offer flexibility in working hours, and respect WLB as a core org tenet. The team enjoys working with numerous principal-level engineers and closely with directors, career growth opportunities are certainly available. This is a role where you will always be encouraged to keep learning, the AI/ML field is fast moving and constantly evolving. About the team Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge-sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future. Diverse Experiences AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying. About AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. Inclusive Team Culture Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud. Mentorship & Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional. - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - Experience with C/C++ - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.",
+      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - Experience with C/C++",
+      "application_url": "https://www.amazon.jobs/en/jobs/10484052/software-development-engineer-annapurna-labs-elastic-collectives",
+      "source_url": "https://www.amazon.jobs/en/jobs/10484052/software-development-engineer-annapurna-labs-elastic-collectives",
+      "source_type": "json",
+      "date_posted": "2026-07-25",
+      "first_seen": "2026-07-25T15:38:54Z",
+      "last_seen": "2026-07-25T15:38:54Z",
+      "status": "active",
+      "graduation_match": "unspecified",
+      "role_match_score": 80,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 67,
+      "matched_keywords": [
+        "ai",
+        "aws",
+        "cloud",
+        "machine learning",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 28/35 (title matched filter terms; skills: cloud, aws, ai, machine learning) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Cupertino, California, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 0,
+      "announced": true
+    }
+  ]
 }

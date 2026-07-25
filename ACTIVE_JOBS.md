@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-07-25 10:08 UTC** (2026-07-25 18:08 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-07-25 15:38 UTC** (2026-07-25 23:38 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -30,8 +30,6 @@ _Last updated: **2026-07-25 10:08 UTC** (2026-07-25 18:08 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) | Amazon | EFA Network Software Engineer I, Annapurna Labs | Seattle, Washington, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990) | NVIDIA | Developer Technology Engineer, Public Sector - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-22 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177) | NVIDIA | ASIC Physical Design and Timing Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-22 |
-| [Apply](https://www.amazon.jobs/en/jobs/10464040/software-development-engineer-i-ml-infra-services-annapurna-labs) | Amazon | Software Development Engineer I, ML Infra Services, Annapurna Labs | Seattle, Washington, USA | ⚪ unclear | 2026-07-01 |
-| [Apply](https://www.amazon.jobs/en/jobs/10464043/software-development-engineer-i-ml-infra-services-annapurna-labs) | Amazon | Software Development Engineer I, ML Infra Services, Annapurna Labs | Seattle, Washington, USA | ⚪ unclear | 2026-07-01 |
 | [Apply](https://www.amazon.jobs/en/jobs/10464055/software-development-engineer-i-ml-infra-services-annapurna-labs) | Amazon | Software Development Engineer I, ML Infra Services, Annapurna Labs | Cupertino, California, USA | ⚪ unclear | 2026-07-01 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274920488372) | PayPal | Software Engineer- Cloud Infrastructure and DevOps | San Jose, California, United States of America | 🟡 possibly supported | 2026-06-29 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R165453-1) | Adobe | Applied Scientist | San Jose | ⚪ unclear | 2026-07-24 |
@@ -124,6 +122,7 @@ _Last updated: **2026-07-25 10:08 UTC** (2026-07-25 18:08 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10449789/data-engineer-ww-ops-finance-s-a) | Amazon | Data Engineer, WW Ops Finance S&A | Bellevue, Washington, USA | ⚪ unclear | 2026-06-16 |
 | [Apply](https://www.amazon.jobs/en/jobs/10483966/software-development-engineer-amazon-workspaces-applications) | Amazon | Software Development Engineer, Amazon WorkSpaces Applications | Seattle, Washington, USA | ⚪ unclear | 2026-07-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10483968/software-development-engineer-agentic-workspaces) | Amazon | Software Development Engineer, Agentic WorkSpaces | Seattle, Washington, USA | ⚪ unclear | 2026-07-25 |
+| [Apply](https://www.amazon.jobs/en/jobs/10484052/software-development-engineer-annapurna-labs-elastic-collectives) | Amazon | Software Development Engineer, Annapurna Labs, Elastic Collectives | Cupertino, California, USA | ⚪ unclear | 2026-07-25 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8084193) | Stripe | Software Engineer - Full Stack | South San Francisco, California | ⚪ unclear | 2026-07-24 |
 | [Apply](https://www.amazon.jobs/en/jobs/10482676/software-development-engineer-aws-apache-flink) | Amazon | Software Development Engineer, AWS Apache Flink | Seattle, Washington, USA | ⚪ unclear | 2026-07-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10482975/software-development-engineer-ec2-core-provisioning) | Amazon | Software Development Engineer, EC2 Core Provisioning | Seattle, Washington, USA | ⚪ unclear | 2026-07-23 |
@@ -139,10 +138,8 @@ _Last updated: **2026-07-25 10:08 UTC** (2026-07-25 18:08 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10468973/software-engineer-i-discovery) | Amazon | Software Engineer I, Discovery | San Francisco, California, USA | ⚪ unclear | 2026-07-08 |
 | [Apply](https://www.amazon.jobs/en/jobs/10469108/data-engineer-data-platform-management-grocery-tech-foundations) | Amazon | Data Engineer, Data Platform Management, Grocery Tech Foundations | Austin, Texas, USA | ⚪ unclear | 2026-07-08 |
 | [Apply](https://www.amazon.jobs/en/jobs/10469213/data-engineer-decision-intelligence-technology) | Amazon | Data engineer, Decision Intelligence Technology | Bellevue, Washington, USA | ⚪ unclear | 2026-07-08 |
-| [Apply](https://www.amazon.jobs/en/jobs/10466964/software-development-engineer-aws-opensearch-intelligent-search-team) | Amazon | Software Development Engineer , AWS OpenSearch Intelligent Search Team | Bellevue, Washington, USA | ⚪ unclear | 2026-07-06 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) | IMC | Graduate Software Engineer | Chicago, United States | ⚪ unclear | 2026-07-01 |
 | [Apply](https://careers.qualcomm.com/careers/job/446718438208) | Qualcomm | #Software Engineer - Power and Limits Management | San Diego, California, United States of America | 🟡 possibly supported | 2026-06-30 |
-| [Apply](https://www.amazon.jobs/en/jobs/10458558/software-development-engineer-whs-data-tech) | Amazon | Software Development Engineer, WHS Data-Tech | Nashville, Tennessee, USA | ⚪ unclear | 2026-06-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10473723/software-development-engineer-agentic-workspaces) | Amazon | Software Development Engineer, Agentic WorkSpaces | Seattle, Washington, USA | ⚪ unclear | 2026-07-14 |
 | [Apply](https://www.amazon.jobs/en/jobs/10474672/software-development-engineer-amazon-brand-store) | Amazon | Software Development Engineer, Amazon Brand Store | Seattle, Washington, USA | ⚪ unclear | 2026-07-14 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719409091) | Qualcomm | #Sensors Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-06-29 |
@@ -241,7 +238,6 @@ _Last updated: **2026-07-25 10:08 UTC** (2026-07-25 18:08 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10468069/jr-software-development-engineer-atlanta-ga-jr-developer-program) | Amazon | Jr. Software Development Engineer - Atlanta, GA, Jr. Developer Program | Atlanta, Georgia, USA | ⚪ unclear | 2026-07-07 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=7983456) | Stripe | Machine Learning Engineer, Radar | Seattle | ⚪ unclear | 2026-06-23 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549797803802) | Morgan Stanley | Graduate Acquisitions & Divestitures Engineer – Houston, Texas | Houston, Texas, United States of America | ⚪ unclear | 2026-06-22 |
-| [Apply](https://www.amazon.jobs/en/jobs/10447756/software-development-engineer-data-integration-ai-and-platform-excellence-apex) | Amazon | Software Development Engineer, Data Integration AI and Platform Excellence (APEX) | New York, New York, USA | ⚪ unclear | 2026-06-12 |
 | [Apply](https://www.amazon.jobs/en/jobs/10444729/data-engineer-partner-experience) | Amazon | Data Engineer, Partner Experience | Seattle, Washington, USA | ⚪ unclear | 2026-06-10 |
 | [Apply](https://www.amazon.jobs/en/jobs/10445126/software-development-engineer-big-data-aws-elastic-mapreduce-emr) | Amazon | Software Development Engineer – Big Data, AWS Elastic MapReduce (EMR) | Redmond, Washington, USA | ⚪ unclear | 2026-06-10 |
 | [Apply](https://careers.qualcomm.com/careers/job/446717394529) | Qualcomm | IOT Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-07-15 |
@@ -296,12 +292,12 @@ _Last updated: **2026-07-25 10:08 UTC** (2026-07-25 18:08 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 319
-- **Recommended (not disqualified):** 275
+- **Active jobs tracked:** 314
+- **Recommended (not disqualified):** 271
 - **Companies checked successfully:** 31
 - **Failed sources:** 0
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 3, strong: 170, possible: 102, low priority: 0
+- Matches — excellent: 3, strong: 167, possible: 101, low priority: 0
 
 ## Source problems
 
