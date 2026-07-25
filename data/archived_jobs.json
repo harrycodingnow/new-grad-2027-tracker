@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T21:40:32Z",
-  "count": 175,
+  "generated_at": "2026-07-25T05:32:49Z",
+  "count": 177,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -5398,6 +5398,49 @@
       "announced": false
     },
     {
+      "job_id": "morgan-stanley-PT-JR032448",
+      "source_job_id": "PT-JR032448",
+      "company": "Morgan Stanley",
+      "title": "Data AI Engineer, Dir, P4",
+      "location": "New York, New York, United States of America",
+      "country": "United States",
+      "workplace_type": "onsite",
+      "department": "Data & Analytics Engineering",
+      "employment_type": "",
+      "description": "Since 1935, Morgan Stanley is known as a global leader in financial services, always evolving and innovating to better serve our clients and our communities in more than 40 countries around the world. In the Technology division, we leverage innovation to build the connections and capabilities that power our Firm, enabling our clients and colleagues to redefine markets and shape the future of our communities. Our mission is to develop a firmwide Artificial Intelligence (AI) Development Platform that aligns with the firm's Technology principles and drives efficiency and consistency, controls, security and strong governance and promotes innovation, enabling teams to build applications that leverage AI capabilities and accelerate the adoption of AI across our businesses. Position Overview As a Data AI Engineering Specialist within the Architecture & Modernization team, you will be instrumental in building and maintaining the data infrastructure for our Data AI platforms. This role will involve hands-on development, data pipeline creation, and close collaboration with stakeholders across the organization. This role requires a self-starter with strong execution skills and the ability to work independently. You will be expected to not only execute on the current strategy but also contribute to its evolution. We value diversity of thought and are committed to building a team that reflects the diversity of our global community. This is a hybrid position requiring a minimum of three days per week in the office. The role is based in NYC, and may also be based in Montreal for qualified candidates in Canada. What you'll do in the role Develop and maintain data pipelines and ETL (Extract, Transform, Load) processes. Work with structured and unstructured data to ensure it is accessible and usable. Optimize data systems for performance and scalability. Implement data quality and data governance standards. Collaborate with stakeholders across technology and business units to understand their data needs and translate them into technical solutions and provide data-driven insights. Contribute to the documentation and knowledge sharing within the team, creating, and maintaining technical documentation and training materials. Participate in code reviews and contribute to the improvement of development processes. Contribute to the broader data architecture community through knowledge sharing, presentations. What you'll bring to the role 8 years+ of being a practitioner in data engineering or a related field. Proficiency in programming skills in Python Experience with data processing frameworks like Apache Spark or Hadoop. Knowledge of database systems (SQL and NoSQL). Experience working on Snowflake and Databricks. Experience on Snowflake Cortex will be really appreciated. Familiarity with cloud platforms (AWS, Azure) and their data services. Understanding of data modeling and data architecture principles. Experience with data warehousing concepts and technologies. Experience with message queues and streaming platforms (e.g., Kafka). Experience with version control systems (e.g., Git). Experience using Jupyter notebooks for data exploration, analysis, and visualization. Excellent communication and collaboration skills. Ability to work independently and as part of a geographically distributed team. Nice to have Familiarity with data visualization tools (e.g., Tableau, Power BI). Familiarity with data governance and security best practices (e.g., data access control, data masking). Experience with Agile methodologies. Familiarity with data catalog and metadata management tools (e.g., Collibra). Familiarity with CI/CD pipelines and DevOps practices. WHAT YOU CAN EXPECT FROM MORGAN STANLEY: At Morgan Stanley, we raise, manage and allocate capital for our clients – helping them reach their goals. We do it in a way that’s differentiated – and we’ve done that for 90 years. Our values - putting clients first, doing the right thing, leading with exceptional ideas, committing to diversity and inclusion, and giving back - aren’t just beliefs, they guide the decisions we make every day to do what's best for our clients, communities and more than 80,000 employees in 1,200 offices across 42 countries. At Morgan Stanley, you’ll find an opportunity to work alongside the best and the brightest, in an environment where you are supported and empowered. Our teams are relentless collaborators and creative thinkers, fueled by their diverse backgrounds and experiences. We are proud to support our employees and their families at every point along their work-life journey, offering some of the most attractive and comprehensive employee benefits and perks in the industry. There’s also ample opportunity to move about the business for those who show passion and grit in their work. To learn more about our offices across the globe, please copy and paste https://www.morganstanley.com/about-us/global-offices​ into your browser. Expected base pay rates for the role will be between $150,000 to $190,000 per year at the commencement of employment. However, base pay if hired will be determined on an individualized basis and is only part of the total compensation package, which, depending on the position, may also include commission earnings, incentive compensation, discretionary bonuses, other short and long-term incentive packages, and other Morgan Stanley sponsored benefit programs. Morgan Stanley is an equal opportunity employer committed to building and maintaining a workforce that is diverse in experience and background. Our recruiting efforts reflect our strong commitment to a culture of inclusion, where individuals are hired, developed, and advanced based on their skills and talents. Our workforce reflects a broad cross-section of the global communities in which we operate, bringing a variety of backgrounds, talents, perspectives, and experiences. For more information, please visit : https://www.morganstanley.com/people-opportunities/eeo .",
+      "requirements": "",
+      "application_url": "https://morganstanley.eightfold.ai/careers/job/549796692294",
+      "source_url": "https://morganstanley.eightfold.ai/careers/job/549796692294",
+      "source_type": "eightfold",
+      "date_posted": "2026-06-15",
+      "first_seen": "2026-07-12T22:03:09Z",
+      "last_seen": "2026-07-24T10:36:10Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 100,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 68,
+      "matched_keywords": [
+        "ai",
+        "ai engineer",
+        "aws",
+        "azure",
+        "cloud",
+        "data pipeline",
+        "etl",
+        "python",
+        "sql"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 35/35 (primary role match (AI Engineer); skills: python, sql, cloud, azure, aws, ai) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (New York, New York, United States of Ame) · recency 4/10 (posted 39d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 3,
+      "announced": false
+    },
+    {
       "job_id": "nvidia-JR2011267",
       "source_job_id": "JR2011267",
       "company": "NVIDIA",
@@ -5776,6 +5819,44 @@
       "disqualify_reason": "",
       "consecutive_missing": 3,
       "announced": true
+    },
+    {
+      "job_id": "optiver-8498656002",
+      "source_job_id": "8498656002",
+      "company": "Optiver",
+      "title": "Campus Recruitment Coordinator (Contract)",
+      "location": "Austin, Texas, United States",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Talent",
+      "employment_type": "",
+      "description": "If you’d like to start a career in recruitment, this is a great opportunity to gain insight into the recruitment function with a high-performing team. This contractor role will support our campus recruitment strategy through end of year. As a campus Recruitment Coordinator you will work closely with the Campus Recruitment team to provide a good candidate experience and maintain operational excellence. What you’ll do As Campus Recruitment Coordinator, your key responsibilities include: Manage candidate pipelines in the applicant tracking system, ensuring accurate and up-to-date records Coordinate the full recruitment process, including scheduling interviews, sending technical assessments, and facilitating candidate communications Oversee logistics for final-round onsite interviews, ensuring a seamless experience for candidates and interviewers Coordinate and execute campus recruiting events, including sell events and interview days Support the recruiting team with ad hoc projects and operational initiatives as needed What you’ll get You'll join a culture of collaboration and excellence, surrounded by curious thinkers and creative problem-solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, collectively tackling some of the toughest challenges in the financial markets. Who you are Bachelor’s degree Proficient in Microsoft Office and AI productivity tools Strong attention to detail with a commitment to producing high-quality work Excellent written and verbal communication skills Experience in customer service, administrative support, or a similar client-facing role Thrives in a fast-paced environment and is able to think quickly and adapt to changing priorities Currently located or willing to relocate to Austin, TX for on-site work Legal authorization to work in the U.S. is required; we will not sponsor individuals for employment authorization for this job opening Who we are At Optiver, our mission is to improve the market by injecting liquidity, providing accurate pricing, increasing transparency and stabilising the market no matter the conditions. With a focus on continuous improvement, we prioritise safeguarding the health and efficiency of the markets for all participants. As one of the largest market making institutions, we are a respected partner on 100+ exchanges across the globe.",
+      "requirements": "",
+      "application_url": "https://www.optiver.com/join-us/jobs/8498656002/?gh_jid=8498656002",
+      "source_url": "https://www.optiver.com/join-us/jobs/8498656002/?gh_jid=8498656002",
+      "source_type": "greenhouse",
+      "date_posted": "2026-07-13",
+      "first_seen": "2026-07-13T21:32:35Z",
+      "last_seen": "2026-07-24T10:36:10Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 65,
+      "sponsorship_classification": "likely_not_supported",
+      "sponsorship_evidence": "is required; we will not sponsor individuals for employment authorization for this job opening Who we are At Optiver, our mission is to improve the market by injecting liquidity, providing accurate pricing, increasing transparency and stabilising the market no matter the conditions.",
+      "international_student_risk_flags": [
+        "will not sponsor"
+      ],
+      "overall_score": 54,
+      "matched_keywords": [
+        "ai",
+        "campus"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 23/35 (title matched filter terms; skills: ai) · graduation 12/20 (unspecified) · sponsorship 0/25 (likely_not_supported) · location 10/10 (Austin, Texas, United States) · recency 9/10 (posted 11d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": true,
+      "disqualify_reason": "sponsorship classification 'likely_not_supported': is required; we will not sponsor individuals for employment authorization for this job opening Who we are At Optiver, our mission is to improve the market by in",
+      "consecutive_missing": 3,
+      "announced": false
     },
     {
       "job_id": "oracle-339469",
