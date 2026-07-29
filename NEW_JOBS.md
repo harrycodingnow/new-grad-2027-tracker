@@ -1,16 +1,14 @@
 # Newly Discovered Jobs
 
-_Found in the run at **2026-07-28 21:42 UTC** — auto-generated._
+_Found in the run at **2026-07-29 05:40 UTC** — auto-generated._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
 | Apply | Company | Title | Location | Sponsorship | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Apply](https://www.amazon.jobs/en/jobs/10486387/software-development-engineer-ads-security) | Amazon | Software Development Engineer, Ads Security | Bellevue, Washington, USA | ⚪ unclear | 2026-07-28 |
-| [Apply](https://www.amazon.jobs/en/jobs/10486378/software-development-engineer-aws-agentic-ai) | Amazon | Software Development Engineer, AWS Agentic AI | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
-| [Apply](https://www.amazon.jobs/en/jobs/10486697/software-development-engineer-kiro) | Amazon | Software Development Engineer, Kiro | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
-| [Apply](https://www.amazon.jobs/en/jobs/10486488/software-development-engineer-transactional-services-database-distributed-systems) | Amazon | Software Development Engineer, Transactional Services (Database & Distributed Systems) | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
-| [Apply](https://www.amazon.jobs/en/jobs/10486685/software-development-engineer-developer-agents-and-experiences-production-engineering) | Amazon | Software Development Engineer, Developer Agents and Experiences, Production Engineering | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
-| [Apply](https://www.amazon.jobs/en/jobs/10486700/software-development-engineer-amazon-integrated-security) | Amazon | Software Development Engineer, Amazon Integrated Security | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
-| [Apply](https://www.amazon.jobs/en/jobs/10486541/software-development-engineer-distributed-services) | Amazon | Software Development Engineer - Distributed Services | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
-| [Apply](https://www.uber.com/global/en/careers/list/159672/) | Uber | Machine Learning Engineer | Seattle, King; San Francisco, San Francisco | ⚪ unclear | 2026-06-19 |
+| [Apply](https://www.amazon.jobs/en/jobs/10486716/software-development-engineer-specialist-ai-tooling-specialist-technology-team) | Amazon | Software Development Engineer, Specialist AI Tooling, Specialist Technology Team | Jersey City, New Jersey, USA | ⚪ unclear | 2026-07-28 |
+| [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer--Influencer-Management_R166981) | Adobe | Software Development Engineer, Influencer Management | San Jose | ⚪ unclear | 2026-07-16 |
+| [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer--Influencer-Management_R166986) | Adobe | Software Development Engineer, Influencer Management | San Jose | ⚪ unclear | 2026-07-16 |
+| [Apply](https://www.amazon.jobs/en/jobs/10486806/software-development-engineer-demand-tech-experience) | Amazon | Software Development Engineer, Demand Tech Experience | New York, New York, USA | ⚪ unclear | 2026-07-28 |
+| [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R164904) | Adobe | Software Development Engineer | San Jose | ⚪ unclear | 2026-07-17 |
+| [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Researcher-ML-Engineer_R169016) | Adobe | Researcher/ML Engineer | San Jose | ⚪ unclear | 2026-06-29 |
