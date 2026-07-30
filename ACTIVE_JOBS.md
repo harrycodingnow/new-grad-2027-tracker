@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-07-30 16:07 UTC** (2026-07-31 00:07 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-07-30 21:45 UTC** (2026-07-31 05:45 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -24,6 +24,7 @@ _Last updated: **2026-07-30 16:07 UTC** (2026-07-31 00:07 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10475663/software-dev-engineer-i-graviton-software-annapurna-labs) | Amazon | Software Dev Engineer I - Graviton Software, Annapurna Labs | Austin, Texas, USA | ⚪ unclear | 2026-07-16 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050) | Hudson River Trading | Algorithm Developer (Quant Research & Trading) – 2027 Grads | New York, NY, United States; Singapore | ⚪ unclear | 2026-07-13 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845) | Hudson River Trading | Algorithm Developer (Quant Research & Trading) – 2027 PhDs | New York, NY, United States; Singapore | ⚪ unclear | 2026-07-13 |
+| [Apply](https://www.amazon.jobs/en/jobs/10488647/data-engineer-i-payment-acceptance-experience) | Amazon | Data Engineer I, Payment Acceptance & Experience | Seattle, Washington, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) | Amazon | EFA Network Software Engineer I, Annapurna Labs | Seattle, Washington, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990) | NVIDIA | Developer Technology Engineer, Public Sector - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-22 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177) | NVIDIA | ASIC Physical Design and Timing Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-22 |
@@ -31,6 +32,7 @@ _Last updated: **2026-07-30 16:07 UTC** (2026-07-31 00:07 Asia/Taipei) — auto-
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) | Hudson River Trading | Software Engineer (C++ or Python) – 2027 Grads | Austin, TX, United States; Chicago, Illinois, United States… | ⚪ unclear | 2026-07-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488279/software-development-engineer-products-and-solutions) | Amazon | Software Development Engineer, Products and Solutions | New York, New York, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488281/software-development-engineer-products-and-solutions) | Amazon | Software Development Engineer, Products and Solutions | New York, New York, USA | ⚪ unclear | 2026-07-30 |
+| [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002) | Databricks | AI Engineer — GTM Analytics | United States | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10486016/software-engineer-ecs) | Amazon | Software Engineer, ECS | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10486716/software-development-engineer-specialist-ai-tooling-specialist-technology-team) | Amazon | Software Development Engineer, Specialist AI Tooling, Specialist Technology Team | Jersey City, New Jersey, USA | ⚪ unclear | 2026-07-28 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549798643526) | Morgan Stanley | AI Full Stack Engineer (Prime Brokerage Technology) | New York, New York, United States of America | ⚪ unclear | 2026-07-28 |
@@ -47,7 +49,6 @@ _Last updated: **2026-07-30 16:07 UTC** (2026-07-31 00:07 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10487395/data-engineer-data-platform-management-world-wide-grocery-tech) | Amazon | Data Engineer, Data Platform Management, World Wide Grocery Tech | Austin, Texas, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487631/ai-aws-software-development-engineer-ring-blink-cs-technology-enablement) | Amazon | AI & AWS Software Development Engineer , Ring/Blink CS Technology Enablement | Hawthorne, California, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10486387/software-development-engineer-ads-security) | Amazon | Software Development Engineer, Ads Security | Bellevue, Washington, USA | ⚪ unclear | 2026-07-28 |
-| [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/341359) | Oracle | Oracle NetSuite Customer Success Associate Consultant - US - January 2027 | Austin, TX, United States | ⚪ unclear | 2026-07-28 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8084195) | Stripe | Backend Engineer, Credit Decisions | Chicago, IL | ⚪ unclear | 2026-07-24 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer--Influencer-Management_R166981) | Adobe | Software Development Engineer, Influencer Management | San Jose | ⚪ unclear | 2026-07-15 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer--Influencer-Management_R166986) | Adobe | Software Development Engineer, Influencer Management | San Jose | ⚪ unclear | 2026-07-15 |
@@ -55,6 +56,7 @@ _Last updated: **2026-07-30 16:07 UTC** (2026-07-31 00:07 Asia/Taipei) — auto-
 | [Apply](https://paypal.eightfold.ai/careers/job/274920235215) | PayPal | Software Engineer - Cloud Infrastructure and Devops | San Jose, California, United States of America | 🟡 possibly supported | 2026-06-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487902/software-development-engineer-ads-campaign-management) | Amazon | Software Development Engineer, Ads Campaign Management | New York, New York, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488078/software-development-engineer-sponsored-products-and-brands) | Amazon | Software Development Engineer, Sponsored Products and Brands | New York, New York, USA | ⚪ unclear | 2026-07-30 |
+| [Apply](https://www.amazon.jobs/en/jobs/10488614/data-engineer-specialist-technology-team-stt-centralized-data-analytics) | Amazon | Data Engineer, Specialist Technology Team (STT), Centralized Data & Analytics | Seattle, Washington, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487278/software-development-engineer-ai-ml-inference-model-enablement-aws-neuron) | Amazon | Software Development Engineer AI/ML, Inference Model Enablement, AWS Neuron | Cupertino, California, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10485912/data-engineer-specialist-technology-team-stt-centralized-data-analytics) | Amazon | Data Engineer, Specialist Technology Team (STT), Centralized Data & Analytics | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10486378/software-development-engineer-aws-agentic-ai) | Amazon | Software Development Engineer, AWS Agentic AI | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
@@ -72,6 +74,7 @@ _Last updated: **2026-07-30 16:07 UTC** (2026-07-31 00:07 Asia/Taipei) — auto-
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7980165) | DRW | Software Developer | Chicago | ⚪ unclear | 2026-07-13 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000136346369) | ServiceNow | Machine Learning Engineer, Agentic Systems - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-07-07 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719430651) | Qualcomm | #Video Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-07-06 |
+| [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Accelerator-SW-HW-Co-Design---New-College-Grad-2026_JR2011644) | NVIDIA | Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-30 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2026_JR2011787) | NVIDIA | ASIC Hardware Design Engineer - New College Grad 2026 | US, TX, Austin | ⚪ unclear | 2026-06-30 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-30 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Inference-Performance-Engineer---New-College-Grad-2026_JR2014441) | NVIDIA | AI Inference Performance Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-06-30 |
@@ -90,6 +93,7 @@ _Last updated: **2026-07-30 16:07 UTC** (2026-07-31 00:07 Asia/Taipei) — auto-
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640) | NVIDIA | ASIC Verification Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-07 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549796984229) | Morgan Stanley | Associate, Software Engineer | Alpharetta, Georgia, United States of America | ⚪ unclear | 2026-07-01 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Software-Development-Engineer_R168187-1) | Adobe | Software Development Engineer | New York | ⚪ unclear | 2026-06-30 |
+| [Apply](https://www.amazon.jobs/en/jobs/10488471/software-development-engineer-opensearch-ai-search-team) | Amazon | Software Development Engineer , OpenSearch AI Search Team | Bellevue, Washington, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487479/software-development-engineer-aws-config-aws-config) | Amazon | Software Development Engineer, AWS Config, AWS Config | Seattle, Washington, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487481/software-development-engineer-aws-config-aws-config) | Amazon | Software Development Engineer, AWS Config, AWS Config | Seattle, Washington, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487503/data-engineer-associate-experience-amazon-customer-service) | Amazon | Data Engineer, Associate Experience, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-07-29 |
@@ -177,6 +181,7 @@ _Last updated: **2026-07-30 16:07 UTC** (2026-07-31 00:07 Asia/Taipei) — auto-
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) | IMC | Graduate Software Engineer | Chicago, United States | ⚪ unclear | 2026-07-01 |
 | [Apply](https://careers.qualcomm.com/careers/job/446718438208) | Qualcomm | #Software Engineer - Power and Limits Management | San Diego, California, United States of America | 🟡 possibly supported | 2026-06-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488273/software-development-engineer-developer-agents-and-experiences-production-engineering) | Amazon | Software Development Engineer, Developer Agents and Experiences, Production Engineering | Seattle, Washington, USA | ⚪ unclear | 2026-07-30 |
+| [Apply](https://www.amazon.jobs/en/jobs/10488610/software-development-engineer) | Amazon | Software Development Engineer | Santa Clara, California, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487621/software-development-engineer-apache-flink-engineer-amazon-managed-service-for-apache-flink) | Amazon | Software Development Engineer - Apache Flink Engineer, Amazon Managed Service for Apache Flink | Seattle, Washington, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487728/software-development-engineer-amazon-workspaces) | Amazon | Software Development Engineer, Amazon WorkSpaces | Seattle, Washington, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10486685/software-development-engineer-developer-agents-and-experiences-production-engineering) | Amazon | Software Development Engineer, Developer Agents and Experiences, Production Engineering | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
@@ -222,6 +227,9 @@ _Last updated: **2026-07-30 16:07 UTC** (2026-07-31 00:07 Asia/Taipei) — auto-
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000138178124) | ServiceNow | Machine Learning Engineer, GAI Search Relevance - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-07-16 |
 | [Apply](https://www.amazon.jobs/en/jobs/10465926/software-development-engineer-music-metrics-data-platform) | Amazon | Software Development Engineer, Music Metrics & Data Platform | San Francisco, California, USA | ⚪ unclear | 2026-07-06 |
 | [Apply](https://www.amazon.jobs/en/jobs/10459103/software-development-engineer-open-data-analytics-fundamentals-team) | Amazon | Software Development Engineer, Open Data Analytics Fundamentals Team | Redmond, Washington, USA | ⚪ unclear | 2026-06-25 |
+| [Apply](https://www.amazon.jobs/en/jobs/10488655/software-development-engineer-annapurna-labs) | Amazon | Software Development Engineer, Annapurna Labs | Cupertino, California, USA | ⚪ unclear | 2026-07-30 |
+| [Apply](https://www.amazon.jobs/en/jobs/10488714/sde-cpld-fpga) | Amazon | SDE - CPLD / FPGA | Seattle, Washington, USA | ⚪ unclear | 2026-07-30 |
+| [Apply](https://www.amazon.jobs/en/jobs/10488715/sde-cpld-fpga) | Amazon | SDE - CPLD / FPGA | Seattle, Washington, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10486927/software-development-engineer-amazon-brand-store) | Amazon | Software Development Engineer, Amazon Brand Store | Seattle, Washington, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487545/software-development-engineer-amazon-msk) | Amazon | Software Development Engineer, Amazon MSK | Santa Monica, California, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487568/software-development-engineer-amazon-msk) | Amazon | Software Development Engineer, Amazon MSK | Santa Monica, California, USA | ⚪ unclear | 2026-07-29 |
@@ -239,6 +247,7 @@ _Last updated: **2026-07-30 16:07 UTC** (2026-07-31 00:07 Asia/Taipei) — auto-
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R168026) | Adobe | Software Development Engineer | San Jose | ⚪ unclear | 2026-06-30 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8039548) | Stripe | Full Stack Engineer, Support Experience (Greater China Support) | US | ⚪ unclear | 2026-06-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10442471/software-development-engineer-data-platform-fauna) | Amazon | Software Development Engineer, Data Platform , Fauna | New York, New York, USA | ⚪ unclear | 2026-06-08 |
+| [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/341569) | Oracle | Platform Software Engineer | United States | ⚪ unclear | 2026-07-30 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720188443) | Qualcomm | Software Engineer - Modem | San Diego, California, United States of America | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10485233/software-development-engineer-audio-podcast-ads) | Amazon | Software Development Engineer, Audio + Podcast Ads | New York, New York, USA | ⚪ unclear | 2026-07-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10483102/software-development-engineer-special-projects) | Amazon | Software Development Engineer, Special Projects | Seattle, Washington, USA | ⚪ unclear | 2026-07-24 |
@@ -306,17 +315,18 @@ _Last updated: **2026-07-30 16:07 UTC** (2026-07-31 00:07 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 331
-- **Recommended (not disqualified):** 285
-- **Companies checked successfully:** 31
-- **Failed sources:** 0
+- **Active jobs tracked:** 341
+- **Recommended (not disqualified):** 294
+- **Companies checked successfully:** 30
+- **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 2, strong: 187, possible: 96, low priority: 0
+- Matches — excellent: 2, strong: 192, possible: 100, low priority: 0
 
 ## Source problems
 
 | Company | Status | Category | Detail |
 | --- | --- | --- | --- |
+| Uber | failed | structure_changed | Uber: unexpected careers API response |
 | Google | skipped | unsupported | UNRESOLVED (2026-07-12): the former careers.google.com/api/v3/search API returns 404; current site has no public JSON API. Check manually. |
 | Meta | skipped | unsupported | UNRESOLVED: metacareers.com uses an authenticated GraphQL endpoint; no stable public JSON source. Check manually. |
 | Apple | skipped | unsupported | UNRESOLVED: jobs.apple.com search API requires per-session CSRF tokens; not collected responsibly without a browser session. Check manually. |
