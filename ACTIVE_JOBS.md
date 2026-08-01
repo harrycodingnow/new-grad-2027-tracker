@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-01 15:36 UTC** (2026-08-01 23:36 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-01 21:20 UTC** (2026-08-02 05:20 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -75,7 +75,6 @@ _Last updated: **2026-08-01 15:36 UTC** (2026-08-01 23:36 Asia/Taipei) — auto-
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) | NVIDIA | Software Engineer, Hardware Tools and Methodology - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-02 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer---New-College-Grad-2026_JR2019567) | NVIDIA | Circuit Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-02 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1) | NVIDIA | Research Scientist, Efficient Deep Learning - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-02 |
-| [Apply](https://www.amazon.jobs/en/jobs/10478817/software-development-engineer-benefits-experience-technology-bxt) | Amazon | Software Development Engineer, Benefits Experience & Technology (BXT) | Dallas, Texas, USA | ⚪ unclear | 2026-07-20 |
 | [Apply](https://www.amazon.jobs/en/jobs/10477702/software-development-engineer-aws-opensearch) | Amazon | Software Development Engineer, AWS OpenSearch | Austin, Texas, USA | ⚪ unclear | 2026-07-17 |
 | [Apply](https://www.amazon.jobs/en/jobs/10477975/software-development-engineer-aws-opensearch) | Amazon | Software Development Engineer, AWS OpenSearch | Austin, Texas, USA | ⚪ unclear | 2026-07-17 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534) | NVIDIA | ASIC Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-17 |
@@ -186,7 +185,6 @@ _Last updated: **2026-08-01 15:36 UTC** (2026-08-01 23:36 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10483895/software-engineer-graviton-software-annapurna-labs) | Amazon | Software Engineer, Graviton Software, Annapurna Labs | Austin, Texas, USA | ⚪ unclear | 2026-07-24 |
 | [Apply](https://www.amazon.jobs/en/jobs/10482685/software-engineer-discovery) | Amazon | Software Engineer, Discovery | San Francisco, California, USA | ⚪ unclear | 2026-07-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10482841/software-development-engineer-fauna) | Amazon | Software Development Engineer, Fauna | New York, New York, USA | ⚪ unclear | 2026-07-23 |
-| [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R164904) | Adobe | Software Development Engineer | San Jose | ⚪ unclear | 2026-07-17 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4908708101) | IMC | Software Engineer - Risk Technology | Chicago, United States | ⚪ unclear | 2026-07-17 |
 | [Apply](https://www.amazon.jobs/en/jobs/10474672/software-development-engineer-amazon-brand-store) | Amazon | Software Development Engineer, Amazon Brand Store | Seattle, Washington, USA | ⚪ unclear | 2026-07-14 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) | IMC | Graduate Software Engineer | Chicago, United States | ⚪ unclear | 2026-07-01 |
@@ -299,12 +297,12 @@ _Last updated: **2026-08-01 15:36 UTC** (2026-08-01 23:36 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 320
-- **Recommended (not disqualified):** 278
+- **Active jobs tracked:** 318
+- **Recommended (not disqualified):** 276
 - **Companies checked successfully:** 31
 - **Failed sources:** 0
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 2, strong: 179, possible: 97, low priority: 0
+- Matches — excellent: 2, strong: 177, possible: 97, low priority: 0
 
 ## Source problems
 
