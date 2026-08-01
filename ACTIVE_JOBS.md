@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-01 10:18 UTC** (2026-08-01 18:18 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-01 15:36 UTC** (2026-08-01 23:36 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -49,7 +49,6 @@ _Last updated: **2026-08-01 10:18 UTC** (2026-08-01 18:18 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10487631/ai-aws-software-development-engineer-ring-blink-cs-technology-enablement) | Amazon | AI & AWS Software Development Engineer , Ring/Blink CS Technology Enablement | Hawthorne, California, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10486387/software-development-engineer-ads-security) | Amazon | Software Development Engineer, Ads Security | Bellevue, Washington, USA | ⚪ unclear | 2026-07-28 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8084195) | Stripe | Backend Engineer, Credit Decisions | Chicago, IL | ⚪ unclear | 2026-07-24 |
-| [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer--Influencer-Management_R166981) | Adobe | Software Development Engineer, Influencer Management | San Jose | ⚪ unclear | 2026-07-15 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274920235215) | PayPal | Software Engineer - Cloud Infrastructure and Devops | San Jose, California, United States of America | 🟡 possibly supported | 2026-06-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488871/software-development-engineer-aws-catalog) | Amazon | Software Development Engineer, AWS Catalog | East Palo Alto, California, USA | ⚪ unclear | 2026-07-31 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488872/software-development-engineer-aws-catalog) | Amazon | Software Development Engineer, AWS Catalog | East Palo Alto, California, USA | ⚪ unclear | 2026-07-31 |
@@ -134,7 +133,6 @@ _Last updated: **2026-08-01 10:18 UTC** (2026-08-01 18:18 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10488809/software-development-engineer-neuron-foundation-tools) | Amazon | Software Development Engineer, Neuron Foundation Tools | Seattle, Washington, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488821/software-development-engineer-route-53-healthcast-propagation) | Amazon | Software Development Engineer, Route 53 Healthcast Propagation | Seattle, Washington, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10486922/data-engineer-pv-prime-video-tv-tech) | Amazon | Data Engineer, PV Prime Video TV - Tech | Seattle, Washington, USA | ⚪ unclear | 2026-07-29 |
-| [Apply](https://www.amazon.jobs/en/jobs/10487557/software-development-engineer-amazon-opensearch-opensearch-core) | Amazon | Software Development Engineer - Amazon OpenSearch, OpenSearch Core | Bellevue, Washington, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487575/software-development-engineer-alexa-ads) | Amazon | Software Development Engineer, Alexa Ads | Irvine, California, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads) | Amazon | Software Development Engineer, Amazon Publisher Monetization - Video Ads | Seattle, Washington, USA | 🟡 possibly supported | 2026-07-29 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720174471) | Qualcomm | #Embedded Software Engineer - Video Technology | San Diego, California, United States of America | 🟡 possibly supported | 2026-07-29 |
@@ -239,7 +237,6 @@ _Last updated: **2026-08-01 10:18 UTC** (2026-08-01 18:18 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10485233/software-development-engineer-audio-podcast-ads) | Amazon | Software Development Engineer, Audio + Podcast Ads | New York, New York, USA | ⚪ unclear | 2026-07-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10483102/software-development-engineer-special-projects) | Amazon | Software Development Engineer, Special Projects | Seattle, Washington, USA | ⚪ unclear | 2026-07-24 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481886/software-development-engineer-amazon-brand-store) | Amazon | Software Development Engineer, Amazon Brand Store | Seattle, Washington, USA | ⚪ unclear | 2026-07-22 |
-| [Apply](https://www.amazon.jobs/en/jobs/10479793/software-development-engineer-amazon-music) | Amazon | Software Development Engineer, Amazon Music | San Francisco, California, USA | ⚪ unclear | 2026-07-21 |
 | [Apply](https://www.amazon.jobs/en/jobs/10479855/software-development-engineer-prime-video-ads) | Amazon | Software Development Engineer, Prime Video Ads | Arlington, Virginia, USA | ⚪ unclear | 2026-07-21 |
 | [Apply](https://www.amazon.jobs/en/jobs/10480882/software-development-engineer-privacy) | Amazon | Software Development Engineer, Privacy | Austin, Texas, USA | ⚪ unclear | 2026-07-21 |
 | [Apply](https://www.amazon.jobs/en/jobs/10479412/software-development-engineer-aws-identity) | Amazon | Software Development Engineer, AWS Identity | Seattle, Washington, USA | ⚪ unclear | 2026-07-20 |
@@ -302,12 +299,12 @@ _Last updated: **2026-08-01 10:18 UTC** (2026-08-01 18:18 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 323
-- **Recommended (not disqualified):** 281
+- **Active jobs tracked:** 320
+- **Recommended (not disqualified):** 278
 - **Companies checked successfully:** 31
 - **Failed sources:** 0
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 2, strong: 181, possible: 98, low priority: 0
+- Matches — excellent: 2, strong: 179, possible: 97, low priority: 0
 
 ## Source problems
 
