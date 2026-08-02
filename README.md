@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-02 10:17 UTC** (2026-08-02 18:17 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-02 15:35 UTC** (2026-08-02 23:35 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -254,7 +254,6 @@ _Last updated: **2026-08-02 10:17 UTC** (2026-08-02 18:17 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10476275/software-development-engineer-device-advertising) | Amazon | Software Development Engineer, Device Advertising | Sunnyvale, California, USA | ⚪ unclear | 2026-07-16 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=7983456) | Stripe | Machine Learning Engineer, Radar | Seattle | ⚪ unclear | 2026-06-23 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549797803802) | Morgan Stanley | Graduate Acquisitions & Divestitures Engineer – Houston, Texas | Houston, Texas, United States of America | ⚪ unclear | 2026-06-22 |
-| [Apply](https://www.amazon.jobs/en/jobs/10449222/software-development-engineer-data-analytics-integration-ai-and-platform-excellence) | Amazon | Software Development Engineer, Data Analytics Integration AI and Platform Excellence | New York, New York, USA | ⚪ unclear | 2026-06-15 |
 | [Apply](https://www.amazon.jobs/en/jobs/10449227/software-development-engineer-data-analytics-integration-ai-and-platform-excellence) | Amazon | Software Development Engineer, Data Analytics Integration AI and Platform Excellence | New York, New York, USA | ⚪ unclear | 2026-06-15 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8009143) | Stripe | Software Engineer | New York, NY | ⚪ unclear | 2026-06-15 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8229056002/) | Jane Street | Campus Recruiter, Machine Learning and Quantitative Research | NYC | ⚪ unclear | — |
@@ -299,12 +298,12 @@ _Last updated: **2026-08-02 10:17 UTC** (2026-08-02 18:17 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 319
-- **Recommended (not disqualified):** 278
+- **Active jobs tracked:** 318
+- **Recommended (not disqualified):** 277
 - **Companies checked successfully:** 31
 - **Failed sources:** 0
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 2, strong: 175, possible: 101, low priority: 0
+- Matches — excellent: 2, strong: 175, possible: 100, low priority: 0
 
 ## Source problems
 
