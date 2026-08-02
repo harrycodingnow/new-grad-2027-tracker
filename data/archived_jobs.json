@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:45:24Z",
+  "generated_at": "2026-08-02T10:17:07Z",
   "count": 300,
   "jobs": [
     {
@@ -7509,43 +7509,6 @@
       "announced": true
     },
     {
-      "job_id": "amazon-10479793",
-      "source_job_id": "10479793",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Amazon Music",
-      "location": "San Francisco, California, USA",
-      "country": "United States",
-      "workplace_type": "",
-      "department": "Software Development",
-      "employment_type": "full-time",
-      "description": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and culture. We offer experiences that serve all listeners with our different tiers of service: Prime members get access to all the music in shuffle mode, and top ad-free podcasts, included with their membership; customers can upgrade to Amazon Music Unlimited for unlimited, on-demand access to 100 million songs, including millions in HD, Ultra HD, and spatial audio; and anyone can listen for free by downloading the Amazon Music app or via Alexa-enabled devices. Join us for the opportunity to influence how Amazon Music engages fans, artists, and creators on a global scale. Learn more at https://www.amazon.com/music The Amazon Music Library Service Primitives team is looking for a passionate, innovative, and results-oriented backend Software Development Engineer to help us reimagine the library primitives and experiences for customers, unlocking new features and empowering customers to share their music with friends. As a Software Development Engineer on the Amazon Music Library Primitives team, you will be responsible for systems that power the library experience for millions of customers. You will work with a team of high-caliber engineers to create new scalable systems to manage the diverse set of customer features. Through experimentation, you and your team will solve for an optimally engaging music experience by delivering content seamlessly and help customers interact with their playlists in easy and intuitive ways. We use off the shelf AWS products such as EC2, ECS Lambda, EventBridge, S3, DynamoDB and CloudWatch. Come innovate with the Amazon Music team! - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, CA, San Francisco - 165,200.00 - 223,600.00 USD annually",
-      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language",
-      "application_url": "https://www.amazon.jobs/en/jobs/10479793/software-development-engineer-amazon-music",
-      "source_url": "https://www.amazon.jobs/en/jobs/10479793/software-development-engineer-amazon-music",
-      "source_type": "json",
-      "date_posted": "2026-07-21",
-      "first_seen": "2026-07-21T21:44:27Z",
-      "last_seen": "2026-07-31T21:40:14Z",
-      "status": "closed",
-      "graduation_match": "unspecified",
-      "role_match_score": 70,
-      "sponsorship_classification": "unclear",
-      "sponsorship_evidence": "",
-      "international_student_risk_flags": [],
-      "overall_score": 62,
-      "matched_keywords": [
-        "aws",
-        "backend",
-        "software development engineer"
-      ],
-      "excluded_keywords": [],
-      "score_explanation": "role 24/35 (title matched filter terms; skills: backend, aws) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (San Francisco, California, USA) · recency 9/10 (posted 10d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
-      "disqualified": false,
-      "disqualify_reason": "",
-      "consecutive_missing": 3,
-      "announced": false
-    },
-    {
       "job_id": "amazon-10480857",
       "source_job_id": "10480857",
       "company": "Amazon",
@@ -8517,6 +8480,48 @@
       "disqualify_reason": "",
       "consecutive_missing": 3,
       "announced": true
+    },
+    {
+      "job_id": "applied-materials-R2611980",
+      "source_job_id": "R2611980",
+      "company": "Applied Materials",
+      "title": "Machine Learning Engineer (Generative AI)",
+      "location": "Santa Clara,CA",
+      "country": "United States of America",
+      "workplace_type": "",
+      "department": "",
+      "employment_type": "Full time",
+      "description": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. We design, build and service cutting-edge equipment that helps our customers manufacture display and semiconductor chips – the brains of devices we use every day. As the foundation of the global electronics industry, Applied enables the exciting technologies that literally connect our world – like AI and IoT. If you want to push the boundaries of materials science and engineering to create next generation technology, join us to deliver material innovation that changes the world. What We Offer Salary: $131,000.00 - $180,000.00 Location: Santa Clara,CA You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . TEAM OVERVIEW: We are a passionate, cross-functional team at the forefront of applying cutting-edge AI and machine learning to accelerate scientific and materials innovation. Our mission is to create domain-specific, product-centric algorithmic solutions that drive real impact for our customers. We thrive in a collaborative environment that encourages out-of-the-box thinking and values diverse perspectives. Here, creativity flourishes—groundbreaking ideas are born from the synergy of technical expertise and open-minded teamwork. We believe the best solutions emerge when everyone is empowered to share their unique insights and challenge conventional boundaries. Our team leverages state-of-the-art generative AI and large language models to tackle complex problems in materials science, scientific discovery, and hardware design. We work closely with scientists, engineers, and product leaders to translate frontier research into practical, high-value applications. Ideal candidates bring a strong research background, technical leadership, and a passion for learning new technologies. If you are excited to solve complex problems, drive innovation, and help shape the future of science with AI, join us on our journey to make possible a better future through intelligent discovery. KEY RESPONSIBILITIES: Develop, pretrain, fine-tune, and align LLMs and generative models tailored for scientific and materials science data, literature, and workflows. Innovate post-training methods, alignment, and evaluation for domain-specific LLMs, ensuring models are robust, accurate, and trustworthy for scientific use cases. Design and implement generative approaches to accelerate materials discovery, hypothesis generation, and hardware design. Collaborate with scientists, engineers, and cross-functional teams to identify impactful applications of generative AI in materials science. Build and curate scientific datasets, benchmarks, and evaluation protocols for model validation and continuous improvement. Stay current with advances in AI, machine learning, and materials science, and publish original research in top venues. Mentor junior team members and contribute to a collaborative, inclusive research culture. TECHNICAL SKILLS: Strong background in machine learning, deep learning, NLP, and generative AI, with a focus on scientific or technical domains. Hands-on experience with LLM pretraining, supervised fine-tuning (SFT), post-training alignment (e.g., RLHF), and rigorous model evaluation. Proficiency in Python and frameworks such as PyTorch or TensorFlow. Experience working with structured and unstructured scientific data (e.g., literature, experimental results, simulation outputs) and developing domain-specific models. Excellent communication skills, with the ability to collaborate across disciplines and present complex ideas to diverse audiences. REQUIREMENTS/EDUCATION: MS or Ph.D. degree in Computer Science, Computer Engineer, Electrical Engineer, Mathematics, Statistics or related field Additional Information Time Type: Full time Employee Type: New College Grad Travel: Yes, 10% of the Time Relocation Eligible: Yes The salary offered to a selected candidate will be based on multiple factors including location, hire grade, job-related knowledge, skills, experience, and with consideration of internal equity of our current team members. In addition to a comprehensive benefits package, candidates may be eligible for other forms of compensation such as participation in a bonus and a stock award program, as applicable. For all sales roles, the posted salary range is the Target Total Cash (TTC) range for the role, which is the sum of base salary and target bonus amount at 100% goal achievement. Applied Materials is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, disability, veteran or military status, or any other basis prohibited by law. In addition, Applied endeavors to make our careers site accessible to all users. If you would like to contact us regarding accessibility of our website or need assistance completing the application process, please contact us via e-mail at Accommodations_Program@amat.com, or by calling our HR Direct Help Line at 877-612-7547, option 1, and following the prompts to speak to an HR Advisor. This contact is for accommodation requests only and cannot be used to inquire about the status of applications.",
+      "requirements": "",
+      "application_url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2611980-1",
+      "source_url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2611980-1",
+      "source_type": "workday",
+      "date_posted": "2026-07-02",
+      "first_seen": "2026-07-31T21:40:14Z",
+      "last_seen": "2026-08-01T15:36:25Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 85,
+      "sponsorship_classification": "ineligible",
+      "sponsorship_evidence": "Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, disability, veteran or military status, or any other basis prohibited by law.",
+      "international_student_risk_flags": [
+        "itar"
+      ],
+      "overall_score": 54,
+      "matched_keywords": [
+        "ai",
+        "evaluation",
+        "llm",
+        "machine learning",
+        "machine learning engineer",
+        "python"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 30/35 (primary role match (Machine Learning Engineer); skills: python, llm, ai, evaluation, machine learning) · graduation 8/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (Santa Clara,CA) · recency 6/10 (posted 30d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": true,
+      "disqualify_reason": "sponsorship classification 'ineligible': Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexu",
+      "consecutive_missing": 3,
+      "announced": false
     },
     {
       "job_id": "applied-materials-R2617242",
