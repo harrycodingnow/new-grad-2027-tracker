@@ -1,5 +1,44 @@
 {
-  "generated_at": "2026-08-02T21:20:42Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-08-03T06:01:29Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "lam-research-193191",
+      "source_job_id": "193191",
+      "company": "Lam Research",
+      "title": "Software Engineer Sys 4",
+      "location": "US-CA-Fremont (1003)",
+      "country": "United States",
+      "workplace_type": "onsite",
+      "department": "Software Engineering",
+      "employment_type": "",
+      "description": "The group you’ll be a part of In the Global Products Group, we are dedicated to excellence in the design and engineering of Lam's etch and deposition products. We drive innovation to ensure our cutting-edge solutions are helping to solve the biggest challenges in the semiconductor industry. The impact you’ll make As a Software Engineer at Lam, you will be at the forefront of innovation by designing, developing, and troubleshooting, and debugging software programs. Your role is pivotal in developing software tools that support design, infrastructure, and technology platforms. Your expertise will determine hardware compatibility and influence design, ensuring seamless integration between software and hardware. In this role, you’ll make an impact across Lam’s entire product portfolio of equipment working within our centralized software engineering team, collaborating with some of the brightest minds in the industry. What you’ll do Design, develop, troubleshoot, and debug software programs for enhancements and new products. Implement new customer requirements and features in our existing application. Maintain and enhance existing code base by investigating and resolving problem areas. Demonstrate, clearly communicate, and present solutions through clear documentation, flowcharts, and well-structured code. Collaborate with cross functional teams to design and develop software programs. Provide technical guidance and mentoring for more junior engineers. May visit customer site to provide support and have ability to travel (total is less than 10%). Who we’re looking for Minimum Qualifications: Bachelor’s degree in Computer Engineering, Electronics, Mechanical Engineering with 8+ years of experience; or Master’s degree with 6+ years’ experience; or a PhD with 3+ years’ experience; or equivalent experience. Knowledge of Object-Oriented Software (OOS), Object Oriented Design (OOD), or Object-Oriented Programming (OOP) implementation and design, including Design Patterns and Finite State Machines. Knowledge of multithreading, including preemptive thread scheduling. Knowledgeable with communication protocols such as Inter-Integrated Circuit (I2C), Service Provider Interface (SPI), Universal Asynchronous Receiver-Transmitter (UART). Preferred qualifications Prior semiconductor equipment experience. Experience in distributed embedded controls system desired. Software development skills in one or more general purpose programming languages: C++, C#. Our commitment We believe it is important for every person to feel valued, included, and empowered to achieve their full potential. By bringing unique individuals and viewpoints together, we achieve extraordinary results. Lam Research (\"Lam\" or the \"Company\") is an equal opportunity employer. Lam is committed to and reaffirms support of equal opportunity in employment and non-discrimination in employment policies, practices and procedures on the basis of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex (including pregnancy, childbirth and related medical conditions), gender, gender identity, gender expression, age, sexual orientation, or military and veteran status or any other category protected by applicable federal, state, or local laws. It is the Company's intention to comply with all applicable laws and regulations. Company policy prohibits unlawful discrimination against applicants or employees. Lam offers a variety of work location models based on the needs of each role. Our hybrid roles combine the benefits of on-site collaboration with colleagues and the flexibility to work remotely and fall into two categories – On-site Flex and Virtual Flex. ‘On-site Flex’ you’ll work 3+ days per week on-site at a Lam or customer/supplier location, with the opportunity to work remotely for the balance of the week. ‘Virtual Flex’ you’ll work 1-2 days per week on-site at a Lam or customer/supplier location, and remotely the rest of the time. Salary CA San Francisco Bay Area Salary Range for this position: $119,000.00 - $261,000.00. The above salary range for this position is relevant to applicants that reside or work onsite in the California, San Francisco Bay Area only. Salary offers will depend on factors that include the location you work from, your level, education, training, specific skills, years of experience and comparison to other employees already in this role. Actual salary may vary from salary offered due to numerous factors including but not limited to unpaid time off, unpaid leave, company mandated shutdown, and other relevant factors. Our Perks and Benefits At Lam, our people make amazing things possible. That’s why we invest in you throughout the phases of your life with a comprehensive set of outstanding benefits.",
+      "requirements": "",
+      "application_url": "https://careers.lamresearch.com/careers/job/1099551161859",
+      "source_url": "https://careers.lamresearch.com/careers/job/1099551161859",
+      "source_type": "eightfold",
+      "date_posted": "2026-08-03",
+      "first_seen": "2026-08-03T06:01:29Z",
+      "last_seen": "2026-08-03T06:01:29Z",
+      "status": "active",
+      "graduation_match": "unspecified",
+      "role_match_score": 65,
+      "sponsorship_classification": "ineligible",
+      "sponsorship_evidence": "arital status, sex (including pregnancy, childbirth and related medical conditions), gender, gender identity, gender expression, age, sexual orientation, or military and veteran status or any other category protected by applicable federal, state, or local laws.",
+      "international_student_risk_flags": [
+        "itar"
+      ],
+      "overall_score": 51,
+      "matched_keywords": [
+        "c#",
+        "software engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 23/35 (primary role match (Software Engineer); skills: c#) · graduation 8/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (US-CA-Fremont (1003)) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": true,
+      "disqualify_reason": "sponsorship classification 'ineligible': arital status, sex (including pregnancy, childbirth and related medical conditions), gender, gender identity, gender expression, age, sexual orientation, or mil",
+      "consecutive_missing": 0,
+      "announced": false
+    }
+  ]
 }
