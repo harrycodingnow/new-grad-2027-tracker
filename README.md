@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-04 11:05 UTC** (2026-08-04 19:05 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-04 16:33 UTC** (2026-08-05 00:33 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -143,7 +143,6 @@ _Last updated: **2026-08-04 11:05 UTC** (2026-08-04 19:05 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10490604/software-development-engineer-conversational-ads-experience) | Amazon | Software Development Engineer, Conversational Ads Experience | New York, New York, USA | ⚪ unclear | 2026-08-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10490605/software-development-engineer-conversational-ads-experience) | Amazon | Software Development Engineer, Conversational Ads Experience | Seattle, Washington, USA | ⚪ unclear | 2026-08-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10491037/software-development-engineer-aws-opensearch-opensearch-dashboards) | Amazon | Software Development Engineer - AWS OpenSearch, OpenSearch Dashboards | Bellevue, Washington, USA | ⚪ unclear | 2026-08-03 |
-| [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/336359) | Oracle | Software Developer 5 | Seattle, WA, United States | ⚪ unclear | 2026-08-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487929/software-development-engineer-ec2-ultraserver-delivery-team) | Amazon | Software Development Engineer, EC2 UltraServer Delivery Team | Seattle, Washington, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488809/software-development-engineer-neuron-foundation-tools) | Amazon | Software Development Engineer, Neuron Foundation Tools | Seattle, Washington, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488821/software-development-engineer-route-53-healthcast-propagation) | Amazon | Software Development Engineer, Route 53 Healthcast Propagation | Seattle, Washington, USA | ⚪ unclear | 2026-07-30 |
@@ -157,10 +156,8 @@ _Last updated: **2026-08-04 11:05 UTC** (2026-08-04 19:05 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10484188/software-development-engineer-amazon-workspaces-applications) | Amazon | Software Development Engineer, Amazon WorkSpaces Applications | Seattle, Washington, USA | ⚪ unclear | 2026-07-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10484189/software-development-engineer-amazon-workspaces-applications) | Amazon | Software Development Engineer, Amazon WorkSpaces Applications | Sunnyvale, California, USA | ⚪ unclear | 2026-07-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10484190/software-development-engineer-amazon-workspaces-applications) | Amazon | Software Development Engineer, Amazon WorkSpaces Applications | Seattle, Washington, USA | ⚪ unclear | 2026-07-27 |
-| [Apply](https://www.amazon.jobs/en/jobs/10484052/software-development-engineer-annapurna-labs-elastic-collectives) | Amazon | Software Development Engineer, Annapurna Labs, Elastic Collectives | Cupertino, California, USA | ⚪ unclear | 2026-07-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10479116/software-development-engineer-network-product-development) | Amazon | Software Development Engineer, Network Product Development | Cupertino, California, USA | ⚪ unclear | 2026-07-20 |
 | [Apply](https://www.amazon.jobs/en/jobs/10477971/software-development-engineer-aws-opensearch-service) | Amazon | Software Development Engineer, AWS OpenSearch Service | Austin, Texas, USA | ⚪ unclear | 2026-07-17 |
-| [Apply](https://www.amazon.jobs/en/jobs/10475195/software-development-engineer-aws-opensearch-service) | Amazon | Software Development Engineer, AWS OpenSearch Service | Austin, Texas, USA | ⚪ unclear | 2026-07-15 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719654146) | Qualcomm | Full Stack Engineer / FrontEnd Engineer, Qualcomm AI SW Stack | San Diego, California, United States of America | ⚪ unclear | 2026-07-09 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8044460) | Stripe | AI Engineer | Chicago | ⚪ unclear | 2026-07-03 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | IMC | Graduate Quantitative Trader | Chicago, United States | ⚪ unclear | 2026-07-01 |
@@ -266,6 +263,7 @@ _Last updated: **2026-08-04 11:05 UTC** (2026-08-04 19:05 Asia/Taipei) — auto-
 | [Apply](https://careers.qualcomm.com/careers/job/446719653280) | Qualcomm | Software Engineer, Core AI Software | San Diego, California, United States of America | ⚪ unclear | 2026-07-09 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8009143) | Stripe | Software Engineer | New York, NY | ⚪ unclear | 2026-06-15 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8229056002/) | Jane Street | Campus Recruiter, Machine Learning and Quantitative Research | NYC | ⚪ unclear | — |
+| [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/341920) | Oracle | Software Developer 3 | Austin, TX, United States | ⚪ unclear | 2026-08-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10484906/software-development-engineer) | Amazon | Software Development Engineer | Newark, New Jersey, USA | ⚪ unclear | 2026-07-27 |
 | [Apply](https://careers.qualcomm.com/careers/job/446717394529) | Qualcomm | IOT Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-07-15 |
 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002) | Databricks | Software Engineer, Web Products | Mountain View, California | ⚪ unclear | 2026-07-15 |
@@ -306,17 +304,18 @@ _Last updated: **2026-08-04 11:05 UTC** (2026-08-04 19:05 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 332
-- **Recommended (not disqualified):** 285
-- **Companies checked successfully:** 31
-- **Failed sources:** 0
+- **Active jobs tracked:** 331
+- **Recommended (not disqualified):** 283
+- **Companies checked successfully:** 30
+- **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 2, strong: 189, possible: 94, low priority: 0
+- Matches — excellent: 2, strong: 186, possible: 95, low priority: 0
 
 ## Source problems
 
 | Company | Status | Category | Detail |
 | --- | --- | --- | --- |
+| PayPal | failed | network_error | request failed after 3 attempts: https://paypal.eightfold.ai/api/pcsx/search (HTTPSConnectionPool(host='paypal.eightfold.ai', port=443): Re… |
 | Google | skipped | unsupported | UNRESOLVED (2026-07-12): the former careers.google.com/api/v3/search API returns 404; current site has no public JSON API. Check manually. |
 | Meta | skipped | unsupported | UNRESOLVED: metacareers.com uses an authenticated GraphQL endpoint; no stable public JSON source. Check manually. |
 | Apple | skipped | unsupported | UNRESOLVED: jobs.apple.com search API requires per-session CSRF tokens; not collected responsibly without a browser session. Check manually. |
