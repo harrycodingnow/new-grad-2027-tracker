@@ -1,5 +1,45 @@
 {
-  "generated_at": "2026-08-07T09:24:02Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-08-07T15:18:21Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "amazon-10495750",
+      "source_job_id": "10495750",
+      "company": "Amazon",
+      "title": "Data Engineer , AWS Infrastructure Supply Chain Intelligence",
+      "location": "Bellevue, Washington, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Business Intelligence",
+      "employment_type": "full-time",
+      "description": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help. You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion. We are looking for a talented Data Engineer to join the Manufacturing Operations, Transportation Operations, and Reverse (MOTOR) organization in support of our Supply Chain Intelligence team. MOTOR manages the manufacturing of datacenter racks and the movement of racks/parts through the supply chain, consisting of transportation, warehousing, and reverse logistics into and out of the data centers. This role performs helps connect the different systems across the supply chain together so operational teams have clean, actionable data to work with. This requires someone with strong analytic skills and business acumen who can work with stakeholders on strategic projects across MOTOR. The ideal candidate relishes working with large volumes of data, enjoys the challenge of highly complex technical contexts, and, above all else, is passionate about data and analytics. Must be an expert working with data modeling with un/structured data, ingestion pipelines and ETL design and business intelligence tools with the business to identify strategic opportunities where improvements in data infrastructure creates out-sized business impact. Candidate is a self-starter, comfortable with ambiguity, able to think big (while paying careful attention to detail), mentors other engineers in team on high quality tech, and enjoys working in a fast-paced team. Candidate will have a chance to architect the data pipelines needed for optimization and predictive analysis. We're excited to talk to those up to the challenge! Key job responsibilities - Build and maintain the infrastructure to answer questions with data, using software engineering best practices, data management fundamentals, data storage principles, recent advances in distributed systems, and operational excellence best practices. Build datasets that analysts and scientists use to generate actionable insights. - Define the data engineering processes that leverage various AWS services to improve accessibility, redundancy, data integrity, cost, and storage requirements. - Develop high quality solutions for the faster development of the products/models that solve the business needs in a scalable format, while also anticipating future requirements. - Collaborate with Research/Applied Scientists, Data Engineers, Business Intelligence Engineers, Data Scientists, Business Analysts, and Product/Program Managers to understand the business and technical requirements, and make decisions that help make the products/programs smoother. - Interface with other technology/data engineering teams to extract, transform, and load data from a wide variety of data sources using and AWS data technologies. - Lead the technical design and implementation of the data infrastructure. - Design and manage data audit, quality, and reconciliation processes in collaboration with various stakeholders. About the team This team provides data engineering and business intelligence engineering services to the rest of MOTOR. We are the data experts behind the scenes helping the operational teams focus on operations by ensuring they have accurate, timely data and provide business insights to help improve operational excellence. *Why AWS* Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. *Diverse Experiences* Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying. *Work/Life Balance* We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud. *Inclusive Team Culture* Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness. *Mentorship and Career Growth* We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional. - 3+ years of data engineering experience - Experience with data modeling, warehousing and building ETL pipelines - Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions - Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases) Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, VA, Arlington - 132,100.00 - 178,800.00 USD annually USA, WA, Bellevue - 132,100.00 - 178,800.00 USD annually",
+      "requirements": "- 3+ years of data engineering experience - Experience with data modeling, warehousing and building ETL pipelines",
+      "application_url": "https://www.amazon.jobs/en/jobs/10495750/data-engineer-aws-infrastructure-supply-chain-intelligence",
+      "source_url": "https://www.amazon.jobs/en/jobs/10495750/data-engineer-aws-infrastructure-supply-chain-intelligence",
+      "source_type": "json",
+      "date_posted": "2026-08-07",
+      "first_seen": "2026-08-07T15:18:18Z",
+      "last_seen": "2026-08-07T15:18:18Z",
+      "status": "active",
+      "graduation_match": "unspecified",
+      "role_match_score": 80,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 67,
+      "matched_keywords": [
+        "aws",
+        "cloud",
+        "data engineer",
+        "distributed systems",
+        "etl"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 28/35 (primary role match (Data Engineer); skills: cloud, aws, etl, distributed systems) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Bellevue, Washington, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 0,
+      "announced": true
+    }
+  ]
 }
