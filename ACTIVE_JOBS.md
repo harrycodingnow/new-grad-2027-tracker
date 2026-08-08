@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-08 09:10 UTC** (2026-08-08 17:10 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-08 14:57 UTC** (2026-08-08 22:57 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -167,7 +167,6 @@ _None right now._
 | [Apply](https://www.amazon.jobs/en/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads) | Amazon | Software Development Engineer, Amazon Publisher Monetization - Video Ads | Seattle, Washington, USA | 🟡 possibly supported | 2026-07-29 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720174471) | Qualcomm | #Embedded Software Engineer - Video Technology | San Diego, California, United States of America | 🟡 possibly supported | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10485477/data-engineer-data-center-engineering-data-center-engineering-analytics) | Amazon | Data Engineer, Data Center Engineering, Data Center Engineering Analytics | Atlanta, Georgia, USA | ⚪ unclear | 2026-07-28 |
-| [Apply](https://www.amazon.jobs/en/jobs/10484187/software-development-engineer-amazon-workspaces-applications) | Amazon | Software Development Engineer, Amazon WorkSpaces Applications | Sunnyvale, California, USA | ⚪ unclear | 2026-07-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10484188/software-development-engineer-amazon-workspaces-applications) | Amazon | Software Development Engineer, Amazon WorkSpaces Applications | Seattle, Washington, USA | ⚪ unclear | 2026-07-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10484190/software-development-engineer-amazon-workspaces-applications) | Amazon | Software Development Engineer, Amazon WorkSpaces Applications | Seattle, Washington, USA | ⚪ unclear | 2026-07-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10483966/software-development-engineer-amazon-workspaces-applications) | Amazon | Software Development Engineer, Amazon WorkSpaces Applications | Seattle, Washington, USA | ⚪ unclear | 2026-07-25 |
@@ -197,11 +196,9 @@ _None right now._
 | [Apply](https://www.amazon.jobs/en/jobs/10492049/software-development-engineer-bottlerocket) | Amazon | Software Development Engineer, Bottlerocket | Seattle, Washington, USA | ⚪ unclear | 2026-08-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10492179/software-development-engineer-aws-directory-service) | Amazon | Software Development Engineer, AWS Directory Service | Seattle, Washington, USA | ⚪ unclear | 2026-08-04 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8107302) | Stripe | Software Engineer, Sending | South San Francisco, California | ⚪ unclear | 2026-08-04 |
-| [Apply](https://www.amazon.jobs/en/jobs/10490833/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-08-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10490840/software-development-engineer-aws-cognito) | Amazon | Software Development Engineer, AWS Cognito | Seattle, Washington, USA | ⚪ unclear | 2026-08-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10489267/software-development-engineer) | Amazon | Software Development Engineer | Santa Clara, California, USA | ⚪ unclear | 2026-07-31 |
 | [Apply](https://www.amazon.jobs/en/jobs/10489268/software-development-engineer) | Amazon | Software Development Engineer | Santa Clara, California, USA | ⚪ unclear | 2026-07-31 |
-| [Apply](https://www.amazon.jobs/en/jobs/10489298/software-development-engineer) | Amazon | Software Development Engineer | Cambridge, Massachusetts, USA | ⚪ unclear | 2026-07-31 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488273/software-development-engineer-developer-agents-and-experiences-production-engineering) | Amazon | Software Development Engineer, Developer Agents and Experiences, Production Engineering | Seattle, Washington, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488610/software-development-engineer) | Amazon | Software Development Engineer | Santa Clara, California, USA | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488838/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-07-30 |
@@ -210,7 +207,6 @@ _None right now._
 | [Apply](https://www.amazon.jobs/en/jobs/10480963/data-engineer-pv-prime-video-tv-tech) | Amazon | Data Engineer, PV Prime Video TV - Tech | New York, New York, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481902/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8047119) | Hudson River Trading | Campus Sourcer | New York, NY, United States | ⚪ unclear | 2026-07-22 |
-| [Apply](https://www.amazon.jobs/en/jobs/10480763/software-development-engineer-ec2-ultraserver-delivery-team) | Amazon | Software Development Engineer, EC2 UltraServer Delivery Team | Seattle, Washington, USA | ⚪ unclear | 2026-07-21 |
 | [Apply](https://www.amazon.jobs/en/jobs/10463961/data-engineer-amazon-ads) | Amazon | Data Engineer, Amazon Ads | Seattle, Washington, USA | ⚪ unclear | 2026-07-01 |
 | [Apply](https://www.amazon.jobs/en/jobs/10459081/data-engineer-prime-video-core-analytics-and-tooling) | Amazon | Data Engineer, Prime Video Core Analytics and Tooling | Seattle, Washington, USA | ⚪ unclear | 2026-06-25 |
 
@@ -224,7 +220,6 @@ _None right now._
 | [Apply](https://www.amazon.jobs/en/jobs/10486685/software-development-engineer-developer-agents-and-experiences-production-engineering) | Amazon | Software Development Engineer, Developer Agents and Experiences, Production Engineering | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10485238/software-development-engineer-production-and-post-production-technology-amazon-mgm-studios) | Amazon | Software Development Engineer, Production and Post Production Technology, Amazon MGM Studios | Culver City, California, USA | ⚪ unclear | 2026-07-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10485240/software-development-engineer-production-and-post-production-technology-amazon-mgm-studios) | Amazon | Software Development Engineer, Production and Post Production Technology, Amazon MGM Studios | Culver City, California, USA | ⚪ unclear | 2026-07-27 |
-| [Apply](https://www.amazon.jobs/en/jobs/10485323/machine-learning-engineer-ois-core-engine) | Amazon | Machine Learning Engineer, OIS-Core Engine | Austin, Texas, USA | ⚪ unclear | 2026-07-27 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4908708101) | IMC | Software Engineer - Risk Technology | Chicago, United States | ⚪ unclear | 2026-07-17 |
 | [Apply](https://www.amazon.jobs/en/jobs/10469108/data-engineer-data-platform-management-grocery-tech-foundations) | Amazon | Data Engineer, Data Platform Management, Grocery Tech Foundations | Austin, Texas, USA | ⚪ unclear | 2026-07-08 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) | IMC | Graduate Software Engineer | Chicago, United States | ⚪ unclear | 2026-07-01 |
@@ -310,12 +305,12 @@ _None right now._
 
 ## Summary
 
-- **Active jobs tracked:** 349
-- **Recommended (not disqualified):** 290
+- **Active jobs tracked:** 344
+- **Recommended (not disqualified):** 285
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 0, strong: 201, possible: 89, low priority: 0
+- Matches — excellent: 0, strong: 197, possible: 88, low priority: 0
 
 ## Source problems
 
