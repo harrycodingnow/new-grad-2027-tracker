@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-09 15:01 UTC** (2026-08-09 23:01 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-09 21:05 UTC** (2026-08-10 05:05 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -127,7 +127,6 @@ _None right now._
 | [Apply](https://www.amazon.jobs/en/jobs/10485450/software-development-engineer-ads-ai-core-infra-aci) | Amazon | Software Development Engineer, Ads AI Core Infra (ACI) | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10486128/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services-aft-rodeo) | Amazon | Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services (AFT Rodeo) | Bellevue, Washington, USA | ⚪ unclear | 2026-07-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10486129/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services-aft-rodeo) | Amazon | Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services (AFT Rodeo) | Bellevue, Washington, USA | ⚪ unclear | 2026-07-28 |
-| [Apply](https://www.amazon.jobs/en/jobs/10486697/software-development-engineer-kiro) | Amazon | Software Development Engineer, Kiro | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10484211/software-developer-engineer-amazon-workspaces-core-managed-instances) | Amazon | Software Developer Engineer, Amazon WorkSpaces Core Managed Instances | Seattle, Washington, USA | ⚪ unclear | 2026-07-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10484212/software-developer-engineer-amazon-workspaces-core-managed-instances) | Amazon | Software Developer Engineer, Amazon WorkSpaces Core Managed Instances | Seattle, Washington, USA | ⚪ unclear | 2026-07-27 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000138205419) | ServiceNow | Software Engineer, DevOps - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-07-16 |
@@ -233,7 +232,6 @@ _None right now._
 | [Apply](https://www.amazon.jobs/en/jobs/10490963/software-development-engineer-amazon-msk-managed-streaming-for-kafka) | Amazon | Software Development Engineer - Amazon MSK, Managed Streaming for Kafka | Seattle, Washington, USA | ⚪ unclear | 2026-08-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10490964/software-development-engineer-amazon-msk-managed-streaming-for-kafka) | Amazon | Software Development Engineer - Amazon MSK, Managed Streaming for Kafka | Seattle, Washington, USA | ⚪ unclear | 2026-08-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488930/software-development-engineer-ads-core-services) | Amazon | Software Development Engineer, Ads Core Services | New York, New York, USA | ⚪ unclear | 2026-07-31 |
-| [Apply](https://www.amazon.jobs/en/jobs/10489702/software-development-engineer-aws-fintech) | Amazon | Software Development Engineer, AWS Fintech | Seattle, Washington, USA | ⚪ unclear | 2026-07-31 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8099239) | Stripe | Software Engineer - Infrastructure | Seattle, WA | ⚪ unclear | 2026-07-31 |
 | [Apply](https://www.amazon.jobs/en/jobs/10483895/software-engineer-graviton-software-annapurna-labs) | Amazon | Software Engineer, Graviton Software, Annapurna Labs | Austin, Texas, USA | ⚪ unclear | 2026-07-24 |
 | [Apply](https://www.amazon.jobs/en/jobs/10482841/software-development-engineer-fauna) | Amazon | Software Development Engineer, Fauna | New York, New York, USA | ⚪ unclear | 2026-07-23 |
@@ -306,12 +304,12 @@ _None right now._
 
 ## Summary
 
-- **Active jobs tracked:** 345
-- **Recommended (not disqualified):** 286
+- **Active jobs tracked:** 343
+- **Recommended (not disqualified):** 284
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 0, strong: 194, possible: 92, low priority: 0
+- Matches — excellent: 0, strong: 193, possible: 91, low priority: 0
 
 ## Source problems
 
