@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-15 14:48 UTC** (2026-08-15 22:48 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-15 20:51 UTC** (2026-08-16 04:51 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -225,6 +225,7 @@ _None right now._
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8047119) | Hudson River Trading | Campus Sourcer | New York, NY, United States | ⚪ unclear | 2026-07-22 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719381139) | Qualcomm | #Software Engineer - Power and Limits Management | San Diego, California, United States of America | 🟡 possibly supported | 2026-07-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10459081/data-engineer-prime-video-core-analytics-and-tooling) | Amazon | Data Engineer, Prime Video Core Analytics and Tooling | Seattle, Washington, USA | ⚪ unclear | 2026-06-25 |
+| [Apply](https://www.amazon.jobs/en/jobs/10503148/software-development-engineer-amazon-security-ascot-engineering) | Amazon | Software Development Engineer, Amazon Security: ASCOT Engineering | Herndon, Virginia, USA | ⚪ unclear | 2026-08-15 |
 | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/335753) | Oracle | Software Developer 4 | Austin, TX, United States | ⚪ unclear | 2026-08-14 |
 | [Apply](https://www.amazon.jobs/en/jobs/10499104/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-08-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10499118/software-development-engineer-advengers-amazon-ads-brand-video) | Amazon | Software Development Engineer, Advengers - Amazon Ads Brand & Video | New York, New York, USA | ⚪ unclear | 2026-08-11 |
@@ -300,11 +301,11 @@ _None right now._
 ## Summary
 
 - **Active jobs tracked:** 346
-- **Recommended (not disqualified):** 279
+- **Recommended (not disqualified):** 280
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 0, strong: 194, possible: 85, low priority: 0
+- Matches — excellent: 0, strong: 194, possible: 86, low priority: 0
 
 ## Source problems
 

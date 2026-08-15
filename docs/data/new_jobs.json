@@ -1,5 +1,43 @@
 {
-  "generated_at": "2026-08-15T14:48:16Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-08-15T20:51:04Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "amazon-10503148",
+      "source_job_id": "10503148",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Security: ASCOT Engineering",
+      "location": "Herndon, Virginia, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Software Development",
+      "employment_type": "full-time",
+      "description": "Are you interested in shaping the future of Amazon Security? Do you want to be part of building something with massive impact? Amazon Security Engineering is looking for strong software engineers to join us as we make security smarter and simpler for all AWS customers. Today is just the beginning, and we want you to be part of our journey to innovate the way in which our users experience security. Amazon Security includes experts from across Amazon and AWS who help our customers design, build, operate, and secure their cloud environments. As a member of this team, you will design and build proactive security solutions at scale, working across AWS services and internal teams to reduce risk, accelerate secure adoption, and protect customers who have the highest security bar. You will own the technical direction, delivery, and operational health of these services and/or their components from inception through production. You will have the opportunity to grow and make impact by defining the system architecture, owning and implementing specific components, and shaping the overall experience. Together we build highly available, secure, scalable, distributed and event-driven systems. As an SDE, you will contribute to planning, architecture design, implementation, testing, and process improvement. Key job responsibilities As a successful candidate, you contribute to all parts of the software and deployment lifecycle, including documentation, testing and operations. You really enjoy working in a fast paces environment and working closely with your peers in a group of very smart and talented engineers. This role offers a fantastic opportunity to develop new services that enhance security for AWS's global customer base. As a software engineer, you'll join a growing team of engineers focused on building transformative security services, working to reinvent how Amazon and our customers perceive and experience security. You will help set technical standards and shape Amazon Security's overall technical architecture and engineering practices. A day in the life You will collaborate with engineering teams across AWS to design, deliver, and refine solutions that make it easier for our global customers to operate secure and compliant workloads within AWS. You'll work closely with our business team to ensure a clear understanding of the core problem we aim to solve. You'll partner with UX Designer, developers and business stakeholders to create appropriate user stories and a roadmap. About the team Diverse Experiences Amazon Security values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying. Why Amazon Security? At Amazon, security is central to maintaining customer trust and delivering delightful customer experiences. Our organization is responsible for creating and maintaining a high bar for security across all of Amazon’s products and services. We offer talented security professionals the chance to accelerate their careers with opportunities to build experience in a wide variety of areas including cloud, devices, retail, entertainment, healthcare, operations, and physical stores. Inclusive Team Culture In Amazon Security, it’s in our nature to learn and be curious. Ongoing DEI events and learning experiences inspire us to continue learning and to embrace our uniqueness. Addressing the toughest security challenges requires that we seek out and celebrate a diversity of ideas, perspectives, and voices. Training & Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, training, and other career-advancing resources here to help you develop into a better-rounded professional. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve. - 3+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 2+ years of non-internship professional software development experience - Experience programming with at least one software programming language - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, VA, Herndon - 143,700.00 - 194,400.00 USD annually",
+      "requirements": "- 3+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 2+ years of non-internship professional software development experience - Experience programming with at least one software programming language",
+      "application_url": "https://www.amazon.jobs/en/jobs/10503148/software-development-engineer-amazon-security-ascot-engineering",
+      "source_url": "https://www.amazon.jobs/en/jobs/10503148/software-development-engineer-amazon-security-ascot-engineering",
+      "source_type": "json",
+      "date_posted": "2026-08-15",
+      "first_seen": "2026-08-15T20:51:04Z",
+      "last_seen": "2026-08-15T20:51:04Z",
+      "status": "active",
+      "graduation_match": "unspecified",
+      "role_match_score": 70,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 63,
+      "matched_keywords": [
+        "aws",
+        "cloud",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 24/35 (title matched filter terms; skills: cloud, aws) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Herndon, Virginia, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 0,
+      "announced": false
+    }
+  ]
 }
