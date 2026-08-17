@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-17 09:09 UTC** (2026-08-17 17:09 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-17 14:54 UTC** (2026-08-17 22:54 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -150,7 +150,6 @@ _None right now._
 | [Apply](https://www.amazon.jobs/en/jobs/10499191/software-development-engineer-aws-bill-generation-fulfillment-tracking) | Amazon | Software Development Engineer, AWS Bill Generation Fulfillment Tracking | New York, New York, USA | ⚪ unclear | 2026-08-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10499192/software-development-engineer-aws-bill-generation) | Amazon | Software Development Engineer, AWS Bill Generation | New York, New York, USA | ⚪ unclear | 2026-08-11 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720307752) | Qualcomm | Data Scientist – CPSE Eng Ops (Opex Analytics & Automation) | San Diego, California, United States of America | ⚪ unclear | 2026-08-11 |
-| [Apply](https://morganstanley.eightfold.ai/careers/job/549799423962) | Morgan Stanley | Software Engineer - Backend | New York, New York, United States of America | ⚪ unclear | 2026-08-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10497777/software-development-engineer-ads-console-frameworks) | Amazon | Software Development Engineer, Ads Console Frameworks | New York, New York, USA | ⚪ unclear | 2026-08-10 |
 | [Apply](https://www.amazon.jobs/en/jobs/10498023/machine-learning-engineer-appstar-data-analytics-engineering) | Amazon | Machine Learning Engineer, AppStar Data Analytics & Engineering | New York, New York, USA | ⚪ unclear | 2026-08-10 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000138174539) | ServiceNow | Machine Learning Engineer, GAI Search Platform - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-07-16 |
@@ -299,12 +298,12 @@ _None right now._
 
 ## Summary
 
-- **Active jobs tracked:** 348
-- **Recommended (not disqualified):** 279
+- **Active jobs tracked:** 347
+- **Recommended (not disqualified):** 278
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 0, strong: 184, possible: 95, low priority: 0
+- Matches — excellent: 0, strong: 183, possible: 95, low priority: 0
 
 ## Source problems
 
