@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T15:01:22Z",
-  "count": 536,
+  "generated_at": "2026-08-18T20:51:45Z",
+  "count": 537,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -13893,6 +13893,45 @@
       "announced": true
     },
     {
+      "job_id": "amazon-10490566",
+      "source_job_id": "10490566",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Leo Payload",
+      "location": "Redmond, Washington, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Software Development",
+      "employment_type": "full-time",
+      "description": "Amazon Leo is Amazon’s low Earth orbit satellite network. Our mission is to deliver fast, reliable internet connectivity to customers beyond the reach of existing networks. From individual households to schools, hospitals, businesses, and government agencies, Amazon Leo will serve people and organizations operating in locations without reliable connectivity. Key job responsibilities In this role, you will drive the design, development, and operation of a variety of key functions such as Mode Management, telemetry, power control, and autonomous capabilities for each satellite throughout its lifetime – from launch to de-orbit. In this role, you will: Own unique software functions through design, implementation (in C, C++, RUST or other AWS technologies), test, and integration in Prod environment. Work closely with hardware teams for setup and verification, as well as integration and testing. Work on the Satellite Communication Systems Payload, Standard SDE position, embedded experience not required. Export Control Requirement: Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum. Key job responsibilities We are looking for a Software Development Engineer who wants to apply and grow their technical depth and breadth while defining and driving key aspects of Amazon Leo Payload Systems. If you are a self-motivated individual with a zeal for customer obsession and ownership, and you are looking to demonstrate your technical and functional skills - this is the team for you. About the team Our team tackles many critical satellite functions including Payload Mode management, command & telemetry, and autonomous control. We are looking for an software engineer to participate in all phases of software development from requirements through implementation and test to operations. - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, CA, Sunnyvale - 165,200.00 - 223,600.00 USD annually USA, WA, Redmond - 143,700.00 - 194,400.00 USD annually",
+      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language",
+      "application_url": "https://www.amazon.jobs/en/jobs/10490566/software-development-engineer-leo-payload",
+      "source_url": "https://www.amazon.jobs/en/jobs/10490566/software-development-engineer-leo-payload",
+      "source_type": "json",
+      "date_posted": "2026-08-03",
+      "first_seen": "2026-08-03T16:49:01Z",
+      "last_seen": "2026-08-18T03:18:48Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 65,
+      "sponsorship_classification": "ineligible",
+      "sponsorship_evidence": "Export Control Requirement: Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.",
+      "international_student_risk_flags": [
+        "must be a u.s. citizen",
+        "green card holder"
+      ],
+      "overall_score": 49,
+      "matched_keywords": [
+        "aws",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 23/35 (title matched filter terms; skills: aws) · graduation 8/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (Redmond, Washington, USA) · recency 8/10 (posted 15d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": true,
+      "disqualify_reason": "sponsorship classification 'ineligible': Export Control Requirement: Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.",
+      "consecutive_missing": 3,
+      "announced": false
+    },
+    {
       "job_id": "amazon-10490604",
       "source_job_id": "10490604",
       "company": "Amazon",
@@ -18021,6 +18060,51 @@
       "announced": false
     },
     {
+      "job_id": "microsoft-200047713",
+      "source_job_id": "200047713",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "United States, Multiple Locations, Multiple Locations",
+      "country": "United States",
+      "workplace_type": "onsite",
+      "department": "Software Engineering",
+      "employment_type": "Full-Time",
+      "description": "Overview Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Microsoft’s Azure Data engineering team is leading the transformation of analytics in the world of data with products like databases, data integration, big data analytics, messaging & real-time analytics, and business intelligence. The products our portfolio include Microsoft Fabric, Azure SQL DB, Azure Cosmos DB, Azure PostgreSQL, Azure Data Factory, Azure Synapse Analytics, Azure Service Bus, Azure Event Grid, and Power BI. Our mission is to build the data platform for the age of AI, powering a new class of data-first applications and driving a data culture. ​​The Databases organization delivers trusted, scalable operational AI ready databases that power application development across cloud, hybrid, and on premises environments. Our portfolio includes SQL, Azure Cosmos DB, DocumentDB, PostgreSQL, and MySQL, supporting developers as they build AI native applications and run critical workloads at global scale.​ ​​​​We are hiring a Software Development Engineer to join the Azure PostgreSQL team, where you will work on and drive innovations in one or more areas of a relational database engine such as query processing, transaction logging and recovery, versioning, IO subsystems, scale-out and Distributed systems. You will have the opportunity to contribute to open-source PostgreSQL and Linux, and\\or develop extensions. The group fosters a diverse and inclusive work culture that prioritizes people at all times. We spend our days collaborating with, teaching, and learning from a diverse set of talented engineers. We develop, test, and check code in every day. We do not just value differences or different perspectives. We seek them out and invite them in so we can tap into the collective power of everyone in the company. As a result, our customers are better served. Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond. Responsibilities Learns to use appropriate artificial intelligence (AI) tools and practices across the software development lifecycle (SDLC) in a disciplined manner. With guidance, creates and implements code for a product, service, or feature reusing code as applicable. Learns to review code and helps to review code of others to ensure it meets team standards. With managerial oversight, begins to test design options as assigned for a product/solution feature. Produce code to test hypotheses for technical solutions and assist with technical validation efforts. Learns about and helps to ensure the correct processes are followed to achieve a high degree of security, privacy, safety, and accessibility. Contributes to efforts to check for visible evidence (e.g., audit trail) to demonstrate compliance for product features. Learns about acting as a designated responsible individual (DRI) for monitoring a system/product feature/service for degradation, downtime, or interruptions for simple problems. Escalates issues to appropriate owners. Embody our culture and values . Qualifications Required/Minimum Qualifications: Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience. Other Requirements: Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter. Preferred Qualifications: ​ ​Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR Bachelor's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience. #azdat #azuredata #postgres #rdbms​ Software Engineering IC2 - The typical base pay range for this role across the U.S. is USD $85,400 - $168,100 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $111,100 - $183,700 per year. Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled. Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",
+      "requirements": "",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556959253",
+      "source_url": "https://apply.careers.microsoft.com/careers/job/1970393556959253",
+      "source_type": "eightfold",
+      "date_posted": "2026-08-13",
+      "first_seen": "2026-08-14T04:27:11Z",
+      "last_seen": "2026-08-18T03:18:48Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 100,
+      "sponsorship_classification": "ineligible",
+      "sponsorship_evidence": "ormation, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations",
+      "international_student_risk_flags": [
+        "itar"
+      ],
+      "overall_score": 63,
+      "matched_keywords": [
+        "ai",
+        "azure",
+        "c#",
+        "cloud",
+        "distributed systems",
+        "javascript",
+        "python",
+        "software engineer",
+        "sql"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 35/35 (primary role match (Software Engineer); skills: python, javascript, c#, sql, cloud, azure) · graduation 8/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (United States, Multiple Locations, Multi) · recency 10/10 (posted 5d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": true,
+      "disqualify_reason": "sponsorship classification 'ineligible': ormation, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or mil",
+      "consecutive_missing": 3,
+      "announced": false
+    },
+    {
       "job_id": "morgan-stanley-JR025652",
       "source_job_id": "JR025652",
       "company": "Morgan Stanley",
@@ -20963,49 +21047,6 @@
       "disqualify_reason": "",
       "consecutive_missing": 3,
       "announced": false
-    },
-    {
-      "job_id": "workday-JR-0107735",
-      "source_job_id": "JR-0107735",
-      "company": "Workday",
-      "title": "Software Development Engineer",
-      "location": "USA, CA, Pleasanton",
-      "country": "United States of America",
-      "workplace_type": "",
-      "department": "",
-      "employment_type": "Full Time",
-      "description": "Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the world around us. As a Fortune 500 company and a leading AI platform for managing people, money, and agents, we’re shaping the future of work so teams can reach their potential and focus on what matters most. The minute you join, you’ll feel it. Not just in the products we build, but in how we show up for each other. Our culture is rooted in integrity, empathy, and shared enthusiasm. We’re in this together, tackling big challenges with bold ideas and genuine care. We look for curious minds and courageous collaborators who bring sun-drenched optimism and drive. Whether you're building smarter solutions, supporting customers, or creating a space where everyone belongs, you’ll do meaningful work with Workmates who’ve got your back. In return, we’ll give you the trust to take risks, the tools to grow, the skills to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in Workday, and we hope to be a match for you too. About the Team The Developer Tooling team builds AI-powered tools that enable our users, an open ecosystem of external developers, to build on Workday products with greater speed and effectiveness. Our developer community includes admins with little to no previous development history all the way to professional developers that have been writing software for many years. To serve this dynamic user base, the Developer Tooling team provides an array of product offerings including a browser editing experience that includes low code and no code options, all the way to plugins for traditional Software IDEs and CLI tooling. In this team you will work closely with engineers, product managers, and other cross-functional peers to turn business goals into well-scoped, high-quality engineering work. Within our team we value a team first mentality, lifting each other up, and ensuring that we are delivering the product features that our customers will truly value. About the Role As a Full Stack Developer on the Developer Tooling team, you will help shape the tools that define how developers build on Workday. You will work across the stack — from React-based interfaces to Node.js backend services — delivering features for App Builder, the Workday CLI, and adjacent developer-facing products. Your work will directly impact how easily developers can adopt, extend, and build on the Workday platform. You will partner closely with peers, product owners, and designers to plan, build, test, and deliver high-quality software that helps our developer community succeed. This role is a strong fit for someone who enjoys full-stack ownership, takes pride in well-tested and maintainable code, and is energized by building tools that other developers rely on every day. In this role, you will: Act as a Directly Responsible Individual (DRI), driving ambiguous, complex problems from initial concept to production. You are comfortable defining success metrics, aligning stakeholders, and leading small, high-impact teams to deliver scalable solutions Contribute to and deliver new and existing features for App Builder, the CLI, and other developer tools, with a focus on scalability, performance, and a high-quality developer experience. Collaborate with peers, product owners, and designers to scope, plan, and ship features in an agile environment. Discover and troubleshoot issues within the existing architecture and codebase, identifying opportunities for improvement and keeping the platform healthy and forward-looking. Support developer-facing documentation, onboarding flows, and tooling improvements that make the platform easier to adopt and extend. Contribute to release planning by evaluating the effort, risk, and priority of planned features. Help improve team productivity by contributing to process improvements and engineering best practices About You Basic Qualifications 4+ years of professional experience building and supporting multi-tier or full stack web software 4+ years of deep proficiency in TypeScript/JavaScript, including mandatory experience with React 4+ years of experience in Node.js for backend service development 4+ years experience developing RESTful APIs and manage complex third-party API integrations Bachelor's degree in Computer Science, Engineering, or equivalent practical experience Other Qualifications Familiarity with large language model integration strategies, such as OpenAI-compatible APIs, data streaming, and tool/function calling, with an understanding of agentic architectures and the Model Context Protocol (MCP) as a producer or consumer. Experience engineering production-grade backend services, with the ability to implement real-time streaming (SSE/WebSockets) . Knowledge of Kotlin or Spring Boot is a plus. Proficiency in modern frontend technologies including React, HTML, and CSS, with experience using design systems and reusable component libraries to deliver consistent, high-quality developer-facing interfaces. Commitment to testing methodologies using frameworks such as Jest, React Testing Library, JUnit, Cypress, or similar, with the ability to author stable, reliable tests for asynchronous logic and complex interaction patterns. Experience with application observability, including error tracking (e.g., Sentry), metrics instrumentation, and product analytics, as well as familiarity with CI/CD workflows via GitHub Actions, Jenkins, or similar tools. Effective communication and collaboration skills, with experience working across teams on shared dependencies such as security and compliance reviews, and an appreciation for technical writing as a core team deliverable. ​ The following are advantageous but not required: Experience creating CLI tools using Node.js or Go. Experience with cloud development technologies and platforms (AWS, Kubernetes, Helm). Experience with design systems or component libraries. Hands-on experience with AI coding tools such as Cursor, Claude Code. Workday Pay Transparency Statement The annualized base salary ranges for the primary location and any additional locations are listed below. Workday pay ranges vary based on work location. As a part of the total compensation package, this role may be eligible for the Workday Bonus Plan or a role-specific commission/bonus, as well as annual refresh stock grants. Recruiters can share more detail during the hiring process. Each candidate’s compensation offer will be based on multiple factors including, but not limited to, geography, experience, skills, job duties, and business need, among other things. For more information regarding Workday’s comprehensive benefits, please click here . Primary Location: USA.CA.Pleasanton Primary Location Base Pay Range: $148,000 USD - $222,000 USD Additional US Location(s) Base Pay Range: $123,900 USD - $222,000 USD Our Approach to Flexible Work With Flex Work, we’re combining the best of both worlds: in-person time and remote. Our approach enables our teams to deepen connections, maintain a strong community, and do their best work. We know that flexibility can take shape in many ways, so rather than a number of required days in-office each week, we simply spend at least half (50%) of our time each quarter in the office or in the field with our customers, prospects, and partners (depending on role). This means you'll have the freedom to create a flexible schedule that caters to your business, team, and personal needs, while being intentional to make the most of time spent together. Those in our remote \"home office\" roles also have the opportunity to come together in our offices for important moments that matter. Pursuant to applicable Fair Chance law, Workday will consider for employment qualified applicants with arrest and conviction records. Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans. At Workday, we are committed to providing an accessible and inclusive hiring experience where all candidates can fully demonstrate their skills. If you require assistance or an accommodation at any point, please email accommodations@workday.com . Are you being referred to one of our roles? If so, ask your connection at Workday about our Employee Referral process! At Workday, we value our candidates’ privacy and data security. Workday will never ask candidates to apply to jobs through websites that are not Workday Careers. Please be aware of sites that may ask for you to input your data in connection with a job posting that appears to be from Workday but is not. In addition, Workday will never ask candidates to pay a recruiting fee, or pay for consulting or coaching services, in order to apply for a job at Workday.",
-      "requirements": "",
-      "application_url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0107735",
-      "source_url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0107735",
-      "source_type": "workday",
-      "date_posted": "2026-08-08",
-      "first_seen": "2026-08-07T21:12:31Z",
-      "last_seen": "2026-08-10T04:17:05Z",
-      "status": "closed",
-      "graduation_match": "unspecified",
-      "role_match_score": 100,
-      "sponsorship_classification": "unclear",
-      "sponsorship_evidence": "",
-      "international_student_risk_flags": [],
-      "overall_score": 74,
-      "matched_keywords": [
-        "ai",
-        "api",
-        "aws",
-        "backend",
-        "cloud",
-        "javascript",
-        "kubernetes",
-        "software development engineer",
-        "typescript"
-      ],
-      "excluded_keywords": [],
-      "score_explanation": "role 35/35 (title matched filter terms; skills: typescript, javascript, backend, api, cloud, aws) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (USA, CA, Pleasanton) · recency 10/10 (posted 2d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
-      "disqualified": false,
-      "disqualify_reason": "",
-      "consecutive_missing": 3,
-      "announced": true
     }
   ]
 }
