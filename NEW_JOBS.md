@@ -1,12 +1,13 @@
 # Newly Discovered Jobs
 
-_Found in the run at **2026-08-19 20:57 UTC** — auto-generated._
+_Found in the run at **2026-08-20 03:20 UTC** — auto-generated._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
 | Apply | Company | Title | Location | Sponsorship | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Apply](https://www.amazon.jobs/en/jobs/10507287/software-development-engineer-aws) | Amazon | Software Development Engineer, AWS | Seattle, Washington, USA | ⚪ unclear | 2026-08-19 |
-| [Apply](https://www.amazon.jobs/en/jobs/10507127/software-development-engineer-last-mile-delivery-automation-autonomous-vehicle) | Amazon | Software Development Engineer, Last Mile Delivery Automation, Autonomous Vehicle | Bellevue, Washington, USA | ⚪ unclear | 2026-08-19 |
-| [Apply](https://www.amazon.jobs/en/jobs/10507173/software-development-engineer-rds-platform) | Amazon | Software Development Engineer, RDS Platform | Austin, Texas, USA | ⚪ unclear | 2026-08-19 |
-| [Apply](https://careers.qualcomm.com/careers/job/446718710590) | Qualcomm | GPU Research Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-08-19 |
+| [Apply](https://www.amazon.jobs/en/jobs/10505672/software-development-engineer-personalization-amazon-personalization-customer-360) | Amazon | Software Development Engineer, Personalization, Amazon Personalization - Customer 360 | Seattle, Washington, USA | ⚪ unclear | 2026-08-18 |
+| [Apply](https://www.amazon.jobs/en/jobs/10507556/software-development-engineer-iam-security) | Amazon | Software Development Engineer, IAM Security | Austin, Texas, USA | ⚪ unclear | 2026-08-20 |
+| [Apply](https://www.amazon.jobs/en/jobs/10505669/software-development-engineer-personalization-amazon-personalization) | Amazon | Software Development Engineer, Personalization, Amazon Personalization | Seattle, Washington, USA | ⚪ unclear | 2026-08-18 |
+| [Apply](https://www.amazon.jobs/en/jobs/10505670/software-development-engineer-personalization-amazon-personalization) | Amazon | Software Development Engineer, Personalization, Amazon Personalization | Seattle, Washington, USA | ⚪ unclear | 2026-08-18 |
+| [Apply](https://www.amazon.jobs/en/jobs/10505671/software-development-engineer-personalization-amazon-personalization) | Amazon | Software Development Engineer, Personalization, Amazon Personalization | Seattle, Washington, USA | ⚪ unclear | 2026-08-18 |
