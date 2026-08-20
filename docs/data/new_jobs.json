@@ -1,49 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:04:56Z",
-  "count": 1,
-  "jobs": [
-    {
-      "job_id": "amazon-10507716",
-      "source_job_id": "10507716",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Sponsored Products and Brands",
-      "location": "Seattle, Washington, USA",
-      "country": "United States",
-      "workplace_type": "",
-      "department": "Software Development",
-      "employment_type": "full-time",
-      "description": "Redefine how ads become a personalized, inspiring part of the customer journey — applying Generative AI and Large Language Models to transform advertising experiences across Amazon's shopping surfaces at massive scale. This is a rare opportunity to shape the next chapter of advertising engineering on one of the highest-impact teams in Amazon Ads. The Off-Search team within Sponsored Products and Brands (SPB) builds delightful ad experiences across surfaces beyond Search — product detail pages, the homepage, and store-in-store pages. We deliver highly personalized, context-aware advertising that adapts to individual shopper preferences, scales across diverse page types, and integrates seamlessly with organic recommendations. We operate full stack — from backend ads-retail edge services, ad retrieval, and ad auctions to shopper-facing experiences — all designed to deliver meaningful value. You'll build hyper-scale online systems, offline data pipelines, and ML infrastructure to transform core areas like ad retrieval, ad allocation, whole-page relevance, and differentiated recommendations. Key job responsibilities - Apply Generative AI (GenAI) and Large Language Models (LLMs) to deliver more relevant, personalized ad and shopping experiences across Amazon surfaces - Design, develop, and operate large-scale distributed systems for Sponsored Products and Brands advertising - Build and optimize data pipelines and services that improve ad retrieval, allocation, whole-page relevance, and differentiated recommendations - Design globally scalable solutions that evolve in the right long-term direction while delivering iterative value to customers - Collaborate with applied scientists, product managers, and engineers to define and deliver customer-focused solutions end to end - Write high-quality, maintainable code and participate in design and code reviews - Drive operational excellence through monitoring, automation, and continuous improvement A day in the life You'll help build hyper-scale online systems, offline data pipelines, and machine learning infrastructure — leveraging GenAI and LLMs to transform how ads are retrieved, allocated, and experienced. You'll have the opportunity to redesign how ads contribute to a personalized, relevant, and inspirational shopping experience, with the customer value proposition at the forefront. About the team The Sponsored Products and Brands team at Amazon Ads is re-imagining the advertising landscape through industry leading generative AI technologies, revolutionizing how millions of customers discover products and engage with brands across Amazon.com and beyond. We are at the forefront of re-inventing advertising experiences, bridging human creativity with artificial intelligence to transform every aspect of the advertising lifecycle from ad creation and optimization to performance analysis and customer insights. We are a passionate group of innovators dedicated to developing responsible and intelligent AI technologies that balance the needs of advertisers, enhance the shopping experience, and strengthen the marketplace. If you're energized by solving complex challenges and pushing the boundaries of what's possible with AI, join us in shaping the future of advertising. - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - Experience in computer science fundamentals, including data structures, algorithms, and object-oriented design. - Experience building and operating scalable distributed systems or services. - Bachelor's degree in Computer Science, Engineering, Mathematics, or a related field - 5+ years of software development experience - Hands-on experience applying Generative AI (GenAI) or Large Language Model (LLM) to real-world problems at scale. - Experience in building machine learning systems, recommendation engines, or large-scale data pipelines. - Experience with AWS services or other cloud platforms. - Strong track record of delivering complex projects end-to-end. Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, CA, Palo Alto - 165,200.00 - 223,600.00 USD annually USA, NY, New York - 158,100.00 - 213,800.00 USD annually USA, WA, SEATTLE - 143,700.00 - 194,400.00 USD annually",
-      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - Experience in computer science fundamentals, including data structures, algorithms, and object-oriented design. - Experience building and operating scalable distributed systems or services.",
-      "application_url": "https://www.amazon.jobs/en/jobs/10507716/software-development-engineer-sponsored-products-and-brands",
-      "source_url": "https://www.amazon.jobs/en/jobs/10507716/software-development-engineer-sponsored-products-and-brands",
-      "source_type": "json",
-      "date_posted": "2026-08-20",
-      "first_seen": "2026-08-20T09:04:54Z",
-      "last_seen": "2026-08-20T09:04:54Z",
-      "status": "active",
-      "graduation_match": "unspecified",
-      "role_match_score": 100,
-      "sponsorship_classification": "unclear",
-      "sponsorship_evidence": "",
-      "international_student_risk_flags": [],
-      "overall_score": 74,
-      "matched_keywords": [
-        "ai",
-        "automation",
-        "aws",
-        "backend",
-        "cloud",
-        "distributed systems",
-        "llm",
-        "machine learning",
-        "software development engineer"
-      ],
-      "excluded_keywords": [],
-      "score_explanation": "role 35/35 (title matched filter terms; skills: backend, cloud, aws, llm, ai, automation) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Seattle, Washington, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
-      "disqualified": false,
-      "disqualify_reason": "",
-      "consecutive_missing": 0,
-      "announced": true
-    }
-  ]
+  "generated_at": "2026-08-20T15:04:32Z",
+  "count": 0,
+  "jobs": []
 }
