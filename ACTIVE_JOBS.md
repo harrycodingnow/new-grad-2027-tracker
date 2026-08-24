@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-24 09:13 UTC** (2026-08-24 17:13 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-24 15:10 UTC** (2026-08-24 23:10 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -312,7 +312,7 @@ _None right now._
 
 ## Summary
 
-- **Active jobs tracked:** 346
+- **Active jobs tracked:** 345
 - **Recommended (not disqualified):** 292
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
