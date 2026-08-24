@@ -1,45 +1,5 @@
 {
-  "generated_at": "2026-08-24T03:34:06Z",
-  "count": 1,
-  "jobs": [
-    {
-      "job_id": "amazon-10511665",
-      "source_job_id": "10511665",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Ads Console Frameworks",
-      "location": "New York, New York, USA",
-      "country": "United States",
-      "workplace_type": "",
-      "department": "Software Development",
-      "employment_type": "full-time",
-      "description": "We're building the platform that powers the Amazon Ads Console — the framework layer that drives development velocity, latency, and availability improvements for tens of product teams building advertising experiences. As the console transitions toward agentic, AI-driven workflows, we need a Senior SDE to lead the technical evolution of our platform and the new systems that will underpin this shift. The Ads Console Frameworks team owns Pantheon (the app framework powering the console's architecture), Argus (an agentic quality evaluation platform that autonomously walks advertiser workflows to detect regressions), Compass (a self-serve product analytics platform for the console), and the shared services and components that every Ads Console page depends on. Our systems serve as the foundation dozens of teams build on. This is not a heads-down coding role. You'll drive architectural decisions with broad ambiguity — designing how the console's frameworkS evolve to support agentic development patterns, defining how product analytics should work across 141 pages, and shaping platform contracts that other teams adopt. You'll need strong product instincts to understand advertiser workflows and form a point of view on where framework-level solutions unlock the most leverage, and either bring knowledge of the advertising business or the curiosity to develop it quickly. The role spans technically complex domains — from front-end framework architecture and module systems, through platform services targeting 99.99% availability under peak load, to AI agent orchestration, evaluation systems, and governed data pipelines. You'll also be expected to embrace and advance AI-native development practices, using AI tools and agentic coding techniques to accelerate how the team builds software. This is a horizontal team role: you set technical direction that other teams build on, define API contracts and integration patterns across organizational boundaries, and maintain platform quality as adoption scales rapidly. The right candidate has designed and built platform systems at scale, can operate independently in highly ambiguous problem spaces, has recent hands-on experience with AI-powered or agent-oriented systems, and brings product thinking to every technical decision. Key job responsibilities - Lead technical architecture and hands-on delivery across the full AI application stack — UI, services, agent infrastructure, orchestration, and evaluation — for the Ads Agent experience and integration framework used by dozens of partner teams. - Bring product thinking to every technical decision: develop deep understanding of advertiser workflows so architecture choices reflect how advertisers actually use the product. - Set architectural direction on a horizontal platform team: define integration patterns and API contracts that dozens of teams build on, lead design reviews, and maintain quality as adoption scales. - Establish and exemplify best practices for building AI applications (evaluation methodologies, quality guardrails, prompt engineering, orchestration patterns) and for AI-native development (using AI tools and agentic coding to accelerate the team's delivery). - Drive operational excellence and mentor engineers across the team. A day in the life You start the day reviewing agent quality metrics and system health across the stack. Mid-morning you're leading a design review for a new framework capability — asking sharp questions that blend technical depth with product thinking about advertiser workflows. After lunch you're writing high-leverage code: the interface for a new extension point that partner teams will build on. Later you join a cross-team architecture discussion on whether a new capability should be a skill or a separate agent, driving alignment by making tradeoffs concrete. You close the day refactoring a service that grew complex during prototyping — because on a horizontal team, accumulated complexity compounds with every partner. About the team We are a team of ~50 engineers building the experience layer for the Amazon Ads Agent and Console. We own the chat interface, advertiser-facing communications, and the frameworks that enable dozens of partner teams to integrate agent capabilities across the Ads Console. This is a horizontal team — our APIs, patterns, and quality bar ripple across the organization. We're at an inflection point on two fronts: the product we build is an AI agent, and our development workflow is shifting to AI-native practices using agentic coding. Both are core to how we operate. We value technical depth, product-minded engineering, fast iteration, and building over theorizing. - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 1+ years of Object Oriented Design experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, NY, New York - 158,100.00 - 213,800.00 USD annually",
-      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 1+ years of Object Oriented Design experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field",
-      "application_url": "https://www.amazon.jobs/en/jobs/10511665/software-development-engineer-ads-console-frameworks",
-      "source_url": "https://www.amazon.jobs/en/jobs/10511665/software-development-engineer-ads-console-frameworks",
-      "source_type": "json",
-      "date_posted": "2026-08-24",
-      "first_seen": "2026-08-24T03:34:04Z",
-      "last_seen": "2026-08-24T03:34:04Z",
-      "status": "active",
-      "graduation_match": "unspecified",
-      "role_match_score": 80,
-      "sponsorship_classification": "unclear",
-      "sponsorship_evidence": "",
-      "international_student_risk_flags": [],
-      "overall_score": 67,
-      "matched_keywords": [
-        "ai",
-        "api",
-        "c#",
-        "evaluation",
-        "software development engineer"
-      ],
-      "excluded_keywords": [],
-      "score_explanation": "role 28/35 (title matched filter terms; skills: c#, api, ai, evaluation) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (New York, New York, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
-      "disqualified": false,
-      "disqualify_reason": "",
-      "consecutive_missing": 0,
-      "announced": true
-    }
-  ]
+  "generated_at": "2026-08-24T09:13:43Z",
+  "count": 0,
+  "jobs": []
 }
