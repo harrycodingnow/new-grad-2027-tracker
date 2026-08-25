@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T21:01:23Z",
-  "count": 623,
+  "generated_at": "2026-08-25T03:22:27Z",
+  "count": 624,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -17924,6 +17924,43 @@
       "score_explanation": "role 26/35 (title matched filter terms; skills: python, cloud, automation) · graduation 8/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (Redmond, Washington, USA) · recency 10/10 (posted 1d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
       "disqualified": true,
       "disqualify_reason": "sponsorship classification 'ineligible': Export Control Requirement: Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.",
+      "consecutive_missing": 3,
+      "announced": false
+    },
+    {
+      "job_id": "amazon-10507556",
+      "source_job_id": "10507556",
+      "company": "Amazon",
+      "title": "Software Development Engineer, IAM Security",
+      "location": "Austin, Texas, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Software Development",
+      "employment_type": "full-time",
+      "description": "At Amazon, we are obsessed with customer trust. Information Security enables Amazon business leaders to securely develop and operate to maintain Customer Trust by guarding the confidentiality and integrity of Amazon and customer data. Our teams focus areas include: Enterprise Access risk reduction, access health best practices, managing preventive and detective access health controls. Our mission includes instilling awareness and controls to safeguard all customer and employee data, applications, services, and assets. To accomplish this, we unite with Amazon organizations to identify access risks and manage them pro-actively. This role is for a Software Development Engineer - Identity & Access Management (IAM) who will work on building and support products focused on creating and maintaining authentication and authorization posture of Amazon and its subsidiaries. It involves processing vast data sources, utilizing bleeding edge GenAI technologies to derive access patterns and presenting them to various stakeholders via a consolidated product layer. Key job responsibilities As a Software Development Engineer in the IAM space, you will work on the development of existing IAM products aimed at enhancing and optimizing the access risk posture. A day in the life Your day-to-day job responsibilities include: • Drive the design, implementation and deployment of efficient, products to deliver access risk lifecycle management capabilities. • Adopt an iterative, continuous improvement approach to release and deploy features. • Work in an agile environment, collaborate with peers on designs, technical refinements, code reviews, testing and customer issues. • Develop/ adopt testing frameworks and implement test plans to improve code quality, facilitate continuous delivery. • Build reusable code patterns including API’s, libraries, SDK’s etc. • Lead design reviews to ensure all software development efforts are tactically aligned. • Mentor fellow engineers and drive engineering excellence. About the team Diverse Experiences Amazon Security values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying. Why Amazon Security? At Amazon, security is central to maintaining customer trust and delivering delightful customer experiences. Our organization is responsible for creating and maintaining a high bar for security across all of Amazon’s products and services. We offer talented security professionals the chance to accelerate their careers with opportunities to build experience in a wide variety of areas including cloud, devices, retail, entertainment, healthcare, operations, and physical stores. Inclusive Team Culture In Amazon Security, it’s in our nature to learn and be curious. Ongoing DEI events and learning experiences inspire us to continue learning and to embrace our uniqueness. Addressing the toughest security challenges requires that we seek out and celebrate a diversity of ideas, perspectives, and voices. Training & Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, training, and other career-advancing resources here to help you develop into a better-rounded professional. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve. - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, TX, Austin - 143,700.00 - 194,400.00 USD annually",
+      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language",
+      "application_url": "https://www.amazon.jobs/en/jobs/10507556/software-development-engineer-iam-security",
+      "source_url": "https://www.amazon.jobs/en/jobs/10507556/software-development-engineer-iam-security",
+      "source_type": "json",
+      "date_posted": "2026-08-20",
+      "first_seen": "2026-08-20T03:20:47Z",
+      "last_seen": "2026-08-24T09:13:43Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 70,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 63,
+      "matched_keywords": [
+        "api",
+        "cloud",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 24/35 (title matched filter terms; skills: api, cloud) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Austin, Texas, USA) · recency 10/10 (posted 4d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
       "consecutive_missing": 3,
       "announced": false
     },
