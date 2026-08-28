@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-28 20:20 UTC** (2026-08-29 04:20 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-28 23:40 UTC** (2026-08-29 07:40 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -148,6 +148,7 @@ _None right now._
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534) | NVIDIA | ASIC Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-29 |
 | [Apply](https://jobs.ashbyhq.com/confluent/47920ccd-db54-4ed4-a865-70857e865fff/application) | Confluent | Distributed Systems Software Engineer - WarpStream | Remote, United States; Remote, Texas; Remote, North Carolin… | ⚪ unclear | 2026-07-21 |
 | [Apply](https://www.amazon.jobs/en/jobs/10520075/software-development-engineer-aws-route-53-global-resolver-aws-route-53-global-resolver) | Amazon | Software Development Engineer, AWS Route 53 Global Resolver, AWS Route 53 Global Resolver | Herndon, Virginia, USA | ⚪ unclear | 2026-08-28 |
+| [Apply](https://www.amazon.jobs/en/jobs/10520510/software-development-engineer-cloudwatch-agent-observability) | Amazon | Software Development Engineer, Cloudwatch Agent Observability | Santa Clara, California, USA | ⚪ unclear | 2026-08-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10517095/software-development-engineer-us-adc-security) | Amazon | Software Development Engineer, US ADC Security | Herndon, Virginia, USA | ⚪ unclear | 2026-08-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10517569/software-development-engineer-amazon-quick) | Amazon | Software Development Engineer, Amazon Quick | Santa Clara, California, USA | ⚪ unclear | 2026-08-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10517664/data-engineer-ring-agent-platforms) | Amazon | Data Engineer, Ring Agent Platforms | Hawthorne, California, USA | ⚪ unclear | 2026-08-27 |
@@ -209,7 +210,6 @@ _None right now._
 | [Apply](https://www.amazon.jobs/en/jobs/10501325/software-development-engineer-agentic-workspace) | Amazon | Software Development Engineer, Agentic Workspace | Seattle, Washington, USA | ⚪ unclear | 2026-08-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10501333/software-development-engineer-agentic-workspaces) | Amazon | Software Development Engineer, Agentic WorkSpaces | Seattle, Washington, USA | ⚪ unclear | 2026-08-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10501454/software-engineer-ai-ml-amazon-neuron-training) | Amazon | Software Engineer- AI/ML, Amazon Neuron Training | Seattle, Washington, USA | ⚪ unclear | 2026-08-13 |
-| [Apply](https://www.amazon.jobs/en/jobs/10499373/software-development-engineer-internet-edge-engineering) | Amazon | Software Development Engineer, Internet Edge Engineering | Seattle, Washington, USA | ⚪ unclear | 2026-08-12 |
 | [Apply](https://www.amazon.jobs/en/jobs/10500157/software-development-engineer-amazon-route-53-route-53-resolver-firewall-profiles) | Amazon | Software Development Engineer, Amazon Route 53, Route 53 Resolver Firewall & Profiles | Arlington, Virginia, USA | ⚪ unclear | 2026-08-12 |
 | [Apply](https://www.amazon.jobs/en/jobs/10499191/software-development-engineer-aws-bill-generation-fulfillment-tracking) | Amazon | Software Development Engineer, AWS Bill Generation Fulfillment Tracking | New York, New York, USA | ⚪ unclear | 2026-08-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10499192/software-development-engineer-aws-bill-generation) | Amazon | Software Development Engineer, AWS Bill Generation | New York, New York, USA | ⚪ unclear | 2026-08-11 |
@@ -249,7 +249,6 @@ _None right now._
 | [Apply](https://www.amazon.jobs/en/jobs/10499845/software-development-engineer-elastic-block-store-ebs-aws-l5-ebs-stats) | Amazon | Software Development Engineer, Elastic Block Store (EBS), AWS (L5), EBS Stats | Seattle, Washington, USA | ⚪ unclear | 2026-08-12 |
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8120240) | DRW | Systems Software Engineer | Chicago | ⚪ unclear | 2026-08-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10488378/data-engineer-cxi-ois-analytics-ops-tech-solution-network-dev) | Amazon | Data Engineer , CXI/OIS Analytics , Ops Tech Solution Network Dev | Austin, Texas, USA | ⚪ unclear | 2026-07-30 |
-| [Apply](https://www.amazon.jobs/en/jobs/10486922/data-engineer-pv-prime-video-tv-tech) | Amazon | Data Engineer, PV Prime Video TV - Tech | Seattle, Washington, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R168026) | Adobe | Software Development Engineer | San Jose | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10481445/data-engineer-decision-intelligence-technology) | Amazon | Data Engineer, Decision Intelligence Technology | Bellevue, Washington, USA | ⚪ unclear | 2026-07-22 |
 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002) | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | Remote - United Kingdom | ⚪ unclear | 2026-07-12 |
@@ -314,6 +313,7 @@ _None right now._
 | [Apply](https://www.janestreet.com/join-jane-street/position/8555588002/) | Jane Street | MacOS Software Engineer | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8599644002/) | Jane Street | Software Engineer | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8611307002/) | Jane Street | Machine Learning Engineer | NYC | ⚪ unclear | — |
+| [Apply](https://careers.lamresearch.com/careers/job/1099554700542) | Lam Research | Computational Software Engineer 5 | US-CA-Fremont (1003) | ⚪ unclear | 2026-07-16 |
 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002) | Databricks | Software Engineer, Web Products | Mountain View, California | ⚪ unclear | 2026-07-15 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7972584) | Hudson River Trading | AI Research Engineer, Pre-Training | London, United Kingdom; New York, NY, United States | ⚪ unclear | 2026-06-01 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7972593) | Hudson River Trading | AI Research Engineer, Inference | London, United Kingdom; New York, NY, United States | ⚪ unclear | 2026-06-01 |
@@ -329,7 +329,7 @@ _None right now._
 
 ## Summary
 
-- **Active jobs tracked:** 376
+- **Active jobs tracked:** 380
 - **Recommended (not disqualified):** 309
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
