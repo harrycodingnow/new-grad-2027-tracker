@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-29 17:51 UTC** (2026-08-30 01:51 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-29 22:48 UTC** (2026-08-30 06:48 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -40,6 +40,7 @@ _None right now._
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1) | NVIDIA | Research Scientist, Human‑AI Perception and Interaction Research - PhD New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-30 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) | NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-07-30 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1) | NVIDIA | Software Quality Assurance Engineer - 2026 New College Grad | US, CA, Santa Clara | ⚪ unclear | 2026-07-30 |
+| [Apply](https://www.amazon.jobs/en/jobs/10521258/data-engineer-pxt-central-science) | Amazon | Data Engineer, PXT Central Science | Arlington, Virginia, USA | ⚪ unclear | 2026-08-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10520050/software-development-engineer-route-53) | Amazon | Software Development Engineer, Route 53 | Herndon, Virginia, USA | ⚪ unclear | 2026-08-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10517433/software-development-engineer-last-mile-delivery-automation-autonomous-vehicle) | Amazon | Software Development Engineer, Last Mile Delivery Automation, Autonomous Vehicle | Bellevue, Washington, USA | ⚪ unclear | 2026-08-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10517671/software-development-engineer-project-dawn) | Amazon | Software Development Engineer ,  Project Dawn | Seattle, Washington, USA | ⚪ unclear | 2026-08-27 |
@@ -198,10 +199,7 @@ _None right now._
 | [Apply](https://www.amazon.jobs/en/jobs/10500766/software-development-engineer-strada) | Amazon | Software Development Engineer, STRADA | Minneapolis, Minnesota, USA | ⚪ unclear | 2026-08-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10500767/software-development-engineer-strada) | Amazon | Software Development Engineer, STRADA | Minneapolis, Minnesota, USA | ⚪ unclear | 2026-08-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10501325/software-development-engineer-agentic-workspace) | Amazon | Software Development Engineer, Agentic Workspace | Seattle, Washington, USA | ⚪ unclear | 2026-08-13 |
-| [Apply](https://www.amazon.jobs/en/jobs/10501333/software-development-engineer-agentic-workspaces) | Amazon | Software Development Engineer, Agentic WorkSpaces | Seattle, Washington, USA | ⚪ unclear | 2026-08-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10501454/software-engineer-ai-ml-amazon-neuron-training) | Amazon | Software Engineer- AI/ML, Amazon Neuron Training | Seattle, Washington, USA | ⚪ unclear | 2026-08-13 |
-| [Apply](https://www.amazon.jobs/en/jobs/10500157/software-development-engineer-amazon-route-53-route-53-resolver-firewall-profiles) | Amazon | Software Development Engineer, Amazon Route 53, Route 53 Resolver Firewall & Profiles | Arlington, Virginia, USA | ⚪ unclear | 2026-08-12 |
-| [Apply](https://www.amazon.jobs/en/jobs/10499192/software-development-engineer-aws-bill-generation) | Amazon | Software Development Engineer, AWS Bill Generation | New York, New York, USA | ⚪ unclear | 2026-08-11 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720307752) | Qualcomm | Data Scientist – CPSE Eng Ops (Opex Analytics & Automation) | San Diego, California, United States of America | ⚪ unclear | 2026-08-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10498023/machine-learning-engineer-appstar-data-analytics-engineering) | Amazon | Machine Learning Engineer, AppStar Data Analytics & Engineering | New York, New York, USA | ⚪ unclear | 2026-08-10 |
 | [Apply](https://www.amazon.jobs/en/jobs/10490554/software-development-engineer-data-analytics-integration-ai-and-platform-excellence) | Amazon | Software Development Engineer, Data Analytics Integration AI and Platform Excellence | New York, New York, USA | ⚪ unclear | 2026-08-03 |
@@ -216,7 +214,6 @@ _None right now._
 | --- | --- | --- | --- | --- | --- |
 | [Apply](https://careers.qualcomm.com/careers/job/446718710590) | Qualcomm | GPU Research Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-08-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10504994/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-08-18 |
-| [Apply](https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments) | Amazon | Software Engineer I, Payments | San Francisco, California, USA | ⚪ unclear | 2026-08-14 |
 | [Apply](https://www.amazon.jobs/en/jobs/10495750/data-engineer-aws-infrastructure-supply-chain-intelligence) | Amazon | Data Engineer , AWS Infrastructure Supply Chain Intelligence | Bellevue, Washington, USA | ⚪ unclear | 2026-08-07 |
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8103460) | DRW | Software Engineer - APEX | Chicago | ⚪ unclear | 2026-08-07 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720282038) | Qualcomm | #Software Engineer - Edge AI/Gen AI | San Diego, California, United States of America | ⚪ unclear | 2026-08-05 |
@@ -285,6 +282,7 @@ _None right now._
 | [Apply](https://www.janestreet.com/join-jane-street/position/8345570002/) | Jane Street | Campus Recruiter, Technology | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8448713002/) | Jane Street | Campus Recruiter, Early Careers Partnerships & Initiatives | NYC | ⚪ unclear | — |
 | [Apply](https://careers.qualcomm.com/careers/job/446717343573) | Qualcomm | DevOps Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-08-12 |
+| [Apply](https://careers.qualcomm.com/careers/job/446718593091) | Qualcomm | CPU Performance Research Engineer | Santa Clara, California, United States of America | ⚪ unclear | 2026-07-30 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000138178124) | ServiceNow | Machine Learning Engineer, GAI Search Relevance - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-07-16 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/4274288002/) | Jane Street | Software Engineer | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/6558007002/) | Jane Street | Data Engineer | NYC | ⚪ unclear | — |
@@ -317,12 +315,12 @@ _None right now._
 
 ## Summary
 
-- **Active jobs tracked:** 364
-- **Recommended (not disqualified):** 297
+- **Active jobs tracked:** 362
+- **Recommended (not disqualified):** 295
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 0, strong: 197, possible: 100, low priority: 0
+- Matches — excellent: 0, strong: 195, possible: 100, low priority: 0
 
 ## Source problems
 

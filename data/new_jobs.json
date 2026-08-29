@@ -1,5 +1,48 @@
 {
-  "generated_at": "2026-08-29T17:51:43Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-08-29T22:48:37Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "amazon-10521258",
+      "source_job_id": "10521258",
+      "company": "Amazon",
+      "title": "Data Engineer, PXT Central Science",
+      "location": "Arlington, Virginia, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Data Science",
+      "employment_type": "full-time",
+      "description": "Amazon's People Experience and Technology Central Science (PXTCS) team uses economics, behavioral science, statistics, machine learning, and Generative AI to proactively identify mechanisms and process improvements that simultaneously improve Amazon and the lives, well-being, and value of work for Amazonians. PXTCS is an interdisciplinary team that combines the talents of science, engineering, and UX to build and deliver solutions that measurably achieve this goal — at a scale that touches over 1.5 million Amazonians worldwide. As a Data Engineer on PXTCS, you'll work side by side with economists, data scientists, software engineers, and applied scientists turning leading-edge ML and Generative AI models into reliable, scalable production systems. This is a rare chance to see your code directly shape how Amazon supports its workforce, spanning areas like benefits, compensation, recruiting, voice of employee, management practices, and organizational culture. We offer opportunities for builders to build and make history! Key job responsibilities PXTCS is looking for a data engineer with expertise in complex data environments. You will be responsible for enhancing our existing data architecture to further standardize metrics and definitions, building and testing new features, developing end-to-end data engineering solutions for complex analytical problems, and collaborating with economists, data scientists, and software engineers to translate data into actionable insights. Specific responsibilities include: • Data Pipeline Development: Design and maintain scalable data pipelines using native AWS services (Glue, EMR, Lambda); build monitoring and error handling for data workflows; optimize performance, reliability, and cost efficiency • Model Productionization & API Development: Develop and maintain APIs and data serving layers that productionize science models for downstream consumption; build batch and real-time inference pipelines • Data Integration & Quality: Build scalable feature extraction and processing frameworks for diverse data types; develop robust data quality and validation checks; create flexible schemas supporting evolving requirements • Cross-team Collaboration: Partner with economics, data science, and software engineering teams to translate analytical requirements into production-ready solutions; participate in technical design reviews and architecture discussions • Analytics & Infrastructure: Maintain layered data systems used by economists and scientists; build automated reporting solutions; work across multiple interconnected AWS accounts with security best practices About the team PXTCS combines economics, behavioral science, statistics, and machine learning to proactively identify mechanisms and process improvements that improve both Amazon's operations and the experience of every Amazonian. Its engineering teams take science-driven insights and models — spanning areas like benefits, compensation, recruiting, voice of employee, management practices, and organizational culture — and turn them into production systems operating at Amazon's scale. PXTCS is an interdisciplinary group where engineering, applied science, and product work side-by-side, and where this team's output directly shapes how Amazon supports its workforce. - Knowledge of professional software engineering & best practices for full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence - 3+ years of data engineering experience - Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS - Experience with data modeling, warehousing and building ETL pipelines - Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions - Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases) - Experience with big data technologies such as: Hadoop, Hive, Spark, EMR Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, CA, San Francisco - 152,000.00 - 205,600.00 USD annually USA, VA, Arlington - 132,100.00 - 178,800.00 USD annually USA, WA, Bellevue - 132,100.00 - 178,800.00 USD annually USA, WA, Seattle - 132,100.00 - 178,800.00 USD annually",
+      "requirements": "- Knowledge of professional software engineering & best practices for full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence - 3+ years of data engineering experience - Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS - Experience with data modeling, warehousing and building ETL pipelines - Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions - Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases)",
+      "application_url": "https://www.amazon.jobs/en/jobs/10521258/data-engineer-pxt-central-science",
+      "source_url": "https://www.amazon.jobs/en/jobs/10521258/data-engineer-pxt-central-science",
+      "source_type": "json",
+      "date_posted": "2026-08-29",
+      "first_seen": "2026-08-29T22:48:35Z",
+      "last_seen": "2026-08-29T22:48:35Z",
+      "status": "active",
+      "graduation_match": "unspecified",
+      "role_match_score": 95,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 72,
+      "matched_keywords": [
+        "ai",
+        "api",
+        "aws",
+        "data engineer",
+        "data pipeline",
+        "etl",
+        "machine learning",
+        "python"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 33/35 (primary role match (Data Engineer); skills: python, api, aws, ai, data pipeline, etl) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Arlington, Virginia, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 0,
+      "announced": true
+    }
+  ]
 }
