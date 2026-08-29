@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-29 09:17 UTC** (2026-08-29 17:17 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-29 13:58 UTC** (2026-08-29 21:58 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -285,7 +285,6 @@ _None right now._
 | [Apply](https://www.janestreet.com/join-jane-street/position/8345570002/) | Jane Street | Campus Recruiter, Technology | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8448713002/) | Jane Street | Campus Recruiter, Early Careers Partnerships & Initiatives | NYC | ⚪ unclear | — |
 | [Apply](https://careers.qualcomm.com/careers/job/446717343573) | Qualcomm | DevOps Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-08-12 |
-| [Apply](https://careers.qualcomm.com/careers/job/446718593091) | Qualcomm | CPU Performance Research Engineer | Santa Clara, California, United States of America | ⚪ unclear | 2026-07-30 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000138178124) | ServiceNow | Machine Learning Engineer, GAI Search Relevance - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-07-16 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/4274288002/) | Jane Street | Software Engineer | NYC | ⚪ unclear | — |
 | [Apply](https://www.janestreet.com/join-jane-street/position/6558007002/) | Jane Street | Data Engineer | NYC | ⚪ unclear | — |
@@ -318,12 +317,12 @@ _None right now._
 
 ## Summary
 
-- **Active jobs tracked:** 367
-- **Recommended (not disqualified):** 298
+- **Active jobs tracked:** 366
+- **Recommended (not disqualified):** 297
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 0, strong: 197, possible: 101, low priority: 0
+- Matches — excellent: 0, strong: 197, possible: 100, low priority: 0
 
 ## Source problems
 
