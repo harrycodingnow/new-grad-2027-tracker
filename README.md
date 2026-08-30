@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-30 08:30 UTC** (2026-08-30 16:30 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-30 13:56 UTC** (2026-08-30 21:56 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -133,6 +133,7 @@ _None right now._
 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002) | Databricks | AI Engineer — GTM Analytics | United States | ⚪ unclear | 2026-07-30 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) | Hudson River Trading | Software Engineer (C++ or Python) – 2027 Grads | Austin, TX, United States; Chicago, Illinois, United States… | ⚪ unclear | 2026-07-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10509125/software-development-engineer-ring-blink-software) | Amazon | Software Development Engineer,  Ring & Blink Software | North Reading, Massachusetts, USA | ⚪ unclear | 2026-08-20 |
+| [Apply](https://www.amazon.jobs/en/jobs/10506446/software-development-engineer-ies-srdex) | Amazon | Software Development Engineer, IES SRDEX | Bellevue, Washington, USA | ⚪ unclear | 2026-08-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10505927/software-development-engineer-ads-ai-core-infra-aci) | Amazon | Software Development Engineer, Ads AI Core Infra (ACI) | Seattle, Washington, USA | ⚪ unclear | 2026-08-18 |
 | [Apply](https://www.amazon.jobs/en/jobs/10504029/software-development-engineer-aws-opensearch-service) | Amazon | Software Development Engineer, AWS OpenSearch Service | Austin, Texas, USA | ⚪ unclear | 2026-08-17 |
 | [Apply](https://www.amazon.jobs/en/jobs/10496112/data-engineer-i-sales-data-services-sds) | Amazon | Data Engineer I, Sales Data Services (SDS) | New York, New York, USA | ⚪ unclear | 2026-08-07 |
@@ -314,12 +315,12 @@ _None right now._
 
 ## Summary
 
-- **Active jobs tracked:** 361
-- **Recommended (not disqualified):** 294
+- **Active jobs tracked:** 362
+- **Recommended (not disqualified):** 295
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 0, strong: 192, possible: 102, low priority: 0
+- Matches — excellent: 0, strong: 193, possible: 102, low priority: 0
 
 ## Source problems
 
