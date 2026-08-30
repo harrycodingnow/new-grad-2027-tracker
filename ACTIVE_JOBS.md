@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-08-30 18:11 UTC** (2026-08-31 02:11 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-08-30 22:57 UTC** (2026-08-31 06:57 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -153,7 +153,6 @@ _None right now._
 | [Apply](https://www.amazon.jobs/en/jobs/10513797/software-development-engineer-amazon-selling-partners) | Amazon | Software Development Engineer, Amazon - Selling Partners | Seattle, Washington, USA | ⚪ unclear | 2026-08-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10513808/software-development-engineer-conversational-ads-experience) | Amazon | Software Development Engineer, Conversational Ads Experience | Seattle, Washington, USA | ⚪ unclear | 2026-08-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10511665/software-development-engineer-ads-console-frameworks) | Amazon | Software Development Engineer, Ads Console Frameworks | New York, New York, USA | ⚪ unclear | 2026-08-24 |
-| [Apply](https://www.amazon.jobs/en/jobs/10512945/software-development-engineer-conversational-ads-experience) | Amazon | Software Development Engineer, Conversational Ads Experience | New York, New York, USA | ⚪ unclear | 2026-08-24 |
 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-Graduate--Community-College----Technician_JR109167) | Micron | New Graduate (Community College) - Technician | Boise, ID - ID1 | ⚪ unclear | 2026-08-21 |
 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594) | Micron | New College Grad - AI Innovation Research Engineer | San Jose, CA | ⚪ unclear | 2026-08-14 |
 | [Apply](https://www.amazon.jobs/en/jobs/10501317/software-development-engineer-agentic-workspaces) | Amazon | Software Development Engineer, Agentic Workspaces | Seattle, Washington, USA | ⚪ unclear | 2026-08-13 |
@@ -314,12 +313,12 @@ _None right now._
 
 ## Summary
 
-- **Active jobs tracked:** 361
-- **Recommended (not disqualified):** 294
+- **Active jobs tracked:** 360
+- **Recommended (not disqualified):** 293
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 0, strong: 193, possible: 101, low priority: 0
+- Matches — excellent: 0, strong: 192, possible: 101, low priority: 0
 
 ## Source problems
 
