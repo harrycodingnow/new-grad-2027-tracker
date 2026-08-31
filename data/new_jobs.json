@@ -1,5 +1,45 @@
 {
-  "generated_at": "2026-08-31T08:50:38Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-08-31T16:18:20Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "amazon-10522049",
+      "source_job_id": "10522049",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Cryptography and Identity Management",
+      "location": "Seattle, Washington, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Operations, IT, & Support Engineering",
+      "employment_type": "full-time",
+      "description": "We are currently looking for a Software Development Engineer to join our systems organization. You love to work with internal and external customers to execute projects and resolve issues. You are a believer in the dev-ops model of service engineering, and you are excited to run operations in an environment where developers don’t toss problems over the wall. You are happiest when you are working with empowered, world-class engineers to meet world-class challenges. Finally, with your strong ownership bias, you have an infectious desire to continually improve how things are done. AWS Cryptography and Identity are building and delivering the next generation of cloud computing security. We are innovating new ways of building massively scalable distributed security systems involving identity management, federation, web services security, and much more. We enable our customers to control some of the most sensitive secrets on the Internet. In this role, you will join a team of highly talented engineers operating Cryptography and Identity systems. This is a great opportunity to have direct impact to some of the largest-scaled systems in the world and work with some of the smartest people in the industry, while having a huge impact. A successful systems development engineer joining the team will do much more than write code and triage problems. You will work with Amazon's largest and most demanding customers to address specific needs across a full suite of services. You will dive deep into technical issues and work diligently to improve the customer experience. This is an excellent opportunity to join Amazon's world class technical team in Seattle. You will work with some of the best and brightest engineers and technical managers while also developing your skills and furthering your career within one of the most innovative and progressive technology companies anywhere. Working together on behalf of our customers, we are building the future one innovative product, service, and idea at a time. Are you ready to embrace the challenge? Come build the future with us. The candidate selected must obtain and maintain a security clearance at the TS/SCI with polygraph level. Upon start, the selected candidate will be sponsored for a commensurate clearance for each government agency for which they perform AWS work. About the team Why AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. AWS Infrastructure Services (AIS) AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help. Inclusive Team Culture Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences, inspire us to never stop embracing our uniqueness. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud. Mentorship and Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional. Diverse Experiences Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying. - Bachelor's degree, or CSSLP (Certified Secure Software Lifecycle Professional) - 5+ years of non-internship professional software development experience - 5+ years of programming with at least one software programming language experience - 5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience as a mentor, tech lead or leading an engineering team - 5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, WA, Seattle - 168,100.00 - 227,400.00 USD annually",
+      "requirements": "- Bachelor's degree, or CSSLP (Certified Secure Software Lifecycle Professional) - 5+ years of non-internship professional software development experience - 5+ years of programming with at least one software programming language experience - 5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience as a mentor, tech lead or leading an engineering team",
+      "application_url": "https://www.amazon.jobs/en/jobs/10522049/software-development-engineer-cryptography-and-identity-management",
+      "source_url": "https://www.amazon.jobs/en/jobs/10522049/software-development-engineer-cryptography-and-identity-management",
+      "source_type": "json",
+      "date_posted": "2026-08-31",
+      "first_seen": "2026-08-31T16:18:20Z",
+      "last_seen": "2026-08-31T16:18:20Z",
+      "status": "active",
+      "graduation_match": "unspecified",
+      "role_match_score": 70,
+      "sponsorship_classification": "ineligible",
+      "sponsorship_evidence": "The candidate selected must obtain and maintain a security clearance at the TS/SCI with polygraph level.",
+      "international_student_risk_flags": [
+        "ts/sci"
+      ],
+      "overall_score": 52,
+      "matched_keywords": [
+        "aws",
+        "cloud",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 24/35 (title matched filter terms; skills: cloud, aws) · graduation 8/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (Seattle, Washington, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": true,
+      "disqualify_reason": "sponsorship classification 'ineligible': The candidate selected must obtain and maintain a security clearance at the TS/SCI with polygraph level.",
+      "consecutive_missing": 0,
+      "announced": false
+    }
+  ]
 }
