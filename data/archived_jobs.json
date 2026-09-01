@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T13:38:43Z",
+  "generated_at": "2026-09-01T17:57:59Z",
   "count": 725,
   "jobs": [
     {
@@ -20124,6 +20124,46 @@
       "announced": false
     },
     {
+      "job_id": "amazon-10509125",
+      "source_job_id": "10509125",
+      "company": "Amazon",
+      "title": "Software Development Engineer,  Ring & Blink Software",
+      "location": "North Reading, Massachusetts, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Software Development",
+      "employment_type": "full-time",
+      "description": "Ring is looking for an experienced Software Development Engineer to join our growing Cloud Development Team. Ring has a mission to make neighborhoods safer. With affordable solutions that work on any home, Ring is committed to offering smart security that’s accessible to everyone. Ring is part of the Amazon Devices family, and we are seeking Software Development Engineers who will help us create the next generation of home security. What will you help us create? As a Software Development Engineer at Ring, you will be responsible for business critical large-scale cloud services that will be used by millions of Ring customers. This position gives you the opportunity to work with world class engineers and to build cloud systems to support millions of devices. The role will entail development of new cloud services for innovative new capabilities on Ring security devices and continuing development of the Ring infrastructure within the larger Amazon ecosystem. You will work with streaming video, event handling, large scale deployments and high-performance computing, as well as solve distributed systems problems. This position involves design, architecture, development and operations of large-scale cloud systems. We are looking for a talented Software Development Engineer with a strong technical background, customer obsession, and extensive experience building distributed systems. Strong judgment and communication skills, long-term technical vision, and continuous focus on engineering and operational excellence are essential for success. About Ring Ring's mission is to make neighborhoods safer by creating a Ring of Security around homes and communities with its suite of home security products and services. The Ring product line, along with the Ring Neighbors app, enable Ring to offer affordable, complete, proactive home and neighborhood security in a way no other company has before. In fact, two Newark, NJ neighborhoods saw an over 50 percent decrease in home break-ins after Ring Video Doorbells and Spotlight Cams were installed on 11% of homes in the communities from April-July 2018 when compared to the same time period in 2017. Ring is an Amazon company. For more information, visit www.ring.com. With Ring, you’re always home. Key job responsibilities • Design and document distributed systems and microservices. • Implement robust and maintainable code with clear and maintained documentation. • Deliver customer value in iterative fashion while working towards longer term systems to solve roadmap goals with increasing efficiency. • Communicate status and changes to the work they are responsible and accountable for, keep all stakeholders informed of changes and updates to original plan. • Implement test automation on all code implemented through unit testing and integration testing. • Working with internal and external teams to bring Ring technology to market • Maintenance and enhancement of software frameworks for development - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 1+ years of Object Oriented Design experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field - Experience programming with at least one software programming language - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, MA, North Reading - 143,700.00 - 194,400.00 USD annually",
+      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 1+ years of Object Oriented Design experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field - Experience programming with at least one software programming language",
+      "application_url": "https://www.amazon.jobs/en/jobs/10509125/software-development-engineer-ring-blink-software",
+      "source_url": "https://www.amazon.jobs/en/jobs/10509125/software-development-engineer-ring-blink-software",
+      "source_type": "json",
+      "date_posted": "2026-08-20",
+      "first_seen": "2026-08-20T20:58:58Z",
+      "last_seen": "2026-09-01T00:03:50Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 85,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 68,
+      "matched_keywords": [
+        "automation",
+        "c#",
+        "cloud",
+        "distributed systems",
+        "microservices",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 30/35 (title matched filter terms; skills: c#, cloud, automation, distributed systems, microservices) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (North Reading, Massachusetts, USA) · recency 9/10 (posted 12d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 3,
+      "announced": true
+    },
+    {
       "job_id": "amazon-10509638",
       "source_job_id": "10509638",
       "company": "Amazon",
@@ -28462,49 +28502,6 @@
       "disqualify_reason": "",
       "consecutive_missing": 3,
       "announced": false
-    },
-    {
-      "job_id": "workday-JR-0107735",
-      "source_job_id": "JR-0107735",
-      "company": "Workday",
-      "title": "Software Development Engineer",
-      "location": "USA, CA, Pleasanton",
-      "country": "United States of America",
-      "workplace_type": "",
-      "department": "",
-      "employment_type": "Full Time",
-      "description": "Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the world around us. As a Fortune 500 company and a leading AI platform for managing people, money, and agents, we’re shaping the future of work so teams can reach their potential and focus on what matters most. The minute you join, you’ll feel it. Not just in the products we build, but in how we show up for each other. Our culture is rooted in integrity, empathy, and shared enthusiasm. We’re in this together, tackling big challenges with bold ideas and genuine care. We look for curious minds and courageous collaborators who bring sun-drenched optimism and drive. Whether you're building smarter solutions, supporting customers, or creating a space where everyone belongs, you’ll do meaningful work with Workmates who’ve got your back. In return, we’ll give you the trust to take risks, the tools to grow, the skills to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in Workday, and we hope to be a match for you too. About the Team The Developer Tooling team builds AI-powered tools that enable our users, an open ecosystem of external developers, to build on Workday products with greater speed and effectiveness. Our developer community includes admins with little to no previous development history all the way to professional developers that have been writing software for many years. To serve this dynamic user base, the Developer Tooling team provides an array of product offerings including a browser editing experience that includes low code and no code options, all the way to plugins for traditional Software IDEs and CLI tooling. In this team you will work closely with engineers, product managers, and other cross-functional peers to turn business goals into well-scoped, high-quality engineering work. Within our team we value a team first mentality, lifting each other up, and ensuring that we are delivering the product features that our customers will truly value. About the Role As a Full Stack Developer on the Developer Tooling team, you will help shape the tools that define how developers build on Workday. You will work across the stack — from React-based interfaces to Node.js backend services — delivering features for App Builder, the Workday CLI, and adjacent developer-facing products. Your work will directly impact how easily developers can adopt, extend, and build on the Workday platform. You will partner closely with peers, product owners, and designers to plan, build, test, and deliver high-quality software that helps our developer community succeed. This role is a strong fit for someone who enjoys full-stack ownership, takes pride in well-tested and maintainable code, and is energized by building tools that other developers rely on every day. In this role, you will: Act as a Directly Responsible Individual (DRI), driving ambiguous, complex problems from initial concept to production. You are comfortable defining success metrics, aligning stakeholders, and leading small, high-impact teams to deliver scalable solutions Contribute to and deliver new and existing features for App Builder, the CLI, and other developer tools, with a focus on scalability, performance, and a high-quality developer experience. Collaborate with peers, product owners, and designers to scope, plan, and ship features in an agile environment. Discover and troubleshoot issues within the existing architecture and codebase, identifying opportunities for improvement and keeping the platform healthy and forward-looking. Support developer-facing documentation, onboarding flows, and tooling improvements that make the platform easier to adopt and extend. Contribute to release planning by evaluating the effort, risk, and priority of planned features. Help improve team productivity by contributing to process improvements and engineering best practices About You Basic Qualifications 4+ years of professional experience building and supporting multi-tier or full stack web software 4+ years of deep proficiency in TypeScript/JavaScript, including mandatory experience with React 4+ years of experience in Node.js for backend service development 4+ years experience developing RESTful APIs and manage complex third-party API integrations Bachelor's degree in Computer Science, Engineering, or equivalent practical experience Other Qualifications Familiarity with large language model integration strategies, such as OpenAI-compatible APIs, data streaming, and tool/function calling, with an understanding of agentic architectures and the Model Context Protocol (MCP) as a producer or consumer. Experience engineering production-grade backend services, with the ability to implement real-time streaming (SSE/WebSockets) . Knowledge of Kotlin or Spring Boot is a plus. Proficiency in modern frontend technologies including React, HTML, and CSS, with experience using design systems and reusable component libraries to deliver consistent, high-quality developer-facing interfaces. Commitment to testing methodologies using frameworks such as Jest, React Testing Library, JUnit, Cypress, or similar, with the ability to author stable, reliable tests for asynchronous logic and complex interaction patterns. Experience with application observability, including error tracking (e.g., Sentry), metrics instrumentation, and product analytics, as well as familiarity with CI/CD workflows via GitHub Actions, Jenkins, or similar tools. Effective communication and collaboration skills, with experience working across teams on shared dependencies such as security and compliance reviews, and an appreciation for technical writing as a core team deliverable. ​ The following are advantageous but not required: Experience creating CLI tools using Node.js or Go. Experience with cloud development technologies and platforms (AWS, Kubernetes, Helm). Experience with design systems or component libraries. Hands-on experience with AI coding tools such as Cursor, Claude Code. Workday Pay Transparency Statement The annualized base salary ranges for the primary location and any additional locations are listed below. Workday pay ranges vary based on work location. As a part of the total compensation package, this role may be eligible for the Workday Bonus Plan or a role-specific commission/bonus, as well as annual refresh stock grants. Recruiters can share more detail during the hiring process. Each candidate’s compensation offer will be based on multiple factors including, but not limited to, geography, experience, skills, job duties, and business need, among other things. For more information regarding Workday’s comprehensive benefits, please click here . Primary Location: USA.CA.Pleasanton Primary Location Base Pay Range: $148,000 USD - $222,000 USD Additional US Location(s) Base Pay Range: $123,900 USD - $222,000 USD Our Approach to Flexible Work With Flex Work, we’re combining the best of both worlds: in-person time and remote. Our approach enables our teams to deepen connections, maintain a strong community, and do their best work. We know that flexibility can take shape in many ways, so rather than a number of required days in-office each week, we simply spend at least half (50%) of our time each quarter in the office or in the field with our customers, prospects, and partners (depending on role). This means you'll have the freedom to create a flexible schedule that caters to your business, team, and personal needs, while being intentional to make the most of time spent together. Those in our remote \"home office\" roles also have the opportunity to come together in our offices for important moments that matter. Pursuant to applicable Fair Chance law, Workday will consider for employment qualified applicants with arrest and conviction records. Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans. Workday is committed to providing reasonable accommodations for qualified individuals during our application process, in order to perform one or more essential functions of their job, as well as regarding the use of AI tools for employment decision-making to any degree. Please see below for more details including how to request an accommodation as a qualified veteran, due to a disability or for religious reasons, or as otherwise provided under applicable law. Workday prohibits taking adverse action against any candidate or employee for reporting a possible violation of this policy, requesting one or more work accommodations, exercising a privacy right, or cooperating in an investigation in accordance with applicable law. Any employee who retaliates against a candidate or employee for doing so may be subject to disciplinary action, up to and including termination of employment, to the fullest extent allowable under applicable law. If you require a reasonable accommodation, you may email accommodations@workday.com , as far in advance as possible. Are you being referred to one of our roles? If so, ask your connection at Workday about our Employee Referral process! At Workday, we value our candidates’ privacy and data security. Workday will never ask candidates to apply to jobs through websites that are not Workday Careers. Please be aware of sites that may ask for you to input your data in connection with a job posting that appears to be from Workday but is not. In addition, Workday will never ask candidates to pay a recruiting fee, or pay for consulting or coaching services, in order to apply for a job at Workday.",
-      "requirements": "",
-      "application_url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0107735",
-      "source_url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0107735",
-      "source_type": "workday",
-      "date_posted": "2026-08-18",
-      "first_seen": "2026-08-07T21:12:31Z",
-      "last_seen": "2026-08-26T16:01:22Z",
-      "status": "closed",
-      "graduation_match": "unspecified",
-      "role_match_score": 100,
-      "sponsorship_classification": "unclear",
-      "sponsorship_evidence": "",
-      "international_student_risk_flags": [],
-      "overall_score": 74,
-      "matched_keywords": [
-        "ai",
-        "api",
-        "aws",
-        "backend",
-        "cloud",
-        "javascript",
-        "kubernetes",
-        "software development engineer",
-        "typescript"
-      ],
-      "excluded_keywords": [],
-      "score_explanation": "role 35/35 (title matched filter terms; skills: typescript, javascript, backend, api, cloud, aws) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (USA, CA, Pleasanton) · recency 10/10 (posted 8d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
-      "disqualified": false,
-      "disqualify_reason": "",
-      "consecutive_missing": 3,
-      "announced": true
     }
   ]
 }
