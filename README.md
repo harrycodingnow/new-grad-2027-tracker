@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-09-05 16:57 UTC** (2026-09-06 00:57 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-09-05 22:13 UTC** (2026-09-06 06:13 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -179,7 +179,6 @@ _Last updated: **2026-09-05 16:57 UTC** (2026-09-06 00:57 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10515630/software-development-engineer-amazon-selection-monitoring) | Amazon | Software Development Engineer, Amazon Selection Monitoring | Seattle, Washington, USA | ⚪ unclear | 2026-08-26 |
 | [Apply](https://www.amazon.jobs/en/jobs/10516065/software-development-engineer-s3-storage-cells) | Amazon | Software Development Engineer, S3 Storage Cells | Seattle, Washington, USA | ⚪ unclear | 2026-08-26 |
 | [Apply](https://www.amazon.jobs/en/jobs/10513808/software-development-engineer-conversational-ads-experience) | Amazon | Software Development Engineer, Conversational Ads Experience | Seattle, Washington, USA | ⚪ unclear | 2026-08-25 |
-| [Apply](https://www.amazon.jobs/en/jobs/10511665/software-development-engineer-ads-console-frameworks) | Amazon | Software Development Engineer, Ads Console Frameworks | New York, New York, USA | ⚪ unclear | 2026-08-24 |
 | [Apply](https://www.amazon.jobs/en/jobs/10499784/software-development-engineer-open-data-analytics-engines) | Amazon | Software Development Engineer, Open Data Analytics - Engines | Arlington, Virginia, USA | ⚪ unclear | 2026-08-12 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720246481) | Qualcomm | #Embedded Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-08-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10492413/data-engineer-i-sales-data-services-sds) | Amazon | Data Engineer I, Sales Data Services (SDS) | New York, New York, USA | ⚪ unclear | 2026-08-05 |
@@ -307,12 +306,12 @@ _Last updated: **2026-09-05 16:57 UTC** (2026-09-06 00:57 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 350
-- **Recommended (not disqualified):** 286
+- **Active jobs tracked:** 346
+- **Recommended (not disqualified):** 285
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 2, strong: 185, possible: 99, low priority: 0
+- Matches — excellent: 2, strong: 184, possible: 99, low priority: 0
 
 ## Source problems
 
