@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-09-05 11:57 UTC** (2026-09-05 19:57 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-09-05 16:57 UTC** (2026-09-06 00:57 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -64,7 +64,6 @@ _Last updated: **2026-09-05 11:57 UTC** (2026-09-05 19:57 Asia/Taipei) — auto-
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8160721) | Hudson River Trading | Site Reliability Engineer - Enterprise Technology | New York, NY, United States | ⚪ unclear | 2026-08-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10513820/data-engineer-i-fire-tv) | Amazon | Data Engineer I, Fire TV | Seattle, Washington, USA | ⚪ unclear | 2026-08-25 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631) | NVIDIA | Cell Modeling and Verification Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-08-25 |
-| [Apply](https://www.amazon.jobs/en/jobs/10507716/software-development-engineer-sponsored-products-and-brands) | Amazon | Software Development Engineer, Sponsored Products and Brands | Seattle, Washington, USA | ⚪ unclear | 2026-08-20 |
 | [Apply](https://www.amazon.jobs/en/jobs/10507287/software-development-engineer-aws) | Amazon | Software Development Engineer, AWS | Seattle, Washington, USA | ⚪ unclear | 2026-08-19 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | NVIDIA | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA, Santa Clara | ⚪ unclear | 2026-08-19 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549798932146) | Morgan Stanley | AI Integration Software Engineer - Associate | New York, New York, United States of America | ⚪ unclear | 2026-08-18 |
@@ -127,7 +126,6 @@ _Last updated: **2026-09-05 11:57 UTC** (2026-09-05 19:57 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10522166/software-development-engineer-transit-gateway) | Amazon | Software Development Engineer, Transit Gateway | Arlington, Virginia, USA | ⚪ unclear | 2026-08-31 |
 | [Apply](https://www.amazon.jobs/en/jobs/10522267/software-development-engineer-aws-opensearch-service) | Amazon | Software Development Engineer, AWS OpenSearch Service | Austin, Texas, USA | ⚪ unclear | 2026-08-31 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000146570652) | ServiceNow | Data Platform Software Engineer | San Diego, CALIFORNIA | ⚪ unclear | 2026-08-31 |
-| [Apply](https://www.amazon.jobs/en/jobs/10518433/software-engineer-dynamodb-performance) | Amazon | Software Engineer, DynamoDB Performance | Seattle, Washington, USA | ⚪ unclear | 2026-08-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10519658/software-development-engineer-reporting-data-platform) | Amazon | Software Development Engineer, Reporting Data Platform | Seattle, Washington, USA | ⚪ unclear | 2026-08-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10517465/software-development-engineer-agentic-workspaces-watchtower) | Amazon | Software Development Engineer, Agentic Workspaces - Watchtower | Seattle, Washington, USA | ⚪ unclear | 2026-08-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10509566/software-development-engineer-advertiser-1p-data) | Amazon | Software Development Engineer, Advertiser 1P Data | Palo Alto, California, USA | ⚪ unclear | 2026-08-20 |
@@ -230,7 +228,6 @@ _Last updated: **2026-09-05 11:57 UTC** (2026-09-05 19:57 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10519865/robotics-sde-safe-autonomy-saf-lab) | Amazon | Robotics SDE, Safe Autonomy, SAF Lab | Pasadena, California, USA | ⚪ unclear | 2026-08-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10519943/software-development-engineer-creative-asset-library-creativex) | Amazon | Software Development Engineer, Creative Asset Library, CreativeX | Seattle, Washington, USA | ⚪ unclear | 2026-08-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10516800/software-development-engineer-aws-compliance-security-assurance) | Amazon | Software Development Engineer, AWS Compliance & Security Assurance | Seattle, Washington, USA | ⚪ unclear | 2026-08-27 |
-| [Apply](https://www.amazon.jobs/en/jobs/10508294/software-development-engineer-support-agent-intelligence-and-evaluation) | Amazon | Software Development Engineer, Support Agent Intelligence and Evaluation | Seattle, Washington, USA | ⚪ unclear | 2026-08-20 |
 | [Apply](https://careers.qualcomm.com/careers/job/446718710590) | Qualcomm | GPU Research Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-08-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10495750/data-engineer-aws-infrastructure-supply-chain-intelligence) | Amazon | Data Engineer , AWS Infrastructure Supply Chain Intelligence | Bellevue, Washington, USA | ⚪ unclear | 2026-08-07 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R168026) | Adobe | Software Development Engineer | San Jose | ⚪ unclear | 2026-08-06 |
@@ -245,10 +242,8 @@ _Last updated: **2026-09-05 11:57 UTC** (2026-09-05 19:57 Asia/Taipei) — auto-
 | [Apply](https://careers.qualcomm.com/careers/job/446720845753) | Qualcomm | Software Engineer — RISC-V Random Test Generator & Assembler Infrastructure | Cupertino, California, United States of America | ⚪ unclear | 2026-09-01 |
 | [Apply](https://www.amazon.jobs/en/jobs/10522974/software-development-engineer-leo-manufacturing-software-systems) | Amazon | Software Development Engineer, Leo Manufacturing Software Systems | Bellevue, Washington, USA | ⚪ unclear | 2026-08-31 |
 | [Apply](https://www.amazon.jobs/en/jobs/10523004/software-development-engineer-amazon-opensearch-vectorsearch-opensearch) | Amazon | Software Development Engineer - Amazon OpenSearch, VectorSearch, OpenSearch | Bellevue, Washington, USA | ⚪ unclear | 2026-08-31 |
-| [Apply](https://www.amazon.jobs/en/jobs/10513880/software-development-engineer-ec2-networking-vpc-core) | Amazon | Software Development Engineer, EC2 Networking (VPC Core) | Seattle, Washington, USA | ⚪ unclear | 2026-08-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10514569/software-engineer-browser-client) | Amazon | Software Engineer, Browser Client | San Francisco, California, USA | ⚪ unclear | 2026-08-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10512044/software-development-engineer-brand-measurement) | Amazon | Software Development Engineer, Brand Measurement | New York, New York, USA | ⚪ unclear | 2026-08-24 |
-| [Apply](https://www.amazon.jobs/en/jobs/10512704/software-development-engineer-asbx-builder-operations) | Amazon | Software Development Engineer, ASBX Builder Operations | Seattle, Washington, USA | ⚪ unclear | 2026-08-24 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720361954) | Qualcomm | SoC Systems & Infrastructure Engineer (Design • Validation • Debug • FPGA • Emulation • Software) | San Diego, California, United States of America | ⚪ unclear | 2026-08-14 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720428288) | Qualcomm | Wireless Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-08-14 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8131144) | Stripe | Backend Engineer, Link | NYC, Sea, SF, Tor | ⚪ unclear | 2026-08-14 |
@@ -312,12 +307,12 @@ _Last updated: **2026-09-05 11:57 UTC** (2026-09-05 19:57 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 356
-- **Recommended (not disqualified):** 291
+- **Active jobs tracked:** 350
+- **Recommended (not disqualified):** 286
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 2, strong: 187, possible: 102, low priority: 0
+- Matches — excellent: 2, strong: 185, possible: 99, low priority: 0
 
 ## Source problems
 
