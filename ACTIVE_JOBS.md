@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-09-06 17:12 UTC** (2026-09-07 01:12 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-09-06 22:17 UTC** (2026-09-07 06:17 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -62,6 +62,7 @@ _Last updated: **2026-09-06 17:12 UTC** (2026-09-07 01:12 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10507287/software-development-engineer-aws) | Amazon | Software Development Engineer, AWS | Seattle, Washington, USA | ⚪ unclear | 2026-08-19 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | NVIDIA | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA, Santa Clara | ⚪ unclear | 2026-08-19 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549798932146) | Morgan Stanley | AI Integration Software Engineer - Associate | New York, New York, United States of America | ⚪ unclear | 2026-08-18 |
+| [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Security-Platform-Engineer---MTS_JR353828-1) | Salesforce | Security Platform Engineer - MTS | Washington - Bellevue | ⚪ unclear | 2026-08-17 |
 | [Apply](https://www.optiver.com/join-us/jobs/8451762002/?gh_jid=8451762002) | Optiver | Graduate Quantitative Researcher, PhD (2027 Start) | Chicago, Illinois, United States | 🟡 possibly supported | 2026-07-01 |
 | [Apply](https://www.optiver.com/join-us/jobs/8451763002/?gh_jid=8451763002) | Optiver | Graduate Quantitative Researcher, PhD (2027 Start) | Austin, Texas, United States | 🟡 possibly supported | 2026-07-01 |
 | [Apply](https://www.amazon.jobs/en/jobs/10528626/software-development-engineer-generative-ai-annapurna-labs-neuroboros-team) | Amazon | Software Development Engineer, Generative AI, Annapurna Labs - Neuroboros Team | New York, New York, USA | ⚪ unclear | 2026-09-03 |
@@ -304,12 +305,12 @@ _Last updated: **2026-09-06 17:12 UTC** (2026-09-07 01:12 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 343
-- **Recommended (not disqualified):** 283
+- **Active jobs tracked:** 344
+- **Recommended (not disqualified):** 284
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 2, strong: 181, possible: 100, low priority: 0
+- Matches — excellent: 2, strong: 182, possible: 100, low priority: 0
 
 ## Source problems
 
