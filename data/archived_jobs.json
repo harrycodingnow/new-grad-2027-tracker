@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T12:17:06Z",
-  "count": 843,
+  "generated_at": "2026-09-06T17:12:59Z",
+  "count": 844,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -24524,6 +24524,47 @@
       "disqualify_reason": "",
       "consecutive_missing": 3,
       "announced": true
+    },
+    {
+      "job_id": "intel-JR0286395",
+      "source_job_id": "JR0286395",
+      "company": "Intel",
+      "title": "Design Automation & DevOps Software Engineer",
+      "location": "US, Texas, Austin",
+      "country": "United States of America",
+      "workplace_type": "",
+      "department": "",
+      "employment_type": "Full time",
+      "description": "Job Details: Job Description: Join Intel's All Cores Engineering (ACE) organization to be a part of the team responsible for delivering Intel's industry-leading CPU cores. You will work as a Design Automation & DevOps Software Engineer for the development of tools used in advanced CPU design. In this role you will be responsible for key aspects of the design infrastructure including managing an internal cloud of high-performance compute that is essential for CPU design and analysis. What You'll Do This role sits at the intersection s/w engineering and CPU design . You'll join a team adopting AI-assisted development tools as part of the central engineering platform, with more workflows moving in that direction every day. You will contribute to both the established work of building and maintaining automation solutions and the forward-looking work of helping to realize the full potential of AI tools for CPU design. Key responsibilities will include but not limited to: Develop and deploy software solutions that enhance design tool capabilities to streamline debugging and improve overall design productivity. Contribute to an AI based development environment that is actively expanding — helping to migrate, modernize, and standardize workflows. Partner with compute and infrastructure teams to maintain a scalable, reliable design environment including an internal cloud that supports both our current workflows and the AI-augmented workflows we are building toward. Behavioral Traits We Are Looking For Strong problem-solving and analytical skills — you can navigate both established engineering challenges and the newer questions that come with integrating AI into complex technical workflows. You are energized by finding smarter, faster ways to solve engineering problems and are motivated by the idea of helping shape what AI-assisted engineering looks like in one of the most technically demanding environments in the industry. You are able to integrate AI solutions when appropriate to enhance productivity and speed up deliverables. Collaborative and communicative — you work effectively across design teams, CAD, and software teams, and you actively contribute to a shared learning environment. Detail-oriented with a quality mindset — You take ownership of the correctness, security, and maintainability of everything you ship. You understand that AI-generated code must be held to the same standards. Enthusiastic about AI-assisted development and eager to grow with it — you are excited to be part of a team that is actively evolving how it works, and you bring energy and curiosity to the process of learning and applying AI. Intel invests in our people and offers a complete and competitive package of benefits employees and their families through every stage of life. See Intel Benefits for more details. Qualifications: You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research. Notes: For information on Intel’s immigration sponsorship guidelines, please see Intel U.S. Immigration Sponsorship Information Minimum Qualifications and Experience : Bachelor’s in Software Engineering, Computer Science or related field with + 3 years of experience. Or a Master's degree in the same. In addition, you have 6+ months of educational experience in at least two of the following: Data structures and Algorithms. Programming and scripting skills (e.g. C/C++, Perl/Tcl, Python, shell scripting, etc.). Linux/Unix based environment and systems . AI S/W development tools, such as Claude Code or Cursor, Copilot or similar. Preferred Qualifications and Experience : Prior experience related to design automation tools. Why Join Us: At Intel, you will help shape the next generation of secure and intelligent computing platforms used by millions of people around the world. As part of the ACE DA organization, you will be part of an AI-first engineering culture and will help build that future alongside us. If you are excited by the idea of growing your skills, influencing how a world-class engineering team works, and being part of a genuine transformation in how CPU design automation gets done, this is the role for you. Job Type: College Grad Shift: Shift 1 (United States of America) Primary Location: US, Texas, Austin Additional Locations: Posting Statement: All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance. Position of Trust N/A Benefits We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which include health, retirement, and vacation. Find out more about the benefits of working at Intel . Annual Salary Range for jobs which could be performed in the US: $105,650.00-200,340.00 USD The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific compensation range for your preferred location during the hiring process. Work Model for this Role This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. * Job posting details (such as work model, location or time type) are subject to change. * ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you are asked to pay any fees during our hiring process, please report this immediately to your recruiter.",
+      "requirements": "",
+      "application_url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Design-Automation---DevOps-Software-Engineer_JR0286395",
+      "source_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Design-Automation---DevOps-Software-Engineer_JR0286395",
+      "source_type": "workday",
+      "date_posted": "2026-08-18",
+      "first_seen": "2026-08-18T20:51:42Z",
+      "last_seen": "2026-09-05T22:13:23Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 80,
+      "sponsorship_classification": "ineligible",
+      "sponsorship_evidence": "egard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local",
+      "international_student_risk_flags": [
+        "itar"
+      ],
+      "overall_score": 54,
+      "matched_keywords": [
+        "ai",
+        "automation",
+        "cloud",
+        "python",
+        "software engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 28/35 (primary role match (Software Engineer); skills: python, cloud, ai, automation) · graduation 8/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (US, Texas, Austin) · recency 8/10 (posted 18d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": true,
+      "disqualify_reason": "sponsorship classification 'ineligible': egard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, mil",
+      "consecutive_missing": 3,
+      "announced": false
     },
     {
       "job_id": "jane-street-8555588002",
