@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-09-06 07:18 UTC** (2026-09-06 15:18 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-09-06 12:17 UTC** (2026-09-06 20:17 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -101,7 +101,6 @@ _Last updated: **2026-09-06 07:18 UTC** (2026-09-06 15:18 Asia/Taipei) — auto-
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854) | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Computer Architecture and Systems | US, CA, Santa Clara | ⚪ unclear | 2026-08-19 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855) | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Hardware | US, CA, Santa Clara | ⚪ unclear | 2026-08-19 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856) | NVIDIA | NVIDIA 2027 Summer Internships: Ph.D. Engineering | US, CA, Santa Clara | ⚪ unclear | 2026-08-19 |
-| [Apply](https://www.amazon.jobs/en/jobs/10505871/software-development-engineer-aws-central-sde-team) | Amazon | Software Development Engineer, AWS Central SDE Team | Seattle, Washington, USA | ⚪ unclear | 2026-08-18 |
 | [Apply](https://www.amazon.jobs/en/jobs/10505873/software-development-engineer-aws-central-sde-team) | Amazon | Software Development Engineer, AWS Central SDE Team | Seattle, Washington, USA | ⚪ unclear | 2026-08-18 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Software-Development-Engineer_R168187-1) | Adobe | Software Development Engineer | New York | ⚪ unclear | 2026-08-07 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050) | Hudson River Trading | Algorithm Developer (Quant Research & Trading) – 2027 Grads | London, United Kingdom; New York, NY, United States; Singap… | ⚪ unclear | 2026-07-13 |
@@ -178,7 +177,6 @@ _Last updated: **2026-09-06 07:18 UTC** (2026-09-06 15:18 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10516065/software-development-engineer-s3-storage-cells) | Amazon | Software Development Engineer, S3 Storage Cells | Seattle, Washington, USA | ⚪ unclear | 2026-08-26 |
 | [Apply](https://www.amazon.jobs/en/jobs/10513808/software-development-engineer-conversational-ads-experience) | Amazon | Software Development Engineer, Conversational Ads Experience | Seattle, Washington, USA | ⚪ unclear | 2026-08-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10499784/software-development-engineer-open-data-analytics-engines) | Amazon | Software Development Engineer, Open Data Analytics - Engines | Arlington, Virginia, USA | ⚪ unclear | 2026-08-12 |
-| [Apply](https://careers.qualcomm.com/careers/job/446720246481) | Qualcomm | #Embedded Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-08-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10492413/data-engineer-i-sales-data-services-sds) | Amazon | Data Engineer I, Sales Data Services (SDS) | New York, New York, USA | ⚪ unclear | 2026-08-05 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4945646101) | IMC | Data Engineer - Infrastructure | Chicago, United States | ⚪ unclear | 2026-08-05 |
 | [Apply](https://www.optiver.com/join-us/jobs/8672685002/?gh_jid=8672685002) | Optiver | AI Engineer | New York, New York | ⚪ unclear | 2026-08-03 |
@@ -194,6 +192,7 @@ _Last updated: **2026-09-06 07:18 UTC** (2026-09-06 15:18 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10524448/software-development-engineer-scot-inbound-inventory-routing-and-replenishment) | Amazon | Software Development Engineer, SCOT-Inbound, Inventory Routing and Replenishment | Bellevue, Washington, USA | ⚪ unclear | 2026-09-01 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8127182) | Stripe | Software Engineer, Platform Infrastructure | San Francisco, New York City, Seattle, Chicago, US-Remote | ⚪ unclear | 2026-09-01 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8142764) | Stripe | Full Stack Engineer, Bridge | San Francisco, NYC | ⚪ unclear | 2026-08-20 |
+| [Apply](https://careers.qualcomm.com/careers/job/446720246481) | Qualcomm | #Embedded Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-08-11 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Software-Development-Engineer_R170758) | Adobe | Software Development Engineer | San Francisco | ⚪ unclear | 2026-08-07 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487686/software-development-engineer-ai-data-infrastructure) | Amazon | Software Development Engineer, AI Data Infrastructure | North Reading, Massachusetts, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10485912/data-engineer-specialist-technology-team-stt-centralized-data-analytics) | Amazon | Data Engineer, Specialist Technology Team (STT), Centralized Data & Analytics | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
@@ -305,12 +304,12 @@ _Last updated: **2026-09-06 07:18 UTC** (2026-09-06 15:18 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 345
-- **Recommended (not disqualified):** 284
+- **Active jobs tracked:** 344
+- **Recommended (not disqualified):** 283
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 2, strong: 182, possible: 100, low priority: 0
+- Matches — excellent: 2, strong: 181, possible: 100, low priority: 0
 
 ## Source problems
 
