@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T22:17:21Z",
-  "count": 843,
+  "generated_at": "2026-09-07T07:30:36Z",
+  "count": 842,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -23074,44 +23074,6 @@
       "disqualify_reason": "",
       "consecutive_missing": 3,
       "announced": false
-    },
-    {
-      "job_id": "amazon-10515939",
-      "source_job_id": "10515939",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Billing Data Services",
-      "location": "Seattle, Washington, USA",
-      "country": "United States",
-      "workplace_type": "",
-      "department": "Software Development",
-      "employment_type": "full-time",
-      "description": "We make AWS billing data trustworthy at the source. As a Software Development Engineer II on the Billing Data Services (BiDS) team, you will build and operate the foundational systems that capture, store, and serve the billing facts that AWS billing services rely on. Our services sit upstream of bill computation systems. We ingest billing data from across AWS (such as pricing, subscriptions, and entitlements), persist it as a single source of truth, and serve it to the teams and pipelines that join it with usage to synthesize customer-facing billing artifacts. We operate at the scale of all of AWS, where correctness is non-negotiable and a single bad record can ripple into thousands of customer bills. As a software engineer on this team, you will develop and improve large-scale distributed systems built on AWS services. You will learn new technologies, design durable storage and serving paths, and build the data layer that hundreds of AWS teams depend on. Your work will impact millions of external customers and sit on the critical path of Billing. Key job responsibilities - Write high-quality, efficient, and testable code in Java and other object-oriented languages. - Build large-scale, highly available distributed systems for ingesting, storing, and serving authoritative billing data at the scale of all of AWS. - Design storage and serving paths that meet demanding freshness, accuracy, and latency requirements for downstream billing pipelines. - Partner with downstream teams on schema and data contract changes, making sure migrations are backward compatible and do not disrupt their pipelines. - Own and operate the systems you build, holding a high bar for data quality, correctness, and operational rigor. - Contribute to planning, design, implementation, testing, operations, and process improvement as a member of a Scrum team. - Collaborate with product managers and engineers across Commerce Platform teams to deliver features and drive the adoption of best practices. A day in the life You might start the morning reviewing ingestion and data quality dashboards before joining a design review for a new storage or serving path. By midday, you are working with a downstream team on a schema or data contract change, making sure the migration is backward compatible and won't disrupt their pipelines. In the afternoon, you are deep in an approach to cut serving latency or raise ingestion throughput, then aligning with a partner team on an upstream event format change. You balance long-term platform investments with the immediate needs of the teams that depend on your data. About the team We own the systems that hold and serve the authoritative billing facts for AWS Commerce Platform services. BiDS delivers timely and consistent operational billing data to support near real-time bill computation and cost and usage monitoring for AWS, giving billing teams a high-performance, queryable, and cost-effective data layer to store and access operational billing data. Because we sit upstream of the bill computation systems, our data quality and freshness affect SLAs for the systems downstream. We treat correctness and operational rigor as first principles, but we move quickly when downstream teams and customers need us. We solve problems at the intersection of large-scale data systems, durable storage, and the trust customers place in their bill. This is a space where being right matters more than anything, and where the data we own touches every Billing team. - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 1+ years of Object Oriented Design experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field - Experience programming with at least one software programming language - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, WA, Seattle - 143,700.00 - 194,400.00 USD annually",
-      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 1+ years of Object Oriented Design experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field - Experience programming with at least one software programming language",
-      "application_url": "https://www.amazon.jobs/en/jobs/10515939/software-development-engineer-billing-data-services",
-      "source_url": "https://www.amazon.jobs/en/jobs/10515939/software-development-engineer-billing-data-services",
-      "source_type": "json",
-      "date_posted": "2026-08-26",
-      "first_seen": "2026-08-26T23:54:53Z",
-      "last_seen": "2026-09-03T07:21:36Z",
-      "status": "closed",
-      "graduation_match": "unspecified",
-      "role_match_score": 75,
-      "sponsorship_classification": "unclear",
-      "sponsorship_evidence": "",
-      "international_student_risk_flags": [],
-      "overall_score": 65,
-      "matched_keywords": [
-        "aws",
-        "c#",
-        "distributed systems",
-        "software development engineer"
-      ],
-      "excluded_keywords": [],
-      "score_explanation": "role 26/35 (title matched filter terms; skills: c#, aws, distributed systems) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Seattle, Washington, USA) · recency 10/10 (posted 8d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
-      "disqualified": false,
-      "disqualify_reason": "",
-      "consecutive_missing": 3,
-      "announced": true
     },
     {
       "job_id": "amazon-10516094",
