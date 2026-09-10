@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-09-10 13:03 UTC** (2026-09-10 21:03 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-09-10 17:49 UTC** (2026-09-11 01:49 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -141,7 +141,6 @@ _Last updated: **2026-09-10 13:03 UTC** (2026-09-10 21:03 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10534684/software-development-engineer-fba-supply-chain-intelligence-inventory-authority-platform) | Amazon | Software Development Engineer, FBA Supply Chain Intelligence, Inventory Authority Platform | Bellevue, Washington, USA | ⚪ unclear | 2026-09-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10534994/sde-2-amazon-s3-amazon-s3) | Amazon | SDE 2, Amazon S3, Amazon S3 | Seattle, Washington, USA | ⚪ unclear | 2026-09-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10535559/software-development-engineer-aws-opensearch-opensearch-dashboards) | Amazon | Software Development Engineer - AWS OpenSearch, OpenSearch Dashboards | Bellevue, Washington, USA | ⚪ unclear | 2026-09-09 |
-| [Apply](https://jobs.smartrecruiters.com/servicenow/744000148580489) | ServiceNow | Software Engineer - AI Developer Products | San Diego, CALIFORNIA | ⚪ unclear | 2026-09-09 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8172503) | Stripe | Abuse Research Engineer | Remote from the US | ⚪ unclear | 2026-09-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10529944/software-development-engineer-aft-pes) | Amazon | Software Development Engineer , AFT-PES | Bellevue, Washington, USA | ⚪ unclear | 2026-09-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10529261/software-development-engineer-amazon-ecs) | Amazon | Software Development Engineer, Amazon ECS | Seattle, Washington, USA | ⚪ unclear | 2026-09-03 |
@@ -201,6 +200,7 @@ _Last updated: **2026-09-10 13:03 UTC** (2026-09-10 21:03 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10485912/data-engineer-specialist-technology-team-stt-centralized-data-analytics) | Amazon | Data Engineer, Specialist Technology Team (STT), Centralized Data & Analytics | Seattle, Washington, USA | ⚪ unclear | 2026-07-28 |
 | [Apply](https://www.optiver.com/join-us/jobs/8616003002/?gh_jid=8616003002) | Optiver | Graduate Equity Analyst (2027 Start - Chicago) | Chicago, Illinois, United States | ⚪ unclear | 2026-07-20 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719430651) | Qualcomm | #Video Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-07-06 |
+| [Apply](https://job-boards.greenhouse.io/drweng/jobs/8191392) | DRW | Cloud Engineer | Chicago | ⚪ unclear | 2026-09-10 |
 | [Apply](https://www.amazon.jobs/en/jobs/10534042/software-development-engineer-amazon-security-platform-engineering) | Amazon | Software Development Engineer, Amazon Security Platform Engineering | San Luis Obispo, California, USA | ⚪ unclear | 2026-09-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10532360/software-development-engineer-postx-apex) | Amazon | Software Development Engineer, PostX - APEX | Mountain View, California, USA | ⚪ unclear | 2026-09-08 |
 | [Apply](https://www.amazon.jobs/en/jobs/10532554/software-development-engineer-creativex) | Amazon | Software Development Engineer, CreativeX | New York, New York, USA | ⚪ unclear | 2026-09-08 |
@@ -295,12 +295,12 @@ _Last updated: **2026-09-10 13:03 UTC** (2026-09-10 21:03 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 334
+- **Active jobs tracked:** 335
 - **Recommended (not disqualified):** 274
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 1, strong: 175, possible: 98, low priority: 0
+- Matches — excellent: 1, strong: 174, possible: 99, low priority: 0
 
 ## Source problems
 
