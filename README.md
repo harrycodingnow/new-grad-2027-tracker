@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-09-12 17:20 UTC** (2026-09-13 01:20 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-09-12 22:31 UTC** (2026-09-13 06:31 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -157,7 +157,6 @@ _Last updated: **2026-09-12 17:20 UTC** (2026-09-13 01:20 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10524021/software-development-engineer-amazon-route-53-route-53-dns-firewall-profiles) | Amazon | Software Development Engineer, Amazon Route 53, Route 53 DNS Firewall & Profiles | Arlington, Virginia, USA | ⚪ unclear | 2026-09-01 |
 | [Apply](https://www.amazon.jobs/en/jobs/10523012/software-development-engineer-aws-payments-fraud-prevention) | Amazon | Software Development Engineer, AWS Payments & Fraud Prevention | Seattle, Washington, USA | ⚪ unclear | 2026-08-31 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720498633) | Qualcomm | #Embedded Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-08-21 |
-| [Apply](https://www.amazon.jobs/en/jobs/10496112/data-engineer-i-sales-data-services-sds) | Amazon | Data Engineer I, Sales Data Services (SDS) | New York, New York, USA | ⚪ unclear | 2026-08-07 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000141813209) | ServiceNow | Machine Learning Engineer, Agentic AI Harness & Quality - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-08-05 |
 | [Apply](https://www.amazon.jobs/en/jobs/10537769/software-development-engineer-fba-from-origin-ffo) | Amazon | Software Development Engineer, FBA from Origin (FFO) | Bellevue, Washington, USA | ⚪ unclear | 2026-09-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10537794/software-development-engineer-sponsored-products-and-brands) | Amazon | Software Development Engineer, Sponsored Products and Brands | New York, New York, USA | ⚪ unclear | 2026-09-11 |
@@ -172,7 +171,6 @@ _Last updated: **2026-09-12 17:20 UTC** (2026-09-13 01:20 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10530111/software-development-engineer-agent-platforms-services) | Amazon | Software Development Engineer, Agent Platforms & Services | Seattle, Washington, USA | ⚪ unclear | 2026-09-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10530139/software-development-engineer-agent-platforms-services) | Amazon | Software Development Engineer, Agent Platforms & Services | New York, New York, USA | ⚪ unclear | 2026-09-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10530357/software-development-engineer-search-thematic-advertising-experiences) | Amazon | Software Development Engineer, Search Thematic Advertising Experiences | New York, New York, USA | ⚪ unclear | 2026-09-04 |
-| [Apply](https://www.amazon.jobs/en/jobs/10517569/software-development-engineer-amazon-quick) | Amazon | Software Development Engineer, Amazon Quick | Santa Clara, California, USA | ⚪ unclear | 2026-08-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10517664/data-engineer-ring-agent-platforms) | Amazon | Data Engineer, Ring Agent Platforms | Hawthorne, California, USA | ⚪ unclear | 2026-08-27 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Software-Development-Engineer_R170758) | Adobe | Software Development Engineer | San Francisco | ⚪ unclear | 2026-08-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10492413/data-engineer-i-sales-data-services-sds) | Amazon | Data Engineer I, Sales Data Services (SDS) | New York, New York, USA | ⚪ unclear | 2026-08-05 |
@@ -282,12 +280,12 @@ _Last updated: **2026-09-12 17:20 UTC** (2026-09-13 01:20 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 329
-- **Recommended (not disqualified):** 261
+- **Active jobs tracked:** 327
+- **Recommended (not disqualified):** 259
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 1, strong: 166, possible: 94, low priority: 0
+- Matches — excellent: 1, strong: 164, possible: 94, low priority: 0
 
 ## Source problems
 
