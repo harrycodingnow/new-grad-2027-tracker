@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-09-13 13:26 UTC** (2026-09-13 21:26 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-09-13 17:32 UTC** (2026-09-14 01:32 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -191,6 +191,7 @@ _Last updated: **2026-09-13 13:26 UTC** (2026-09-13 21:26 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10499784/software-development-engineer-open-data-analytics-engines) | Amazon | Software Development Engineer, Open Data Analytics - Engines | Arlington, Virginia, USA | ⚪ unclear | 2026-08-12 |
 | [Apply](https://www.amazon.jobs/en/jobs/10487686/software-development-engineer-ai-data-infrastructure) | Amazon | Software Development Engineer, AI Data Infrastructure | North Reading, Massachusetts, USA | ⚪ unclear | 2026-07-29 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719430651) | Qualcomm | #Video Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-07-06 |
+| [Apply](https://careers.qualcomm.com/careers/job/446718691837) | Qualcomm | Embedded NPU Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10536501/software-development-engineer-quick-governance-platform) | Amazon | Software Development Engineer, Quick Governance Platform | New York, New York, USA | ⚪ unclear | 2026-09-10 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721051165) | Qualcomm | Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-10 |
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8191392) | DRW | Cloud Engineer | Chicago | ⚪ unclear | 2026-09-10 |
@@ -281,11 +282,11 @@ _Last updated: **2026-09-13 13:26 UTC** (2026-09-13 21:26 Asia/Taipei) — auto-
 ## Summary
 
 - **Active jobs tracked:** 327
-- **Recommended (not disqualified):** 259
+- **Recommended (not disqualified):** 260
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 1, strong: 164, possible: 94, low priority: 0
+- Matches — excellent: 1, strong: 164, possible: 95, low priority: 0
 
 ## Source problems
 
