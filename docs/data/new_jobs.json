@@ -1,43 +1,5 @@
 {
-  "generated_at": "2026-09-13T17:32:15Z",
-  "count": 1,
-  "jobs": [
-    {
-      "job_id": "qualcomm-3092020",
-      "source_job_id": "3092020",
-      "company": "Qualcomm",
-      "title": "Embedded NPU Software Engineer",
-      "location": "San Diego, California, United States of America",
-      "country": "United States",
-      "workplace_type": "onsite",
-      "department": "DSP Architecture and Design",
-      "employment_type": "",
-      "description": "Company: Qualcomm Technologies, Inc. Job Area: Engineering Group, Engineering Group > DSP Architecture and Design General Summary: Oversees architecture, design, verification, and performance analysis for Digital Signal Processor (DSP) development for Qualcomm Mobile, Machine Learning, Automotive, IoT, and other products. Determines processor architecture, micro-architecture, logic design, verification, and all performance and power aspects. Applies high-performance microprocessor design concepts including multi-core, multi-threaded, out-of-order, cache memory, high-speed ALU, and advanced low power design. Evaluates all aspects of the design process from instruction set architecture to implementation. Custom instruction set is needed to achieve industry-leading results in machine learning and modem. Applies tools and techniques to evaluate design tradeoffs and verify design correctness. Uses system tools such as architectural simulators, digital design simulators and emulators, test generators, and design synthesis. Minimum Qualifications: • Bachelor's degree in Electrical Engineering, Computer Science, Computer Engineering, or related field and 2+ years of Software Engineering, Electrical Engineering, Systems Engineering, or related work experience. OR Master's degree in Electrical Engineering, Computer Science, Computer Engineering, or related field and 1+ year of Software Engineering, Electrical Engineering, Systems Engineering, or related work experience. OR PhD in Electrical Engineering, Computer Science, Computer Engineering, or related field. • 2+ years of experience with high-performance microprocessor design. Preferred Qualifications: • Master's or PhD degree in Electrical Engineering, Computer Science, Computer Engineering, or related field . • 2 + years of experience with programming (e.g., C, C++, Python), computer architecture, or embedded systems. • 2 + years of experience in design verification methods . • 1 + year of experience working in a large matrixed organization. Principal Duties and Responsibilities: • Independently develops small well-defined blocks and assists in developing complex well-defined blocks, features, and/or tests under minor supervision that achieve desired quality, functionality, power, performance, and timing standards; guides lower-level engineers; proposes minor improvements. • Independently identifies problems across multiple systems or subsystems and resolves most architecture and design issues; collaborates and collects feedback during design reviews and with other teams to ensure the block meets the specifications, performance, and power requirements; investigates issues in order to prevent future issues. • Seeks essential knowledge of industry trends, competitors' products, and advances in various engineering fields related to DSP products and technology (e.g., machine learning, modem); shows interest in a specific area of expertise. • Collaborates with team members to generate new ideas. • Communicates effectively with peers and leads using written, verbally, and online communication; effectively tracks and documents issues, features, and design changes. Level of Responsibility: • Works under close supervision. • Responsible for own work, decision-making is limited. Impact of decisions is readily apparent. Errors made typically only impact timeline (i.e., require additional time to correct). • Requires verbal and written communication skills to convey basic, routine factual information about day-to-day activities to others who are fully knowledgeable in the subject area. • Works within the prescribed budgetary objectives of the department. Erroneous decisions, failure to achieve results may cause delays in schedules and result in the re-allocation of some resources. • Some tasks require multiple steps which must be performed in a specific order; directions or manuals can accurately document the steps necessary to perform the task. • Creativity is needed to draft original documents, imagery, or work products within established guidelines. • Deductive problem solving is required to solve moderately complex problems; most problems have defined processes of diagnosis/detection; some limited data analysis may be required. • Incumbent's input may be solicited during strategic planning period. The responsibilities of this role do not include: • Does not provide supervision to others. • Has no influence over key organizational decisions. Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here . Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries). To all Staffing and Recruiting Agencies : Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications. EEO Employer: Qualcomm is an equal opportunity employer; all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or any other protected classification. Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law. Pay range and Other Compensation & Benefits : $108,400.00 - $162,600.00 The above pay scale reflects the broad, minimum to maximum, pay scale for this job code for the location for which it has been posted. Even more importantly, please note that salary is only one component of total compensation at Qualcomm. We also offer a competitive annual discretionary bonus program and opportunity for annual RSU grants (employees on sales-incentive plans are not eligible for our annual bonus). In addition, our highly competitive benefits package is designed to support your success at work, at home, and at play. Your recruiter will be happy to discuss all that Qualcomm has to offer – and you can review more details about our US benefits at this link . If you would like more information about this role, please contact Qualcomm Careers .",
-      "requirements": "",
-      "application_url": "https://careers.qualcomm.com/careers/job/446718691837",
-      "source_url": "https://careers.qualcomm.com/careers/job/446718691837",
-      "source_type": "eightfold",
-      "date_posted": "2026-09-13",
-      "first_seen": "2026-09-13T17:32:15Z",
-      "last_seen": "2026-09-13T17:32:15Z",
-      "status": "active",
-      "graduation_match": "unspecified",
-      "role_match_score": 70,
-      "sponsorship_classification": "unclear",
-      "sponsorship_evidence": "",
-      "international_student_risk_flags": [],
-      "overall_score": 63,
-      "matched_keywords": [
-        "machine learning",
-        "python",
-        "software engineer"
-      ],
-      "excluded_keywords": [],
-      "score_explanation": "role 24/35 (primary role match (Software Engineer); skills: python, machine learning) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (San Diego, California, United States of ) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
-      "disqualified": false,
-      "disqualify_reason": "",
-      "consecutive_missing": 0,
-      "announced": false
-    }
-  ]
+  "generated_at": "2026-09-13T22:35:56Z",
+  "count": 0,
+  "jobs": []
 }
