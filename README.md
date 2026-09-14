@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-09-14 08:04 UTC** (2026-09-14 16:04 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-09-14 15:10 UTC** (2026-09-14 23:10 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -127,6 +127,7 @@ _Last updated: **2026-09-14 08:04 UTC** (2026-09-14 16:04 Asia/Taipei) — auto-
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) | NVIDIA | Research Scientist, Generative AI for Physical AI - PhD New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-08-15 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534) | NVIDIA | ASIC Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-08-15 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549799388181) | Morgan Stanley | Generative AI & Machine Learning Engineer | New York, New York, United States of America | ⚪ unclear | 2026-08-05 |
+| [Apply](https://morganstanley.eightfold.ai/careers/job/549799423962) | Morgan Stanley | Software Engineer - Backend | New York, New York, United States of America | ⚪ unclear | 2026-09-14 |
 | [Apply](https://www.amazon.jobs/en/jobs/10538018/software-development-engineer-aws-intent-driven-networking-aidn) | Amazon | Software Development Engineer, AWS Intent Driven Networking (AIDN) | Santa Clara, California, USA | ⚪ unclear | 2026-09-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10538030/environmental-data-engineer-aws-environmental) | Amazon | Environmental Data Engineer, AWS Environmental | Austin, Texas, USA | ⚪ unclear | 2026-09-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10538031/environmental-data-engineer-aws-environmental) | Amazon | Environmental Data Engineer, AWS Environmental | Herndon, Virginia, USA | ⚪ unclear | 2026-09-11 |
@@ -159,6 +160,7 @@ _Last updated: **2026-09-14 08:04 UTC** (2026-09-14 16:04 Asia/Taipei) — auto-
 | [Apply](https://careers.qualcomm.com/careers/job/446720498633) | Qualcomm | #Embedded Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-08-21 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549799200737) | Morgan Stanley | Data Scientist (NLP and GenAI Specialist) | Dallas, Texas, United States of America | ⚪ unclear | 2026-08-14 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000141813209) | ServiceNow | Machine Learning Engineer, Agentic AI Harness & Quality - Moveworks | Mountain View, CALIFORNIA | ⚪ unclear | 2026-08-05 |
+| [Apply](https://jobs.smartrecruiters.com/servicenow/744000149338366) | ServiceNow | Software Engineer | West Palm Beach, Florida | ⚪ unclear | 2026-09-14 |
 | [Apply](https://www.amazon.jobs/en/jobs/10537769/software-development-engineer-fba-from-origin-ffo) | Amazon | Software Development Engineer, FBA from Origin (FFO) | Bellevue, Washington, USA | ⚪ unclear | 2026-09-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10537794/software-development-engineer-sponsored-products-and-brands) | Amazon | Software Development Engineer, Sponsored Products and Brands | New York, New York, USA | ⚪ unclear | 2026-09-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10537982/data-engineer-sptc) | Amazon | Data Engineer, SPTC | Seattle, Washington, USA | ⚪ unclear | 2026-09-11 |
@@ -283,12 +285,12 @@ _Last updated: **2026-09-14 08:04 UTC** (2026-09-14 16:04 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 329
-- **Recommended (not disqualified):** 262
+- **Active jobs tracked:** 332
+- **Recommended (not disqualified):** 264
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 1, strong: 160, possible: 101, low priority: 0
+- Matches — excellent: 1, strong: 162, possible: 101, low priority: 0
 
 ## Source problems
 
