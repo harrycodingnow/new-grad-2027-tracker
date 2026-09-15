@@ -1,18 +1,16 @@
 # Newly Discovered Jobs
 
-_Found in the run at **2026-09-15 18:21 UTC** — auto-generated._
+_Found in the run at **2026-09-15 23:05 UTC** — auto-generated._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
 | Apply | Company | Title | Location | Sponsorship | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4976923101) | IMC | Software Engineer – BP&A | Chicago, United States | 🟡 possibly supported | 2026-09-15 |
-| [Apply](https://www.amazon.jobs/en/jobs/10542663/software-development-engineer-aws-config-aws-config) | Amazon | Software Development Engineer, AWS Config, AWS Config | Seattle, Washington, USA | ⚪ unclear | 2026-09-15 |
-| [Apply](https://www.amazon.jobs/en/jobs/10541943/software-development-engineer-agentic-workspaces) | Amazon | Software Development Engineer, Agentic Workspaces | Sunnyvale, California, USA | ⚪ unclear | 2026-09-15 |
-| [Apply](https://www.amazon.jobs/en/jobs/10541974/software-development-engineer-aws-transform) | Amazon | Software Development Engineer, AWS Transform | Seattle, Washington, USA | ⚪ unclear | 2026-09-15 |
-| [Apply](https://www.amazon.jobs/en/jobs/10543019/software-development-engineer-amazon-quick) | Amazon | Software Development Engineer, Amazon Quick | Seattle, Washington, USA | ⚪ unclear | 2026-09-15 |
-| [Apply](https://careers.qualcomm.com/careers/job/446721104433) | Qualcomm | Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-15 |
-| [Apply](https://www.amazon.jobs/en/jobs/10541733/software-development-engineer-ads-nova) | Amazon | Software Development Engineer, Ads Nova | New York, New York, USA | ⚪ unclear | 2026-09-15 |
-| [Apply](https://www.amazon.jobs/en/jobs/10542501/software-development-engineer-application-performance-monitoring) | Amazon | Software Development Engineer, Application Performance Monitoring | Bellevue, Washington, USA | ⚪ unclear | 2026-09-15 |
-| [Apply](https://www.amazon.jobs/en/jobs/10510419/data-engineer-workforce-solutions-talent-mobility) | Amazon | Data Engineer, Workforce Solutions - Talent Mobility | Bellevue, Washington, USA | ⚪ unclear | 2026-08-21 |
-| [Apply](https://careers.qualcomm.com/careers/job/446721106667) | Qualcomm | Software Development Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-15 |
+| [Apply](https://www.amazon.jobs/en/jobs/10543908/ai-platform-data-engineer-ring-decision-science-ring-decision-science) | Amazon | AI Platform Data Engineer, Ring Decision Science, Ring Decision Science | Hawthorne, California, USA | ⚪ unclear | 2026-09-15 |
+| [Apply](https://www.amazon.jobs/en/jobs/10543787/data-engineer-data-science-engineering-aws-marketing) | Amazon | Data Engineer, Data : Science Engineering, AWS Marketing | Seattle, Washington, USA | ⚪ unclear | 2026-09-15 |
+| [Apply](https://www.amazon.jobs/en/jobs/10543738/software-development-engineer-luna-sips) | Amazon | Software Development Engineer, Luna SIPS | Seattle, Washington, USA | ⚪ unclear | 2026-09-15 |
+| [Apply](https://www.amazon.jobs/en/jobs/10543836/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-09-15 |
+| [Apply](https://www.amazon.jobs/en/jobs/10543914/software-development-engineer-real-time-visual-intelligence) | Amazon | Software Development Engineer, Real Time Visual Intelligence | Irvine, California, USA | ⚪ unclear | 2026-09-15 |
+| [Apply](https://www.amazon.jobs/en/jobs/10543823/data-engineer-amazon-customer-service) | Amazon | Data Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-09-15 |
+| [Apply](https://www.amazon.jobs/en/jobs/10544003/software-development-engineer-3p-measurement-tech) | Amazon | Software Development Engineer, 3P Measurement Tech | New York, New York, USA | ⚪ unclear | 2026-09-15 |
+| [Apply](https://careers.qualcomm.com/careers/job/446717707980) | Qualcomm | Enablement Software Engineer | Santa Clara, California, United States of America | ⚪ unclear | 2026-09-15 |
