@@ -1,9 +1,7 @@
 # Newly Discovered Jobs
 
-_Found in the run at **2026-09-19 12:39 UTC** — auto-generated._
+_Found in the run at **2026-09-19 17:25 UTC** — auto-generated._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
-| Apply | Company | Title | Location | Sponsorship | Posted |
-| --- | --- | --- | --- | --- | --- |
-| [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1) | NVIDIA | Research Scientist, Networking Research - PhD New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-09-18 |
+No new matching jobs were discovered in this run.

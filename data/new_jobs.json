@@ -1,44 +1,5 @@
 {
-  "generated_at": "2026-09-19T12:39:16Z",
-  "count": 1,
-  "jobs": [
-    {
-      "job_id": "nvidia-JR2024900",
-      "source_job_id": "JR2024900",
-      "company": "NVIDIA",
-      "title": "Research Scientist, Networking Research - PhD New College Grad 2026",
-      "location": "US, CA, Santa Clara",
-      "country": "United States of America",
-      "workplace_type": "",
-      "department": "",
-      "employment_type": "Full time",
-      "description": "Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world. NVIDIA is seeking an extraordinary innovator in networking and system architecture to join our Research team. In this role, you will focus on designing networks optimized for AI systems, as well as leveraging AI and machine learning to advance network architecture and enable intelligent, real-time decision-making for tasks such as control, routing, congestion management, and scheduling. We are seeking a balanced background of research excellence in building systems and a deep understanding and broad perspective across the fields of computer architecture and communication systems for distributed computation. NVIDIA is a technology leader in systems for Artificial Intelligence, and this research team invents new networking technologies to advance the performance, scalability, and efficiency of next-generation computing platforms. This position offers you the opportunity to have a real impact while working with some of the most creative and forward-thinking people in the world who are here at this dynamic, technology-focused company. What you'll be doing: Develop innovative network architectures, algorithms, and hardware/software co-design approaches for high-performance interconnects and large-scale distributed AI systems, including AI-assisted methods where appropriate, to enable efficient, scalable, and robust communication and extend the state of the art in networking, distributed computing, and system architecture. Create and evaluate mechanisms for network and system decision-making in large-scale GPU/accelerator clusters, including AI/ML-based approaches for routing, traffic engineering, congestion control, scheduling, topology design, and telemetry-driven control loops. Invent new techniques, technologies, methodologies, processes, and devices, to enable new products or types of products. Deliverable results include prototypes, patents, publications, and product impact. Prototype new ideas in simulation or through analytical modeling. Produce technology vision and the basis for products 5-10 years out. Focus should not be on products currently shipping or in development, except as to how they can be extended and improved. Participate in the broader research community. Examples are serving as a reviewer or on Program Committees, publishing papers and speaking at conferences. Collaborate with external researchers, primarily in academia, to encourage mutually beneficial work. What we need to see: Pursuing or recently completed a PhD in relevant discipline(s) (CS, CE, EE, Physics, Math) or equivalent experience. 2+ years of relevant industrial and academic experience preferred. Relevant experience includes systems and network design for AI or HPC infrastructure and/or applying AI/ML to systems or networking problems (e.g., optimization, reinforcement learning, graph learning, telemetry-driven control). Background and publication record in systems, networking, computer architecture, and/or ML for networking/systems. Publication at venues such as ISCA, HPCA, MICRO, SIGCOMM, NSDI (and related venues) is a plus. Signals of fit: evidence via publications plus artifacts (open-source, prototypes, production deployments) demonstrating impactful contributions to systems or network design for AI infrastructure, including where ML/RL informs design or drives online decisions. Experience with AI/ML methods for systems and networks supporting AI workloads (e.g., PyTorch/TensorFlow/JAX) is valuable. It includes applying these methods to system or network building, simulation, optimization, and control/decision loops. Strong programming and prototyping ability, with experience building research artifacts, simulators, or system prototypes; C++ and Python preferred, and experience with hardware description languages or HLS is desirable. NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you! Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 168,000 USD - 264,500 USD. You will also be eligible for equity and benefits . Applications for this job will be accepted at least until September 22, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
-      "requirements": "",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1",
-      "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1",
-      "source_type": "workday",
-      "date_posted": "2026-09-18",
-      "first_seen": "2026-09-19T12:39:14Z",
-      "last_seen": "2026-09-19T12:39:14Z",
-      "status": "active",
-      "graduation_match": "compatible_2026",
-      "role_match_score": 75,
-      "sponsorship_classification": "unclear",
-      "sponsorship_evidence": "",
-      "international_student_risk_flags": [],
-      "overall_score": 75,
-      "matched_keywords": [
-        "2026",
-        "ai",
-        "machine learning",
-        "python"
-      ],
-      "excluded_keywords": [],
-      "score_explanation": "role 26/35 (title matched filter terms; skills: python, ai, machine learning) · graduation 18/20 (compatible_2026) · sponsorship 11/25 (unclear) · location 10/10 (US, CA, Santa Clara) · recency 10/10 (posted 1d ago) · graduation note: posting targets 2026 grads — matches potential Dec 2026 early graduation",
-      "disqualified": false,
-      "disqualify_reason": "",
-      "consecutive_missing": 0,
-      "announced": true
-    }
-  ]
+  "generated_at": "2026-09-19T17:25:13Z",
+  "count": 0,
+  "jobs": []
 }
