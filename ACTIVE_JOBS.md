@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-09-20 07:54 UTC** (2026-09-20 15:54 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-09-20 13:11 UTC** (2026-09-20 21:11 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -254,8 +254,7 @@ _Last updated: **2026-09-20 07:54 UTC** (2026-09-20 15:54 Asia/Taipei) — auto-
 | [Apply](https://careers.qualcomm.com/careers/job/446721159119) | Qualcomm | Embedded Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-18 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721159112) | Qualcomm | Embedded Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-18 |
 | [Apply](https://careers.qualcomm.com/careers/job/446717394529) | Qualcomm | IOT Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-17 |
-| [Apply](https://careers.qualcomm.com/careers/job/446717707980) | Qualcomm | Enablement Software Engineer | Santa Clara, California, United States of America | ⚪ unclear | 2026-09-17 |
-| [Apply](https://careers.qualcomm.com/careers/job/446718664837) | Qualcomm | QGOV Security Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-17 |
+| [Apply](https://careers.qualcomm.com/careers/job/446720188443) | Qualcomm | Software Engineer - Modem | San Diego, California, United States of America | ⚪ unclear | 2026-09-17 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720845753) | Qualcomm | Software Engineer — RISC-V Random Test Generator | Cupertino, California, United States of America | ⚪ unclear | 2026-09-17 |
 | [Apply](https://www.amazon.jobs/en/jobs/10547074/software-development-engineer-amazon-dsp-amazon-ad-exchange) | Amazon | Software Development Engineer, Amazon DSP, Amazon Ad Exchange | Arlington, Virginia, USA | ⚪ unclear | 2026-09-16 |
 | [Apply](https://www.amazon.jobs/en/jobs/10542501/software-development-engineer-application-performance-monitoring) | Amazon | Software Development Engineer, Application Performance Monitoring | Bellevue, Washington, USA | ⚪ unclear | 2026-09-15 |
@@ -283,7 +282,6 @@ _Last updated: **2026-09-20 07:54 UTC** (2026-09-20 15:54 Asia/Taipei) — auto-
 | [Apply](https://careers.qualcomm.com/careers/job/446717343573) | Qualcomm | DevOps Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-09-17 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721008018) | Qualcomm | Modem Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-17 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720964172) | Qualcomm | EDA/CAD Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-17 |
-| [Apply](https://careers.qualcomm.com/careers/job/446721106667) | Qualcomm | Software Development Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-17 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274922421821) | PayPal | Data Scientist | San Jose, California, United States of America | ⚪ unclear | 2026-09-15 |
 | [Apply](https://www.amazon.jobs/en/jobs/10528280/software-development-engineer) | Amazon | Software Development Engineer | Redmond, Washington, USA | ⚪ unclear | 2026-09-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10495750/data-engineer-aws-infrastructure-supply-chain-intelligence) | Amazon | Data Engineer , AWS Infrastructure Supply Chain Intelligence | Bellevue, Washington, USA | ⚪ unclear | 2026-08-07 |
@@ -322,12 +320,12 @@ _Last updated: **2026-09-20 07:54 UTC** (2026-09-20 15:54 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 363
-- **Recommended (not disqualified):** 301
+- **Active jobs tracked:** 361
+- **Recommended (not disqualified):** 299
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 196, possible: 101, low priority: 0
+- Matches — excellent: 4, strong: 196, possible: 99, low priority: 0
 
 ## Source problems
 
