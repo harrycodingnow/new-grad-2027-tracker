@@ -1,5 +1,46 @@
 {
-  "generated_at": "2026-09-27T14:08:52Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-09-27T18:35:03Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "amazon-10561032",
+      "source_job_id": "10561032",
+      "company": "Amazon",
+      "title": "Data Engineer, Partner Experience",
+      "location": "Seattle, Washington, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Data Science",
+      "employment_type": "full-time",
+      "description": "Prime Video is a first-stop entertainment destination offering customers a vast collection of premium programming in one app available across thousands of devices. Prime members can customize their viewing experience and find their favorite movies, series, documentaries, and live sports – including Amazon MGM Studios-produced series and movies; licensed fan favorites; and programming from Prime Video add-on subscriptions such as Apple TV+, Max, Crunchyroll and MGM+. All customers, regardless of whether they have Prime membership or not, can rent or buy titles via the Prime Video Store, and can enjoy even more content for free with ads. Are you interested in shaping the future of entertainment? Do you want to invent, disrupt and redefine what entertainment means for fans, creators, and communities all around the globe? As part of the Prime Video team, you’ll get to work on projects that are fast-paced, challenging, and varied. Also, you’ll get to experiment with new possibilities, take risks, and collaborate with remarkable people. We’ll look for you to bring your diverse perspectives, ideas, and skill sets to make Prime Video even better for our customers. With global opportunities for talented creatives, technologists, marketing professionals and so much more, you can decide where a career with Prime Video takes you! Prime Video's Partner and Content Foundations (PCF) product and data organization obsesses over partners by delivering world-class tools that enable them to launch, grow, and scale their businesses across Prime Video's business lines. PCF Data fulfills the data and analytics needs for the PCF organization by building scalable data infrastructure, automated pipelines, and trusted metrics that power supply chain analytics, catalog analytics, and content delivery measurement. The team owns core Catalog and Quality datasets, tracking content availability, on-time delivery, offer quality, and supply chain efficiency across Prime Video's global operations. By producing quality data, providing actionable insights, and enabling self-service analytics, PCF Data drives data-driven decision-making across Product, Tech, and Operations, consistent with the goal of Getting, Keeping, and Delighting Prime Video Viewers. Key job responsibilities We are seeking a talented Data Engineer to enhance PCF Data's core data infrastructure by implementing AWS services to build data pipelines, improve data accuracy, reduce latency, increase service stability, and ensure compliance with Amazon-wide data regulations. The Data Engineer will partner with Senior Data Engineers and SDE teams to design and maintain our Redshift-based data warehouse environment, building scalable architectures and migrating critical pipelines to serverless compute platforms. You will also contribute to AI enablement efforts, building the data foundations that power self-service analytics and AI-driven insight generation for our product teams. As a Data Engineer on the team, you will work with very large datasets in one of the world's largest and most complex data lake and data warehouse environments. You will design, build, and maintain robust data infrastructure to process large volumes of data from various sources. - Writing clean, maintainable code that adheres to best practices - Leveraging AWS data processing services - Possessing broad knowledge of different data types and when to use them - Understanding data security and compliance standards to ensure alignment with company policies and regulations - Using GenAI to improve efficiency and accelerate delivery A day in the life Write the design document to propose the solutions to resolve challenging data processing and data handling. Meet with peers to discuss proposed solutions. Review design documents with product managers, senior management, and Senior SDEs to communicate your approach and gather feedback. Build data infrastructure and pipelines using AWS services. About the team We are a centralized data team supporting the Partner and Content Foundations. We process big data using advanced AWS services. We work closely with PMs, TPMs, SDEs, and Applied Scientists, and collaborate with other data teams outside of the Partner and Content Foundations organization to deliver products for Prime Video partners. - 3+ years of data engineering experience - Experience with data modeling, warehousing and building ETL pipelines - Experience with SQL - Experience in Python, Perl, or another scripting language - Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, WA, SEATTLE - 132,100.00 - 178,800.00 USD annually",
+      "requirements": "- 3+ years of data engineering experience - Experience with data modeling, warehousing and building ETL pipelines - Experience with SQL - Experience in Python, Perl, or another scripting language",
+      "application_url": "https://www.amazon.jobs/en/jobs/10561032/data-engineer-partner-experience",
+      "source_url": "https://www.amazon.jobs/en/jobs/10561032/data-engineer-partner-experience",
+      "source_type": "json",
+      "date_posted": "2026-09-27",
+      "first_seen": "2026-09-27T18:35:00Z",
+      "last_seen": "2026-09-27T18:35:00Z",
+      "status": "active",
+      "graduation_match": "unspecified",
+      "role_match_score": 85,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 69,
+      "matched_keywords": [
+        "ai",
+        "aws",
+        "data engineer",
+        "etl",
+        "python",
+        "sql"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 30/35 (primary role match (Data Engineer); skills: python, sql, aws, ai, etl) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Seattle, Washington, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 0,
+      "announced": true
+    }
+  ]
 }
