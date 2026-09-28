@@ -1,13 +1,18 @@
 # Newly Discovered Jobs
 
-_Found in the run at **2026-09-28 16:54 UTC** — auto-generated._
+_Found in the run at **2026-09-28 20:42 UTC** — auto-generated._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
 | Apply | Company | Title | Location | Sponsorship | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277) | NVIDIA | ASIC Design Engineer - New College Grad 2027 | US, CA, Santa Clara | ⚪ unclear | 2026-09-28 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=8224915) | Stripe | Machine Learning Engineer, Growth Platform | San Francisco | ⚪ unclear | 2026-09-28 |
-| [Apply](https://www.amazon.jobs/en/jobs/10561978/software-development-engineer-amazon-quick) | Amazon | Software Development Engineer, Amazon Quick | New York, New York, USA | ⚪ unclear | 2026-09-28 |
-| [Apply](https://www.amazon.jobs/en/jobs/10561388/software-development-engineer-dynamodb-index-search-and-storage) | Amazon | Software Development Engineer , DynamoDB Index, Search and Storage | Seattle, Washington, USA | ⚪ unclear | 2026-09-28 |
-| [Apply](https://www.amazon.jobs/en/jobs/10561581/software-development-engineer) | Amazon | Software Development Engineer | Santa Clara, California, USA | ⚪ unclear | 2026-09-28 |
+| [Apply](https://www.amazon.jobs/en/jobs/10562274/software-development-engineer-items-and-offers-platform-identity-performance-and-defect-detection) | Amazon | Software Development Engineer, Items and Offers Platform, Identity Performance and Defect Detection | Seattle, Washington, USA | ⚪ unclear | 2026-09-28 |
+| [Apply](https://www.amazon.jobs/en/jobs/10562270/software-development-engineer-items-and-offers-platform-identity-performance-and-defect-detection) | Amazon | Software Development Engineer, Items and Offers Platform, Identity Performance and Defect Detection | Seattle, Washington, USA | ⚪ unclear | 2026-09-28 |
+| [Apply](https://www.amazon.jobs/en/jobs/10562475/software-development-engineer-aws-vulnerability-management-avm) | Amazon | Software Development Engineer, AWS Vulnerability Management (AVM) | Arlington, Virginia, USA | ⚪ unclear | 2026-09-28 |
+| [Apply](https://www.amazon.jobs/en/jobs/10562474/software-development-engineer-aws-vulnerability-management-avm) | Amazon | Software Development Engineer, AWS Vulnerability Management (AVM) | Arlington, Virginia, USA | ⚪ unclear | 2026-09-28 |
+| [Apply](https://morganstanley.eightfold.ai/careers/job/549798264156) | Morgan Stanley | Associate, Software Engineer | Alpharetta, Georgia, United States of America | ⚪ unclear | 2026-09-28 |
+| [Apply](https://www.amazon.jobs/en/jobs/10562259/software-development-engineer-aws-payments-fraud-prevention) | Amazon | Software Development Engineer, AWS Payments & Fraud Prevention | Seattle, Washington, USA | ⚪ unclear | 2026-09-28 |
+| [Apply](https://morganstanley.eightfold.ai/careers/job/549799034106) | Morgan Stanley | Associate, Software Engineer | Alpharetta, Georgia, United States of America | ⚪ unclear | 2026-09-28 |
+| [Apply](https://www.amazon.jobs/en/jobs/10562411/software-development-engineer-amazon-shopping-videos-ads) | Amazon | Software Development Engineer, Amazon Shopping Videos (Ads) | Seattle, Washington, USA | ⚪ unclear | 2026-09-28 |
+| [Apply](https://www.amazon.jobs/en/jobs/10562446/software-development-engineer-distributed-services) | Amazon | Software Development Engineer - Distributed Services | Seattle, Washington, USA | ⚪ unclear | 2026-09-28 |
+| [Apply](https://careers.qualcomm.com/careers/job/446721159325) | Qualcomm | Embedded Software Engineer | Santa Clara, California, United States of America | ⚪ unclear | 2026-09-28 |
