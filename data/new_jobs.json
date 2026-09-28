@@ -1,5 +1,49 @@
 {
-  "generated_at": "2026-09-27T23:17:15Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-09-28T08:54:48Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "amazon-10524253",
+      "source_job_id": "10524253",
+      "company": "Amazon",
+      "title": "Data Engineer, WW Ops Finance S&A",
+      "location": "Irving, Texas, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Data Science",
+      "employment_type": "full-time",
+      "description": "Are you passionate about standardizing data platforms and automating data engineering to drive analytics and reporting? Do you excel in dynamic, fast-paced environments and find joy in converting data into actionable insights? Are you adept at implementing data governance practices and defining data access and quality standards? If you thrive in innovation and can deliver scalable Data Engineering Solutions, then the Worldwide Operations Finance Standardization & Automation (S&A) team has an exciting opportunity for you! We are seeking a customer-centric Data Engineer to establish a reliable and accessible data platform, ensuring Operations Finance customers have complete trust in the data, technology, and tools to make data-driven business decisions. We are looking for a top-notch Data Engineer to be part of our Global Data Delivery organization, working with one of the world's largest and most complex data warehouse environments. As a Data Engineer in WW Ops S&A, you will design, implement and support scalable data infrastructure solutions and implement complex data models for Amazon Customer Fulfillment business. You will create solutions to integrate with multi heterogeneous data sources, aggregate and retrieve data in a fast and safe mode, curate data that can be used in reporting, analysis, GenAI models and ad-hoc data requests. You should have excellent business and communication skills to be able to work with business owners, Finance and Product teams along with tech leaders to gather infrastructure requirements, design data infrastructure, build up data pipelines and data-sets to meet business needs. You will be responsible for developing and operating a data service platform using Python, Airflow, and SQL to build various ETL, analytics, and data quality components. You'll automate deployments using AWS CodeDeploy, AWS CodePipeline, AWS Cloud Development Kit (CDK), and AWS Cloud Formation. You will work with AWS services like Redshift, Glue, S3, IAM, CloudWatch, and more. Strong experience in Data Warehouse and Business Intelligence application development, expert knowledge in SQL query optimization, and experience with programming languages such as Scala/Python are essential for this role. Key job responsibilities - Design, build, and maintain complex data solutions and ETL pipelines using Python, Spark, SQL, and AWS services (S3, Glue, Redshift, MWAA, EMR, Lambda) - Develop high-quality data architecture and scalable pipelines to support customer reporting needs, while implementing and supporting analytics infrastructure for internal Finance customers - Interface with technology teams to extract, transform, and load data from various sources, ensuring data quality and making appropriate trade-offs in design decisions - Collaborate with business users, developers, and BI Engineers to deliver on data architecture projects and next-generation financial solutions - Actively participate in code reviews, design discussions, and team planning, while continually improving reporting processes and automating self-service support - Identify and implement process improvements to drive innovation, scale existing solutions, and create new ones based on stakeholder needs - Diagnose and resolve operational issues through detailed root cause analysis, maintaining high standards of system availability and reliability About the team The Operations finance data ecosystem supports global data management solutions inclusive of the scaling solutions to support 10+ data producer teams and 2500 finance customers. The role will work with BIE/DE teams across the organization, identifying critical customer pain points and help design , implement and drive customer's data journey. In the age of AI capabilities, the role will identify newer mechanisms to help incorporate AI driven workflows both for our builder and customer communities. - 3+ years of data engineering experience - Experience with data modeling, warehousing and building ETL pipelines - Bachelor's degree - Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS - Knowledge of distributed systems as it pertains to data storage and computing - Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions - Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases) - Experience building large-scale, high-throughput, 24x7 data systems Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, TX, Irving - 132,100.00 - 178,800.00 USD annually USA, WA, Bellevue - 132,100.00 - 178,800.00 USD annually",
+      "requirements": "- 3+ years of data engineering experience - Experience with data modeling, warehousing and building ETL pipelines - Bachelor's degree - Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS - Knowledge of distributed systems as it pertains to data storage and computing",
+      "application_url": "https://www.amazon.jobs/en/jobs/10524253/data-engineer-ww-ops-finance-s-a",
+      "source_url": "https://www.amazon.jobs/en/jobs/10524253/data-engineer-ww-ops-finance-s-a",
+      "source_type": "json",
+      "date_posted": "2026-09-01",
+      "first_seen": "2026-09-28T08:54:46Z",
+      "last_seen": "2026-09-28T08:54:46Z",
+      "status": "active",
+      "graduation_match": "unspecified",
+      "role_match_score": 100,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 70,
+      "matched_keywords": [
+        "ai",
+        "automation",
+        "aws",
+        "cloud",
+        "data engineer",
+        "distributed systems",
+        "etl",
+        "python",
+        "sql"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 35/35 (primary role match (Data Engineer); skills: python, sql, cloud, aws, ai, etl) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Irving, Texas, USA) · recency 6/10 (posted 27d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 0,
+      "announced": true
+    }
+  ]
 }
