@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-03 18:06 UTC** (2026-10-04 02:06 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-03 23:18 UTC** (2026-10-04 07:18 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -40,7 +40,6 @@ _Last updated: **2026-10-03 18:06 UTC** (2026-10-04 02:06 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10563964/software-development-engineer-eva) | Amazon | Software Development Engineer, Eva | Bellevue, Washington, USA | ⚪ unclear | 2026-09-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10564106/data-engineer-studios-analytics) | Amazon | Data Engineer, Studios Analytics | Culver City, California, USA | ⚪ unclear | 2026-09-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10560626/software-development-engineer-aws-marketing-data-science-engineering-d-se) | Amazon | Software Development Engineer, AWS Marketing, Data Science & Engineering (D:SE) | Seattle, Washington, USA | ⚪ unclear | 2026-09-25 |
-| [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--MTS---Frontier-Strike--EntSecTech-_JR361861) | Salesforce | Software Engineer (MTS), Frontier Strike (EntSecTech) | Washington - Bellevue | ⚪ unclear | 2026-09-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10530461/data-engineer-i-zappos-analytics) | Amazon | Data Engineer I, Zappos Analytics | New York, New York, USA | ⚪ unclear | 2026-09-04 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274920488372) | PayPal | Software Engineer- Cloud Infrastructure and DevOps | Austin, Texas, United States of America | 🟡 possibly supported | 2026-09-02 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167806) | Hudson River Trading | Design Verification (DV) Engineer - 2027 Grads | New York, NY, United States | ⚪ unclear | 2026-08-31 |
@@ -326,12 +325,12 @@ _Last updated: **2026-10-03 18:06 UTC** (2026-10-04 02:06 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 373
-- **Recommended (not disqualified):** 305
+- **Active jobs tracked:** 372
+- **Recommended (not disqualified):** 304
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 6, strong: 189, possible: 110, low priority: 0
+- Matches — excellent: 6, strong: 188, possible: 110, low priority: 0
 
 ## Source problems
 
