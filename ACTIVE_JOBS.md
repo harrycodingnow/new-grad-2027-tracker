@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-03 13:34 UTC** (2026-10-03 21:34 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-03 18:06 UTC** (2026-10-04 02:06 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -285,11 +285,9 @@ _Last updated: **2026-10-03 13:34 UTC** (2026-10-03 21:34 Asia/Taipei) — auto-
 | [Apply](https://www.optiver.com/join-us/jobs/8672685002/?gh_jid=8672685002) | Optiver | AI Engineer | New York, New York | ⚪ unclear | 2026-08-03 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8229056002/) | Jane Street | Campus Recruiter, Machine Learning and Quantitative Research | NYC | ⚪ unclear | — |
 | [Apply](https://www.amazon.jobs/en/jobs/10566727/device-software-engineer-amazon-leo-government) | Amazon | Device Software Engineer, Amazon Leo Government | Arlington, Virginia, USA | ⚪ unclear | 2026-10-01 |
-| [Apply](https://careers.qualcomm.com/careers/job/446720923794) | Qualcomm | GPU Research Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10560727/software-development-engineer-consumer-domains) | Amazon | Software Development Engineer, Consumer Domains | Newark, New Jersey, USA | ⚪ unclear | 2026-09-25 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721159119) | Qualcomm | Embedded Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-18 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721159112) | Qualcomm | Embedded Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-18 |
-| [Apply](https://careers.qualcomm.com/careers/job/446717707980) | Qualcomm | Enablement Software Engineer | Santa Clara, California, United States of America | ⚪ unclear | 2026-09-17 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=7988264) | Stripe | Backend Engineer, Intelligent Commerce | Seattle, San Francisco, New York | ⚪ unclear | 2026-09-15 |
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8191392) | DRW | Cloud Engineer | Chicago | ⚪ unclear | 2026-09-10 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8127182) | Stripe | Software Engineer, Revenue and Financial Automation | San Francisco, New York City, Seattle, Chicago, US-Remote | ⚪ unclear | 2026-09-01 |
@@ -328,12 +326,12 @@ _Last updated: **2026-10-03 13:34 UTC** (2026-10-03 21:34 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 375
-- **Recommended (not disqualified):** 307
+- **Active jobs tracked:** 373
+- **Recommended (not disqualified):** 305
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 6, strong: 189, possible: 112, low priority: 0
+- Matches — excellent: 6, strong: 189, possible: 110, low priority: 0
 
 ## Source problems
 
