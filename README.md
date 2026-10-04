@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-04 08:39 UTC** (2026-10-04 16:39 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-04 14:14 UTC** (2026-10-04 22:14 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -215,6 +215,7 @@ _Last updated: **2026-10-04 08:39 UTC** (2026-10-04 16:39 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10557990/software-development-engineer-ads-ai-core-infra) | Amazon | Software Development Engineer, Ads AI Core Infra | Seattle, Washington, USA | ⚪ unclear | 2026-09-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10558206/software-development-engineer-ads-experience-framework) | Amazon | Software Development Engineer, Ads Experience Framework | New York, New York, USA | ⚪ unclear | 2026-09-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10558292/software-development-engineer-amazon) | Amazon | Software Development Engineer, Amazon | Bellevue, Washington, USA | ⚪ unclear | 2026-09-23 |
+| [Apply](https://www.amazon.jobs/en/jobs/10556926/software-development-engineer-measurement-ad-tech-and-data-science-mads) | Amazon | Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS) | Denver, Colorado, USA | ⚪ unclear | 2026-09-22 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720361954) | Qualcomm | SoC Systems & Infrastructure Engineer (Design • Validation • Debug • FPGA • Emulation • Software) | San Diego, California, United States of America | ⚪ unclear | 2026-09-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10554286/software-development-engineer-expert-consultant-agi-data-services) | Amazon | Software Development Engineer - Expert Consultant, AGI - Data Services | Bellevue, Washington, USA | ⚪ unclear | 2026-09-21 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8222149) | Stripe | Data Scientist | Seattle, WA | ⚪ unclear | 2026-09-21 |
@@ -270,6 +271,7 @@ _Last updated: **2026-10-04 08:39 UTC** (2026-10-04 16:39 Asia/Taipei) — auto-
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4880741101) | IMC | Prosperity 2026 - Role Interest Form | Chicago, United States | ⚪ unclear | 2026-06-02 |
 | [Apply](https://www.amazon.jobs/en/jobs/10555703/software-development-engineer-3p-measurement-tech) | Amazon | Software Development Engineer, 3P Measurement Tech | New York, New York, USA | ⚪ unclear | 2026-09-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10556824/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-09-22 |
+| [Apply](https://www.amazon.jobs/en/jobs/10556924/software-development-engineer-pricing-platform) | Amazon | Software Development Engineer, Pricing Platform | Seattle, Washington, USA | ⚪ unclear | 2026-09-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10556935/software-development-engineer-seller-assistant-spx) | Amazon | Software Development Engineer, Seller Assistant, SPX | Seattle, Washington, USA | ⚪ unclear | 2026-09-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10553819/software-development-engineer-amazon-devices-ds2-device-software-services) | Amazon | Software Development Engineer, Amazon Devices, DS2 (Device Software & Services) | Denver, Colorado, USA | ⚪ unclear | 2026-09-18 |
 | [Apply](https://www.amazon.jobs/en/jobs/10551443/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-09-17 |
@@ -325,12 +327,12 @@ _Last updated: **2026-10-04 08:39 UTC** (2026-10-04 16:39 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 372
-- **Recommended (not disqualified):** 304
+- **Active jobs tracked:** 375
+- **Recommended (not disqualified):** 306
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 6, strong: 188, possible: 110, low priority: 0
+- Matches — excellent: 6, strong: 188, possible: 112, low priority: 0
 
 ## Source problems
 
