@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T18:18:30Z",
-  "count": 1277,
+  "generated_at": "2026-10-04T23:26:40Z",
+  "count": 1278,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -35584,6 +35584,47 @@
       "disqualify_reason": "sponsorship classification 'ineligible': Software Lifecycle Professional) - Experience programming with at least one software programming language - Current, active US Government Security Clearance of ",
       "consecutive_missing": 3,
       "announced": false
+    },
+    {
+      "job_id": "amazon-10561978",
+      "source_job_id": "10561978",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Quick",
+      "location": "New York, New York, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Software Development",
+      "employment_type": "full-time",
+      "description": "Are you interested in building AWS AI services that use ML and LLM technology? Amazon is growing, and we need Software Development Engineers who move fast, are capable of breaking down and solving complex problems, and have a strong will to get things done. This is an opportunity to work with an experienced team of engineers and scientists on an innovative AI service within the Information Retrieval space; you will get the chance to work with the newest machine learning technologies, including LLMs, on a product with a high degree of visibility within AWS. As a Software Development Engineer, you will be responsible for designing, developing, testing, and deploying distributed machine learning systems and large-scale solutions for our world-wide customer base. In this role, you will collaborate closely with your team to influence our overall strategy and define the team’s road map. You will also drive the system architecture, spearhead best practices that enable a quality product, and help coach and develop junior engineers. A successful candidate will have an established background in engineering large scale software systems, a strong technical ability, great communication skills, and a motivation to achieve results in a fast paced environment. Agentic AI drives innovation at the forefront of artificial intelligence, enabling customers to transform their businesses through cutting-edge AI solutions. We build and deliver the foundational AI services that power the future of cloud computing, helping organizations harness the potential of AI to solve their most complex challenges. Join our dynamic team of AI/ML practitioners, applied scientists, software engineers, and solution architects who work backwards from customer needs to create groundbreaking technologies. If you're passionate about shaping the future of AI while making a meaningful impact for customers worldwide, we want to hear from you. About the team Diverse Experiences AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying. Why AWS? Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. Inclusive Team Culture Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences, inspire us to never stop embracing our uniqueness. Mentorship & Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud. EEO/Accommodations AWS is committed to a diverse and inclusive workplace to deliver the best results for our customers. We celebrate the diverse ways we work. For individuals with disabilities who would like to request an accommodation, please let us know and we will connect you to our accommodation team. You may also reach them directly by visiting please https://www.amazon.jobs/en/disability/us. - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent - Experience with full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations - Experience in machine learning, data mining, information retrieval, statistics or natural language processing - Experience building complex software systems that have been successfully delivered to customers Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, NY, New York - 158,100.00 - 213,800.00 USD annually",
+      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience",
+      "application_url": "https://www.amazon.jobs/en/jobs/10561978/software-development-engineer-amazon-quick",
+      "source_url": "https://www.amazon.jobs/en/jobs/10561978/software-development-engineer-amazon-quick",
+      "source_type": "json",
+      "date_posted": "2026-09-28",
+      "first_seen": "2026-09-28T16:54:51Z",
+      "last_seen": "2026-10-04T08:39:06Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 90,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 71,
+      "matched_keywords": [
+        "ai",
+        "aws",
+        "c#",
+        "cloud",
+        "llm",
+        "machine learning",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 32/35 (title matched filter terms; skills: c#, cloud, aws, llm, ai, machine learning) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (New York, New York, USA) · recency 10/10 (posted 6d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 3,
+      "announced": true
     },
     {
       "job_id": "amazon-10562856",
