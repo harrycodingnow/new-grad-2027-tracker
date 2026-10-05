@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-05 09:21 UTC** (2026-10-05 17:21 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-05 17:18 UTC** (2026-10-06 01:18 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -57,6 +57,7 @@ _Last updated: **2026-10-05 09:21 UTC** (2026-10-05 17:21 Asia/Taipei) — auto-
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) | NVIDIA | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | US, CA, Santa Clara | ⚪ unclear | 2026-09-05 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504) | NVIDIA | NVIDIA 2027 Internships: Digital Circuit Design | US, CA, Santa Clara | ⚪ unclear | 2026-09-05 |
 | [Apply](https://www.amazon.jobs/en/jobs/10530461/data-engineer-i-zappos-analytics) | Amazon | Data Engineer I, Zappos Analytics | New York, New York, USA | ⚪ unclear | 2026-09-04 |
+| [Apply](https://www.amazon.jobs/en/jobs/10569344/software-development-engineer-aws-network-firewall) | Amazon | Software Development Engineer, AWS Network Firewall | Herndon, Virginia, USA | ⚪ unclear | 2026-10-05 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721161408) | Qualcomm | #Wireless Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-10-01 |
 | [Apply](https://www.amazon.jobs/en/jobs/10565536/software-development-engineer-agentcore-aws-agentic-ai) | Amazon | Software Development Engineer - AgentCore, AWS Agentic AI | New York, New York, USA | ⚪ unclear | 2026-09-30 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2026_JR2011879) | NVIDIA | System Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-09-30 |
@@ -329,12 +330,12 @@ _Last updated: **2026-10-05 09:21 UTC** (2026-10-05 17:21 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 377
-- **Recommended (not disqualified):** 308
+- **Active jobs tracked:** 378
+- **Recommended (not disqualified):** 309
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 191, possible: 113, low priority: 0
+- Matches — excellent: 4, strong: 192, possible: 113, low priority: 0
 
 ## Source problems
 
