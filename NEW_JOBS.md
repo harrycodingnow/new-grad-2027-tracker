@@ -1,13 +1,12 @@
 # Newly Discovered Jobs
 
-_Found in the run at **2026-10-07 00:01 UTC** — auto-generated._
+_Found in the run at **2026-10-07 08:59 UTC** — auto-generated._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
 | Apply | Company | Title | Location | Sponsorship | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Speed-SerDes-Validation-Engineer---New-College-Grad-2026_JR2026800) | NVIDIA | High Speed SerDes Validation Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-10-06 |
-| [Apply](https://jobs.smartrecruiters.com/servicenow/744000153871309) | ServiceNow | Software Engineer | Santa Clara, CALIFORNIA | ⚪ unclear | 2026-10-06 |
-| [Apply](https://www.amazon.jobs/en/jobs/10571313/software-development-engineer-amazon-q) | Amazon | Software Development Engineer, Amazon Q | Arlington, Virginia, USA | ⚪ unclear | 2026-10-06 |
-| [Apply](https://www.amazon.jobs/en/jobs/10571270/software-engineer-fauna) | Amazon | Software Engineer, Fauna | New York, New York, USA | ⚪ unclear | 2026-10-06 |
-| [Apply](https://www.amazon.jobs/en/jobs/10571091/aws-marketplace-software-development-engineer-marketplace) | Amazon | AWS Marketplace - Software Development Engineer, Marketplace | Austin, Texas, USA | ⚪ unclear | 2026-10-06 |
+| [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458) | NVIDIA | Systems Software Engineer,  AI and Cloud - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-10-06 |
+| [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Associate-Engineer--IT-Eng-System-Mgr_JR112672) | Micron | Associate Engineer, IT Eng System Mgr | Hyderabad - Phoenix Aquila, India | ⚪ unclear | 2026-10-07 |
+| [Apply](https://www.amazon.jobs/en/jobs/10571445/software-development-engineer) | Amazon | Software Development Engineer | Bellevue, Washington, USA | ⚪ unclear | 2026-10-07 |
+| [Apply](https://www.amazon.jobs/en/jobs/10571455/software-development-engineer-dynamodb) | Amazon | Software Development Engineer, DynamoDB | Seattle, Washington, USA | ⚪ unclear | 2026-10-07 |
