@@ -1,5 +1,46 @@
 {
-  "generated_at": "2026-10-11T19:04:55Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-10-11T23:53:00Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "nvidia-JR2027337",
+      "source_job_id": "JR2027337",
+      "company": "NVIDIA",
+      "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
+      "location": "US, CA, Santa Clara",
+      "country": "United States of America",
+      "workplace_type": "",
+      "department": "",
+      "employment_type": "Full time",
+      "description": "Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the DL Kernel Library team and see how you can make a lasting impact on the world. We're looking for Software Engineer Interns to help develop groundbreaking technologies in the deep learning inference and training systems software stack! We build innovative AI systems software, primarily cuDNN and FlashInfer. As a member of the team, you'll develop libraries, code generators, and GPU kernel technologies for NVIDIA's hardware architecture. This means designing and building things like new abstractions, efficient kernel implementations, and kernel code generators to accelerate large language models, agents, and other high-impact AI workloads. What you'll be doing: Innovating and developing new AI systems technologies for efficient inference and training Designing, implementing, and optimizing kernels for high impact AI workloads Designing and implementing extensible abstractions for serving engines and training frameworks Building efficient just-in-time domain specific compilers and runtimes Collaborating closely with other engineers at NVIDIA across deep learning frameworks, libraries, kernels, and GPU arch teams Contributing to open source communities across FlashInfer, cuDNN, vLLM, SGLang, PyTorch, JAX, and XLA What we need to see: BS, MS, or PhD degree in Computer Science, Electrical Engineering, or related field (or equivalent experience) Strong experience in developing or using deep learning frameworks (e.g. PyTorch, JAX, TensorFlow, ONNX, etc) or inference engines and runtimes such as vLLM, SGLang, and MLC. Strong Python and C/C++ programming skills Ways to stand out from the crowd: Background in domain specific compiler and library solutions for LLM inference and training (e.g. FlashInfer, Flash Attention) Expertise in training frameworks and inference engines Expertise in machine learning compilers (e.g. Apache TVM, MLIR) Strong experience in GPU kernel development and performance optimizations (especially using CUDA C/C++, CUTLASS DSL, cuTile, Triton, or similar) Open source project ownership or contributions NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 108,000 USD - 178,250 USD for Level 1, and 124,000 USD - 195,500 USD for Level 2. You will also be eligible for equity and benefits . Applications for this job will be accepted at least until October 15, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+      "requirements": "",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+      "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+      "source_type": "workday",
+      "date_posted": "2026-10-11",
+      "first_seen": "2026-10-11T23:52:58Z",
+      "last_seen": "2026-10-11T23:52:58Z",
+      "status": "active",
+      "graduation_match": "compatible_2027",
+      "role_match_score": 80,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 79,
+      "matched_keywords": [
+        "2027",
+        "ai",
+        "llm",
+        "machine learning",
+        "python",
+        "software engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 28/35 (primary role match (Software Engineer); skills: python, llm, ai, machine learning) · graduation 20/20 (compatible_2027) · sponsorship 11/25 (unclear) · location 10/10 (US, CA, Santa Clara) · recency 10/10 (posted 0d ago) · graduation note: posting targets 2027 grads — matches May 2027 graduation",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 0,
+      "announced": true
+    }
+  ]
 }
