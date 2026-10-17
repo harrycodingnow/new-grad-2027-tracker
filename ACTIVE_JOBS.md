@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-17 12:20 UTC** (2026-10-17 20:20 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-17 17:22 UTC** (2026-10-18 01:22 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -30,7 +30,6 @@ _Last updated: **2026-10-17 12:20 UTC** (2026-10-17 20:20 Asia/Taipei) — auto-
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744) | NVIDIA | SoC Software Engineer - New College Grad 2027 | US, CA, Santa Clara | ⚪ unclear | 2026-10-13 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719) | NVIDIA | ASIC Verification Engineer - New College Grad 2027 | US, CA, Santa Clara | ⚪ unclear | 2026-10-13 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850) | NVIDIA | Low Power ASIC Engineer - New College Grad 2027 | US, CA, Santa Clara | ⚪ unclear | 2026-10-13 |
-| [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Austin/XMLNAME-2027-University-Graduate---Enterprise-Architecture-Analyst_R172328) | Adobe | 2027 University Graduate - Enterprise Architecture Analyst | Austin | ⚪ unclear | 2026-10-13 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990) | NVIDIA | Developer Technology Engineer, Public Sector - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-10-12 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1) | NVIDIA | NVIDIA 2027 Internships: Hardware Design for Test (DFT) | US, CA, Santa Clara | ⚪ unclear | 2026-10-12 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) | NVIDIA | NVIDIA 2027 Internships: Hardware Verification | US, CA, Santa Clara | ⚪ unclear | 2026-10-12 |
@@ -140,7 +139,6 @@ _Last updated: **2026-10-17 12:20 UTC** (2026-10-17 20:20 Asia/Taipei) — auto-
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050) | Hudson River Trading | Algorithm Developer (Quant Research & Trading) – 2027 Grads | London, United Kingdom; New York, NY, United States; Singap… | ⚪ unclear | 2026-07-13 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845) | Hudson River Trading | Algorithm Developer (Quant Research & Trading) – 2027 PhDs | London, United Kingdom; New York, NY, United States; Singap… | ⚪ unclear | 2026-07-13 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274922740164) | PayPal | Software Engineer - Android | San Jose, California, United States of America | 🟡 possibly supported | 2026-10-07 |
-| [Apply](https://www.amazon.jobs/en/jobs/10570562/software-development-engineer-platform-engineering-and-services-aft-labor-insights) | Amazon | Software Development Engineer, Platform Engineering and Services (AFT Labor Insights) | Austin, Texas, USA | ⚪ unclear | 2026-10-06 |
 | [Apply](https://www.amazon.jobs/en/jobs/10570563/software-development-engineer-platform-engineering-and-services-aft-labor-insights) | Amazon | Software Development Engineer, Platform Engineering and Services (AFT Labor Insights) | Bellevue, Washington, USA | ⚪ unclear | 2026-10-06 |
 | [Apply](https://www.amazon.jobs/en/jobs/10556714/data-engineer-amazon-music-amazon-music-finance) | Amazon | Data Engineer, Amazon Music, Amazon Music Finance | Culver City, California, USA | ⚪ unclear | 2026-09-22 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534) | NVIDIA | ASIC Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-09-17 |
@@ -208,7 +206,6 @@ _Last updated: **2026-10-17 12:20 UTC** (2026-10-17 20:20 Asia/Taipei) — auto-
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000150776289) | ServiceNow | Software Engineer - Applicant Tracking Systems | West Palm Beach, Florida | ⚪ unclear | 2026-09-21 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000150444020) | ServiceNow | Software Engineer | Santa Clara, CALIFORNIA | ⚪ unclear | 2026-09-18 |
 | [Apply](https://careers.qualcomm.com/careers/job/446717859953) | Qualcomm | Machine Learning Engineer - College Graduate | San Diego, California, United States of America | ⚪ unclear | 2026-09-17 |
-| [Apply](https://www.amazon.jobs/en/jobs/10547654/data-engineer-amazon-customer-service) | Amazon | Data Engineer , Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-09-16 |
 
 ## 🤔 Possible matches (50–64)
 
@@ -322,12 +319,12 @@ _Last updated: **2026-10-17 12:20 UTC** (2026-10-17 20:20 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 356
-- **Recommended (not disqualified):** 301
+- **Active jobs tracked:** 351
+- **Recommended (not disqualified):** 298
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 192, possible: 105, low priority: 0
+- Matches — excellent: 4, strong: 189, possible: 105, low priority: 0
 
 ## Source problems
 
