@@ -1,47 +1,5 @@
 {
-  "generated_at": "2026-10-17T07:07:21Z",
-  "count": 1,
-  "jobs": [
-    {
-      "job_id": "amazon-10582047",
-      "source_job_id": "10582047",
-      "company": "Amazon",
-      "title": "Software Development Engineer - Amazon LEO Network Services, LEO Pop",
-      "location": "Sunnyvale, California, USA",
-      "country": "United States",
-      "workplace_type": "",
-      "department": "Software Development",
-      "employment_type": "full-time",
-      "description": "Amazon Leo is an initiative to launch a constellation of Low Earth Orbit satellites that will provide low-latency, high-speed broadband network connectivity to unserved and underserved communities around the world. In this role as a SDE, you will be part of the core technical team building the ground based traffic processing pipelines for connecting LEO’s satellite network to the external world. This opportunity will afford you an exciting SDE role in Amazon Leo that would enable you to architect and build software from the ground up and drive the engineering culture of the team. Export Control Requirement: Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum. Key job responsibilities * You will develop code, build CI/CD pipelines, test automation, and dashboards for monitoring health of systems and data pipelines. * You will work with multiple cross functional teams to gather requirements, design, develop, deploy, and operate the infrastructure you build * You will develop and mentor junior and new team members. * You will engineer and build a cloud service that is reliable and available to provide connectivity for our customers * You will work on features that enhance the quality of service and security for our customers. * You will collaborate and work on initiatives across multiple teams to build networking functions on AWS cloud infrastructure and set best practices for software development processes. A day in the life Software Development Engineer at Amazon Leo work on designing networking features with various stakeholders, implementing and testing them on prototype/production environments and delivering solutions with the highest quality. We write code, debug, and create the world’s most innovative products. We also operate our own service fleets and handle our customer issues to provide the best experience for our customers. About the team Here at Amazon Leo, we embrace our differences. We are committed to furthering our culture of inclusion. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) conference. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust. Work/Life Balance Our team puts a high value on work-life balance. It isn’t about how many hours you spend at home or at work, it’s about the workflow you establish that brings energy to both parts of your life. We believe striking the right balance between your personal and professional life is critical to life-long happiness and fulfillment. We are flexible in our working hours and encourage you to find harmony between your work and personal lives. - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - Experience with C/C++, GoLang or Rust programming language Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, CA, Sunnyvale - 165,200.00 - 223,600.00 USD annually",
-      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language",
-      "application_url": "https://www.amazon.jobs/en/jobs/10582047/software-development-engineer-amazon-leo-network-services-leo-pop",
-      "source_url": "https://www.amazon.jobs/en/jobs/10582047/software-development-engineer-amazon-leo-network-services-leo-pop",
-      "source_type": "json",
-      "date_posted": "2026-10-17",
-      "first_seen": "2026-10-17T07:07:20Z",
-      "last_seen": "2026-10-17T07:07:20Z",
-      "status": "active",
-      "graduation_match": "unspecified",
-      "role_match_score": 75,
-      "sponsorship_classification": "ineligible",
-      "sponsorship_evidence": "Export Control Requirement: Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.",
-      "international_student_risk_flags": [
-        "must be a u.s. citizen",
-        "green card holder"
-      ],
-      "overall_score": 54,
-      "matched_keywords": [
-        "automation",
-        "aws",
-        "cloud",
-        "software development engineer"
-      ],
-      "excluded_keywords": [],
-      "score_explanation": "role 26/35 (title matched filter terms; skills: cloud, aws, automation) · graduation 8/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (Sunnyvale, California, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
-      "disqualified": true,
-      "disqualify_reason": "sponsorship classification 'ineligible': Export Control Requirement: Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.",
-      "consecutive_missing": 0,
-      "announced": false
-    }
-  ]
+  "generated_at": "2026-10-17T12:20:48Z",
+  "count": 0,
+  "jobs": []
 }
