@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-18 12:45 UTC** (2026-10-18 20:45 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-18 17:31 UTC** (2026-10-19 01:31 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -55,6 +55,8 @@ _Last updated: **2026-10-18 12:45 UTC** (2026-10-18 20:45 Asia/Taipei) — auto-
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277) | NVIDIA | ASIC Design Engineer - New College Grad 2027 | US, CA, Santa Clara | ⚪ unclear | 2026-09-28 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) | NVIDIA | Research Scientist, Robotics Research -  PhD New College Grad 2026 | US, WA, Seattle | ⚪ unclear | 2026-09-18 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) | NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-09-18 |
+| [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) | NVIDIA | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | ⚪ unclear | 2026-10-18 |
+| [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047) | NVIDIA | NVIDIA 2027 Ignite Internships: Hardware Engineering | US, CA, Santa Clara | ⚪ unclear | 2026-10-18 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2007627) | NVIDIA | Formal Verification Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-10-13 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839) | NVIDIA | SRAM Circuit Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-10-13 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721477857) | Qualcomm | #Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-10-13 |
@@ -68,8 +70,6 @@ _Last updated: **2026-10-18 12:45 UTC** (2026-10-18 20:45 Asia/Taipei) — auto-
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501) | NVIDIA | NVIDIA 2027 Internships: Hardware Physical Design / VLSI | US, CA, Santa Clara | ⚪ unclear | 2026-10-12 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) | NVIDIA | NVIDIA 2027 Internships: Hardware Engineering | US, CA, Santa Clara | ⚪ unclear | 2026-10-12 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856) | NVIDIA | NVIDIA 2027 Summer Internships: Ph.D. Engineering | US, CA, Santa Clara | ⚪ unclear | 2026-10-12 |
-| [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) | NVIDIA | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | ⚪ unclear | 2026-10-12 |
-| [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047) | NVIDIA | NVIDIA 2027 Ignite Internships: Hardware Engineering | US, CA, Santa Clara | ⚪ unclear | 2026-10-12 |
 | [Apply](https://www.amazon.jobs/en/jobs/10575309/software-development-engineer-aws-payments-fraud-prevention) | Amazon | Software Development Engineer, AWS Payments & Fraud Prevention | Seattle, Washington, USA | ⚪ unclear | 2026-10-10 |
 | [Apply](https://www.amazon.jobs/en/jobs/10575310/software-development-engineer-aws-payments-fraud-prevention) | Amazon | Software Development Engineer, AWS Payments & Fraud Prevention | Seattle, Washington, USA | ⚪ unclear | 2026-10-10 |
 | [Apply](https://www.amazon.jobs/en/jobs/10574705/data-engineer-amazon-customer-service) | Amazon | Data Engineer , Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-10-09 |
@@ -320,7 +320,7 @@ _Last updated: **2026-10-18 12:45 UTC** (2026-10-18 20:45 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 351
+- **Active jobs tracked:** 350
 - **Recommended (not disqualified):** 299
 - **Companies checked successfully:** 30
 - **Failed sources:** 1

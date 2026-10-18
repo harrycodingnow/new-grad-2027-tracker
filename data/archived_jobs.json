@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T12:45:00Z",
-  "count": 1489,
+  "generated_at": "2026-10-18T17:31:21Z",
+  "count": 1490,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -48897,6 +48897,47 @@
       ],
       "excluded_keywords": [],
       "score_explanation": "role 33/35 (primary role match (Software Engineer); skills: python, javascript, c#, cloud, azure, automation) · graduation 8/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (United States, Washington, Redmond) · recency 10/10 (posted 6d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": true,
+      "disqualify_reason": "sponsorship classification 'ineligible': ormation, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or mil",
+      "consecutive_missing": 3,
+      "announced": false
+    },
+    {
+      "job_id": "microsoft-200059635",
+      "source_job_id": "200059635",
+      "company": "Microsoft",
+      "title": "Applied ML Engineer",
+      "location": "United States, Washington, Redmond",
+      "country": "United States",
+      "workplace_type": "onsite",
+      "department": "Applied Sciences",
+      "employment_type": "Full-Time",
+      "description": "Overview Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower every user, customer, and developer with a security cloud that protects them with end to end, simplified solutions. The Microsoft Security organization accelerates Microsoft’s mission and bold ambitions to ensure that our company and industry is securing digital technology platforms, devices, and clouds in our customers’ heterogeneous environments, as well as ensuring the security of our own internal estate. The Microsoft Social Engineering Threats Research team protects people and organizations from rapidly evolving threats across email, collaboration, and messaging platforms. We are looking for an Applied ML Engineer to help shape the next generation of AI-powered security protections.We develop and deploy cutting-edge AI systems that make tens of billions of real-time security decisions every day, helping customers stay safe from phishing, fraud, scams, and other forms of social engineering. Our team applies advances in artificial intelligence, including language models, multimodal systems, and agent-based reasoning, to solve challenging security problems at global scale. We believe in an AI-first approach: rapidly experimenting with new ideas, rigorously measuring impact, and iterating quickly to bring effective solutions into production. Our work sits at the intersection of research, engineering, and product development, allowing us to transform emerging technologies into capabilities that directly improve customer protection. We foster a culture of curiosity, collaboration, and continuous learning. Team members are encouraged to explore new technologies, challenge assumptions, and work closely with world-class researchers, engineers, and product teams to deliver meaningful outcomes. Whether you are evaluating the latest AI advances, building production-scale detection systems, or designing experiments that influence future product direction, your contributions will have visible impact. This is an exciting opportunity for someone early in their career to help shape the future of AI-powered cybersecurity while building solutions that protect millions of people every day. Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond. Responsibilities As an Applied ML Engineer, you will: Work with Small Language Models (SLMs), agents, and multimodal AI systems to develop, evaluate, and deploy detection capabilities that operate at Microsoft scale. Help transform research into production solutions that improve customer protection. Responsibilities include: Design, develop, and evaluate AI-driven detection capabilities using SLMs, agents, multimodal models, and emerging machine learning technologies to identify evolving threats and abuse patterns. Partner with research, engineering, and product teams to translate new ideas into production-ready solutions that deliver measurable customer impact at scale. Own key aspects of the experimentation and evaluation process, including defining success metrics, designing studies, analyzing results, and making data-driven recommendations. Drive deep analysis of model behavior, efficacy, coverage, and operational performance, identifying opportunities to improve customer protection and system efficiency. Collaborate across teams to influence technical direction, share learnings, and contribute to a culture of innovation, scientific rigor, and continuous improvement. Qualifications Minimum Qualifications: Bachelor's Degree in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field AND 2+ years related experience (e.g., statistics, predictive analytics, research). OR Master's Degree in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field AND 1+ year(s) related experience (e.g., statistics, predictive analytics, research). OR Doctorate in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field. OR equivalent experience. Other Requirements: Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft background and Microsoft Cloud background check upon hire/transfer and every two years thereafter. Preferred Qualifications: Bachelor's Degree in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field AND 5+ years related experience (e.g., statistics, predictive analytics, research). OR Master's Degree in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field AND 3+ years related experience (e.g., statistics, predictive analytics, research). OR Doctorate in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field AND 1+ year(s) related experience (e.g., statistics, predictive analytics, research). OR equivalent experience. 1+ year(s) experience creating publications (e.g., patents, peer-reviewed academic papers). Applied experience with modern AI systems, including LLMs, SLMs, agents, multimodal AI, or related technologies Demonstrated ability to drive problems from idea to measurable customer impact. Experimentation, evaluation, and data-driven decision-making skills Curiosity, learning agility, and a passion for exploring emerging technologies to solve real-world customer problems. Applied Sciences IC3 - The typical base pay range for this role across the U.S. is USD $102,100 - $202,200 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $133,800 - $219,200 per year. Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled. Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",
+      "requirements": "",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393557023169",
+      "source_url": "https://apply.careers.microsoft.com/careers/job/1970393557023169",
+      "source_type": "eightfold",
+      "date_posted": "2026-10-07",
+      "first_seen": "2026-10-08T00:23:29Z",
+      "last_seen": "2026-10-17T22:35:11Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 80,
+      "sponsorship_classification": "ineligible",
+      "sponsorship_evidence": "ormation, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations",
+      "international_student_risk_flags": [
+        "itar"
+      ],
+      "overall_score": 55,
+      "matched_keywords": [
+        "ai",
+        "cloud",
+        "evaluation",
+        "machine learning",
+        "ml engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 28/35 (title matched filter terms; skills: cloud, ai, evaluation, machine learning) · graduation 8/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (United States, Washington, Redmond) · recency 9/10 (posted 10d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
       "disqualified": true,
       "disqualify_reason": "sponsorship classification 'ineligible': ormation, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or mil",
       "consecutive_missing": 3,
