@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-18 07:24 UTC** (2026-10-18 15:24 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-18 12:45 UTC** (2026-10-18 20:45 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -138,6 +138,7 @@ _Last updated: **2026-10-18 07:24 UTC** (2026-10-18 15:24 Asia/Taipei) — auto-
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845) | Hudson River Trading | Algorithm Developer (Quant Research & Trading) – 2027 PhDs | London, United Kingdom; New York, NY, United States; Singap… | ⚪ unclear | 2026-07-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10573768/software-engineer-i) | Amazon | Software Engineer I | San Francisco, California, USA | ⚪ unclear | 2026-10-08 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274922740164) | PayPal | Software Engineer - Android | San Jose, California, United States of America | 🟡 possibly supported | 2026-10-07 |
+| [Apply](https://www.amazon.jobs/en/jobs/10570562/software-development-engineer-platform-engineering-and-services-aft-labor-insights) | Amazon | Software Development Engineer, Platform Engineering and Services (AFT Labor Insights) | Austin, Texas, USA | ⚪ unclear | 2026-10-06 |
 | [Apply](https://www.amazon.jobs/en/jobs/10570563/software-development-engineer-platform-engineering-and-services-aft-labor-insights) | Amazon | Software Development Engineer, Platform Engineering and Services (AFT Labor Insights) | Bellevue, Washington, USA | ⚪ unclear | 2026-10-06 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534) | NVIDIA | ASIC Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-09-18 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4974924101) | IMC | 2027 US Chess Academy Interest Form | Chicago, United States | ⚪ unclear | 2026-09-11 |
@@ -320,11 +321,11 @@ _Last updated: **2026-10-18 07:24 UTC** (2026-10-18 15:24 Asia/Taipei) — auto-
 ## Summary
 
 - **Active jobs tracked:** 351
-- **Recommended (not disqualified):** 298
+- **Recommended (not disqualified):** 299
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 182, possible: 112, low priority: 0
+- Matches — excellent: 4, strong: 183, possible: 112, low priority: 0
 
 ## Source problems
 
