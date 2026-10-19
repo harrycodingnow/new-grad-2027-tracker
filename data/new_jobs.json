@@ -1,5 +1,48 @@
 {
-  "generated_at": "2026-10-18T22:36:10Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-10-19T08:01:52Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "amazon-10582292",
+      "source_job_id": "10582292",
+      "company": "Amazon",
+      "title": "Software Development Engineer, International Seller Growth",
+      "location": "Seattle, Washington, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Software Development",
+      "employment_type": "full-time",
+      "description": "Did you know that over 58% of Amazon's gross merchandise sales come from independent third-party Sellers on Amazon? The Amazon Marketplace enables over 2 million third-party Sellers in eleven marketplaces to offer their products for sale to Amazon customers across the world. What Makes This Role Unique We are looking for a Software Development Engineer to build a transformative greenfield GenAI initiative from the ground up. This is a high-visibility, high-impact opportunity to architect and deliver an AI-native platform that will fundamentally change how thousands of users serve millions of sellers globally. This is an opportunity to join the business at an early stage and build new technology solutions in the very earliest days of this initiative. You'll work at the intersection of generative AI, agentic systems, and distributed architecture, building intelligent capabilities that drive measurable business impact at worldwide scale. Key job responsibilities You will be a high-performing software engineer building a unified intelligent workbench that consolidates fragmented systems into an AI-powered platform. This role offers an opportunity to work at the forefront of agentic AI and distributed systems, building transformative products from scratch. Your Impact: - Invent AI-native solutions that enable services to Amazon that have never been done before, addressing complex problems unique to our international customers - Design and implement AI-native backend services integrating enterprise CRM systems with operational platforms using AWS cloud platform and its many products - Build intelligent automation capabilities across core business modules including AI assistants, communication management, contact management, and workflow orchestration - Develop agentic workflows that eliminate manual tasks and enable users to focus on strategic relationship building - Architect highly scalable solutions serving thousands of users across multiple regions with specialized requirements - Apply AI-Driven Lifecycle (AIDLC) methodology to achieve 10x productivity improvements across the entire delivery lifecycle - Partner with Applied Science teams to incorporate generative AI capabilities - Deliver features with 25%+ productivity gains through properly groomed requirements and AI-first thinking - Own systems architecture end to end and influence the direction of technology that impacts hundreds of millions of customers around the world About the team This team is building a unified platform that will serve thousands of users supporting millions of sellers globally. Our goal is to create a seamless global shopping experience for all Amazon Customers and Sellers worldwide. This is a highly distributed team working collaboratively on a system that consolidates comprehensive requirements into a single, intelligent workbench. The team is organized around core business verticals with an Orchestration Layer creating dynamic workflows for intelligent automation. You'll work alongside SDEs, Data Engineers, platform developers, and Applied Scientists who are pioneering AI-first development approaches and achieving measurable productivity gains. - 3+ years of non-internship professional software development experience - 3+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 3+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 3+ years of Object Oriented Design experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field - Experience programming with at least one software programming language - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, WA, Seattle - 143,700.00 - 194,400.00 USD annually",
+      "requirements": "- 3+ years of non-internship professional software development experience - 3+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 3+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 3+ years of Object Oriented Design experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field - Experience programming with at least one software programming language",
+      "application_url": "https://www.amazon.jobs/en/jobs/10582292/software-development-engineer-international-seller-growth",
+      "source_url": "https://www.amazon.jobs/en/jobs/10582292/software-development-engineer-international-seller-growth",
+      "source_type": "json",
+      "date_posted": "2026-10-19",
+      "first_seen": "2026-10-19T08:01:50Z",
+      "last_seen": "2026-10-19T08:01:50Z",
+      "status": "active",
+      "graduation_match": "unspecified",
+      "role_match_score": 95,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 72,
+      "matched_keywords": [
+        "ai",
+        "automation",
+        "aws",
+        "backend",
+        "c#",
+        "cloud",
+        "distributed systems",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 33/35 (title matched filter terms; skills: c#, backend, cloud, aws, ai, automation) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Seattle, Washington, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 0,
+      "announced": true
+    }
+  ]
 }
