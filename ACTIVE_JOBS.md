@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-19 08:01 UTC** (2026-10-19 16:01 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-19 15:48 UTC** (2026-10-19 23:48 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -106,6 +106,7 @@ _Last updated: **2026-10-19 08:01 UTC** (2026-10-19 16:01 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10570504/software-development-engineer-ads-ai-core-infrastructure-aci-ads-ai-core-infrastructure) | Amazon | Software Development Engineer, Ads AI Core Infrastructure (ACI), Ads AI Core Infrastructure | New York, New York, USA | ⚪ unclear | 2026-10-06 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721161408) | Qualcomm | #Wireless Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-10-01 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000152733049) | ServiceNow | Machine Learning Engineer | Santa Clara, CALIFORNIA | ⚪ unclear | 2026-09-30 |
+| [Apply](https://www.amazon.jobs/en/jobs/10563049/software-development-engineer-aws-opensearch) | Amazon | Software Development Engineer, AWS OpenSearch | Austin, Texas, USA | ⚪ unclear | 2026-09-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10557689/data-engineer-ww-ops-finance-s-a) | Amazon | Data Engineer, WW Ops Finance - S&A | Bellevue, Washington, USA | ⚪ unclear | 2026-09-23 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549800249911) | Morgan Stanley | Back-end Engineer - Data Platforms | New York, New York, United States of America | ⚪ unclear | 2026-09-22 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Software-Development-Engineer_R168187-1) | Adobe | Software Development Engineer | New York | ⚪ unclear | 2026-09-19 |
@@ -319,12 +320,12 @@ _Last updated: **2026-10-19 08:01 UTC** (2026-10-19 16:01 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 349
-- **Recommended (not disqualified):** 298
+- **Active jobs tracked:** 350
+- **Recommended (not disqualified):** 299
 - **Companies checked successfully:** 29
 - **Failed sources:** 2
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 179, possible: 115, low priority: 0
+- Matches — excellent: 4, strong: 180, possible: 115, low priority: 0
 
 ## Source problems
 
