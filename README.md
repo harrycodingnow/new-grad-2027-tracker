@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-22 07:51 UTC** (2026-10-22 15:51 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-22 13:58 UTC** (2026-10-22 21:58 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -106,7 +106,6 @@ _Last updated: **2026-10-22 07:51 UTC** (2026-10-22 15:51 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10575340/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-10-10 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2026_JR2011879) | NVIDIA | System Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-10-07 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8144196) | Stripe | AI Engineer | Chicago | ⚪ unclear | 2026-10-07 |
-| [Apply](https://www.amazon.jobs/en/jobs/10569344/software-development-engineer-aws-network-firewall) | Amazon | Software Development Engineer, AWS Network Firewall | Herndon, Virginia, USA | ⚪ unclear | 2026-10-05 |
 | [Apply](https://www.amazon.jobs/en/jobs/10560626/software-development-engineer-aws-marketing-data-science-engineering-d-se) | Amazon | Software Development Engineer, AWS Marketing, Data Science & Engineering (D:SE) | Seattle, Washington, USA | ⚪ unclear | 2026-09-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10557689/data-engineer-ww-ops-finance-s-a) | Amazon | Data Engineer, WW Ops Finance - S&A | Bellevue, Washington, USA | ⚪ unclear | 2026-09-23 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Software-Development-Engineer_R168187-1) | Adobe | Software Development Engineer | New York | ⚪ unclear | 2026-09-22 |
@@ -164,7 +163,6 @@ _Last updated: **2026-10-22 07:51 UTC** (2026-10-22 15:51 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10577668/software-development-engineer-luna-devx) | Amazon | Software Development Engineer, Luna DevX | Irvine, California, USA | ⚪ unclear | 2026-10-13 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274922740164) | PayPal | Software Engineer - Android | San Jose, California, United States of America | 🟡 possibly supported | 2026-10-07 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721372798) | Qualcomm | #Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-10-02 |
-| [Apply](https://www.amazon.jobs/en/jobs/10567360/software-development-engineer-ai-ml-networking-disaggregated-inference-annapurna-labs-elastic-collectives) | Amazon | Software Development Engineer – AI/ML Networking Disaggregated Inference, Annapurna Labs , Elastic Collectives | Cupertino, California, USA | ⚪ unclear | 2026-10-01 |
 | [Apply](https://www.amazon.jobs/en/jobs/10556714/data-engineer-amazon-music-amazon-music-finance) | Amazon | Data Engineer, Amazon Music, Amazon Music Finance | Culver City, California, USA | ⚪ unclear | 2026-09-22 |
 | [Apply](https://careers.qualcomm.com/careers/job/446720212566) | Qualcomm | #AI Infrastructure Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-09-17 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) | Hudson River Trading | Software Engineer (C++ or Python) – 2027 Grads | Austin, TX, United States; Chicago, Illinois, United States… | ⚪ unclear | 2026-07-13 |
@@ -191,7 +189,6 @@ _Last updated: **2026-10-22 07:51 UTC** (2026-10-22 15:51 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10571270/software-engineer-fauna) | Amazon | Software Engineer, Fauna | New York, New York, USA | ⚪ unclear | 2026-10-06 |
 | [Apply](https://www.amazon.jobs/en/jobs/10569781/software-development-engineer) | Amazon | Software Development Engineer | New York, New York, USA | ⚪ unclear | 2026-10-05 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8206731) | Stripe | Full Stack Engineer, Builder Experience | San Francisco | ⚪ unclear | 2026-10-05 |
-| [Apply](https://www.amazon.jobs/en/jobs/10568162/software-development-engineer-amazon-catalog-services-team) | Amazon | Software Development Engineer, Amazon Catalog services team | Seattle, Washington, USA | ⚪ unclear | 2026-10-02 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721373024) | Qualcomm | Modem Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-10-02 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719426158) | Qualcomm | #Software Engineer - Power and Limits Management | San Diego, California, United States of America | 🟡 possibly supported | 2026-09-21 |
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8186711) | DRW | Platform Engineer - AI Engineering | Chicago | ⚪ unclear | 2026-09-09 |
@@ -206,7 +203,6 @@ _Last updated: **2026-10-22 07:51 UTC** (2026-10-22 15:51 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10574795/software-development-engineer-aws-transform-migrations) | Amazon | Software Development Engineer, AWS Transform Migrations | Boston, Massachusetts, USA | ⚪ unclear | 2026-10-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10573518/software-development-engineer-developer-experience) | Amazon | Software Development Engineer, Developer Experience | New York, New York, USA | ⚪ unclear | 2026-10-08 |
 | [Apply](https://www.amazon.jobs/en/jobs/10573523/software-development-engineer-developer-experience) | Amazon | Software Development Engineer, Developer Experience | New York, New York, USA | ⚪ unclear | 2026-10-08 |
-| [Apply](https://www.amazon.jobs/en/jobs/10574139/software-development-engineer-finance-technology) | Amazon | Software Development Engineer, Finance Technology | Bellevue, Washington, USA | ⚪ unclear | 2026-10-08 |
 | [Apply](https://www.optiver.com/join-us/jobs/8875482002/?gh_jid=8875482002) | Optiver | Software Engineer - Agentic SDLC | New York, New York | ⚪ unclear | 2026-10-08 |
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8230509) | DRW | AI Inference Platform Engineer | Chicago | ⚪ unclear | 2026-09-29 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549798264156) | Morgan Stanley | Associate, Software Engineer | Alpharetta, Georgia, United States of America | ⚪ unclear | 2026-09-28 |
@@ -216,7 +212,6 @@ _Last updated: **2026-10-22 07:51 UTC** (2026-10-22 15:51 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10583596/software-development-engineer) | Amazon | Software Development Engineer | New York, New York, USA | ⚪ unclear | 2026-10-21 |
 | [Apply](https://www.amazon.jobs/en/jobs/10584882/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-10-21 |
 | [Apply](https://www.amazon.jobs/en/jobs/10584605/software-development-engineer-amazon-java-runtime) | Amazon | Software Development Engineer, Amazon Java Runtime | Seattle, Washington, USA | ⚪ unclear | 2026-10-20 |
-| [Apply](https://www.amazon.jobs/en/jobs/10583039/software-development-engineer-amazon-msk-managed-streaming-for-kafka) | Amazon | Software Development Engineer - Amazon MSK, Managed Streaming for Kafka | Seattle, Washington, USA | ⚪ unclear | 2026-10-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10583147/software-development-engineer-creative-asset-library-creativex) | Amazon | Software Development Engineer, Creative Asset Library, CreativeX | Seattle, Washington, USA | ⚪ unclear | 2026-10-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10583149/software-development-engineer-creative-asset-library-creativex) | Amazon | Software Development Engineer, Creative Asset Library, CreativeX | Seattle, Washington, USA | ⚪ unclear | 2026-10-19 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721051165) | Qualcomm | Software Engineer (San Diego, Boulder) | San Diego, California, United States of America | ⚪ unclear | 2026-10-19 |
@@ -321,12 +316,12 @@ _Last updated: **2026-10-22 07:51 UTC** (2026-10-22 15:51 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 351
-- **Recommended (not disqualified):** 300
+- **Active jobs tracked:** 343
+- **Recommended (not disqualified):** 295
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 5, strong: 177, possible: 118, low priority: 0
+- Matches — excellent: 5, strong: 174, possible: 116, low priority: 0
 
 ## Source problems
 
