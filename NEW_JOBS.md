@@ -1,13 +1,9 @@
 # Newly Discovered Jobs
 
-_Found in the run at **2026-10-22 23:35 UTC** — auto-generated._
+_Found in the run at **2026-10-23 07:49 UTC** — auto-generated._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
 | Apply | Company | Title | Location | Sponsorship | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Apply](https://www.amazon.jobs/en/jobs/10587056/software-development-engineer-dynamodb) | Amazon | Software Development Engineer, DynamoDB | Seattle, Washington, USA | ⚪ unclear | 2026-10-22 |
-| [Apply](https://www.amazon.jobs/en/jobs/10587055/software-development-engineer-dynamodb) | Amazon | Software Development Engineer, DynamoDB | Seattle, Washington, USA | ⚪ unclear | 2026-10-22 |
-| [Apply](https://www.amazon.jobs/en/jobs/10586861/software-development-engineer) | Amazon | Software Development Engineer | New York, New York, USA | ⚪ unclear | 2026-10-22 |
-| [Apply](https://www.amazon.jobs/en/jobs/10586859/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-10-22 |
-| [Apply](https://www.amazon.jobs/en/jobs/10586916/software-development-engineer-storegen) | Amazon | Software Development Engineer, StoreGen | Seattle, Washington, USA | ⚪ unclear | 2026-10-22 |
+| [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | NVIDIA | Silicon Co-Design Engineer - New College Grad 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-10-22 |
