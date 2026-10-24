@@ -1,45 +1,5 @@
 {
-  "generated_at": "2026-10-23T23:22:19Z",
-  "count": 1,
-  "jobs": [
-    {
-      "job_id": "servicenow-744000157571919",
-      "source_job_id": "744000157571919",
-      "company": "ServiceNow",
-      "title": "Associate Software Engineer",
-      "location": "Santa Clara, CALIFORNIA",
-      "country": "United States",
-      "workplace_type": "",
-      "department": "Engineering",
-      "employment_type": "Full-time",
-      "description": "It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started. Join us to put AI to work for people. Position Location: This is a Flexible (Hybrid) position. Flexible positions require 2 days per week in a ServiceNow office location. This role is available in either our Kirkland, WA or Santa Clara, CA office. Please Note: This position will include supporting our US Regulated Markets. “This position requires passing a ServiceNow background screening, USFedPASS (US Federal Personnel Authorization Screening Standards). This includes a credit check, criminal/misdemeanor check and taking a drug test. Any employment is contingent upon passing the screening. Due to Federal requirements, only US citizens, US naturalized citizens or US Permanent Residents, holding a green card, will be considered. What you get to do in this role: Build the best cloud software for businesses using a market leading development cloud platform. Collaborate daily with a team of like-minded developers using agile software development methodology. Master new areas and take ownership of features that matter to our customers. Design features with a core commitment to quality and an eye to how the products will evolve in future releases. Work in a Scrum-based Agile development process that is light on documentation and meetings and heavy on design, coding and debugging. To be successful in this role you have: Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry. 0+ years of professional work experience in software development Experience with debugging and testing software through a CI lifecycle Experience with Java, OOP, and Design Patterns Experience with relational databases such as MySQL, Postgres and Oracle Experience with front-end technologies (HTML, JavaScript, CSS) Some working knowledge and ability to use tools to assist with daily tasks (IDE, debugger, build tools, source control, ServiceNow instances, profilers, system administration/Unix tools) For positions in this location, we offer a base pay of $108,800 - $157,800 , plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs. Compensation is based on the geographic location in which the role is located and is subject to change based on work location. Work Personas We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here . To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service. Equal Opportunity Employer ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. Accommodations We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance. Export Control Regulations For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities. From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.",
-      "requirements": "To be successful in this role you have: Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry. 0+ years of professional work experience in software development Experience with debugging and testing software through a CI lifecycle Experience with Java, OOP, and Design Patterns Experience with relational databases such as MySQL, Postgres and Oracle Experience with front-end technologies (HTML, JavaScript, CSS) Some working knowledge and ability to use tools to assist with daily tasks (IDE, debugger, build tools, source control, ServiceNow instances, profilers, system administration/Unix tools) For positions in this location, we offer a base pay of $108,800 - $157,800 , plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs. Compensation is based on the geographic location in which the role is located and is subject to change based on work location.",
-      "application_url": "https://jobs.smartrecruiters.com/servicenow/744000157571919",
-      "source_url": "https://jobs.smartrecruiters.com/servicenow/744000157571919",
-      "source_type": "json",
-      "date_posted": "2026-10-23",
-      "first_seen": "2026-10-23T23:22:16Z",
-      "last_seen": "2026-10-23T23:22:16Z",
-      "status": "active",
-      "graduation_match": "unspecified",
-      "role_match_score": 75,
-      "sponsorship_classification": "unclear",
-      "sponsorship_evidence": "",
-      "international_student_risk_flags": [],
-      "overall_score": 69,
-      "matched_keywords": [
-        "ai",
-        "associate software engineer",
-        "cloud",
-        "javascript",
-        "software engineer"
-      ],
-      "excluded_keywords": [],
-      "score_explanation": "role 26/35 (primary role match (Software Engineer); skills: javascript, cloud, ai) · graduation 12/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Santa Clara, CALIFORNIA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
-      "disqualified": false,
-      "disqualify_reason": "",
-      "consecutive_missing": 0,
-      "announced": true
-    }
-  ]
+  "generated_at": "2026-10-24T07:29:56Z",
+  "count": 0,
+  "jobs": []
 }
