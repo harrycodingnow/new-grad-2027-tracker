@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-24 12:50 UTC** (2026-10-24 20:50 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-24 17:35 UTC** (2026-10-25 01:35 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -41,6 +41,7 @@ _Last updated: **2026-10-24 12:50 UTC** (2026-10-24 20:50 Asia/Taipei) — auto-
 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--MTS---Frontier-Strike--EntSecTech-_JR361861) | Salesforce | Software Engineer (MTS), Frontier Strike (EntSecTech) | Washington - Bellevue | ⚪ unclear | 2026-10-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10579435/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-10-15 |
 | [Apply](https://www.amazon.jobs/en/jobs/10579596/data-engineer-robotics-delivery-and-packaging-innovation) | Amazon | Data Engineer, Robotics Delivery and Packaging Innovation | Bellevue, Washington, USA | ⚪ unclear | 2026-10-15 |
+| [Apply](https://www.amazon.jobs/en/jobs/10580456/software-development-engineer-aws-fraud-prevention) | Amazon | Software Development Engineer, AWS Fraud Prevention | Arlington, Virginia, USA | ⚪ unclear | 2026-10-15 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744) | NVIDIA | SoC Software Engineer - New College Grad 2027 | US, CA, Santa Clara | ⚪ unclear | 2026-10-13 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719) | NVIDIA | ASIC Verification Engineer - New College Grad 2027 | US, CA, Santa Clara | ⚪ unclear | 2026-10-13 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850) | NVIDIA | Low Power ASIC Engineer - New College Grad 2027 | US, CA, Santa Clara | ⚪ unclear | 2026-10-13 |
@@ -179,6 +180,7 @@ _Last updated: **2026-10-24 12:50 UTC** (2026-10-24 20:50 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10580018/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-10-15 |
 | [Apply](https://www.amazon.jobs/en/jobs/10580426/software-development-engineer-customer-experience-improvement-defect-enrichment) | Amazon | Software Development Engineer, Customer Experience Improvement - Defect Enrichment | Austin, Texas, USA | ⚪ unclear | 2026-10-15 |
 | [Apply](https://www.amazon.jobs/en/jobs/10574880/software-development-engineer-neuron-developer-experiences-team) | Amazon | Software Development Engineer, Neuron Developer Experiences Team | Seattle, Washington, USA | ⚪ unclear | 2026-10-09 |
+| [Apply](https://www.amazon.jobs/en/jobs/10575303/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-10-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10571455/software-development-engineer-dynamodb) | Amazon | Software Development Engineer, DynamoDB | Seattle, Washington, USA | ⚪ unclear | 2026-10-07 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8243617) | Stripe | Machine Learning Engineer, Radar | Seattle | ⚪ unclear | 2026-10-07 |
 | [Apply](https://www.amazon.jobs/en/jobs/10570607/software-development-engineer-piezo) | Amazon | Software Development Engineer, Piezo | Seattle, Washington, USA | ⚪ unclear | 2026-10-06 |
@@ -302,12 +304,12 @@ _Last updated: **2026-10-24 12:50 UTC** (2026-10-24 20:50 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 334
-- **Recommended (not disqualified):** 281
+- **Active jobs tracked:** 336
+- **Recommended (not disqualified):** 283
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 171, possible: 106, low priority: 0
+- Matches — excellent: 4, strong: 173, possible: 106, low priority: 0
 
 ## Source problems
 
