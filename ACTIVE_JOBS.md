@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-24 17:35 UTC** (2026-10-25 01:35 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-24 22:42 UTC** (2026-10-25 06:42 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -166,7 +166,6 @@ _Last updated: **2026-10-24 17:35 UTC** (2026-10-25 01:35 Asia/Taipei) — auto-
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000155582891) | ServiceNow | Data Platform Software Engineer | Santa Clara, CALIFORNIA | ⚪ unclear | 2026-10-14 |
 | [Apply](https://www.amazon.jobs/en/jobs/10577668/software-development-engineer-luna-devx) | Amazon | Software Development Engineer, Luna DevX | Irvine, California, USA | ⚪ unclear | 2026-10-13 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721372798) | Qualcomm | #Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-10-02 |
-| [Apply](https://careers.qualcomm.com/careers/job/446721345937) | Qualcomm | #Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-09-30 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8231439) | Stripe | Software Engineer, Metronome Infrastructure | Toronto, Vancouver, Canada-Remote | ⚪ unclear | 2026-09-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10556714/data-engineer-amazon-music-amazon-music-finance) | Amazon | Data Engineer, Amazon Music, Amazon Music Finance | Culver City, California, USA | ⚪ unclear | 2026-09-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10553687/software-engineer-data-platform) | Amazon | Software Engineer, Data Platform | San Francisco, California, USA | ⚪ unclear | 2026-09-18 |
@@ -304,12 +303,12 @@ _Last updated: **2026-10-24 17:35 UTC** (2026-10-25 01:35 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 336
-- **Recommended (not disqualified):** 283
+- **Active jobs tracked:** 335
+- **Recommended (not disqualified):** 282
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 173, possible: 106, low priority: 0
+- Matches — excellent: 4, strong: 172, possible: 106, low priority: 0
 
 ## Source problems
 
