@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-25 07:47 UTC** (2026-10-25 15:47 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-25 13:19 UTC** (2026-10-25 21:19 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -38,7 +38,6 @@ _Last updated: **2026-10-25 07:47 UTC** (2026-10-25 15:47 Asia/Taipei) — auto-
 | [Apply](https://stripe.com/jobs/search?gh_jid=8314235) | Stripe | Software Engineer, Resource Automation | South San Francisco, CA | ⚪ unclear | 2026-10-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10583312/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-10-19 |
 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--MTS---Frontier-Strike--EntSecTech-_JR361861) | Salesforce | Software Engineer (MTS), Frontier Strike (EntSecTech) | Washington - Bellevue | ⚪ unclear | 2026-10-19 |
-| [Apply](https://www.amazon.jobs/en/jobs/10580456/software-development-engineer-aws-fraud-prevention) | Amazon | Software Development Engineer, AWS Fraud Prevention | Arlington, Virginia, USA | ⚪ unclear | 2026-10-15 |
 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Associate-Engineer--IT-Eng-System-Mgr_JR112672) | Micron | Associate Engineer, IT Eng System Mgr | Hyderabad - Phoenix Aquila, India | ⚪ unclear | 2026-10-15 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744) | NVIDIA | SoC Software Engineer - New College Grad 2027 | US, CA, Santa Clara | ⚪ unclear | 2026-10-13 |
 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719) | NVIDIA | ASIC Verification Engineer - New College Grad 2027 | US, CA, Santa Clara | ⚪ unclear | 2026-10-13 |
@@ -304,12 +303,12 @@ _Last updated: **2026-10-25 07:47 UTC** (2026-10-25 15:47 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 336
-- **Recommended (not disqualified):** 283
+- **Active jobs tracked:** 335
+- **Recommended (not disqualified):** 282
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 171, possible: 108, low priority: 0
+- Matches — excellent: 4, strong: 170, possible: 108, low priority: 0
 
 ## Source problems
 
