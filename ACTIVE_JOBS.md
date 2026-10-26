@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-26 08:02 UTC** (2026-10-26 16:02 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-26 15:21 UTC** (2026-10-26 23:21 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -59,7 +59,6 @@ _Last updated: **2026-10-26 08:02 UTC** (2026-10-26 16:02 Asia/Taipei) — auto-
 | [Apply](https://careers.qualcomm.com/careers/job/446721159585) | Qualcomm | #Wireless Software Engineer | Boulder, Colorado, United States of America | 🟡 possibly supported | 2026-10-19 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721598022) | Qualcomm | #Computer Vision Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-10-19 |
 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Business-Development-Associate--Early-Career-_JR340479-1) | Salesforce | Business Development Associate (Early Career) | California - San Francisco | 🟡 possibly supported | 2026-10-16 |
-| [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) | NVIDIA | SoC Software Engineer – New College Graduate 2026 | US, CA, Santa Clara | ⚪ unclear | 2026-10-13 |
 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Business-Development-Associate_JR347430-1) | Salesforce | Business Development Associate, Early Career | Illinois - Chicago | 🟡 possibly supported | 2026-10-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10573324/software-development-engineer-aws-central-sde-team) | Amazon | Software Development Engineer, AWS Central SDE Team | Seattle, Washington, USA | ⚪ unclear | 2026-10-08 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000153871309) | ServiceNow | Software Engineer | Santa Clara, CALIFORNIA | ⚪ unclear | 2026-10-06 |
@@ -303,12 +302,12 @@ _Last updated: **2026-10-26 08:02 UTC** (2026-10-26 16:02 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 336
-- **Recommended (not disqualified):** 282
+- **Active jobs tracked:** 335
+- **Recommended (not disqualified):** 281
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 167, possible: 111, low priority: 0
+- Matches — excellent: 4, strong: 166, possible: 111, low priority: 0
 
 ## Source problems
 
