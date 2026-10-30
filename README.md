@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-10-30 15:11 UTC** (2026-10-30 23:11 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-10-30 19:33 UTC** (2026-10-31 03:33 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -173,6 +173,7 @@ _Last updated: **2026-10-30 15:11 UTC** (2026-10-30 23:11 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10557661/data-engineer-decision-intelligence-technology) | Amazon | Data Engineer, Decision Intelligence Technology | Bellevue, Washington, USA | ⚪ unclear | 2026-09-23 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721230796) | Qualcomm | #5G/6G Modem Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-09-23 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4974924101) | IMC | 2027 US Chess Academy Interest Form | Chicago, United States | ⚪ unclear | 2026-09-11 |
+| [Apply](https://www.amazon.jobs/en/jobs/10593526/software-development-engineer-selling-partner-trust) | Amazon | Software Development Engineer, Selling Partner Trust | Tempe, Arizona, USA | ⚪ unclear | 2026-10-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10591528/software-development-engineer-aws-transform) | Amazon | Software Development Engineer, AWS Transform | Boston, Massachusetts, USA | ⚪ unclear | 2026-10-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10592908/software-development-engineer-amazon-cloud-management-foundations) | Amazon | Software Development Engineer, Amazon Cloud Management Foundations | Seattle, Washington, USA | ⚪ unclear | 2026-10-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10588739/software-development-engineer-strada) | Amazon | Software Development Engineer, STRADA | Minneapolis, Minnesota, USA | ⚪ unclear | 2026-10-28 |
@@ -295,6 +296,7 @@ _Last updated: **2026-10-30 15:11 UTC** (2026-10-30 23:11 Asia/Taipei) — auto-
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8191392) | DRW | Cloud Engineer | Chicago | ⚪ unclear | 2026-09-10 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8127182) | Stripe | Software Engineer, Revenue and Financial Automation | San Francisco, New York City, Seattle, Chicago, US-Remote | ⚪ unclear | 2026-09-01 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8131144) | Stripe | Backend Engineer, Link | NYC, Sea, SF, Tor | ⚪ unclear | 2026-08-14 |
+| [Apply](https://stripe.com/jobs/search?gh_jid=7982720) | Stripe | Software Engineer, Secure Devices | New York, New York | ⚪ unclear | 2026-06-05 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7972584) | Hudson River Trading | AI Research Engineer, Pre-Training | London, United Kingdom; New York, NY, United States | ⚪ unclear | 2026-06-01 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7972593) | Hudson River Trading | AI Research Engineer, Inference | London, United Kingdom; New York, NY, United States | ⚪ unclear | 2026-06-01 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/7604415002/) | Jane Street | Software Engineer / Writer | NYC | ⚪ unclear | — |
@@ -305,12 +307,12 @@ _Last updated: **2026-10-30 15:11 UTC** (2026-10-30 23:11 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 332
-- **Recommended (not disqualified):** 284
+- **Active jobs tracked:** 335
+- **Recommended (not disqualified):** 286
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 6, strong: 174, possible: 104, low priority: 0
+- Matches — excellent: 6, strong: 175, possible: 105, low priority: 0
 
 ## Source problems
 
