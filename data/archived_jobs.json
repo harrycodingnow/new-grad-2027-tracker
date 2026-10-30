@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T19:47:46Z",
-  "count": 1633,
+  "generated_at": "2026-10-30T00:07:14Z",
+  "count": 1634,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -44959,6 +44959,45 @@
       "disqualify_reason": "sponsorship classification 'ineligible': Object Oriented Design experience - Bachelor's degree in computer science, engineering, mathematics or equivalent, or experience in a professional field or mili",
       "consecutive_missing": 3,
       "announced": false
+    },
+    {
+      "job_id": "amazon-10581624",
+      "source_job_id": "10581624",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Network Monitoring & Remediation",
+      "location": "Seattle, Washington, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Software Development",
+      "employment_type": "full-time",
+      "description": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help. You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion. AWS operates one of the world's largest and most complex networks — and it's growing fast. Millions of customers run mission-critical workloads that depend on us being always on Key job responsibilities Design, build, and operate distributed services that are reliable, scalable, and maintainable at global scale Own your services end-to-end — from architecture and implementation through deployment and production operations Identify and drive improvements to system reliability, latency, and operational posture Contribute to team engineering standards, code reviews, and technical direction Mentor junior engineers and contribute to a culture of high engineering quality About the team Network Monitoring and Remediation is the team that makes that possible. We prevent, predict, detect, and remediate network impairments before they reach customers. Our systems ingest trillions of telemetry data points daily from millions of network devices, apply advanced streaming analytics and ML/AI to surface actionable signals, and drive automated mitigation through our event management platform. Today, over 98% of detected issues are resolved without human intervention. For the remainder, we provide expert diagnostic tooling that enables operators to act decisively. Our vision: every network failure is pre-emptively resolved by autonomous systems zero customer impact, zero human intervention. - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 1+ years of Object Oriented Design experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field - Experience programming with at least one software programming language - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, WA, Seattle - 143,700.00 - 194,400.00 USD annually",
+      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 1+ years of Object Oriented Design experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field - Experience programming with at least one software programming language",
+      "application_url": "https://www.amazon.jobs/en/jobs/10581624/software-development-engineer-network-monitoring-remediation",
+      "source_url": "https://www.amazon.jobs/en/jobs/10581624/software-development-engineer-network-monitoring-remediation",
+      "source_type": "json",
+      "date_posted": "2026-10-16",
+      "first_seen": "2026-10-16T23:01:56Z",
+      "last_seen": "2026-10-29T08:46:40Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 80,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 66,
+      "matched_keywords": [
+        "ai",
+        "aws",
+        "c#",
+        "cloud",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 28/35 (title matched filter terms; skills: c#, cloud, aws, ai) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Seattle, Washington, USA) · recency 9/10 (posted 13d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 3,
+      "announced": true
     },
     {
       "job_id": "amazon-10581625",
