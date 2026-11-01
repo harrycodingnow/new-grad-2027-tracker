@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-01 19:04 UTC** (2026-11-02 03:04 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-01 23:49 UTC** (2026-11-02 07:49 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -103,6 +103,7 @@ _Last updated: **2026-11-01 19:04 UTC** (2026-11-02 03:04 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10583973/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-10-20 |
 | [Apply](https://www.amazon.jobs/en/jobs/10584630/software-development-engineer-aws-central-sde-team) | Amazon | Software Development Engineer, AWS Central SDE Team | Seattle, Washington, USA | ⚪ unclear | 2026-10-20 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Software-Development-Engineer_R168187-1) | Adobe | Software Development Engineer | New York | ⚪ unclear | 2026-10-02 |
+| [Apply](https://www.amazon.jobs/en/jobs/10594100/software-development-engineer-ads-ai-core-infra-aci) | Amazon | Software Development Engineer, Ads AI Core Infra (ACI) | Seattle, Washington, USA | ⚪ unclear | 2026-11-01 |
 | [Apply](https://www.amazon.jobs/en/jobs/10590795/data-engineer-global-logistics-product-analytics-team) | Amazon | Data Engineer, Global Logistics Product Analytics Team | Bellevue, Washington, USA | ⚪ unclear | 2026-10-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10590867/software-development-engineer-devices-software-services) | Amazon | Software Development Engineer, Devices Software & Services | Irvine, California, USA | ⚪ unclear | 2026-10-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10590870/software-development-engineer-devices-software-services) | Amazon | Software Development Engineer, Devices Software & Services | Sunnyvale, California, USA | ⚪ unclear | 2026-10-28 |
@@ -247,7 +248,6 @@ _Last updated: **2026-11-01 19:04 UTC** (2026-11-02 03:04 Asia/Taipei) — auto-
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4945646101) | IMC | Data Engineer - Infrastructure | Chicago, United States | ⚪ unclear | 2026-08-05 |
 | [Apply](https://www.optiver.com/join-us/jobs/8672685002/?gh_jid=8672685002) | Optiver | AI Engineer | New York, New York | ⚪ unclear | 2026-08-03 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8229056002/) | Jane Street | Campus Recruiter, Machine Learning and Quantitative Research | NYC | ⚪ unclear | — |
-| [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/349171) | Oracle | Software Developer 4 | Pleasanton, CA, United States | ⚪ unclear | 2026-10-29 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212181) | Hudson River Trading | Campus Recruiter | Austin, TX, United States; Chicago, Illinois, United States… | ⚪ unclear | 2026-09-17 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8222149) | Stripe | Data Scientist | Seattle, WA | ⚪ unclear | 2026-09-21 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8198280) | Stripe | Software Engineer, Backend | Seattle, WA | ⚪ unclear | 2026-09-14 |
@@ -304,7 +304,7 @@ _Last updated: **2026-11-01 19:04 UTC** (2026-11-02 03:04 Asia/Taipei) — auto-
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 5, strong: 167, possible: 106, low priority: 0
+- Matches — excellent: 5, strong: 168, possible: 105, low priority: 0
 
 ## Source problems
 
