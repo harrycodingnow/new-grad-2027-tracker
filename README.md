@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-03 09:49 UTC** (2026-11-03 17:49 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-03 16:24 UTC** (2026-11-04 00:24 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -188,7 +188,6 @@ _Last updated: **2026-11-03 09:49 UTC** (2026-11-03 17:49 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10588757/software-development-engineer-amazon-foundational-security-services-afss) | Amazon | Software Development Engineer , Amazon Foundational Security Services (AFSS) | Arlington, Virginia, USA | ⚪ unclear | 2026-10-26 |
 | [Apply](https://www.amazon.jobs/en/jobs/10583323/software-development-engineer-aws-marketplace) | Amazon | Software Development Engineer, AWS Marketplace | Seattle, Washington, USA | ⚪ unclear | 2026-10-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10583490/data-engineer-amazon-live-data-engineering-sciences-and-analytics-desa) | Amazon | Data Engineer, Amazon Live Data Engineering, Sciences and Analytics (DESA) | Seattle, Washington, USA | ⚪ unclear | 2026-10-19 |
-| [Apply](https://www.amazon.jobs/en/jobs/10578859/software-development-engineer-building-connectivity-engineering) | Amazon | Software Development Engineer, Building Connectivity Engineering | Seattle, Washington, USA | ⚪ unclear | 2026-10-14 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000155582891) | ServiceNow | Data Platform Software Engineer | Santa Clara, CALIFORNIA | ⚪ unclear | 2026-10-14 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274922740164) | PayPal | Software Engineer - Android | San Jose, California, United States of America | 🟡 possibly supported | 2026-10-07 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4974924101) | IMC | 2027 US Chess Academy Interest Form | Chicago, United States | ⚪ unclear | 2026-09-11 |
@@ -197,7 +196,6 @@ _Last updated: **2026-11-03 09:49 UTC** (2026-11-03 17:49 Asia/Taipei) — auto-
 
 | Apply | Company | Title | Location | Sponsorship | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Apply](https://www.amazon.jobs/en/jobs/10587730/data-engineer-workforce-solutions-talent-mobility) | Amazon | Data Engineer, Workforce Solutions - Talent Mobility | Bellevue, Washington, USA | ⚪ unclear | 2026-10-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10586861/software-development-engineer) | Amazon | Software Development Engineer | New York, New York, USA | ⚪ unclear | 2026-10-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10585125/software-development-engineer-aws-compliance-security-assurance) | Amazon | Software Development Engineer, AWS Compliance & Security Assurance | Seattle, Washington, USA | ⚪ unclear | 2026-10-21 |
 | [Apply](https://www.amazon.jobs/en/jobs/10584155/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Austin, Texas, USA | ⚪ unclear | 2026-10-20 |
@@ -216,7 +214,6 @@ _Last updated: **2026-11-03 09:49 UTC** (2026-11-03 17:49 Asia/Taipei) — auto-
 | [Apply](https://stripe.com/jobs/search?gh_jid=8332718) | Stripe | Software Engineer, Fraud System Interventions | South San Francisco, CA | ⚪ unclear | 2026-10-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program) | Amazon | Jr. Software Development Engineer - Detroit, MI, Jr. Developer Program | Detroit, Michigan, USA | ⚪ unclear | 2026-10-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10583145/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-10-19 |
-| [Apply](https://www.amazon.jobs/en/jobs/10580018/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-10-15 |
 | [Apply](https://www.amazon.jobs/en/jobs/10580426/software-development-engineer-customer-experience-improvement-defect-enrichment) | Amazon | Software Development Engineer, Customer Experience Improvement - Defect Enrichment | Austin, Texas, USA | ⚪ unclear | 2026-10-15 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8243617) | Stripe | Machine Learning Engineer, Radar | Seattle | ⚪ unclear | 2026-10-07 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8206731) | Stripe | Full Stack Engineer, Builder Experience | San Francisco | ⚪ unclear | 2026-10-05 |
@@ -308,12 +305,12 @@ _Last updated: **2026-11-03 09:49 UTC** (2026-11-03 17:49 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 335
-- **Recommended (not disqualified):** 287
+- **Active jobs tracked:** 332
+- **Recommended (not disqualified):** 284
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 6, strong: 173, possible: 108, low priority: 0
+- Matches — excellent: 6, strong: 172, possible: 106, low priority: 0
 
 ## Source problems
 

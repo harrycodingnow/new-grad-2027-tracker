@@ -1,43 +1,5 @@
 {
-  "generated_at": "2026-11-03T09:49:33Z",
-  "count": 1,
-  "jobs": [
-    {
-      "job_id": "amazon-10595040",
-      "source_job_id": "10595040",
-      "company": "Amazon",
-      "title": "Software Development Engineer, WW Stores FinTech",
-      "location": "Seattle, Washington, USA",
-      "country": "United States",
-      "workplace_type": "",
-      "department": "Software Development",
-      "employment_type": "full-time",
-      "description": "How often have you had an opportunity to be an early member of a team that is tasked with solving a huge customer need through disruptive and innovative technology? Amazon Stores FinTech Team is seeking a Software Engineer who can design and build scalable systems for Amazon Stores Finance Customers. We are the tech team that builds and supports Worldwide Amazon Stores – one of the fastest growing, largest and most complex Supply Chains in the world. Key job responsibilities As a Software Development Engineer II on the Amazon Stores FinTech team, you will design, build, and operate the systems behind Financial Reporting & Insights (FRI), which provides financial reporting to Amazon Stores finance customers. You will: - Work with product managers and finance users to clarify requirements and turn them into well-scoped technical solutions that fit the product architecture. - Own features end to end, including low-level design, development, code review, testing, and production deployment. - Write clean, maintainable code with automated unit, integration, and regression tests. - Drive engineering excellence through design reviews, thoughtful peer code reviews, and adoption of engineering best practices. - Build and operate scalable services on AWS, including AWS Glue, EMR, SNS, SQS, EC2, Elastic Container Service, and Lambda. - Champion operational excellence by keeping systems available and reliable through monitoring dashboards, alarms, and runbooks. - Resolve production issues, perform root cause analysis, and put lasting fixes in place. - Learn financial reporting concepts so your solutions reflect the business needs behind them. - Actively participate in and contribute to rotational on-call support for critical systems. - Write standard operating procedures and find process improvements that drive innovation. - 3+ years of non-internship professional software development experience - 2+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Experience with full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, WA, Seattle - 143,700.00 - 194,400.00 USD annually",
-      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field",
-      "application_url": "https://www.amazon.jobs/en/jobs/10595040/software-development-engineer-ww-stores-fintech",
-      "source_url": "https://www.amazon.jobs/en/jobs/10595040/software-development-engineer-ww-stores-fintech",
-      "source_type": "json",
-      "date_posted": "2026-11-03",
-      "first_seen": "2026-11-03T09:49:33Z",
-      "last_seen": "2026-11-03T09:49:33Z",
-      "status": "active",
-      "graduation_match": "unspecified",
-      "role_match_score": 70,
-      "sponsorship_classification": "unclear",
-      "sponsorship_evidence": "",
-      "international_student_risk_flags": [],
-      "overall_score": 63,
-      "matched_keywords": [
-        "aws",
-        "c#",
-        "software development engineer"
-      ],
-      "excluded_keywords": [],
-      "score_explanation": "role 24/35 (title matched filter terms; skills: c#, aws) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Seattle, Washington, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
-      "disqualified": false,
-      "disqualify_reason": "",
-      "consecutive_missing": 0,
-      "announced": false
-    }
-  ]
+  "generated_at": "2026-11-03T16:24:45Z",
+  "count": 0,
+  "jobs": []
 }
