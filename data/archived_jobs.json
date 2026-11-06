@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T16:05:08Z",
-  "count": 1740,
+  "generated_at": "2026-11-06T20:36:28Z",
+  "count": 1741,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -49736,6 +49736,42 @@
       "disqualify_reason": "",
       "consecutive_missing": 3,
       "announced": true
+    },
+    {
+      "job_id": "databricks-8560779002",
+      "source_job_id": "8560779002",
+      "company": "Databricks",
+      "title": "Software Engineer, Web Products",
+      "location": "Mountain View, California",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Integration, Data, Engineering and Applications",
+      "employment_type": "",
+      "description": "Software Engineer, Web Products P-1581 Location: Mountain View, CA About Us: The Web Engineering team at Databricks builds and owns the public-facing web experiences that represent Databricks to the world, across databricks.com, the blog, landing pages, hubs, microsites, and event properties. We are rebuilding the platform from the ground up, AI native from the start, and pioneering an agentic SDLC as our operating model. The Role: As Software Engineer on the Web Engineering team, you will build and ship production-quality web experiences across public-facing Databricks properties on an AI native platform designed for humans and agents from the ground up. You will contribute to a web delivery practice where AI native tools and an AI native engineering lifecycle are embedded in how the team builds every day. The impact you’ll have : Build and ship web experiences across databricks.com including landing pages, blogs, hubs, and event properties on a unified, AI native architectural foundation Implement components and page systems using a shared design system, contributing to a consolidated stack that reduces per-surface maintenance overhead Operate in an AI native SDLC where agents assist across code generation, testing, and deployment, building faster and more reliably alongside them Contribute to ensuring databricks.com surfaces are structured and optimized for how the web is discovered and consumed today, including by AI driven search and discovery systems Participate actively in code review and help establish what rigorous, AI native engineering execution looks like on this team What we look for: 4+ years of software engineering experience with a track record of shipping production web systems Strong fundamentals across the web stack including component architecture, rendering strategies, build systems, and deployment pipelines Experience building on or integrating with content management systems like Drupal, Contentful Comfort adopting AI native development tools and embedding them into daily engineering practice Ability to take a well-scoped problem and drive it to completion under senior direction Familiarity with headless CMS architectures, edge delivery, or modern frontend frameworks is a strong plus Pay Range Transparency Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here . Zone 1 Pay Range $136,300 — $187,450 USD Pay Range Transparency Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here . Local Pay Range $136,300 — $204,500 USD About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . Our Commitment to Diversity and Inclusion At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. Compliance If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.",
+      "requirements": "",
+      "application_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002",
+      "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002",
+      "source_type": "greenhouse",
+      "date_posted": "2026-06-23",
+      "first_seen": "2026-07-12T09:09:27Z",
+      "last_seen": "2026-11-06T01:05:55Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 65,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 52,
+      "matched_keywords": [
+        "ai",
+        "software engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 23/35 (primary role match (Software Engineer); skills: ai) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Mountain View, California) · recency 0/10 (posted 136d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 3,
+      "announced": false
     },
     {
       "job_id": "databricks-8593713002",
