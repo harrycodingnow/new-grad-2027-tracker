@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-07 09:04 UTC** (2026-11-07 17:04 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-07 15:02 UTC** (2026-11-07 23:02 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -161,7 +161,6 @@ _Last updated: **2026-11-07 09:04 UTC** (2026-11-07 17:04 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal) | Amazon | Software Development Engineer, SoC HAL | Cupertino, California, USA | ⚪ unclear | 2026-11-06 |
 | [Apply](https://www.amazon.jobs/en/jobs/10598851/data-engineer-sptc) | Amazon | Data Engineer, SPTC | Seattle, Washington, USA | ⚪ unclear | 2026-11-06 |
 | [Apply](https://www.amazon.jobs/en/jobs/10598852/data-engineer-selling-partner-trust) | Amazon | Data Engineer, Selling Partner Trust | Seattle, Washington, USA | ⚪ unclear | 2026-11-06 |
-| [Apply](https://www.amazon.jobs/en/jobs/10597861/data-engineer-ww-pricing-data-analytics) | Amazon | Data Engineer, WW Pricing - Data & Analytics | Seattle, Washington, USA | ⚪ unclear | 2026-11-05 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719178051) | Qualcomm | Embedded Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-11-05 |
 | [Apply](https://www.amazon.jobs/en/jobs/10594985/software-development-engineer-amazon-msk-managed-streaming-for-kafka) | Amazon | Software Development Engineer - Amazon MSK, Managed Streaming for Kafka | Seattle, Washington, USA | ⚪ unclear | 2026-11-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10594986/software-development-engineer-amazon-msk-managed-streaming-for-kafka) | Amazon | Software Development Engineer - Amazon MSK, Managed Streaming for Kafka | Seattle, Washington, USA | ⚪ unclear | 2026-11-04 |
@@ -178,7 +177,6 @@ _Last updated: **2026-11-07 09:04 UTC** (2026-11-07 17:04 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10592908/software-development-engineer-amazon-cloud-management-foundations) | Amazon | Software Development Engineer, Amazon Cloud Management Foundations | Seattle, Washington, USA | ⚪ unclear | 2026-10-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10587403/software-development-engineer-agentic-ai-velocity-labs) | Amazon | Software Development Engineer, Agentic AI, Velocity Labs | Seattle, Washington, USA | ⚪ unclear | 2026-10-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10588004/machine-learning-engineer-sagemaker-ai-inference) | Amazon | Machine Learning Engineer, SageMaker AI Inference | Bellevue, Washington, USA | ⚪ unclear | 2026-10-23 |
-| [Apply](https://www.amazon.jobs/en/jobs/10587056/software-development-engineer-dynamodb) | Amazon | Software Development Engineer, DynamoDB | Seattle, Washington, USA | ⚪ unclear | 2026-10-22 |
 | [Apply](https://www.amazon.jobs/en/jobs/10584034/software-development-engineer-annapurna-labs-elastic-collectives) | Amazon | Software Development Engineer, Annapurna Labs, Elastic Collectives | Cupertino, California, USA | ⚪ unclear | 2026-10-20 |
 | [Apply](https://www.amazon.jobs/en/jobs/10583323/software-development-engineer-aws-marketplace) | Amazon | Software Development Engineer, AWS Marketplace | Seattle, Washington, USA | ⚪ unclear | 2026-10-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10583490/data-engineer-amazon-live-data-engineering-sciences-and-analytics-desa) | Amazon | Data Engineer, Amazon Live Data Engineering, Sciences and Analytics (DESA) | Seattle, Washington, USA | ⚪ unclear | 2026-10-19 |
@@ -214,7 +212,6 @@ _Last updated: **2026-11-07 09:04 UTC** (2026-11-07 17:04 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10592343/software-development-engineer-selling-partner-promotions) | Amazon | Software Development Engineer, Selling Partner Promotions | Seattle, Washington, USA | ⚪ unclear | 2026-10-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10592596/robotics-data-engineer-frontier-ai-robotics-far) | Amazon | Robotics Data Engineer, Frontier AI & Robotics (FAR) | San Francisco, California, USA | ⚪ unclear | 2026-10-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10592909/software-development-engineer-amazon-cloud-management-foundations) | Amazon | Software Development Engineer, Amazon Cloud Management Foundations | Seattle, Washington, USA | ⚪ unclear | 2026-10-29 |
-| [Apply](https://www.amazon.jobs/en/jobs/10591363/software-development-engineer-amazon-private-brands) | Amazon | Software Development Engineer, Amazon Private Brands | Seattle, Washington, USA | ⚪ unclear | 2026-10-28 |
 | [Apply](https://www.amazon.jobs/en/jobs/10588064/software-development-engineer-ads-ai-core-infra) | Amazon | Software Development Engineer, Ads AI Core Infra | New York, New York, USA | ⚪ unclear | 2026-10-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10588065/software-development-engineer-ads-ai-core-infra) | Amazon | Software Development Engineer, Ads AI Core Infra | New York, New York, USA | ⚪ unclear | 2026-10-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10588074/software-development-engineer-ads-ai-core-infra) | Amazon | Software Development Engineer, Ads AI Core Infra | New York, New York, USA | ⚪ unclear | 2026-10-23 |
@@ -253,7 +250,6 @@ _Last updated: **2026-11-07 09:04 UTC** (2026-11-07 17:04 Asia/Taipei) — auto-
 | [Apply](https://careers.qualcomm.com/careers/job/446717859953) | Qualcomm | Machine Learning Engineer - College Graduate | San Diego, California, United States of America | ⚪ unclear | 2026-09-17 |
 | [Apply](https://www.amazon.jobs/en/jobs/10547654/data-engineer-amazon-customer-service) | Amazon | Data Engineer , Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-09-16 |
 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002) | Databricks | AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus) | Maryland; Virginia; Washington, D.C. | ⚪ unclear | 2026-08-28 |
-| [Apply](https://morganstanley.eightfold.ai/careers/job/549799200737) | Morgan Stanley | Data Scientist (NLP and GenAI Specialist) | Dallas, Texas, United States of America | ⚪ unclear | 2026-08-14 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4945646101) | IMC | Data Engineer - Infrastructure | Chicago, United States | ⚪ unclear | 2026-08-05 |
 | [Apply](https://www.optiver.com/join-us/jobs/8672685002/?gh_jid=8672685002) | Optiver | AI Engineer | New York, New York | ⚪ unclear | 2026-08-03 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8229056002/) | Jane Street | Campus Recruiter, Machine Learning and Quantitative Research | NYC | ⚪ unclear | — |
@@ -310,19 +306,18 @@ _Last updated: **2026-11-07 09:04 UTC** (2026-11-07 17:04 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 347
-- **Recommended (not disqualified):** 289
-- **Companies checked successfully:** 29
-- **Failed sources:** 2
+- **Active jobs tracked:** 343
+- **Recommended (not disqualified):** 285
+- **Companies checked successfully:** 30
+- **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 5, strong: 169, possible: 115, low priority: 0
+- Matches — excellent: 5, strong: 167, possible: 113, low priority: 0
 
 ## Source problems
 
 | Company | Status | Category | Detail |
 | --- | --- | --- | --- |
 | Uber | failed | network_error | HTTP 404 for https://www.uber.com/api/loadSearchJobsResults?localeCode=en |
-| Marvell | failed | network_error | request failed after 3 attempts: https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs (HTTP 500 for https://marvell.w… |
 | Google | skipped | unsupported | UNRESOLVED (2026-07-12): the former careers.google.com/api/v3/search API returns 404; current site has no public JSON API. Check manually. |
 | Meta | skipped | unsupported | UNRESOLVED: metacareers.com uses an authenticated GraphQL endpoint; no stable public JSON source. Check manually. |
 | Apple | skipped | unsupported | UNRESOLVED: jobs.apple.com search API requires per-session CSRF tokens; not collected responsibly without a browser session. Check manually. |
