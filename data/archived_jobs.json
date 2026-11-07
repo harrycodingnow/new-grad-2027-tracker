@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T18:56:21Z",
-  "count": 1756,
+  "generated_at": "2026-11-07T23:50:02Z",
+  "count": 1757,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -47455,6 +47455,46 @@
       "disqualify_reason": "",
       "consecutive_missing": 3,
       "announced": true
+    },
+    {
+      "job_id": "amazon-10585267",
+      "source_job_id": "10585267",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Leo Space Security",
+      "location": "Arlington, Virginia, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Software Development",
+      "employment_type": "full-time",
+      "description": "Amazon Leo is a constellation of Low Earth Orbit satellites that will provide low-latency, high-speed broadband network connectivity to unserved and underserved communities around the world. We are looking for a software development engineer to join the founding cohort of the Engineering and R\\&D team within Leo Space Security. The team defends the manufacturing lines, launch sites, and global ground infrastructure behind the constellation from the most sophisticated threat actors on the planet. You will build a neurosymbolic reasoning platform: large language model agents combined with a knowledge graph and real-time asset state store that ground every conclusion in verifiable fact, so every automated decision is auditable. The platform automates incident response, threat analysis, offensive security testing, and detection authoring, backed by a high-throughput streaming pipeline that takes a detection from concept to production in hours. The team is new and the surface area is wide: the features you ship become the system Leo's security teams run on from day one. Export Control Requirement Due to applicable export control laws and regulations, candidates must be a U.S. citizen. Key job responsibilities You will own building software features across the platform and deliver them end to end: clarify the requirements, write the design, ship the code, instrument the system, and keep it healthy in production. The features you own are concrete and high-consequence: the live state-of-the-world record that answers where every tracked device is, who last held it, and whether it is where it should be; consolidated detection that surfaces events from every Leo site type as one signal instead of siloed alarms; automated triage so security events arrive enriched and pre-adjudicated, with containment executed in seconds under human approval; self-service workflows that cut multi-day manual processes down to seconds; and the instrumentation that produces the metrics the security organization reports against. You will code independently, make design tradeoffs with guidance from the senior engineers who own the platform architecture, review your teammates' code, and operate what you build. A day in the life One morning you might ship a correlation feature that joins device, custody, and access events so triage surfaces a pattern no single data source shows. That afternoon you could be debugging why a detection's latency regressed, profiling the pipeline stage that slowed it down, and adding the metric that catches it next time. The next day you might pair with an applied scientist to backtest a candidate detection against retained telemetry before it ships, then pick up an operational ticket and automate away its root cause so no one handles it again. You will obsess over the two latencies that define the platform, the time from event to detection and the time from detection to containment action, and treat every manual step you find as a candidate for deletion. The team is new, so what you build now becomes the foundation others build on. About the team Leo Space Security protects the people, facilities, hardware, and supply chain behind a global satellite constellation. The Engineering and R\\&D team within this organization builds the platforms and tooling the security pillar teams operate on, moving security operations from manual triage to correlation-based detection, automated response, and agentic AI. The team is composed of applied scientists, software engineers, and security engineers working across physical and digital security domains. #### Inclusive Team Culture In Amazon Security, it's in our nature to learn and be curious. Ongoing DEI events and learning experiences inspire us to continue learning and to embrace our uniqueness. Addressing the toughest security challenges requires that we seek out and celebrate a diversity of ideas, perspectives, and voices. #### Training & Career Growth We're continuously raising our performance bar as we strive to become Earth's Best Employer. That's why you'll find endless knowledge-sharing, training, and other career-advancing resources here to help you develop into a better-rounded professional. #### Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there's nothing we can't achieve. - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Bachelor's degree in computer science or equivalent - Experience in one or more of the following domains: access- control system and methodology, network security, application- and system-development security, security architecture and models, cryptography, and operations security - Experience with performance optimization, including memory management, multi-threading, and profiling production systems - Experience with distributed systems fundamentals, including consensus, message passing, and fault tolerance - Experience with graph databases, knowledge graph platforms, or large-scale data modeling (Neptune, Neo4j, or equivalent) Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, VA, Arlington - 143,700.00 - 194,400.00 USD annually USA, VA, Herndon - 143,700.00 - 194,400.00 USD annually",
+      "requirements": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience",
+      "application_url": "https://www.amazon.jobs/en/jobs/10585267/software-development-engineer-leo-space-security",
+      "source_url": "https://www.amazon.jobs/en/jobs/10585267/software-development-engineer-leo-space-security",
+      "source_type": "json",
+      "date_posted": "2026-10-21",
+      "first_seen": "2026-10-21T18:48:53Z",
+      "last_seen": "2026-11-07T09:04:21Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 75,
+      "sponsorship_classification": "ineligible",
+      "sponsorship_evidence": "Export Control Requirement Due to applicable export control laws and regulations, candidates must be a U.S. citizen.",
+      "international_student_risk_flags": [
+        "must be a u.s. citizen"
+      ],
+      "overall_score": 52,
+      "matched_keywords": [
+        "ai",
+        "c#",
+        "distributed systems",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 26/35 (title matched filter terms; skills: c#, ai, distributed systems) · graduation 8/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (Arlington, Virginia, USA) · recency 8/10 (posted 17d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": true,
+      "disqualify_reason": "sponsorship classification 'ineligible': Export Control Requirement Due to applicable export control laws and regulations, candidates must be a U.S. citizen.",
+      "consecutive_missing": 3,
+      "announced": false
     },
     {
       "job_id": "amazon-10585330",
