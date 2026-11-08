@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-08 15:25 UTC** (2026-11-08 23:25 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-08 18:58 UTC** (2026-11-09 02:58 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -138,7 +138,6 @@ _Last updated: **2026-11-08 15:25 UTC** (2026-11-08 23:25 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10591629/software-development-engineer-aws-ec2-nitro-team) | Amazon | Software Development Engineer, AWS EC2 Nitro Team | Santa Clara, California, USA | ⚪ unclear | 2026-11-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10594618/software-development-engineer-alexa-sensitive-content-intelligence-asci) | Amazon | Software Development Engineer, Alexa Sensitive Content Intelligence (ASCI) | Bellevue, Washington, USA | ⚪ unclear | 2026-11-02 |
 | [Apply](https://www.amazon.jobs/en/jobs/10593929/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-10-31 |
-| [Apply](https://www.amazon.jobs/en/jobs/10593778/software-development-engineer-pxt-central-science) | Amazon | Software Development Engineer, PXT Central Science | Bellevue, Washington, USA | ⚪ unclear | 2026-10-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10593872/software-development-engineer) | Amazon | Software Development Engineer | Cupertino, California, USA | ⚪ unclear | 2026-10-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10587264/software-development-engineer-neuron-collectives-annapurna-labs) | Amazon | Software Development Engineer, Neuron Collectives, Annapurna Labs | Cupertino, California, USA | ⚪ unclear | 2026-10-23 |
 | [Apply](https://jobs.smartrecruiters.com/servicenow/744000157571919) | ServiceNow | Associate Software Engineer | Santa Clara, CALIFORNIA | ⚪ unclear | 2026-10-23 |
@@ -303,12 +302,12 @@ _Last updated: **2026-11-08 15:25 UTC** (2026-11-08 23:25 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 339
-- **Recommended (not disqualified):** 282
+- **Active jobs tracked:** 336
+- **Recommended (not disqualified):** 281
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 5, strong: 163, possible: 114, low priority: 0
+- Matches — excellent: 5, strong: 162, possible: 114, low priority: 0
 
 ## Source problems
 
