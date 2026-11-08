@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-08 09:18 UTC** (2026-11-08 17:18 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-08 15:25 UTC** (2026-11-08 23:25 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -91,7 +91,6 @@ _Last updated: **2026-11-08 09:18 UTC** (2026-11-08 17:18 Asia/Taipei) — auto-
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4960533101) | IMC | Software Engineer - AI Tooling | Chicago, United States | ⚪ unclear | 2026-11-06 |
 | [Apply](https://www.amazon.jobs/en/jobs/10596539/software-development-engineer-aws-transform) | Amazon | Software Development Engineer, AWS Transform | Dallas, Texas, USA | ⚪ unclear | 2026-11-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10596540/software-development-engineer-aws-transform) | Amazon | Software Development Engineer, AWS Transform | Dallas, Texas, USA | ⚪ unclear | 2026-11-04 |
-| [Apply](https://www.amazon.jobs/en/jobs/10597174/data-engineer-aws-infrastructure-supply-chain-intelligence) | Amazon | Data Engineer , AWS Infrastructure Supply Chain Intelligence | Austin, Texas, USA | ⚪ unclear | 2026-11-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10595891/software-engineer-worldwide-amazon-stores-finance-technology-controllership-engineering) | Amazon | Software Engineer, Worldwide Amazon Stores Finance Technology, Controllership Engineering | Seattle, Washington, USA | ⚪ unclear | 2026-11-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10594578/software-development-engineer-checkout-applications-team) | Amazon | Software Development Engineer, Checkout Applications Team | Seattle, Washington, USA | ⚪ unclear | 2026-11-02 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8346831) | Stripe | Data Scientist, FX Quantitative Research | New York, NY | ⚪ unclear | 2026-11-02 |
@@ -240,7 +239,6 @@ _Last updated: **2026-11-08 09:18 UTC** (2026-11-08 17:18 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10592978/software-development-engineer-audible-ai-voice-production) | Amazon | Software Development Engineer, Audible AI Voice Production | Culver City, California, USA | ⚪ unclear | 2026-10-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10586859/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-10-22 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721635150) | Qualcomm | Software Engineer - Camera | San Diego, California, United States of America | ⚪ unclear | 2026-10-19 |
-| [Apply](https://careers.qualcomm.com/careers/job/446721524144) | Qualcomm | Modem Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-10-12 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721373024) | Qualcomm | Modem Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-10-02 |
 | [Apply](https://www.amazon.jobs/en/jobs/10566090/data-engineer-global-logistics-product-analytics-team) | Amazon | Data Engineer, Global Logistics Product Analytics Team | Bellevue, Washington, USA | ⚪ unclear | 2026-09-30 |
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8230509) | DRW | AI Inference Platform Engineer | Chicago | ⚪ unclear | 2026-09-29 |
@@ -305,12 +303,12 @@ _Last updated: **2026-11-08 09:18 UTC** (2026-11-08 17:18 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 341
-- **Recommended (not disqualified):** 284
+- **Active jobs tracked:** 339
+- **Recommended (not disqualified):** 282
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 5, strong: 164, possible: 115, low priority: 0
+- Matches — excellent: 5, strong: 163, possible: 114, low priority: 0
 
 ## Source problems
 
