@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-08 18:58 UTC** (2026-11-09 02:58 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-08 23:56 UTC** (2026-11-09 07:56 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -238,6 +238,7 @@ _Last updated: **2026-11-08 18:58 UTC** (2026-11-09 02:58 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10592978/software-development-engineer-audible-ai-voice-production) | Amazon | Software Development Engineer, Audible AI Voice Production | Culver City, California, USA | ⚪ unclear | 2026-10-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10586859/software-development-engineer) | Amazon | Software Development Engineer | Seattle, Washington, USA | ⚪ unclear | 2026-10-22 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721635150) | Qualcomm | Software Engineer - Camera | San Diego, California, United States of America | ⚪ unclear | 2026-10-19 |
+| [Apply](https://careers.qualcomm.com/careers/job/446721524144) | Qualcomm | Modem Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-10-12 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721373024) | Qualcomm | Modem Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-10-02 |
 | [Apply](https://www.amazon.jobs/en/jobs/10566090/data-engineer-global-logistics-product-analytics-team) | Amazon | Data Engineer, Global Logistics Product Analytics Team | Bellevue, Washington, USA | ⚪ unclear | 2026-09-30 |
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8230509) | DRW | AI Inference Platform Engineer | Chicago | ⚪ unclear | 2026-09-29 |
@@ -247,7 +248,6 @@ _Last updated: **2026-11-08 18:58 UTC** (2026-11-09 02:58 Asia/Taipei) — auto-
 | [Apply](https://www.optiver.com/join-us/jobs/8672685002/?gh_jid=8672685002) | Optiver | AI Engineer | New York, New York | ⚪ unclear | 2026-08-03 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8229056002/) | Jane Street | Campus Recruiter, Machine Learning and Quantitative Research | NYC | ⚪ unclear | — |
 | [Apply](https://www.amazon.jobs/en/jobs/10597835/software-development-engineer-kinesis-data-streams) | Amazon | Software Development Engineer, Kinesis Data Streams | Seattle, Washington, USA | ⚪ unclear | 2026-11-05 |
-| [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/349764) | Oracle | Software Developer 4 | Burlington, MA, United States | ⚪ unclear | 2026-11-05 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721948679) | Qualcomm | Cellular Technologies Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-11-03 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274922421821) | PayPal | Data Scientist | San Jose, California, United States of America | ⚪ unclear | 2026-11-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10587677/software-development-engineer-tax-central-ai-engineering) | Amazon | Software Development Engineer, Tax Central AI Engineering | Seattle, Washington, USA | ⚪ unclear | 2026-10-23 |
