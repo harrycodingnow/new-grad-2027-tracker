@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-12 10:04 UTC** (2026-11-12 18:04 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-12 16:59 UTC** (2026-11-13 00:59 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -127,6 +127,7 @@ _Last updated: **2026-11-12 10:04 UTC** (2026-11-12 18:04 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10594100/software-development-engineer-ads-ai-core-infra-aci) | Amazon | Software Development Engineer, Ads AI Core Infra (ACI) | Seattle, Washington, USA | ⚪ unclear | 2026-11-01 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721756080) | Qualcomm | #Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-10-27 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8314283) | Stripe | Software Engineer | South San Francisco, CA | ⚪ unclear | 2026-10-22 |
+| [Apply](https://www.amazon.jobs/en/jobs/10602394/software-development-engineer-close-systems-project-accounting) | Amazon | Software Development Engineer, Close Systems - Project Accounting | Dallas, Texas, USA | ⚪ unclear | 2026-11-12 |
 | [Apply](https://www.amazon.jobs/en/jobs/10598778/software-development-engineer-netos-observability) | Amazon | Software Development Engineer, NetOS Observability | Raleigh, North Carolina, USA | ⚪ unclear | 2026-11-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10599231/sde-2-ai-authoring-technical-content-experience-tcx-engineering) | Amazon | SDE-2, AI Authoring, Technical Content Experience (TCX) Engineering | New York, New York, USA | ⚪ unclear | 2026-11-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce) | Amazon | Software Engineer I, Commerce | San Francisco, California, USA | ⚪ unclear | 2026-11-11 |
@@ -158,6 +159,7 @@ _Last updated: **2026-11-12 10:04 UTC** (2026-11-12 18:04 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10593872/software-development-engineer) | Amazon | Software Development Engineer | Cupertino, California, USA | ⚪ unclear | 2026-10-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10557689/data-engineer-ww-ops-finance-s-a) | Amazon | Data Engineer, WW Ops Finance - S&A | Bellevue, Washington, USA | ⚪ unclear | 2026-09-23 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8212508) | Stripe | Software Engineer, Early Career — Immediate Start | San Francisco, Seattle, New York | ⚪ unclear | 2026-09-17 |
+| [Apply](https://www.amazon.jobs/en/jobs/10603380/software-development-engineer-frontier-core-platform-team) | Amazon | Software Development Engineer, Frontier Core Platform Team | Seattle, Washington, USA | ⚪ unclear | 2026-11-12 |
 | [Apply](https://www.amazon.jobs/en/jobs/10595564/machine-learning-engineer-ad-response-prediction) | Amazon | Machine Learning Engineer, Ad Response Prediction | Seattle, Washington, USA | ⚪ unclear | 2026-11-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10601986/software-development-engineer-billing-data-services-billing-data-services) | Amazon | Software Development Engineer, Billing Data Services, Billing Data Services | Seattle, Washington, USA | ⚪ unclear | 2026-11-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10600458/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-11-09 |
@@ -171,8 +173,6 @@ _Last updated: **2026-11-12 10:04 UTC** (2026-11-12 18:04 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10597260/software-development-engineer-network-monitoring-and-remediation-nmr) | Amazon | Software Development Engineer, Network Monitoring and Remediation (NMR) | Seattle, Washington, USA | ⚪ unclear | 2026-11-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10595865/software-development-engineer-bottlerocket) | Amazon | Software Development Engineer, Bottlerocket | Seattle, Washington, USA | ⚪ unclear | 2026-11-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10595981/software-development-engineer-sponsored-products-and-brands) | Amazon | Software Development Engineer, Sponsored Products and Brands | New York, New York, USA | ⚪ unclear | 2026-11-03 |
-| [Apply](https://www.amazon.jobs/en/jobs/10594897/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-11-02 |
-| [Apply](https://www.amazon.jobs/en/jobs/10588956/software-development-engineer-aws-certificate-services) | Amazon | Software Development Engineer, AWS Certificate Services | Seattle, Washington, USA | ⚪ unclear | 2026-10-26 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549800858274) | Morgan Stanley | Full Stack Java Developer | New York, New York, United States of America | ⚪ unclear | 2026-10-26 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274922972416) | PayPal | Software Engineer | San Jose, California, United States of America | ⚪ unclear | 2026-10-26 |
 | [Apply](https://www.amazon.jobs/en/jobs/10587403/software-development-engineer-agentic-ai-velocity-labs) | Amazon | Software Development Engineer, Agentic AI, Velocity Labs | Seattle, Washington, USA | ⚪ unclear | 2026-10-23 |
@@ -299,7 +299,7 @@ _Last updated: **2026-11-12 10:04 UTC** (2026-11-12 18:04 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 347
+- **Active jobs tracked:** 344
 - **Recommended (not disqualified):** 278
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
