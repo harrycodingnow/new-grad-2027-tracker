@@ -1,9 +1,7 @@
 # Newly Discovered Jobs
 
-_Found in the run at **2026-11-14 09:11 UTC** — auto-generated._
+_Found in the run at **2026-11-14 15:13 UTC** — auto-generated._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
-| Apply | Company | Title | Location | Sponsorship | Posted |
-| --- | --- | --- | --- | --- | --- |
-| [Apply](https://www.amazon.jobs/en/jobs/10605142/software-development-engineer-aws) | Amazon | Software Development Engineer, AWS | Seattle, Washington, USA | ⚪ unclear | 2026-11-14 |
+No new matching jobs were discovered in this run.
