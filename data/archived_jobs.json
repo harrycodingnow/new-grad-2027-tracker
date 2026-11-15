@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T00:06:47Z",
-  "count": 1866,
+  "generated_at": "2026-11-15T09:44:16Z",
+  "count": 1867,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -44,6 +44,45 @@
       "disqualify_reason": "",
       "consecutive_missing": 3,
       "announced": false
+    },
+    {
+      "job_id": "adobe-R164904",
+      "source_job_id": "R164904",
+      "company": "Adobe",
+      "title": "Software Development Engineer",
+      "location": "San Jose",
+      "country": "United States of America",
+      "workplace_type": "",
+      "department": "",
+      "employment_type": "Full time",
+      "description": "Job Description Our Company Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! We’re looking for a highly motivated Software Developer Engineer to join the team building Adobe’s next-generation AI-first marketing application. This platform is redefining customer engagement workflows with speed, agility, and full-stack productivity for modern marketers. What You’ll Do Develop, and deploy critical components of a new Agentic App , delivering production-grade solutions. Translate high-level product goals into actionable engineering tasks and technical plans. Evaluate and advocate for the right tools, frameworks, and technologies. Write clean, testable, and scalable code; conduct peer reviews and drive best practices in CI/CD, observability, and performance optimization. Collaborate cross-functionally with Product, Design, and Engineering to launch customer-centric features. Communicate effectively with leadership to align on goals and priorities. Act as a technical leader and mentor, fostering growth across the team. What You Need to Succeed Bachelor’s degree in Computer Science or equivalent experience. 4-9 years of hands-on software development experience. Strong foundation in data structures, algorithms , and object-oriented design . Proven expertise in Java , Scala , Python, C++ or GO and clean architecture principles. Experience with Campaign Execution systems and Generative AI is a strong plus. Deep understanding of cloud-native architectures , microservices, and “always-up” systems. Familiarity with CI/CD pipelines , GitOps , and container orchestration tools like Argo CD . Excellent communication and collaboration skills. A mindset of curiosity, ownership, and relentless focus on solving real customer problems with high-quality software. At Adobe, you will be immersed in an exceptional work environment that is recognized around the world. You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely. If you’re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer. Adobe is an equal opportunity and affirmative action employer. We welcome and encourage diversity in the workplace regardless of gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other characteristics protected by law. About Adobe Adobe empowers everyone to create through innovative platforms and tools that unleash creativity, productivity and personalized customer experiences. Adobe’s industry-leading offerings including Adobe Acrobat Studio, Adobe Express, Adobe Firefly, Creative Cloud, Adobe Experience Platform, Adobe Experience Manager, and GenStudio enable people and businesses to turn ideas into impact, powered by AI and driven by human ingenuity. Our 30,000+ employees worldwide are creating the future and raising the bar as we drive the next decade of growth. We’re on a mission to hire the very best and believe in creating a company culture where all employees are empowered to make an impact. At Adobe, we believe that great ideas can come from anywhere in the organization. The next big idea could be yours. Let’s Adobe together At Adobe, we believe in creating a company culture where all employees are empowered to make an impact. Learn more about Adobe life, including our values and culture , focus on people, purpose and community , Adobe for All , comprehensive benefits programs , the stories we tell , the customers we serve, and how you can help us advance our mission of empowering everyone to create. Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other protected characteristic. Learn more. Adobe aims to make our Careers website and recruiting process accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com . AI Use Guidelines for Interviews: Our interviews are designed to reflect your own skills and thinking. The use of AI or recording tools during live interviews is not permitted unless explicitly invited by the interviewer or approved in advance as part of a reasonable accommodation. If these tools are used inappropriately or in a way that misrepresents your work, your application may not move forward in the process. At Adobe, we empower employees to innovate with AI — and we look for candidates eager to do the same. As part of the hiring experience, we provide clear guidance on where AI is encouraged during the process and where it’s restricted during live interviews. See how we think about AI in the hiring experience . Expected Pay Range: Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $139,000 - $257,550 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.&#xa;&#xa;In California, the pay range for this position is $177,900 - $257,550&#xa; At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP). In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award. State-Specific Notices: California : Fair Chance Ordinances Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances. Colorado: Application Window Notice There is no deadline to apply to this job posting because Adobe accepts applications for this role on an ongoing basis. The posting will remain open based on hiring needs and position availability. Massachusetts: Massachusetts Legal Notice It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
+      "requirements": "",
+      "application_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R164904",
+      "source_url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R164904",
+      "source_type": "workday",
+      "date_posted": "2026-10-14",
+      "first_seen": "2026-07-29T05:40:34Z",
+      "last_seen": "2026-11-13T21:10:27Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 80,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 63,
+      "matched_keywords": [
+        "ai",
+        "cloud",
+        "microservices",
+        "python",
+        "software development engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 28/35 (title matched filter terms; skills: python, cloud, ai, microservices) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (San Jose) · recency 6/10 (posted 30d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 3,
+      "announced": true
     },
     {
       "job_id": "adobe-R165453",
