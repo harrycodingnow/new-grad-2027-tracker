@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T19:19:26Z",
-  "count": 1865,
+  "generated_at": "2026-11-15T00:06:47Z",
+  "count": 1866,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -53545,6 +53545,46 @@
       ],
       "excluded_keywords": [],
       "score_explanation": "role 26/35 (primary role match (Software Engineer); skills: c#, ai, machine learning) · graduation 12/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (Santa Clara,CA) · recency 10/10 (posted 3d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": true,
+      "disqualify_reason": "sponsorship classification 'ineligible': Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexu",
+      "consecutive_missing": 3,
+      "announced": false
+    },
+    {
+      "job_id": "applied-materials-R2630683",
+      "source_job_id": "R2630683",
+      "company": "Applied Materials",
+      "title": "Software Engineer, Bachelors Degree, New College Grad (Santa Clara)",
+      "location": "Santa Clara,CA",
+      "country": "United States of America",
+      "workplace_type": "",
+      "department": "",
+      "employment_type": "Full time",
+      "description": "Who We Are Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology. What We Offer Salary: $104,000.00 - $143,000.00 Location: Santa Clara,CA You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits . As a Software Engineer at Applied Materials, you’ll dive deep into ground-breaking technologies—like machine learning and AI—to craft novel software solutions that solve our customers’ high-value problems. Our Software Engineers are responsible for designing, prototyping, developing, and debugging software solutions for semiconductor equipment components and devices to ensure quality and functionality. You'll develop software documentation and test procedures, troubleshoot software problems, and communicate with internal customers to understand project requirements. As part of our team, you'll contribute your expertise in intricate systems, deciphering code, and anticipating software behaviors to ensure Applied remains the leader in the semiconductor and display sectors. Role Responsibilities: Design, prototype and develop software solutions for semiconductor equipment components and devices with limited complexity Develop software documentation and test procedures Troubleshoot software problems of limited difficulty Communicate with internal customers for an understanding of project requirements Minimum Qualifications: Bachelor’s degree in a related field, such as computer science, information management, software/system engineering, cyber security or mathematics Familiarity with the basic theories and concepts of software engineering Proficiency in C/C++, .Net, C# Preferred Qualifications: 1-2 years of related experience Additional Information Time Type: Full time Employee Type: New College Grad Travel: Yes, 10% of the Time Relocation Eligible: Yes The salary offered to a selected candidate will be based on multiple factors including location, hire grade, job-related knowledge, skills, experience, and with consideration of internal equity of our current team members. In addition to a comprehensive benefits package, candidates may be eligible for other forms of compensation such as participation in a bonus and a stock award program, as applicable. For all sales roles, the posted salary range is the Target Total Cash (TTC) range for the role, which is the sum of base salary and target bonus amount at 100% goal achievement. Applied Materials is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, disability, veteran or military status, or any other basis prohibited by law. In addition, Applied endeavors to make our careers site accessible to all users. If you would like to contact us regarding accessibility of our website or need assistance completing the application process, please contact us via e-mail at Accommodations_Program@amat.com, or by calling our HR Direct Help Line at 877-612-7547, option 1, and following the prompts to speak to an HR Advisor. This contact is for accommodation requests only and cannot be used to inquire about the status of applications.",
+      "requirements": "",
+      "application_url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
+      "source_url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
+      "source_type": "workday",
+      "date_posted": "2026-10-19",
+      "first_seen": "2026-10-19T23:55:52Z",
+      "last_seen": "2026-11-13T16:37:19Z",
+      "status": "closed",
+      "graduation_match": "unspecified",
+      "role_match_score": 75,
+      "sponsorship_classification": "ineligible",
+      "sponsorship_evidence": "Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, disability, veteran or military status, or any other basis prohibited by law.",
+      "international_student_risk_flags": [
+        "itar"
+      ],
+      "overall_score": 51,
+      "matched_keywords": [
+        "ai",
+        "c#",
+        "machine learning",
+        "software engineer"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 26/35 (primary role match (Software Engineer); skills: c#, ai, machine learning) · graduation 8/20 (unspecified) · sponsorship 0/25 (ineligible) · location 10/10 (Santa Clara,CA) · recency 7/10 (posted 25d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
       "disqualified": true,
       "disqualify_reason": "sponsorship classification 'ineligible': Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexu",
       "consecutive_missing": 3,
