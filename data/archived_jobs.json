@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T09:44:16Z",
-  "count": 1867,
+  "generated_at": "2026-11-15T15:48:33Z",
+  "count": 1866,
   "jobs": [
     {
       "job_id": "adobe-R160133",
@@ -70160,43 +70160,6 @@
       "disqualify_reason": "",
       "consecutive_missing": 3,
       "announced": true
-    },
-    {
-      "job_id": "qualcomm-3098160",
-      "source_job_id": "3098160",
-      "company": "Qualcomm",
-      "title": "Software Engineer - Camera",
-      "location": "San Diego, California, United States of America",
-      "country": "United States",
-      "workplace_type": "onsite",
-      "department": "Camera Software Engineering",
-      "employment_type": "",
-      "description": "Company: Qualcomm Technologies, Inc. Job Area: Engineering Group, Engineering Group > Camera Software Engineering General Summary: Took a fantastic photo or video of your favorite subject using your smartphone and wondered how they keep getting better and better over time? Did you know that most leading smartphone manufacturers today use Qualcomm’s Spectra Camera ISP to make this possible? We are looking to strengthen this team, and we have multiple software positions open. The job offers exciting opportunities to work on the latest imaging technology for smart phones, augmented and virtual reality devices, laptops, automotive platforms, and a variety of IoT and industrial applications. Join us in revolutionizing imaging technology! About the role: In the camera software team, you will have the opportunity to work on system and software architecture, develop new imaging features and work with different ecosystems such as Android, Linux, MS Windows etc. This can include working on the camera framework, HAL, device drivers, algorithm design and development, optimizing software for performance and power, development of unit tests and working with our partners and OEMs. The role also presents opportunities to advance your career with our cutting-edge and constantly evolving image analysis and post-processing techniques, camera sensors, motion compensation and other advanced features that are based on the latest imaging processors, AI and ML techniques. Apply now to join our team! Minimum Qualifications: • Bachelor's degree in Computer Science, Electrical Engineering, Electronic Engineering, or related field. Preferred Qualifications: • Master's degree in Computer Science, Electrical Engineering, Electronic Engineering, or related field. • 2+ years of relevant camera software experience. • 1 + year programming (e.g., C, C++, Python), computer architecture, or embedded systems knowledge . Principal Duties and Responsibilities: • Applies knowledge of Camera to assist in the design, development, debug, implementation, and verification of camera software (e.g., Camera Image Signal Processor, 3A, Image Quality, Tuning Tools, etc.), algorithms, and features. • Assists in the design or architect of IQ modules, algorithms, and feature decompositions for both hardware and software. • Assists in ensuring that image quality, software conformance tests, and performance and power metrics are met to deliver camera software to customers. • Collaborates with team members to design, develop, and implement camera software. Writes technical documentation and feature descriptions for Camera SW projects. Level of Responsibility: • Works under supervision. • Decision-making affects direct area of work and/or work group. • Requires verbal and written communication skills to convey basic, routine factual information. • Tasks consist of a limited number of steps and can be referenced using directions or manuals. Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here . Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries). To all Staffing and Recruiting Agencies : Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications. EEO Employer: Qualcomm is an equal opportunity employer; all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or any other protected classification. Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law. Pay range and Other Compensation & Benefits : $104,500.00 - $156,700.00 The above pay scale reflects the broad, minimum to maximum, pay scale for this job code for the location for which it has been posted. Even more importantly, please note that salary is only one component of total compensation at Qualcomm. We also offer a competitive annual discretionary bonus program and opportunity for annual RSU grants (employees on sales-incentive plans are not eligible for our annual bonus). In addition, our highly competitive benefits package is designed to support your success at work, at home, and at play. Your recruiter will be happy to discuss all that Qualcomm has to offer – and you can review more details about our US benefits at this link . If you would like more information about this role, please contact Qualcomm Careers .",
-      "requirements": "",
-      "application_url": "https://careers.qualcomm.com/careers/job/446721635150",
-      "source_url": "https://careers.qualcomm.com/careers/job/446721635150",
-      "source_type": "eightfold",
-      "date_posted": "2026-10-19",
-      "first_seen": "2026-10-19T23:55:52Z",
-      "last_seen": "2026-11-14T01:00:34Z",
-      "status": "closed",
-      "graduation_match": "unspecified",
-      "role_match_score": 70,
-      "sponsorship_classification": "unclear",
-      "sponsorship_evidence": "",
-      "international_student_risk_flags": [],
-      "overall_score": 59,
-      "matched_keywords": [
-        "ai",
-        "python",
-        "software engineer"
-      ],
-      "excluded_keywords": [],
-      "score_explanation": "role 24/35 (primary role match (Software Engineer); skills: python, ai) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (San Diego, California, United States of ) · recency 6/10 (posted 26d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
-      "disqualified": false,
-      "disqualify_reason": "",
-      "consecutive_missing": 3,
-      "announced": false
     },
     {
       "job_id": "qualcomm-3098857",
