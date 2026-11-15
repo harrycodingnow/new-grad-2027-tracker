@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-15 15:48 UTC** (2026-11-15 23:48 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-15 19:55 UTC** (2026-11-16 03:55 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -125,7 +125,6 @@ _Last updated: **2026-11-15 15:48 UTC** (2026-11-15 23:48 Asia/Taipei) — auto-
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167807) | Hudson River Trading | Hardware Design Engineer - 2027 Grads | New York, NY, United States | ⚪ unclear | 2026-08-31 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845) | Hudson River Trading | Algorithm Developer (Quant Research & Trading) – 2027 PhDs | London, United Kingdom; New York, NY, United States; Singap… | ⚪ unclear | 2026-07-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10597234/software-development-engineer-aws-builder-acceleration) | Amazon | Software Development Engineer, AWS Builder Acceleration | Seattle, Washington, USA | ⚪ unclear | 2026-11-04 |
-| [Apply](https://www.amazon.jobs/en/jobs/10597242/software-development-engineer-mads) | Amazon | Software Development Engineer, MADS | Seattle, Washington, USA | ⚪ unclear | 2026-11-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10595951/data-engineer-advertising-demand-enablement-product-ops-depo) | Amazon | Data Engineer, Advertising Demand Enablement & Product Ops (DEPO) | New York, New York, USA | ⚪ unclear | 2026-11-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10594100/software-development-engineer-ads-ai-core-infra-aci) | Amazon | Software Development Engineer, Ads AI Core Infra (ACI) | Seattle, Washington, USA | ⚪ unclear | 2026-11-01 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721756080) | Qualcomm | #Software Engineer | San Diego, California, United States of America | 🟡 possibly supported | 2026-10-27 |
@@ -183,7 +182,6 @@ _Last updated: **2026-11-15 15:48 UTC** (2026-11-15 23:48 Asia/Taipei) — auto-
 | --- | --- | --- | --- | --- | --- |
 | [Apply](https://www.amazon.jobs/en/jobs/10594985/software-development-engineer-amazon-msk-managed-streaming-for-kafka) | Amazon | Software Development Engineer - Amazon MSK, Managed Streaming for Kafka | Seattle, Washington, USA | ⚪ unclear | 2026-11-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10594986/software-development-engineer-amazon-msk-managed-streaming-for-kafka) | Amazon | Software Development Engineer - Amazon MSK, Managed Streaming for Kafka | Seattle, Washington, USA | ⚪ unclear | 2026-11-04 |
-| [Apply](https://www.amazon.jobs/en/jobs/10596654/software-development-engineer-aws-experience-analytics) | Amazon | Software Development Engineer, AWS Experience Analytics | Seattle, Washington, USA | ⚪ unclear | 2026-11-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10597260/software-development-engineer-network-monitoring-and-remediation-nmr) | Amazon | Software Development Engineer, Network Monitoring and Remediation (NMR) | Seattle, Washington, USA | ⚪ unclear | 2026-11-04 |
 | [Apply](https://www.amazon.jobs/en/jobs/10595981/software-development-engineer-sponsored-products-and-brands) | Amazon | Software Development Engineer, Sponsored Products and Brands | New York, New York, USA | ⚪ unclear | 2026-11-03 |
 | [Apply](https://www.amazon.jobs/en/jobs/10594846/software-development-engineer-infrastructure-security) | Amazon | Software Development Engineer, Infrastructure Security | Minneapolis, Minnesota, USA | ⚪ unclear | 2026-11-02 |
@@ -299,12 +297,12 @@ _Last updated: **2026-11-15 15:48 UTC** (2026-11-15 23:48 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 350
-- **Recommended (not disqualified):** 278
+- **Active jobs tracked:** 347
+- **Recommended (not disqualified):** 276
 - **Companies checked successfully:** 30
 - **Failed sources:** 1
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 159, possible: 115, low priority: 0
+- Matches — excellent: 4, strong: 158, possible: 114, low priority: 0
 
 ## Source problems
 
