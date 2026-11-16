@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-16 00:10 UTC** (2026-11-16 08:10 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-16 10:01 UTC** (2026-11-16 18:01 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -244,7 +244,6 @@ _Last updated: **2026-11-16 00:10 UTC** (2026-11-16 08:10 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10597835/software-development-engineer-kinesis-data-streams) | Amazon | Software Development Engineer, Kinesis Data Streams | Seattle, Washington, USA | ⚪ unclear | 2026-11-05 |
 | [Apply](https://careers.qualcomm.com/careers/job/446721948679) | Qualcomm | Cellular Technologies Software Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-11-03 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274922421821) | PayPal | Data Scientist | San Jose, California, United States of America | ⚪ unclear | 2026-11-03 |
-| [Apply](https://careers.qualcomm.com/careers/job/446721635150) | Qualcomm | Software Engineer - Camera | San Diego, California, United States of America | ⚪ unclear | 2026-10-19 |
 | [Apply](https://www.optiver.com/join-us/jobs/8875482002/?gh_jid=8875482002) | Optiver | Software Engineer - Agentic SDLC | New York, New York | ⚪ unclear | 2026-10-08 |
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8230509) | DRW | AI Inference Platform Engineer | Chicago | ⚪ unclear | 2026-09-29 |
 | [Apply](https://careers.qualcomm.com/careers/job/446717859953) | Qualcomm | Machine Learning Engineer - College Graduate | San Diego, California, United States of America | ⚪ unclear | 2026-09-17 |
@@ -298,19 +297,30 @@ _Last updated: **2026-11-16 00:10 UTC** (2026-11-16 08:10 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 348
-- **Recommended (not disqualified):** 277
-- **Companies checked successfully:** 29
-- **Failed sources:** 2
+- **Active jobs tracked:** 347
+- **Recommended (not disqualified):** 276
+- **Companies checked successfully:** 18
+- **Failed sources:** 13
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 155, possible: 118, low priority: 0
+- Matches — excellent: 4, strong: 155, possible: 117, low priority: 0
 
 ## Source problems
 
 | Company | Status | Category | Detail |
 | --- | --- | --- | --- |
+| NVIDIA | failed | network_error | request failed after 3 attempts: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs (HTTP 429 for https://n… |
 | Uber | failed | network_error | HTTP 404 for https://www.uber.com/api/loadSearchJobsResults?localeCode=en |
 | Salesforce | failed | network_error | request failed after 3 attempts: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (HTTP 429 for http… |
+| Adobe | failed | network_error | request failed after 3 attempts: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs (HTTP 429 for https://adobe.w… |
+| Workday | failed | network_error | request failed after 3 attempts: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs (HTTP 429 for https://workday.wd5.mywo… |
+| Intel | failed | network_error | request failed after 3 attempts: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs (HTTP 429 for https://intel.wd1.myworkday… |
+| Broadcom | failed | network_error | request failed after 3 attempts: https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs (HTTP 429 for https://broadc… |
+| Marvell | failed | network_error | request failed after 3 attempts: https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs (HTTP 429 for https://marvell.w… |
+| Micron | failed | network_error | request failed after 3 attempts: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs (HTTP 429 for https://micron.wd1.mywork… |
+| Applied Materials | failed | network_error | request failed after 3 attempts: https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs (HTTP 429 for https://amat.wd1.myworkdayjob… |
+| KLA | failed | network_error | request failed after 3 attempts: https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs (HTTP 429 for https://kla.wd1.myworkdayjobs.com… |
+| Cadence | failed | network_error | request failed after 3 attempts: https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs (HTTP 429 for https://cadence… |
+| Mastercard | failed | network_error | request failed after 3 attempts: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs (HTTP 429 for https://m… |
 | Google | skipped | unsupported | UNRESOLVED (2026-07-12): the former careers.google.com/api/v3/search API returns 404; current site has no public JSON API. Check manually. |
 | Meta | skipped | unsupported | UNRESOLVED: metacareers.com uses an authenticated GraphQL endpoint; no stable public JSON source. Check manually. |
 | Apple | skipped | unsupported | UNRESOLVED: jobs.apple.com search API requires per-session CSRF tokens; not collected responsibly without a browser session. Check manually. |
