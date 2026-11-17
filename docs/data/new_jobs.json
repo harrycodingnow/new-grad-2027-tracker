@@ -1,5 +1,48 @@
 {
-  "generated_at": "2026-11-17T10:58:00Z",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-11-17T17:46:02Z",
+  "count": 1,
+  "jobs": [
+    {
+      "job_id": "amazon-10607008",
+      "source_job_id": "10607008",
+      "company": "Amazon",
+      "title": "Data Engineer, Applied AI Solutions",
+      "location": "Seattle, Washington, USA",
+      "country": "United States",
+      "workplace_type": "",
+      "department": "Data Science",
+      "employment_type": "full-time",
+      "description": "The newest business group in AWS, Applied AI Solutions are built by AWS and AWS Partners to deliver applied AI solutions that leverage Amazon’s operational expertise and that businesses love and trust for their day-to-day success. Our ambition is to become a partner which companies can rely on to run their business every day, putting AI to work delivering better customer experience, operational excellence and speed. We are seeking a Data Engineer to design, build and maintain our next-generation data infrastructure - one that seamlessly serves both human analysts and AI systems. This role sits at the intersection of traditional enterprise data warehousing and innovative AI technologies, requiring someone who can bridge these worlds to create a unified, future-proof data ecosystem. As a key member of our data team, you'll collaborate across organizational boundaries with data scientists, engineers, analytics teams, and business stakeholders to develop innovative and scalable solutions that push the boundaries of what's possible with our data assets. You'll be responsible for ensuring our datasets maintain the highest levels of accuracy, consistency, and observability - implementing comprehensive monitoring, lineage tracking, and self-healing mechanisms that maintain data quality at scale. Your infrastructure will support both analysts / scientists and autonomous AI agents with equal effectiveness, requiring thoughtful interfaces, documentation, and metadata that serve both audiences. In this role, you'll champion a forward-thinking approach to data infrastructure that anticipates the evolving needs of AI systems while maintaining the reliability and performance that business operations demand. You'll help shape our technical roadmap for data systems that will serve as the foundation for our organization's AI transformation journey. Key job responsibilities - 5+ years of data engineering, building and operating production pipelines and warehouses. - Experience building data infrastructure that serves AI systems and autonomous agents, not just human analysts, including machine-consumable interfaces, metadata, and documentation. - Experience with GenAI data patterns end to end: chunking, embeddings, and vector stores for retrieval-augmented generation. - Experience building and maintaining datasets and feature pipelines for ML/GenAI training, fine-tuning, and inference (Amazon SageMaker, Bedrock, or equivalent). - Experience implementing data quality, lineage, and observability that AI workloads depend on including validation, freshness/anomaly monitoring, and alerting at scale. - 5+ years of Python (or Scala/Java) and advanced SQL, including performance tuning at scale. - Experience with batch and streaming ETL/ELT on AWS (Glue, EMR/Spark, S3, Athena) and a production cloud data warehouse (Amazon Redshift or equivalent). - Experience designing data models and schemas for analytical, operational, and AI/retrieval workloads. - Experience with workflow orchestration (Step Functions, Airflow, or Glue Workflows). - 3+ years of data engineering experience - 1+ years of developing and operating large-scale data structures for business intelligence analytics using data modeling experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Information Systems, Mathematics, or a related field - Experience with data modeling, warehousing and building ETL pipelines - Experience building data infrastructure that serves AI systems and autonomous agents, not just human analysts, including machine-consumable interfaces, metadata, and documentation. - Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions - Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases) - Experience with GenAI data patterns end to end: chunking, embeddings, and vector stores for retrieval-augmented generation. - Experience building and maintaining datasets and feature pipelines for ML/GenAI training, fine-tuning, and inference (Amazon SageMaker, Bedrock, or equivalent). - Experience implementing data quality, lineage, and observability that AI workloads depend on including validation, freshness/anomaly monitoring, and alerting at scale. Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, WA, Seattle - 132,100.00 - 178,800.00 USD annually",
+      "requirements": "- 3+ years of data engineering experience - 1+ years of developing and operating large-scale data structures for business intelligence analytics using data modeling experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Information Systems, Mathematics, or a related field - Experience with data modeling, warehousing and building ETL pipelines - Experience building data infrastructure that serves AI systems and autonomous agents, not just human analysts, including machine-consumable interfaces, metadata, and documentation.",
+      "application_url": "https://www.amazon.jobs/en/jobs/10607008/data-engineer-applied-ai-solutions",
+      "source_url": "https://www.amazon.jobs/en/jobs/10607008/data-engineer-applied-ai-solutions",
+      "source_type": "json",
+      "date_posted": "2026-11-17",
+      "first_seen": "2026-11-17T17:45:59Z",
+      "last_seen": "2026-11-17T17:45:59Z",
+      "status": "active",
+      "graduation_match": "unspecified",
+      "role_match_score": 95,
+      "sponsorship_classification": "unclear",
+      "sponsorship_evidence": "",
+      "international_student_risk_flags": [],
+      "overall_score": 72,
+      "matched_keywords": [
+        "ai",
+        "aws",
+        "cloud",
+        "data engineer",
+        "etl",
+        "python",
+        "retrieval-augmented",
+        "sql"
+      ],
+      "excluded_keywords": [],
+      "score_explanation": "role 33/35 (primary role match (Data Engineer); skills: python, sql, cloud, aws, ai, retrieval-augmented) · graduation 8/20 (unspecified) · sponsorship 11/25 (unclear) · location 10/10 (Seattle, Washington, USA) · recency 10/10 (posted 0d ago) · graduation note: no graduation year stated; assumed open to upcoming grads",
+      "disqualified": false,
+      "disqualify_reason": "",
+      "consecutive_missing": 0,
+      "announced": true
+    }
+  ]
 }
