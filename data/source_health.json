@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-19T10:36:38Z",
+  "generated_at": "2026-11-19T17:32:22Z",
   "sources": [
     {
       "company": "Adobe",
       "source_type": "workday",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T01:55:38Z",
-      "status": "failed",
-      "jobs_fetched": 0,
-      "error_category": "network_error",
-      "error_message": "request failed after 3 attempts: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs (HTTP 429 for https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs)",
-      "consecutive_failures": 1
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
+      "status": "ok",
+      "jobs_fetched": 73,
+      "error_category": "ok",
+      "error_message": "",
+      "consecutive_failures": 0
     },
     {
       "company": "Amazon",
       "source_type": "json",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
-      "jobs_fetched": 460,
+      "jobs_fetched": 463,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -26,7 +26,7 @@
     {
       "company": "AMD",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -37,7 +37,7 @@
     {
       "company": "Apple",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -48,18 +48,18 @@
     {
       "company": "Applied Materials",
       "source_type": "workday",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "2026-11-16T00:03:45Z",
       "status": "failed",
       "jobs_fetched": 0,
       "error_category": "network_error",
       "error_message": "request failed after 3 attempts: https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs (HTTP 429 for https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs)",
-      "consecutive_failures": 13
+      "consecutive_failures": 14
     },
     {
       "company": "ASML",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -70,7 +70,7 @@
     {
       "company": "BlackRock",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -81,7 +81,7 @@
     {
       "company": "Bloomberg",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -92,29 +92,29 @@
     {
       "company": "Broadcom",
       "source_type": "workday",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "2026-11-18T22:01:25Z",
       "status": "failed",
       "jobs_fetched": 0,
       "error_category": "network_error",
       "error_message": "request failed after 3 attempts: https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs (HTTP 429 for https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs)",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "company": "Cadence",
       "source_type": "workday",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "2026-11-16T00:03:45Z",
       "status": "failed",
       "jobs_fetched": 0,
       "error_category": "network_error",
       "error_message": "request failed after 3 attempts: https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs (HTTP 429 for https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs)",
-      "consecutive_failures": 13
+      "consecutive_failures": 14
     },
     {
       "company": "Cisco",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -125,7 +125,7 @@
     {
       "company": "Citadel",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -136,10 +136,10 @@
     {
       "company": "Cloudflare",
       "source_type": "greenhouse",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
-      "jobs_fetched": 496,
+      "jobs_fetched": 498,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -147,8 +147,8 @@
     {
       "company": "Confluent",
       "source_type": "ashby",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok_empty",
       "jobs_fetched": 0,
       "error_category": "ok_empty",
@@ -158,10 +158,10 @@
     {
       "company": "Databricks",
       "source_type": "greenhouse",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
-      "jobs_fetched": 906,
+      "jobs_fetched": 901,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -169,10 +169,10 @@
     {
       "company": "DRW",
       "source_type": "greenhouse",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
-      "jobs_fetched": 152,
+      "jobs_fetched": 153,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -180,7 +180,7 @@
     {
       "company": "Goldman Sachs",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -191,7 +191,7 @@
     {
       "company": "Google",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -202,8 +202,8 @@
     {
       "company": "Hudson River Trading",
       "source_type": "greenhouse",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
       "jobs_fetched": 87,
       "error_category": "ok",
@@ -213,10 +213,10 @@
     {
       "company": "IMC",
       "source_type": "greenhouse",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
-      "jobs_fetched": 154,
+      "jobs_fetched": 153,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -224,18 +224,18 @@
     {
       "company": "Intel",
       "source_type": "workday",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "2026-11-19T01:55:38Z",
       "status": "failed",
       "jobs_fetched": 0,
       "error_category": "network_error",
       "error_message": "request failed after 3 attempts: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs (HTTP 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs)",
-      "consecutive_failures": 1
+      "consecutive_failures": 2
     },
     {
       "company": "Intuit",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -246,8 +246,8 @@
     {
       "company": "Jane Street",
       "source_type": "json",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
       "jobs_fetched": 84,
       "error_category": "ok",
@@ -257,19 +257,19 @@
     {
       "company": "KLA",
       "source_type": "workday",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "2026-11-16T23:25:10Z",
       "status": "failed",
       "jobs_fetched": 0,
       "error_category": "network_error",
       "error_message": "request failed after 3 attempts: https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs (HTTP 429 for https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs)",
-      "consecutive_failures": 10
+      "consecutive_failures": 11
     },
     {
       "company": "Lam Research",
       "source_type": "eightfold",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
       "jobs_fetched": 275,
       "error_category": "ok",
@@ -279,7 +279,7 @@
     {
       "company": "LinkedIn",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -290,29 +290,29 @@
     {
       "company": "Marvell",
       "source_type": "workday",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "2026-11-16T00:03:45Z",
       "status": "failed",
       "jobs_fetched": 0,
       "error_category": "network_error",
       "error_message": "request failed after 3 attempts: https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs (HTTP 429 for https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs)",
-      "consecutive_failures": 13
+      "consecutive_failures": 14
     },
     {
       "company": "Mastercard",
       "source_type": "workday",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "2026-11-16T00:03:45Z",
       "status": "failed",
       "jobs_fetched": 0,
       "error_category": "network_error",
       "error_message": "request failed after 3 attempts: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs (HTTP 429 for https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs)",
-      "consecutive_failures": 13
+      "consecutive_failures": 14
     },
     {
       "company": "Meta",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -323,19 +323,19 @@
     {
       "company": "Micron",
       "source_type": "workday",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "2026-11-16T00:03:45Z",
       "status": "failed",
       "jobs_fetched": 0,
       "error_category": "network_error",
       "error_message": "request failed after 3 attempts: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs (HTTP 429 for https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs)",
-      "consecutive_failures": 13
+      "consecutive_failures": 14
     },
     {
       "company": "Microsoft",
       "source_type": "eightfold",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
       "jobs_fetched": 345,
       "error_category": "ok",
@@ -345,10 +345,10 @@
     {
       "company": "MongoDB",
       "source_type": "greenhouse",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
-      "jobs_fetched": 403,
+      "jobs_fetched": 408,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -356,10 +356,10 @@
     {
       "company": "Morgan Stanley",
       "source_type": "eightfold",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
-      "jobs_fetched": 126,
+      "jobs_fetched": 125,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -367,19 +367,19 @@
     {
       "company": "NVIDIA",
       "source_type": "workday",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "2026-11-16T00:03:45Z",
       "status": "failed",
       "jobs_fetched": 0,
       "error_category": "network_error",
       "error_message": "request failed after 3 attempts: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs (HTTP 429 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs)",
-      "consecutive_failures": 13
+      "consecutive_failures": 14
     },
     {
       "company": "Optiver",
       "source_type": "greenhouse",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
       "jobs_fetched": 148,
       "error_category": "ok",
@@ -389,10 +389,10 @@
     {
       "company": "Oracle",
       "source_type": "json",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
-      "jobs_fetched": 66,
+      "jobs_fetched": 63,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -400,8 +400,8 @@
     {
       "company": "PayPal",
       "source_type": "eightfold",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
       "jobs_fetched": 158,
       "error_category": "ok",
@@ -411,8 +411,8 @@
     {
       "company": "Qualcomm",
       "source_type": "eightfold",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
       "jobs_fetched": 348,
       "error_category": "ok",
@@ -422,18 +422,18 @@
     {
       "company": "Salesforce",
       "source_type": "workday",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "2026-11-15T19:48:42Z",
       "status": "failed",
       "jobs_fetched": 0,
       "error_category": "network_error",
       "error_message": "request failed after 3 attempts: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (HTTP 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs)",
-      "consecutive_failures": 14
+      "consecutive_failures": 15
     },
     {
       "company": "SAP",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -444,10 +444,10 @@
     {
       "company": "ServiceNow",
       "source_type": "json",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
-      "jobs_fetched": 263,
+      "jobs_fetched": 266,
       "error_category": "ok",
       "error_message": "",
       "consecutive_failures": 0
@@ -455,7 +455,7 @@
     {
       "company": "Snowflake",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -466,8 +466,8 @@
     {
       "company": "Stripe",
       "source_type": "greenhouse",
-      "last_attempt": "2026-11-19T10:30:07Z",
-      "last_success": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
+      "last_success": "2026-11-19T17:25:42Z",
       "status": "ok",
       "jobs_fetched": 782,
       "error_category": "ok",
@@ -477,7 +477,7 @@
     {
       "company": "Synopsys",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -488,7 +488,7 @@
     {
       "company": "TSMC",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -499,7 +499,7 @@
     {
       "company": "Two Sigma",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -510,18 +510,18 @@
     {
       "company": "Uber",
       "source_type": "json",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "2026-08-08T03:48:11Z",
       "status": "failed",
       "jobs_fetched": 0,
       "error_category": "network_error",
       "error_message": "HTTP 404 for https://www.uber.com/api/loadSearchJobsResults?localeCode=en",
-      "consecutive_failures": 412
+      "consecutive_failures": 413
     },
     {
       "company": "Visa",
       "source_type": "unresolved",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "",
       "status": "skipped",
       "jobs_fetched": 0,
@@ -532,13 +532,13 @@
     {
       "company": "Workday",
       "source_type": "workday",
-      "last_attempt": "2026-11-19T10:30:07Z",
+      "last_attempt": "2026-11-19T17:25:42Z",
       "last_success": "2026-11-19T01:55:38Z",
       "status": "failed",
       "jobs_fetched": 0,
       "error_category": "network_error",
       "error_message": "request failed after 3 attempts: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs (HTTP 429 for https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs)",
-      "consecutive_failures": 1
+      "consecutive_failures": 2
     }
   ]
 }
