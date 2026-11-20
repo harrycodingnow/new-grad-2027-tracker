@@ -1,9 +1,10 @@
 # Newly Discovered Jobs
 
-_Found in the run at **2026-11-20 10:22 UTC** — auto-generated._
+_Found in the run at **2026-11-20 17:06 UTC** — auto-generated._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
 | Apply | Company | Title | Location | Sponsorship | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Apply](https://careers.qualcomm.com/careers/job/446722230518) | Qualcomm | DSP Applications Software Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-11-19 |
+| [Apply](https://www.amazon.jobs/en/jobs/10610327/data-engineer-i) | Amazon | Data Engineer I | Bellevue, Washington, USA | ⚪ unclear | 2026-11-20 |
+| [Apply](https://www.amazon.jobs/en/jobs/10607195/software-development-engineer-agentic-ai) | Amazon | Software Development Engineer, Agentic AI | Seattle, Washington, USA | ⚪ unclear | 2026-11-20 |
