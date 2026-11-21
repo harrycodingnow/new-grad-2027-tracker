@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-21 16:18 UTC** (2026-11-22 00:18 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-21 20:40 UTC** (2026-11-22 04:40 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -125,7 +125,6 @@ _Last updated: **2026-11-21 16:18 UTC** (2026-11-22 00:18 Asia/Taipei) — auto-
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167807) | Hudson River Trading | Hardware Design Engineer - 2027 Grads | New York, NY, United States | ⚪ unclear | 2026-08-31 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845) | Hudson River Trading | Algorithm Developer (Quant Research & Trading) – 2027 PhDs | London, United Kingdom; New York, NY, United States; Singap… | ⚪ unclear | 2026-07-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10602674/software-development-engineer-special-projects) | Amazon | Software Development Engineer, Special Projects | Seattle, Washington, USA | ⚪ unclear | 2026-11-11 |
-| [Apply](https://www.amazon.jobs/en/jobs/10598928/software-development-engineer) | Amazon | Software Development Engineer | New York, New York, USA | ⚪ unclear | 2026-11-10 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274923067600) | PayPal | Software Engineer | San Jose, California, United States of America | ⚪ unclear | 2026-10-29 |
 | [Apply](https://www.amazon.jobs/en/jobs/10579596/data-engineer-robotics-delivery-and-packaging-innovation) | Amazon | Data Engineer, Robotics Delivery and Packaging Innovation | Bellevue, Washington, USA | ⚪ unclear | 2026-10-15 |
 | [Apply](https://www.amazon.jobs/en/jobs/10610630/data-engineer-central-infraops-analytics-team) | Amazon | Data Engineer, Central InfraOps Analytics Team | Seattle, Washington, USA | ⚪ unclear | 2026-11-20 |
@@ -179,7 +178,6 @@ _Last updated: **2026-11-21 16:18 UTC** (2026-11-22 00:18 Asia/Taipei) — auto-
 
 | Apply | Company | Title | Location | Sponsorship | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Apply](https://www.amazon.jobs/en/jobs/10601986/software-development-engineer-billing-data-services-billing-data-services) | Amazon | Software Development Engineer, Billing Data Services, Billing Data Services | Seattle, Washington, USA | ⚪ unclear | 2026-11-11 |
 | [Apply](https://www.amazon.jobs/en/jobs/10600458/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-11-09 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4974924101) | IMC | 2027 US Chess Academy Interest Form | Chicago, United States | ⚪ unclear | 2026-09-11 |
 | [Apply](https://careers.qualcomm.com/careers/job/446722250161) | Qualcomm | DSP Applications Software Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-11-20 |
@@ -272,12 +270,12 @@ _Last updated: **2026-11-21 16:18 UTC** (2026-11-22 00:18 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 320
-- **Recommended (not disqualified):** 251
-- **Companies checked successfully:** 20
-- **Failed sources:** 11
+- **Active jobs tracked:** 317
+- **Recommended (not disqualified):** 249
+- **Companies checked successfully:** 21
+- **Failed sources:** 10
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 2, strong: 159, possible: 90, low priority: 0
+- Matches — excellent: 2, strong: 158, possible: 89, low priority: 0
 
 ## Source problems
 
@@ -287,13 +285,12 @@ _Last updated: **2026-11-21 16:18 UTC** (2026-11-22 00:18 Asia/Taipei) — auto-
 | Uber | failed | network_error | HTTP 404 for https://www.uber.com/api/loadSearchJobsResults?localeCode=en |
 | Salesforce | failed | network_error | request failed after 3 attempts: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (HTTP 429 for http… |
 | Adobe | failed | network_error | request failed after 3 attempts: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs (HTTP 429 for https://adobe.w… |
-| Workday | failed | network_error | request failed after 3 attempts: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs (HTTP 429 for https://workday.wd5.mywo… |
 | Intel | failed | network_error | request failed after 3 attempts: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs (HTTP 429 for https://intel.wd1.myworkday… |
-| Broadcom | failed | network_error | request failed after 3 attempts: https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs (HTTP 429 for https://broadc… |
 | Marvell | failed | network_error | request failed after 3 attempts: https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs (HTTP 429 for https://marvell.w… |
 | Micron | failed | network_error | request failed after 3 attempts: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs (HTTP 429 for https://micron.wd1.mywork… |
 | Applied Materials | failed | network_error | request failed after 3 attempts: https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs (HTTP 429 for https://amat.wd1.myworkdayjob… |
 | KLA | failed | network_error | request failed after 3 attempts: https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs (HTTP 429 for https://kla.wd1.myworkdayjobs.com… |
+| Cadence | failed | network_error | request failed after 3 attempts: https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs (HTTP 429 for https://cadence… |
 | Google | skipped | unsupported | UNRESOLVED (2026-07-12): the former careers.google.com/api/v3/search API returns 404; current site has no public JSON API. Check manually. |
 | Meta | skipped | unsupported | UNRESOLVED: metacareers.com uses an authenticated GraphQL endpoint; no stable public JSON source. Check manually. |
 | Apple | skipped | unsupported | UNRESOLVED: jobs.apple.com search API requires per-session CSRF tokens; not collected responsibly without a browser session. Check manually. |
