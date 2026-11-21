@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-21 10:04 UTC** (2026-11-21 18:04 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-21 16:18 UTC** (2026-11-22 00:18 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -157,7 +157,6 @@ _Last updated: **2026-11-21 10:04 UTC** (2026-11-21 18:04 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10609661/software-development-engineer-autonomous-ai-security) | Amazon | Software Development Engineer, Autonomous AI Security | Seattle, Washington, USA | ⚪ unclear | 2026-11-19 |
 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7326870) | Hudson River Trading | AI Research Engineer | London, United Kingdom; New York, NY, United States | ⚪ unclear | 2026-11-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10607953/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-11-18 |
-| [Apply](https://www.amazon.jobs/en/jobs/10608802/robotics-software-development-engineer-fauna) | Amazon | Robotics Software Development Engineer, Fauna | New York, New York, USA | ⚪ unclear | 2026-11-18 |
 | [Apply](https://www.amazon.jobs/en/jobs/10607203/software-development-engineer-amazon-customer-service) | Amazon | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-11-17 |
 | [Apply](https://www.amazon.jobs/en/jobs/10607206/software-development-engineer-amazon-customer-service-ai-powered-content-solutions) | Amazon | Software Development Engineer, Amazon Customer Service AI powered Content Solutions | Seattle, Washington, USA | ⚪ unclear | 2026-11-17 |
 | [Apply](https://www.amazon.jobs/en/jobs/10607515/software-development-engineer-sponsored-products) | Amazon | Software Development Engineer, Sponsored Products | New York, New York, USA | ⚪ unclear | 2026-11-17 |
@@ -264,7 +263,6 @@ _Last updated: **2026-11-21 10:04 UTC** (2026-11-21 18:04 Asia/Taipei) — auto-
 | [Apply](https://stripe.com/jobs/search?gh_jid=8131144) | Stripe | Backend Engineer, Link | NYC, Sea, SF, Tor | ⚪ unclear | 2026-08-14 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) | Stripe | Software Engineer, Secure Devices | New York, New York | ⚪ unclear | 2026-06-05 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/7604415002/) | Jane Street | Software Engineer / Writer | NYC | ⚪ unclear | — |
-| [Apply](https://careers.qualcomm.com/careers/job/446718053531) | Qualcomm | DSP Applications Software Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-09-23 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719164923) | Qualcomm | Speech & Audio Research Engineer | San Diego, California, United States of America | ⚪ unclear | 2026-09-17 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8197135) | Stripe | Software Engineer, High Availability and Disaster Recovery | Seattle, WA | ⚪ unclear | 2026-09-14 |
 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8191392) | DRW | Cloud Engineer | Chicago | ⚪ unclear | 2026-09-10 |
@@ -274,12 +272,12 @@ _Last updated: **2026-11-21 10:04 UTC** (2026-11-21 18:04 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 324
-- **Recommended (not disqualified):** 253
-- **Companies checked successfully:** 18
-- **Failed sources:** 13
+- **Active jobs tracked:** 320
+- **Recommended (not disqualified):** 251
+- **Companies checked successfully:** 20
+- **Failed sources:** 11
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 2, strong: 160, possible: 91, low priority: 0
+- Matches — excellent: 2, strong: 159, possible: 90, low priority: 0
 
 ## Source problems
 
@@ -296,8 +294,6 @@ _Last updated: **2026-11-21 10:04 UTC** (2026-11-21 18:04 Asia/Taipei) — auto-
 | Micron | failed | network_error | request failed after 3 attempts: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs (HTTP 429 for https://micron.wd1.mywork… |
 | Applied Materials | failed | network_error | request failed after 3 attempts: https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs (HTTP 429 for https://amat.wd1.myworkdayjob… |
 | KLA | failed | network_error | request failed after 3 attempts: https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs (HTTP 429 for https://kla.wd1.myworkdayjobs.com… |
-| Cadence | failed | network_error | request failed after 3 attempts: https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs (HTTP 429 for https://cadence… |
-| Mastercard | failed | network_error | request failed after 3 attempts: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs (HTTP 429 for https://m… |
 | Google | skipped | unsupported | UNRESOLVED (2026-07-12): the former careers.google.com/api/v3/search API returns 404; current site has no public JSON API. Check manually. |
 | Meta | skipped | unsupported | UNRESOLVED: metacareers.com uses an authenticated GraphQL endpoint; no stable public JSON source. Check manually. |
 | Apple | skipped | unsupported | UNRESOLVED: jobs.apple.com search API requires per-session CSRF tokens; not collected responsibly without a browser session. Check manually. |
