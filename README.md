@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-22 00:38 UTC** (2026-11-22 08:38 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-22 10:02 UTC** (2026-11-22 18:02 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -272,8 +272,8 @@ _Last updated: **2026-11-22 00:38 UTC** (2026-11-22 08:38 Asia/Taipei) — auto-
 
 - **Active jobs tracked:** 317
 - **Recommended (not disqualified):** 249
-- **Companies checked successfully:** 19
-- **Failed sources:** 12
+- **Companies checked successfully:** 18
+- **Failed sources:** 13
 - **Unresolved/disabled sources:** 18
 - Matches — excellent: 2, strong: 157, possible: 90, low priority: 0
 
@@ -283,6 +283,7 @@ _Last updated: **2026-11-22 00:38 UTC** (2026-11-22 08:38 Asia/Taipei) — auto-
 | --- | --- | --- | --- |
 | NVIDIA | failed | network_error | request failed after 3 attempts: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs (HTTP 429 for https://n… |
 | Uber | failed | network_error | HTTP 404 for https://www.uber.com/api/loadSearchJobsResults?localeCode=en |
+| Salesforce | failed | network_error | request failed after 3 attempts: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (HTTP 429 for http… |
 | Adobe | failed | network_error | request failed after 3 attempts: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs (HTTP 429 for https://adobe.w… |
 | Workday | failed | network_error | request failed after 3 attempts: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs (HTTP 429 for https://workday.wd5.mywo… |
 | Intel | failed | network_error | request failed after 3 attempts: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs (HTTP 429 for https://intel.wd1.myworkday… |
