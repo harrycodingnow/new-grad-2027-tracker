@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-24 19:39 UTC** (2026-11-25 03:39 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-24 23:36 UTC** (2026-11-25 07:36 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -206,7 +206,6 @@ _Last updated: **2026-11-24 19:39 UTC** (2026-11-25 03:39 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10610208/embedded-software-engineer-fauna) | Amazon | Embedded Software Engineer , Fauna | New York, New York, USA | ⚪ unclear | 2026-11-20 |
 | [Apply](https://careers.qualcomm.com/careers/job/446722230518) | Qualcomm | DSP Applications Software Engineer | Austin, Texas, United States of America | ⚪ unclear | 2026-11-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10608278/software-development-engineer) | Amazon | Software Development Engineer | Bellevue, Washington, USA | ⚪ unclear | 2026-11-18 |
-| [Apply](https://www.amazon.jobs/en/jobs/10603476/software-development-engineer-last-mile-delivery-technology) | Amazon | Software Development Engineer, Last Mile Delivery Technology | Bellevue, Washington, USA | ⚪ unclear | 2026-11-13 |
 | [Apply](https://www.amazon.jobs/en/jobs/10605024/software-development-engineer-pv-ads-gem) | Amazon | Software Development Engineer, PV Ads GEM | Seattle, Washington, USA | ⚪ unclear | 2026-11-13 |
 | [Apply](https://www.optiver.com/join-us/jobs/8925970002/?gh_jid=8925970002) | Optiver | Software Engineer | Austin, Texas, United States | ⚪ unclear | 2026-10-30 |
 | [Apply](https://www.amazon.jobs/en/jobs/10583490/data-engineer-amazon-live-data-engineering-sciences-and-analytics-desa) | Amazon | Data Engineer, Amazon Live Data Engineering, Sciences and Analytics (DESA) | Seattle, Washington, USA | ⚪ unclear | 2026-10-19 |
@@ -278,12 +277,12 @@ _Last updated: **2026-11-24 19:39 UTC** (2026-11-25 03:39 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 323
-- **Recommended (not disqualified):** 257
+- **Active jobs tracked:** 319
+- **Recommended (not disqualified):** 256
 - **Companies checked successfully:** 18
 - **Failed sources:** 13
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 152, possible: 101, low priority: 0
+- Matches — excellent: 4, strong: 152, possible: 100, low priority: 0
 
 ## Source problems
 
