@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-25 03:43 UTC** (2026-11-25 11:43 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-25 11:35 UTC** (2026-11-25 19:35 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -159,7 +159,6 @@ _Last updated: **2026-11-25 03:43 UTC** (2026-11-25 11:43 Asia/Taipei) — auto-
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549794721569) | Morgan Stanley | Associate, Software Engineer | Alpharetta, Georgia, United States of America | ⚪ unclear | 2026-11-10 |
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549801018692) | Morgan Stanley | Equity Derivatives Pricing Platform Engineer | New York, New York, United States of America | ⚪ unclear | 2026-11-10 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8187574) | Stripe | Machine Learning Engineer, Transaction Risk | Seattle, New York City | ⚪ unclear | 2026-11-10 |
-| [Apply](https://www.amazon.jobs/en/jobs/10598228/software-development-engineer-aws-route-53-aws-route-53-frontier-resolver) | Amazon | Software Development Engineer, AWS Route 53, AWS Route 53 Frontier Resolver | Seattle, Washington, USA | ⚪ unclear | 2026-11-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10579730/data-engineer-amazon-prime) | Amazon | Data Engineer, Amazon Prime | Seattle, Washington, USA | ⚪ unclear | 2026-10-15 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) | IMC | Software Engineer, Early Career | Chicago, United States | ⚪ unclear | 2026-09-30 |
 
@@ -270,12 +269,12 @@ _Last updated: **2026-11-25 03:43 UTC** (2026-11-25 11:43 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 310
-- **Recommended (not disqualified):** 249
-- **Companies checked successfully:** 19
-- **Failed sources:** 12
+- **Active jobs tracked:** 309
+- **Recommended (not disqualified):** 248
+- **Companies checked successfully:** 18
+- **Failed sources:** 13
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 145, possible: 100, low priority: 0
+- Matches — excellent: 4, strong: 144, possible: 100, low priority: 0
 
 ## Source problems
 
@@ -287,6 +286,7 @@ _Last updated: **2026-11-25 03:43 UTC** (2026-11-25 11:43 Asia/Taipei) — auto-
 | Adobe | failed | network_error | request failed after 3 attempts: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs (HTTP 429 for https://adobe.w… |
 | Workday | failed | network_error | request failed after 3 attempts: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs (HTTP 429 for https://workday.wd5.mywo… |
 | Intel | failed | network_error | request failed after 3 attempts: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs (HTTP 429 for https://intel.wd1.myworkday… |
+| Broadcom | failed | network_error | request failed after 3 attempts: https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs (HTTP 429 for https://broadc… |
 | Marvell | failed | network_error | request failed after 3 attempts: https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs (HTTP 429 for https://marvell.w… |
 | Micron | failed | network_error | request failed after 3 attempts: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs (HTTP 429 for https://micron.wd1.mywork… |
 | Applied Materials | failed | network_error | request failed after 3 attempts: https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs (HTTP 429 for https://amat.wd1.myworkdayjob… |
