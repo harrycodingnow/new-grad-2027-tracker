@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-26 03:02 UTC** (2026-11-26 11:02 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-26 11:13 UTC** (2026-11-26 19:13 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -107,7 +107,6 @@ _Last updated: **2026-11-26 03:02 UTC** (2026-11-26 11:02 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10612129/robotics-software-engineer-data-center-robotics) | Amazon | Robotics Software Engineer, Data Center Robotics | Seattle, Washington, USA | ⚪ unclear | 2026-11-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10607195/software-development-engineer-agentic-ai) | Amazon | Software Development Engineer, Agentic AI | Seattle, Washington, USA | ⚪ unclear | 2026-11-20 |
 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594) | Micron | New College Grad - AI Innovation Research Engineer | San Jose, CA | ⚪ unclear | 2026-11-20 |
-| [Apply](https://www.amazon.jobs/en/jobs/10598937/software-development-engineer-aws-opensearch-opensearch-platform-team) | Amazon | Software Development Engineer - AWS OpenSearch, OpenSearch Platform Team | Santa Clara, California, USA | ⚪ unclear | 2026-11-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10607407/software-development-engineer-ads-ai-core-infra) | Amazon | Software Development Engineer, Ads AI Core Infra | Seattle, Washington, USA | ⚪ unclear | 2026-11-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10609666/software-development-engineer-neuron-developer-experiences-team) | Amazon | Software Development Engineer, Neuron Developer Experiences Team | Seattle, Washington, USA | ⚪ unclear | 2026-11-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10607759/software-development-engineer-luna-sips) | Amazon | Software Development Engineer, Luna SIPS | Seattle, Washington, USA | ⚪ unclear | 2026-11-18 |
@@ -177,7 +176,6 @@ _Last updated: **2026-11-26 03:02 UTC** (2026-11-26 11:02 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10574705/data-engineer-amazon-customer-service) | Amazon | Data Engineer , Amazon Customer Service | Seattle, Washington, USA | ⚪ unclear | 2026-10-09 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8144196) | Stripe | AI Engineer | Chicago | ⚪ unclear | 2026-10-07 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4974924101) | IMC | 2027 US Chess Academy Interest Form | Chicago, United States | ⚪ unclear | 2026-09-11 |
-| [Apply](https://www.amazon.jobs/en/jobs/10603491/software-development-engineer-opensearch-platform-team) | Amazon | Software Development Engineer, OpenSearch Platform Team | Santa Clara, California, USA | ⚪ unclear | 2026-11-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10614043/software-development-engineer-annapurna-labs-libnvme) | Amazon | Software Development Engineer, Annapurna Labs - LibNVMe | Cupertino, California, USA | ⚪ unclear | 2026-11-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10614341/software-development-engineer) | Amazon | Software Development Engineer | New York, New York, USA | ⚪ unclear | 2026-11-25 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8394936) | Stripe | Software Engineer, Experimental Projects | New York City | ⚪ unclear | 2026-11-24 |
@@ -271,11 +269,11 @@ _Last updated: **2026-11-26 03:02 UTC** (2026-11-26 11:02 Asia/Taipei) — auto-
 ## Summary
 
 - **Active jobs tracked:** 303
-- **Recommended (not disqualified):** 249
-- **Companies checked successfully:** 19
-- **Failed sources:** 12
+- **Recommended (not disqualified):** 247
+- **Companies checked successfully:** 18
+- **Failed sources:** 13
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 4, strong: 145, possible: 100, low priority: 0
+- Matches — excellent: 4, strong: 144, possible: 99, low priority: 0
 
 ## Source problems
 
@@ -291,6 +289,7 @@ _Last updated: **2026-11-26 03:02 UTC** (2026-11-26 11:02 Asia/Taipei) — auto-
 | Marvell | failed | network_error | request failed after 3 attempts: https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs (HTTP 429 for https://marvell.w… |
 | Micron | failed | network_error | request failed after 3 attempts: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs (HTTP 429 for https://micron.wd1.mywork… |
 | Applied Materials | failed | network_error | request failed after 3 attempts: https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs (HTTP 429 for https://amat.wd1.myworkdayjob… |
+| KLA | failed | network_error | request failed after 3 attempts: https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs (HTTP 429 for https://kla.wd1.myworkdayjobs.com… |
 | Cadence | failed | network_error | request failed after 3 attempts: https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs (HTTP 429 for https://cadence… |
 | Mastercard | failed | network_error | request failed after 3 attempts: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs (HTTP 429 for https://m… |
 | Google | skipped | unsupported | UNRESOLVED (2026-07-12): the former careers.google.com/api/v3/search API returns 404; current site has no public JSON API. Check manually. |
