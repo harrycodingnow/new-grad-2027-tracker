@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-26 11:13 UTC** (2026-11-26 19:13 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-26 18:34 UTC** (2026-11-27 02:34 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
