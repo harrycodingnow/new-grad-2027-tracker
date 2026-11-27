@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-27 18:21 UTC** (2026-11-28 02:21 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-27 22:51 UTC** (2026-11-28 06:51 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -78,6 +78,9 @@ _Last updated: **2026-11-27 18:21 UTC** (2026-11-28 02:21 Asia/Taipei) — auto-
 | [Apply](https://www.optiver.com/join-us/jobs/8451764002/?gh_jid=8451764002) | Optiver | Graduate Quantitative Researcher, PhD (2027 Start) | New York, New York | 🟡 possibly supported | 2026-09-23 |
 | [Apply](https://www.optiver.com/join-us/jobs/8451762002/?gh_jid=8451762002) | Optiver | Graduate Quantitative Researcher, PhD (2027 Start) | Chicago, Illinois, United States | 🟡 possibly supported | 2026-07-01 |
 | [Apply](https://www.optiver.com/join-us/jobs/8451763002/?gh_jid=8451763002) | Optiver | Graduate Quantitative Researcher, PhD (2027 Start) | Austin, Texas, United States | 🟡 possibly supported | 2026-07-01 |
+| [Apply](https://stripe.com/jobs/search?gh_jid=8421387) | Stripe | Software Engineer, Backend | South San Francisco, CA | ⚪ unclear | 2026-11-27 |
+| [Apply](https://stripe.com/jobs/search?gh_jid=8421434) | Stripe | Software Engineer | South San Francisco, CA | ⚪ unclear | 2026-11-27 |
+| [Apply](https://stripe.com/jobs/search?gh_jid=8421452) | Stripe | Software Engineer | South San Francisco, CA | ⚪ unclear | 2026-11-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10614480/software-development-engineer-amazon-quick) | Amazon | Software Development Engineer, Amazon Quick | Seattle, Washington, USA | ⚪ unclear | 2026-11-25 |
 | [Apply](https://www.amazon.jobs/en/jobs/10612303/software-development-engineer-data-communications-tech) | Amazon | Software Development Engineer, Data, Communications Tech | Seattle, Washington, USA | ⚪ unclear | 2026-11-24 |
 | [Apply](https://www.amazon.jobs/en/jobs/10611508/software-development-engineer) | Amazon | Software Development Engineer | Sunnyvale, California, USA | ⚪ unclear | 2026-11-23 |
@@ -222,6 +225,7 @@ _Last updated: **2026-11-27 18:21 UTC** (2026-11-28 02:21 Asia/Taipei) — auto-
 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002) | Databricks | AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus) | Maryland; Virginia; Washington, D.C. | ⚪ unclear | 2026-08-28 |
 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4945646101) | IMC | Data Engineer - Infrastructure | Chicago, United States | ⚪ unclear | 2026-08-05 |
 | [Apply](https://www.janestreet.com/join-jane-street/position/8229056002/) | Jane Street | Campus Recruiter, Machine Learning and Quantitative Research | NYC | ⚪ unclear | — |
+| [Apply](https://stripe.com/jobs/search?gh_jid=8421367) | Stripe | Software Engineer, Reporting Platform | New York, NY | ⚪ unclear | 2026-11-27 |
 | [Apply](https://paypal.eightfold.ai/careers/job/274922421821) | PayPal | Data Scientist | San Jose, California, United States of America | ⚪ unclear | 2026-11-18 |
 | [Apply](https://careers.qualcomm.com/careers/job/446719426158) | Qualcomm | #Software Engineer - Power and Limits Management | San Diego, California, United States of America | 🟡 possibly supported | 2026-09-21 |
 | [Apply](https://www.amazon.jobs/en/jobs/10605448/software-development-engineer-live-and-linear-catalog) | Amazon | Software Development Engineer, Live and Linear Catalog | Seattle, Washington, USA | ⚪ unclear | 2026-11-15 |
@@ -270,12 +274,12 @@ _Last updated: **2026-11-27 18:21 UTC** (2026-11-28 02:21 Asia/Taipei) — auto-
 
 ## Summary
 
-- **Active jobs tracked:** 303
-- **Recommended (not disqualified):** 249
-- **Companies checked successfully:** 20
-- **Failed sources:** 11
+- **Active jobs tracked:** 308
+- **Recommended (not disqualified):** 253
+- **Companies checked successfully:** 18
+- **Failed sources:** 13
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 3, strong: 141, possible: 105, low priority: 0
+- Matches — excellent: 3, strong: 144, possible: 106, low priority: 0
 
 ## Source problems
 
@@ -284,7 +288,9 @@ _Last updated: **2026-11-27 18:21 UTC** (2026-11-28 02:21 Asia/Taipei) — auto-
 | NVIDIA | failed | network_error | request failed after 3 attempts: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs (HTTP 429 for https://n… |
 | Uber | failed | network_error | HTTP 404 for https://www.uber.com/api/loadSearchJobsResults?localeCode=en |
 | Salesforce | failed | network_error | request failed after 3 attempts: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (HTTP 429 for http… |
+| Adobe | failed | network_error | request failed after 3 attempts: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs (HTTP 429 for https://adobe.w… |
 | Workday | failed | network_error | request failed after 3 attempts: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs (HTTP 429 for https://workday.wd5.mywo… |
+| Intel | failed | network_error | request failed after 3 attempts: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs (HTTP 429 for https://intel.wd1.myworkday… |
 | Broadcom | failed | network_error | request failed after 3 attempts: https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs (HTTP 429 for https://broadc… |
 | Marvell | failed | network_error | request failed after 3 attempts: https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs (HTTP 429 for https://marvell.w… |
 | Micron | failed | network_error | request failed after 3 attempts: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs (HTTP 429 for https://micron.wd1.mywork… |
