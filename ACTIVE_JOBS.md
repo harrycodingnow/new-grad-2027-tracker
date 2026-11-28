@@ -1,6 +1,6 @@
 # Active Job Matches
 
-_Last updated: **2026-11-28 02:56 UTC** (2026-11-28 10:56 Asia/Taipei) — auto-generated, do not edit._
+_Last updated: **2026-11-28 10:45 UTC** (2026-11-28 18:45 Asia/Taipei) — auto-generated, do not edit._
 
 > ⚠️ **Disclaimer:** sponsorship classification is an automated screening aid based on posting text. It is **not legal advice** and **not a guarantee of eligibility**. Always verify work-authorization requirements with the employer before applying.
 
@@ -77,6 +77,7 @@ _Last updated: **2026-11-28 02:56 UTC** (2026-11-28 10:56 Asia/Taipei) — auto-
 | [Apply](https://www.optiver.com/join-us/jobs/8451764002/?gh_jid=8451764002) | Optiver | Graduate Quantitative Researcher, PhD (2027 Start) | New York, New York | 🟡 possibly supported | 2026-09-23 |
 | [Apply](https://www.optiver.com/join-us/jobs/8451762002/?gh_jid=8451762002) | Optiver | Graduate Quantitative Researcher, PhD (2027 Start) | Chicago, Illinois, United States | 🟡 possibly supported | 2026-07-01 |
 | [Apply](https://www.optiver.com/join-us/jobs/8451763002/?gh_jid=8451763002) | Optiver | Graduate Quantitative Researcher, PhD (2027 Start) | Austin, Texas, United States | 🟡 possibly supported | 2026-07-01 |
+| [Apply](https://www.amazon.jobs/en/jobs/10616076/data-engineer-i-spiv-data-engineering) | Amazon | Data Engineer I, SPIV Data Engineering | Seattle, Washington, USA | ⚪ unclear | 2026-11-28 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8421387) | Stripe | Software Engineer, Backend | South San Francisco, CA | ⚪ unclear | 2026-11-27 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8421434) | Stripe | Software Engineer | South San Francisco, CA | ⚪ unclear | 2026-11-27 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8421452) | Stripe | Software Engineer | South San Francisco, CA | ⚪ unclear | 2026-11-27 |
@@ -84,8 +85,6 @@ _Last updated: **2026-11-28 02:56 UTC** (2026-11-28 10:56 Asia/Taipei) — auto-
 | [Apply](https://www.amazon.jobs/en/jobs/10612303/software-development-engineer-data-communications-tech) | Amazon | Software Development Engineer, Data, Communications Tech | Seattle, Washington, USA | ⚪ unclear | 2026-11-24 |
 | [Apply](https://www.amazon.jobs/en/jobs/10611508/software-development-engineer) | Amazon | Software Development Engineer | Sunnyvale, California, USA | ⚪ unclear | 2026-11-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10612037/software-development-engineer-aws-vulnerability-management-avm) | Amazon | Software Development Engineer, AWS Vulnerability Management (AVM) | Austin, Texas, USA | ⚪ unclear | 2026-11-23 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=8411927) | Stripe | Software Engineer, Data Warehouse Analytics | Seattle, WA | ⚪ unclear | 2026-11-23 |
-| [Apply](https://stripe.com/jobs/search?gh_jid=8411988) | Stripe | Software Engineer, Core Technology | South San Francisco, CA | ⚪ unclear | 2026-11-23 |
 | [Apply](https://www.amazon.jobs/en/jobs/10610327/data-engineer-i) | Amazon | Data Engineer I | Bellevue, Washington, USA | ⚪ unclear | 2026-11-20 |
 | [Apply](https://www.amazon.jobs/en/jobs/10609930/software-development-engineer-amazon-quick) | Amazon | Software Development Engineer, Amazon Quick | Seattle, Washington, USA | ⚪ unclear | 2026-11-19 |
 | [Apply](https://www.amazon.jobs/en/jobs/10608182/software-development-engineer-workshop-studio) | Amazon | Software Development Engineer, Workshop Studio | Austin, Texas, USA | ⚪ unclear | 2026-11-18 |
@@ -107,8 +106,8 @@ _Last updated: **2026-11-28 02:56 UTC** (2026-11-28 10:56 Asia/Taipei) — auto-
 | [Apply](https://morganstanley.eightfold.ai/careers/job/549800008226) | Morgan Stanley | Associate, Software Engineer | Alpharetta, Georgia, United States of America | ⚪ unclear | 2026-11-09 |
 | [Apply](https://www.amazon.jobs/en/jobs/10592334/data-engineer-ww-ops-finance-s-a) | Amazon | Data Engineer, WW Ops Finance S&A | Bellevue, Washington, USA | ⚪ unclear | 2026-10-29 |
 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Software-Development-Engineer_R168187-1) | Adobe | Software Development Engineer | New York | ⚪ unclear | 2026-10-28 |
-| [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Software-Firmware-Engineer---Early-Career_2604933) | Marvell | Software/Firmware Engineer - Early Career | Santa Clara, CA | ⚪ unclear | 2026-11-28 |
 | [Apply](https://stripe.com/jobs/search?gh_jid=8421091) | Stripe | Software Engineer, Backend | Seattle, WA | ⚪ unclear | 2026-11-27 |
+| [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Software-Firmware-Engineer---Early-Career_2604933) | Marvell | Software/Firmware Engineer - Early Career | Santa Clara, CA | ⚪ unclear | 2026-11-27 |
 | [Apply](https://www.amazon.jobs/en/jobs/10612795/embedded-software-engineer-annapurna-ml-software) | Amazon | Embedded Software Engineer, Annapurna Ml Software | Cupertino, California, USA | ⚪ unclear | 2026-11-24 |
 | [Apply](https://www.amazon.jobs/en/jobs/10613154/software-development-engineer-sde2-amazon-talent-evaluation) | Amazon | Software Development Engineer (SDE2), Amazon Talent Evaluation | Seattle, Washington, USA | ⚪ unclear | 2026-11-24 |
 | [Apply](https://www.amazon.jobs/en/jobs/10612129/robotics-software-engineer-data-center-robotics) | Amazon | Robotics Software Engineer, Data Center Robotics | Seattle, Washington, USA | ⚪ unclear | 2026-11-23 |
@@ -276,11 +275,11 @@ _Last updated: **2026-11-28 02:56 UTC** (2026-11-28 10:56 Asia/Taipei) — auto-
 ## Summary
 
 - **Active jobs tracked:** 309
-- **Recommended (not disqualified):** 254
+- **Recommended (not disqualified):** 253
 - **Companies checked successfully:** 19
 - **Failed sources:** 12
 - **Unresolved/disabled sources:** 18
-- Matches — excellent: 3, strong: 144, possible: 107, low priority: 0
+- Matches — excellent: 3, strong: 143, possible: 107, low priority: 0
 
 ## Source problems
 
